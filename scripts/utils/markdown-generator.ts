@@ -25,8 +25,15 @@ interface SortedPrompts {
   };
 }
 
+const MAX_PROMPTS_TO_DISPLAY = 200;
+
 export function generateMarkdown(data: SortedPrompts): string {
   const { featured, regular, stats } = data;
+
+  // 计算还能展示多少 regular prompts
+  const remainingSlots = MAX_PROMPTS_TO_DISPLAY - featured.length;
+  const displayedRegular = regular.slice(0, Math.max(0, remainingSlots));
+  const hiddenCount = regular.length - displayedRegular.length;
 
   let md = generateHeader();
   md += generateGalleryCTA();
@@ -34,7 +41,7 @@ export function generateMarkdown(data: SortedPrompts): string {
   md += generateWhatIs();
   md += generateStats(stats);
   md += generateFeaturedSection(featured);
-  md += generateAllPromptsSection(regular);
+  md += generateAllPromptsSection(displayedRegular, hiddenCount);
   md += generateContribute();
   md += generateFooter();
 
@@ -132,8 +139,8 @@ function generateFeaturedSection(featured: Prompt[]): string {
   return md;
 }
 
-function generateAllPromptsSection(regular: Prompt[]): string {
-  if (regular.length === 0) return '';
+function generateAllPromptsSection(regular: Prompt[], hiddenCount: number): string {
+  if (regular.length === 0 && hiddenCount === 0) return '';
 
   let md = `## 📋 All Prompts\n\n`;
   md += `> 📝 Sorted by publish date (newest first)\n\n`;
@@ -141,6 +148,23 @@ function generateAllPromptsSection(regular: Prompt[]): string {
   regular.forEach((prompt, index) => {
     md += generatePromptSection(prompt, index);
   });
+
+  // 如果有隐藏的内容，添加提示
+  if (hiddenCount > 0) {
+    md += `---\n\n`;
+    md += `## 📚 More Prompts Available\n\n`;
+    md += `<div align="center">\n\n`;
+    md += `### 🎯 ${hiddenCount} more prompts not shown here\n\n`;
+    md += `Due to GitHub's content length limitations, we can only display ${MAX_PROMPTS_TO_DISPLAY} prompts in this README.\n\n`;
+    md += `**👉 [View all ${regular.length + hiddenCount} prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**\n\n`;
+    md += `The gallery features:\n`;
+    md += `- ✨ Beautiful masonry grid layout\n`;
+    md += `- 🔍 Full-text search and filters\n`;
+    md += `- 🌍 16+ languages support\n`;
+    md += `- 📱 Mobile-optimized experience\n\n`;
+    md += `</div>\n\n`;
+    md += `---\n\n`;
+  }
 
   return md;
 }
