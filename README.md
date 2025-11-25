@@ -65,7 +65,7 @@ Why use our gallery?
 |--------|-------|
 | 📝 Total Prompts | **511** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Monday, November 24, 2025 at 4:25:45 AM UTC** |
+| 🔄 Last Updated | **Tuesday, November 25, 2025 at 8:15:36 AM UTC** |
 
 </div>
 
@@ -75,19 +75,19 @@ Why use our gallery?
 
 > ⭐ Hand-picked by our team for exceptional quality and creativity
 
-### No. 1: Chinese quote card with portrait and layout
+### No. 1: Wide quote card with portrait and Chinese/English customization
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Description
 
-Chinese prompt for a wide quote card featuring Steve Jobs, with specific layout, colors, and typography.
+A prompt for generating a wide quote card featuring a famous person’s portrait, with a brown background, light-gold serif quote text, and layout where text occupies two-thirds and the person one-third. The quote text and author are parameterized for reuse.
 
 #### 📝 Prompt
 
 ```
-一张宽的名人金句卡，棕色背景，衬线体浅金色 “保持饥饿, 保持愚蠢” 小字“——Steve Jobs”，文字前面带一个大的淡淡的引号，人物头像在左边，文字在右边，文字占画面比例2/3，人物占1/3，人物有点渐变过渡的感觉
+一张宽幅的名人金句卡，棕色背景，衬线体浅金色“{argument name="金句" default="保持饥饿，保持愚蠢"}”，小字“——{argument name="作者" default="Steve Jobs"}”，文字前面带一个大的淡淡的引号。人物头像在左边，文字在右边，文字占画面比例 2/3，人物占 1/3，人物有一点渐变过渡的感觉。
 ```
 
 #### 🖼️ Generated Images
@@ -95,25 +95,25 @@ Chinese prompt for a wide quote card featuring Steve Jobs, with specific layout,
 ##### Image 1
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBjQHbgAE3Yt_.jpg" width="700" alt="Chinese quote card with portrait and layout - Image 1">
+<img src="https://pbs.twimg.com/media/G6QBjQHbgAE3Yt_.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBiiracAInQ8z.jpg" width="700" alt="Chinese quote card with portrait and layout - Image 2">
+<img src="https://pbs.twimg.com/media/G6QBiiracAInQ8z.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBii_acAIRxKd.jpg" width="700" alt="Chinese quote card with portrait and layout - Image 3">
+<img src="https://pbs.twimg.com/media/G6QBii_acAIRxKd.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/G6QBikOaEAAmYkO.jpg" width="700" alt="Chinese quote card with portrait and layout - Image 4">
+<img src="https://pbs.twimg.com/media/G6QBikOaEAAmYkO.jpg" width="700" alt="Wide quote card with portrait and Chinese/English customization - Image 4">
 </div>
 
 #### 📌 Details
@@ -7573,6 +7573,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-24T04:25:45.905Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-25T08:15:37.052Z</sub>
 
 </div>
