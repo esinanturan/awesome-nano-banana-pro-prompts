@@ -75,6 +75,26 @@ async function main() {
       throw new Error('ISSUE_NUMBER not provided');
     }
 
+    // 获取 Issue 信息以检查标签
+    const issue = await octokit.issues.get({
+      owner: process.env.GITHUB_REPOSITORY?.split('/')[0] || '',
+      repo: process.env.GITHUB_REPOSITORY?.split('/')[1] || '',
+      issue_number: parseInt(issueNumber),
+    });
+
+    // 检查是否有 prompt-submission 标签
+    const hasPromptSubmissionLabel = issue.data.labels.some(
+      (label) => {
+        const labelName = typeof label === 'string' ? label : label.name;
+        return labelName === 'prompt-submission';
+      }
+    );
+
+    if (!hasPromptSubmissionLabel) {
+      console.log('⏭️ Skipping: Issue does not have "prompt-submission" label');
+      process.exit(0);
+    }
+
     console.log(`📋 Processing approved issue #${issueNumber}...`);
 
     const fields = await parseIssue(issueBody);
@@ -89,13 +109,6 @@ async function main() {
     const uploadedImages = await Promise.all(
       imageUrls.map(url => uploadImageToCMS(url))
     );
-
-    // 获取 Issue 创建时间
-    const issue = await octokit.issues.get({
-      owner: process.env.GITHUB_REPOSITORY?.split('/')[0] || '',
-      repo: process.env.GITHUB_REPOSITORY?.split('/')[1] || '',
-      issue_number: parseInt(issueNumber),
-    });
 
     console.log('📝 Creating prompt in CMS (no draft)...');
     const prompt = await createPrompt({
