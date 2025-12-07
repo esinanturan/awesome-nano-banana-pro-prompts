@@ -3,6 +3,9 @@ name: Sync Approved to CMS
 on:
   issues:
     types: [labeled]
+    # Note: 'labeled' event triggers on both open and closed issues
+    # This allows the workflow to run when 'approved' label is added
+    # even if the issue was closed after being reopened
 
 permissions:
   issues: write
@@ -10,8 +13,13 @@ permissions:
 
 jobs:
   sync:
-    # Only trigger when 'approved' label is added
-    if: github.event.label.name == 'approved'
+    # Only trigger when 'approved' label is added AND issue has 'prompt-submission' label
+    # Works for both open and closed issues
+    # Note: We check both conditions - the added label must be 'approved' 
+    # AND the issue must already have 'prompt-submission' label
+    if: |
+      github.event.label.name == 'approved' &&
+      contains(join(github.event.issue.labels.*.name, ' '), 'prompt-submission')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

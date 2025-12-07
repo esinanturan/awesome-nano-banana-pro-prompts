@@ -222,6 +222,43 @@ export function sortPrompts(prompts: Prompt[]) {
 }
 
 /**
+ * 根据 GitHub issue 编号查找已存在的 prompt
+ */
+export async function findPromptByGitHubIssue(
+  issueNumber: string
+): Promise<Prompt | null> {
+  const query = {
+    limit: 1,
+    depth: 2,
+    where: {
+      "sourceMeta.github_issue": {
+        equals: issueNumber,
+      },
+      model: {
+        equals: "nano-banana-pro",
+      },
+    },
+  };
+
+  const stringifiedQuery = stringify(query, { addQueryPrefix: true });
+  const url = `${CMS_HOST}/api/prompts${stringifiedQuery}`;
+
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `users API-Key ${CMS_API_KEY}`,
+      "Content-Type": "application/json",
+    },
+  });
+
+  if (!response.ok) {
+    throw new Error(`CMS API error: ${response.statusText}`);
+  }
+
+  const data = (await response.json()) as CMSResponse;
+  return data.docs.length > 0 ? data.docs[0] : null;
+}
+
+/**
  * 创建新 prompt（直接发布，无草稿）
  */
 export async function createPrompt(
@@ -242,6 +279,34 @@ export async function createPrompt(
     const errorText = await response.text();
     throw new Error(
       `Failed to create prompt: ${response.statusText} - ${errorText}`
+    );
+  }
+
+  return response.json() as Promise<Prompt | null>;
+}
+
+/**
+ * 更新已存在的 prompt
+ */
+export async function updatePrompt(
+  id: number,
+  data: Partial<Prompt>
+): Promise<Prompt | null> {
+  const url = `${CMS_HOST}/api/prompts/${id}`;
+
+  const response = await fetch(url, {
+    method: "PATCH",
+    headers: {
+      Authorization: `users API-Key ${CMS_API_KEY}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(data),
+  });
+
+  if (!response.ok) {
+    const errorText = await response.text();
+    throw new Error(
+      `Failed to update prompt: ${response.statusText} - ${errorText}`
     );
   }
 

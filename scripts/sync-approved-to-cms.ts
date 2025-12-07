@@ -1,6 +1,6 @@
 import 'dotenv/config';
 import { Octokit } from '@octokit/rest';
-import { createPrompt } from './utils/cms-client.js';
+import { createPrompt, findPromptByGitHubIssue, updatePrompt, type Prompt } from './utils/cms-client.js';
 import { uploadImageToCMS } from './utils/image-uploader.js';
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
@@ -110,8 +110,10 @@ async function main() {
       imageUrls.map(url => uploadImageToCMS(url))
     );
 
-    console.log('📝 Creating prompt in CMS (no draft)...');
-    const prompt = await createPrompt({
+    // 检查 CMS 中是否已经存在该 issue 的记录
+    const existingPrompt = await findPromptByGitHubIssue(issueNumber);
+    
+    const promptData = {
       title: fields.prompt_title || '',
       content: fields.prompt || '',
       description: fields.description || '',
@@ -126,19 +128,31 @@ async function main() {
       sourceMeta: {
         github_issue: issueNumber,
       },
-    });
+    };
 
-    console.log(`✅ Created prompt in CMS: ${prompt?.id}`);
+    let prompt: Prompt | null;
+    if (existingPrompt) {
+      console.log(`🔄 Updating existing prompt in CMS (ID: ${existingPrompt.id})...`);
+      prompt = await updatePrompt(existingPrompt.id, promptData);
+      console.log(`✅ Updated prompt in CMS: ${prompt?.id}`);
+    } else {
+      console.log('📝 Creating new prompt in CMS (no draft)...');
+      prompt = await createPrompt(promptData);
+      console.log(`✅ Created prompt in CMS: ${prompt?.id}`);
+    }
 
-    // Close the issue
-    await octokit.issues.update({
-      owner: process.env.GITHUB_REPOSITORY?.split('/')[0] || '',
-      repo: process.env.GITHUB_REPOSITORY?.split('/')[1] || '',
-      issue_number: parseInt(issueNumber),
-      state: 'closed',
-    });
-
-    console.log(`✅ Closed issue #${issueNumber}`);
+    // Close the issue if it's still open
+    if (issue.data.state === 'open') {
+      await octokit.issues.update({
+        owner: process.env.GITHUB_REPOSITORY?.split('/')[0] || '',
+        repo: process.env.GITHUB_REPOSITORY?.split('/')[1] || '',
+        issue_number: parseInt(issueNumber),
+        state: 'closed',
+      });
+      console.log(`✅ Closed issue #${issueNumber}`);
+    } else {
+      console.log(`ℹ️ Issue #${issueNumber} is already closed`);
+    }
 
   } catch (error) {
     console.error('❌ Error syncing approved issue:', error);
