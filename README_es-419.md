@@ -88,9 +88,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **680** |
-| ⭐ Destacado | **14** |
-| 🔄 Última actualización | **domingo, 7 de diciembre de 2025, 12:19:11 p.m. UTC** |
+| 📝 Total de prompts | **703** |
+| ⭐ Destacado | **12** |
+| 🔄 Última actualización | **domingo, 7 de diciembre de 2025, 4:13:05 p.m. UTC** |
 
 </div>
 
@@ -683,81 +683,730 @@ Una foto digital de baja resolución tomada con una Sony CyberShot de 2005. Un g
 
 ---
 
-### No. 13: Solicitud de generación de contenido para redes sociales de una marca de aceite de oliva
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-El tuit cita una solicitud en lenguaje natural que se le hizo a Gamma, la cual luego usó Nano Banana Pro, que puede reutilizarse como un *prompt* simple para generar un *feed* de redes sociales para una marca de aceite de oliva artesanal.
-
-#### 📝 Prompt
-
-```
-Crea un feed de redes sociales para {argument name="brand description" default="esta marca de aceite de oliva de producción limitada"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909159851_ahqsgd_AINoNNOpgxMpOVV7.jpg" width="700" alt="Solicitud de generación de contenido para redes sociales de una marca de aceite de oliva - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Bishal Nandi](https://x.com/LearnWithBishal)
-- **Fuente:** [Twitter Post](https://x.com/LearnWithBishal/status/1995876788657172902)
-- **Publicado:** 2 de diciembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20feed%20de%20redes%20sociales%20para%20%7Bargument%20name%3D%22brand%20description%22%20default%3D%22esta%20marca%20de%20aceite%20de%20oliva%20de%20producci%C3%B3n%20limitada%22%7D.)**
-
----
-
-### No. 14: Prompt para duplicar publicaciones de aceite de oliva en redes sociales
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Otro tuit que cita la misma solicitud para crear un feed de redes sociales para una marca de aceite de oliva de lotes pequeños, utilizable como texto o prompt de imagen de Nano Banana Pro junto con fotos de productos.
-
-#### 📝 Prompt
-
-```
-Crea un feed de redes sociales para {argument name="brand description" default="esta marca de aceite de oliva de producción limitada"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909156641_4jmcin_tOn80A78xv0O-eYb.jpg" width="700" alt="Prompt para duplicar publicaciones de aceite de oliva en redes sociales - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Mujeeb Ahmed](https://x.com/hey_mujeebahmed)
-- **Fuente:** [Twitter Post](https://x.com/hey_mujeebahmed/status/1995920209941856416)
-- **Publicado:** 2 de diciembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20feed%20de%20redes%20sociales%20para%20%7Bargument%20name%3D%22brand%20description%22%20default%3D%22esta%20marca%20de%20aceite%20de%20oliva%20de%20producci%C3%B3n%20limitada%22%7D.)**
-
----
-
 ## 📋 Todos los prompts
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: Marco de exhibición de obras de arte de cartón corrugado
+### No. 1: Prompt para la generación de pósteres publicitarios de Y!mobile
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt corto para que Nano Banana Pro cree un póster publicitario para Y!mobile. Especifica la relación de aspecto (16:9), el color dominante (el rojo característico de Y!mobile) y el contenido promocional específico sobre un plan de alquiler de 2 años por 24 yenes.
+
+#### 📝 Prompt
+
+```
+#Escena Crear un póster publicitario basado en el color rojo característico de Y!mobile.
+
+#Contenido {argument name="content" default="Nuevo Toku Suru Support alquiler por 2 años Pago total 24 yenes"}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122655963_txylks_G7hJLfRbUAA9h7j.png" width="600" alt="Prompt para la generación de pósteres publicitarios de Y!mobile - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [たまコイン＠発展途上国底辺FIRE民](https://x.com/tamacoin_tamao)
+- **Fuente:** [Twitter Post](https://x.com/tamacoin_tamao/status/1997426898406912416)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%23Escena%20Crear%20un%20p%C3%B3ster%20publicitario%20basado%20en%20el%20color%20rojo%20caracter%C3%ADstico%20de%20Y!mobile.%0A%0A%23Contenido%20%7Bargument%20name%3D%22content%22%20default%3D%22Nuevo%20Toku%20Suru%20Support%20alquiler%20por%202%20a%C3%B1os%20Pago%20total%2024%20yenes%22%7D)**
+
+---
+
+### No. 2: Prompt para selfie en el espejo fotorrealista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt detallado para generar una selfie de espejo fotorrealista de una mujer joven en un baño moderno, centrándose en una pose, atuendo y accesorios específicos, y asegurando que la imagen final se vea exactamente como una selfie de teléfono realista con reflejos precisos y texturas naturales.
+
+#### 📝 Prompt
+
+```
+Crea una selfi de espejo fotorrealista de una mujer joven sentada en el borde de un tocador de baño, ligeramente girada de lado mientras mira por encima del hombro hacia el espejo. Sostiene su teléfono con una mano para tomar la foto. Tiene el cabello rubio largo y ondulado, maquillaje natural y usa gafas grandes con montura transparente. Su atuendo es un vestido ajustado negro de manga corta que se ciñe a su cintura y caderas. Está adornada con joyas de oro sencillas, incluyendo pulseras y un anillo. El escenario es un baño moderno y minimalista con paredes de colores neutros claros, una ducha de vidrio, toallas dobladas, una encimera de mármol y una iluminación natural suave. La foto debe parecer exactamente una selfi de teléfono realista con reflejos precisos, detalles nítidos y textura de piel natural. Captura la misma pose, ángulo, encuadre, iluminación y estética general que la imagen de referencia al generar una recreación original.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122628982_t6h6co_G7hCE09bMAAmcO8.jpg" width="600" alt="Prompt para selfie en el espejo fotorrealista - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122630176_l8e0ip_G7hCE2iaIAAICjM.jpg" width="600" alt="Prompt para selfie en el espejo fotorrealista - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122631523_f0fxg3_G7hCE95acAAs15H.jpg" width="600" alt="Prompt para selfie en el espejo fotorrealista - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122632466_yiukpk_G7hCE6iacAAg-2S.jpg" width="600" alt="Prompt para selfie en el espejo fotorrealista - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Milova](https://x.com/milovaai)
+- **Fuente:** [Twitter Post](https://x.com/milovaai/status/1997419100256309430)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20una%20selfi%20de%20espejo%20fotorrealista%20de%20una%20mujer%20joven%20sentada%20en%20el%20borde%20de%20un%20tocador%20de%20ba%C3%B1o%2C%20ligeramente%20girada%20de%20lado%20mientras%20mira%20por%20encima%20del%20hombro%20hacia%20el%20espejo.%20Sostiene%20su%20tel%C3%A9fono%20con%20una%20mano%20para%20tomar%20la%20foto.%20Tiene%20el%20cabello%20rubio%20largo%20y%20ondulado%2C%20maquillaje%20natural%20y%20usa%20gafas%20grandes%20con%20montura%20transparente.%20Su%20atuendo%20es%20un%20vestido%20ajustado%20negro%20de%20manga%20corta%20que%20se%20ci%C3%B1e%20a%20su%20cintura%20y%20caderas.%20Est%C3%A1%20adornada%20con%20joyas%20de%20oro%20sencillas%2C%20incluyendo%20pulseras%20y%20un%20anillo.%20El%20escenario%20es%20un%20ba%C3%B1o%20moderno%20y%20minimalista%20con%20paredes%20de%20colores%20neutros%20claros%2C%20una%20ducha%20de%20vidrio%2C%20toallas%20dobladas%2C%20una%20encimera%20de%20m%C3%A1rmol%20y%20una%20iluminaci%C3%B3n%20natural%20suave.%20La%20foto%20debe%20parecer%20exactamente%20una%20selfi%20de%20tel%C3%A9fono%20realista%20con%20reflejos%20precisos%2C%20detalles%20n%C3%ADtidos%20y%20textura%20de%20piel%20natural.%20Captura%20la%20misma%20pose%2C%20%C3%A1ngulo%2C%20encuadre%2C%20iluminaci%C3%B3n%20y%20est%C3%A9tica%20general%20que%20la%20imagen%20de%20referencia%20al%20generar%20una%20recreaci%C3%B3n%20original.)**
+
+---
+
+### No. 3: Generador de diapositivas virales: Selfie con BMW rosa
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt JSON altamente estructurado que detalla la generación de una imagen fotorrealista para una presentación de diapositivas, presentando a una mujer joven tomándose una selfie junto a un BMW i8 rosa cromado, enfatizando la ropa, la pose, la expresión específicas y la estética de "energía de personaje principal".
+
+#### 📝 Prompt
+
+```
+{
+  "subject": {
+    "description": "Mujer joven tomándose una selfie junto a un BMW i8 rosa cromado, con una energía casual de personaje principal",
+    "setting_rules": "escena callejera, auto de lujo, telón de fondo urbano moderno",
+    "age": "principios de los 20",
+    "expression": {
+      "eyes": "enfocados en la pantalla del teléfono, tomándose una selfie, confianza casual",
+      "mouth": "relajada, suave, natural",
+      "brows": "relajadas, sin esfuerzo",
+      "overall": "despreocupada, con una energía de 'simplemente casualmente junto a un superdeportivo rosa'"
+    },
+    "hair": {
+      "color": "rubio platino",
+      "style": "suelto, cayendo por debajo de la gorra",
+      "details": "despeinado pero bonito, algunos mechones cayendo hacia adelante, ondas sin esfuerzo",
+      "length": "medio-largo, más allá de los hombros"
+    },
+    "body": {
+      "frame": "menuda, delgada, tonificada",
+      "waist": "muy pequeña, abdomen completamente expuesto",
+      "legs": "tonificadas, atléticas, completamente visibles",
+      "stance": "apoyada casualmente contra el auto, con el peso cambiado"
+    },
+    "pose": {
+      "position": "de pie junto a la puerta del conductor del auto, ligeramente apoyada en él",
+      "upper_body": {
+        "action": "un brazo LEVANTADO sosteniendo el teléfono para la selfie",
+        "phone_angle": "alto, posición clásica de selfie",
+        "other_arm": "relajado a un lado"
+      },
+      "lower_body": {
+        "stance": "una pierna recta, una ligeramente cruzada o doblada",
+        "weight": "apoyo casual, cadera cerca del auto",
+        "energy": "relajada pero consciente de los ángulos"
+      },
+      "overall": "la pose de 'me pillaron con este superdeportivo al azar' que definitivamente no es al azar"
+    },
+    "clothing": {
+      "top": {
+        "type": "camiseta corta ultra cropped",
+        "color": "AMARILLO brillante, amarillo sol",
+        "graphic": "estrella pequeña o gráfico lindo en el pecho (o logo de BANANA)",
+        "fit": {
+          "length": "corte EXTREMO - termina justo debajo del pecho, abdomen completamente expuesto",
+          "tightness": "ajustada, abrazando las curvas",
+          "sleeves": "mangas cortas, casual"
+        },
+        "effect": "todo el abdomen visible desde justo debajo del pecho hasta los shorts"
+      },
+      "bottom": {
+        "type": "shorts deportivos ultra mini",
+        "color": "BLANCO, blanco brillante y limpio",
+        "fit": {
+          "style": "shorts deportivos ajustados",
+          "length": "muy cortos, muslo superior",
+          "waist": "de tiro alto, a la altura de la cintura natural",
+          "effect": "muestra toda la longitud de la pierna, abraza las curvas"
+        },
+        "material": "tela deportiva elástica, suave"
+      },
+      "shoes": {
+        "type": "zapatillas blancas",
+        "style": "limpias, casuales, con un toque deportivo",
+        "effect": "completa el look deportivo y lindo"
+      }
+    },
+    "face": {
+      "features": "bonita, ojos grandes, nariz pequeña, labios suaves",
+      "makeup": "natural, mínimo, rostro fresco",
+      "expression": "enfocada en la selfie, bonita casual"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "gorra de béisbol",
+      "color": "NEGRO",
+      "style": "usada hacia adelante, clásica",
+      "logo": "pequeño pa"
+    }
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122630723_d3b5ie_G7g1VriWkAAhtan.jpg" width="600" alt="Generador de diapositivas virales: Selfie con BMW rosa - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [gauche](https://x.com/gaucheai)
+- **Fuente:** [Twitter Post](https://x.com/gaucheai/status/1997405140723323255)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22Mujer%20joven%20tom%C3%A1ndose%20una%20selfie%20junto%20a%20un%20BMW%20i8%20rosa%20cromado%2C%20con%20una%20energ%C3%ADa%20casual%20de%20personaje%20principal%22%2C%0A%20%20%20%20%22setting_rules%22%3A%20%22escena%20callejera%2C%20auto%20de%20lujo%2C%20tel%C3%B3n%20de%20fondo%20urbano%20moderno%22%2C%0A%20%20%20%20%22age%22%3A%20%22principios%20de%20los%2020%22%2C%0A%20%20%20%20%22expression%22%3A%20%7B%0A%20%20%20%20%20%20%22eyes%22%3A%20%22enfocados%20en%20la%20pantalla%20del%20tel%C3%A9fono%2C%20tom%C3%A1ndose%20una%20selfie%2C%20confianza%20casual%22%2C%0A%20%20%20%20%20%20%22mouth%22%3A%20%22relajada%2C%20suave%2C%20natural%22%2C%0A%20%20%20%20%20%20%22brows%22%3A%20%22relajadas%2C%20sin%20esfuerzo%22%2C%0A%20%20%20%20%20%20%22overall%22%3A%20%22despreocupada%2C%20con%20una%20energ%C3%ADa%20de%20'simplemente%20casualmente%20junto%20a%20un%20superdeportivo%20rosa'%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22rubio%20platino%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22suelto%2C%20cayendo%20por%20debajo%20de%20la%20gorra%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22despeinado%20pero%20bonito%2C%20algunos%20mechones%20cayendo%20hacia%20adelante%2C%20ondas%20sin%20esfuerzo%22%2C%0A%20%20%20%20%20%20%22length%22%3A%20%22medio-largo%2C%20m%C3%A1s%20all%C3%A1%20de%20los%20hombros%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22body%22%3A%20%7B%0A%20%20%20%20%20%20%22frame%22%3A%20%22menuda%2C%20delgada%2C%20tonificada%22%2C%0A%20%20%20%20%20%20%22waist%22%3A%20%22muy%20peque%C3%B1a%2C%20abdomen%20completamente%20expuesto%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22tonificadas%2C%20atl%C3%A9ticas%2C%20completamente%20visibles%22%2C%0A%20%20%20%20%20%20%22stance%22%3A%20%22apoyada%20casualmente%20contra%20el%20auto%2C%20con%20el%20peso%20cambiado%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22de%20pie%20junto%20a%20la%20puerta%20del%20conductor%20del%20auto%2C%20ligeramente%20apoyada%20en%20%C3%A9l%22%2C%0A%20%20%20%20%20%20%22upper_body%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22action%22%3A%20%22un%20brazo%20LEVANTADO%20sosteniendo%20el%20tel%C3%A9fono%20para%20la%20selfie%22%2C%0A%20%20%20%20%20%20%20%20%22phone_angle%22%3A%20%22alto%2C%20posici%C3%B3n%20cl%C3%A1sica%20de%20selfie%22%2C%0A%20%20%20%20%20%20%20%20%22other_arm%22%3A%20%22relajado%20a%20un%20lado%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22lower_body%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22stance%22%3A%20%22una%20pierna%20recta%2C%20una%20ligeramente%20cruzada%20o%20doblada%22%2C%0A%20%20%20%20%20%20%20%20%22weight%22%3A%20%22apoyo%20casual%2C%20cadera%20cerca%20del%20auto%22%2C%0A%20%20%20%20%20%20%20%20%22energy%22%3A%20%22relajada%20pero%20consciente%20de%20los%20%C3%A1ngulos%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22overall%22%3A%20%22la%20pose%20de%20'me%20pillaron%20con%20este%20superdeportivo%20al%20azar'%20que%20definitivamente%20no%20es%20al%20azar%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22camiseta%20corta%20ultra%20cropped%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22AMARILLO%20brillante%2C%20amarillo%20sol%22%2C%0A%20%20%20%20%20%20%20%20%22graphic%22%3A%20%22estrella%20peque%C3%B1a%20o%20gr%C3%A1fico%20lindo%20en%20el%20pecho%20(o%20logo%20de%20BANANA)%22%2C%0A%20%20%20%20%20%20%20%20%22fit%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22length%22%3A%20%22corte%20EXTREMO%20-%20termina%20justo%20debajo%20del%20pecho%2C%20abdomen%20completamente%20expuesto%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22tightness%22%3A%20%22ajustada%2C%20abrazando%20las%20curvas%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22sleeves%22%3A%20%22mangas%20cortas%2C%20casual%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%22effect%22%3A%20%22todo%20el%20abdomen%20visible%20desde%20justo%20debajo%20del%20pecho%20hasta%20los%20shorts%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22shorts%20deportivos%20ultra%20mini%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22BLANCO%2C%20blanco%20brillante%20y%20limpio%22%2C%0A%20%20%20%20%20%20%20%20%22fit%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22shorts%20deportivos%20ajustados%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22length%22%3A%20%22muy%20cortos%2C%20muslo%20superior%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22waist%22%3A%20%22de%20tiro%20alto%2C%20a%20la%20altura%20de%20la%20cintura%20natural%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22effect%22%3A%20%22muestra%20toda%20la%20longitud%20de%20la%20pierna%2C%20abraza%20las%20curvas%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22tela%20deportiva%20el%C3%A1stica%2C%20suave%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shoes%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22zapatillas%20blancas%22%2C%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22limpias%2C%20casuales%2C%20con%20un%20toque%20deportivo%22%2C%0A%20%20%20%20%20%20%20%20%22effect%22%3A%20%22completa%20el%20look%20deportivo%20y%20lindo%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22features%22%3A%20%22bonita%2C%20ojos%20grandes%2C%20nariz%20peque%C3%B1a%2C%20labios%20suaves%22%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22natural%2C%20m%C3%ADnimo%2C%20rostro%20fresco%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22enfocada%20en%20la%20selfie%2C%20bonita%20casual%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22gorra%20de%20b%C3%A9isbol%22%2C%0A%20%20%20%20%20%20%22color%22%3A%20%22NEGRO%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22usada%20hacia%20adelante%2C%20cl%C3%A1sica%22%2C%0A%20%20%20%20%20%20%22logo%22%3A%20%22peque%C3%B1o%20pa%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 4: Prompt para retrato con grano de película nocturno
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* de generación de imágenes para Nano Banana Pro que detalla una fotografía nocturna de una mujer joven sentada en una banca de concreto al aire libre. El *prompt* especifica su apariencia, vestimenta, accesorios y el entorno, enfatizando una iluminación de calle fuerte y cálida de color amarillo, sombras profundas, un fondo de campo de césped oscuro y una estética de textura de película granulada.
+
+#### 📝 Prompt
+
+```
+{
+  "prompt": "Fotografía nocturna de una mujer joven con cabello castaño largo sonriendo cálidamente a la cámara, sentada en una banca de concreto al aire libre. Viste un conjunto a juego de top tubo strapless acanalado blanco y minifalda con pequeños gráficos de estrellas negras, y un collar de cruz plateado. Un bolso de hombro negro está a su lado. La escena está iluminada por farolas fuertes de luz amarilla cálida, creando sombras profundas. El fondo es un campo de césped oscuro con casas suburbanas a la distancia bajo un cielo oscuro. Textura de película granulada.",
+  "negative_prompt": "luz del día, sol, cielo brillante, suave, foto de estudio, caricatura, anime, render 3d, pintura, anatomía defectuosa, extremidades deformes, borroso, baja resolución."
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122668590_r9xqk7_G7gztjsWgAESzmh.jpg" width="600" alt="Prompt para retrato con grano de película nocturno - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Selin Aydoğdu](https://x.com/aydogduselin34)
+- **Fuente:** [Twitter Post](https://x.com/aydogduselin34/status/1997404798312972636)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22prompt%22%3A%20%22Fotograf%C3%ADa%20nocturna%20de%20una%20mujer%20joven%20con%20cabello%20casta%C3%B1o%20largo%20sonriendo%20c%C3%A1lidamente%20a%20la%20c%C3%A1mara%2C%20sentada%20en%20una%20banca%20de%20concreto%20al%20aire%20libre.%20Viste%20un%20conjunto%20a%20juego%20de%20top%20tubo%20strapless%20acanalado%20blanco%20y%20minifalda%20con%20peque%C3%B1os%20gr%C3%A1ficos%20de%20estrellas%20negras%2C%20y%20un%20collar%20de%20cruz%20plateado.%20Un%20bolso%20de%20hombro%20negro%20est%C3%A1%20a%20su%20lado.%20La%20escena%20est%C3%A1%20iluminada%20por%20farolas%20fuertes%20de%20luz%20amarilla%20c%C3%A1lida%2C%20creando%20sombras%20profundas.%20El%20fondo%20es%20un%20campo%20de%20c%C3%A9sped%20oscuro%20con%20casas%20suburbanas%20a%20la%20distancia%20bajo%20un%20cielo%20oscuro.%20Textura%20de%20pel%C3%ADcula%20granulada.%22%2C%0A%20%20%22negative_prompt%22%3A%20%22luz%20del%20d%C3%ADa%2C%20sol%2C%20cielo%20brillante%2C%20suave%2C%20foto%20de%20estudio%2C%20caricatura%2C%20anime%2C%20render%203d%2C%20pintura%2C%20anatom%C3%ADa%20defectuosa%2C%20extremidades%20deformes%2C%20borroso%2C%20baja%20resoluci%C3%B3n.%22%0A%7D)**
+
+---
+
+### No. 5: Prompt para capturas de pantalla de videojuegos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Una instrucción simple que solicita la generación de una captura de pantalla de un videojuego ficticio titulado "Age of Nano Banana Pro".
+
+#### 📝 Prompt
+
+```
+Una captura de pantalla de un videojuego llamado age of nano banana pro
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122639239_ye8ddv_G7guIbaWYAAke6Q.jpg" width="600" alt="Prompt para capturas de pantalla de videojuegos - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Ceunde-AI](https://x.com/CeundeNL)
+- **Fuente:** [Twitter Post](https://x.com/CeundeNL/status/1997397161621799086)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20captura%20de%20pantalla%20de%20un%20videojuego%20llamado%20age%20of%20nano%20banana%20pro)**
+
+---
+
+### No. 6: Prompt para retrato tipo selfie en el espejo para Nano Banana Pro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* detallado de generación de imágenes diseñado para Nano Banana Pro, con el fin de crear un retrato tipo *selfie* en el espejo, suave e introspectivo. El *prompt* especifica los ángulos de la cámara, la iluminación, los detalles del sujeto (pose, expresión, vestimenta), el entorno y las características estéticas como la textura natural de la piel y una paleta de colores limpia, centrándose en un primer plano a la altura de los ojos a través del reflejo del espejo.
+
+#### 📝 Prompt
+
+```
+{
+  "image_generation": {
+    "face": {
+      "preserve_original": true,
+      "reference_match": true
+   },
+    "photo_style": {
+      "type": "retrato tipo selfie en espejo",
+      "camera_angle": "primer plano a plano medio, a la altura de los ojos a través del reflejo del espejo",
+      "lighting": "iluminación interior suave y cálida con bajo contraste",
+      "mood": "calmado, introspectivo, minimalista",
+      "texture": "textura de piel natural, sombras suaves, grano sutil",
+      "focus": "enfoque nítido en el sujeto y el reflejo del teléfono, fondo suavemente desenfocado"
+    },
+
+    "subject": {
+      "pose": "de pie en el interior, sosteniendo un smartphone para una selfie en el espejo, cabeza ligeramente girada hacia un lado",
+      "expression": "neutra, pensativa, relajada",
+      "hair": {
+        "style": "largo, liso a ligeramente ondulado, suelto",
+        "color": "castaño natural"
+      },
+      "clothing": {
+        "type": "ropa casual de interior",
+        "details": "camiseta holgada de color oscuro con un estilo minimalista"
+      },
+      "accessories": {
+        "phone": "smartphone visible en la mano con la interfaz de la cámara reflejada en el espejo"
+      }
+    },
+
+    "environment": {
+      "setting": "dormitorio o vestidor",
+      "background": "superficie de espejo, perchero, cajones, espacio interior suavemente iluminado",
+      "atmosphere": "ambiente interior tranquilo, personal, acogedor"
+    },
+
+    "aesthetic": {
+      "style": "selfie de estilo de vida natural",
+      "features": [
+        "composición de reflejo en espejo",
+        "iluminación ambiental interior suave",
+        "moda minimalista",
+        "ambiente casual cotidiano",
+        "paleta de colores neutros y limpios"
+      ]
+    }
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122666675_fq0ce8_G7gtZHybsAAQXBs.jpg" width="600" alt="Prompt para retrato tipo selfie en el espejo para Nano Banana Pro - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **Fuente:** [Twitter Post](https://x.com/saniaspeaks_/status/1997396354059104347)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_generation%22%3A%20%7B%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%0A%20%20%20%7D%2C%0A%20%20%20%20%22photo_style%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22retrato%20tipo%20selfie%20en%20espejo%22%2C%0A%20%20%20%20%20%20%22camera_angle%22%3A%20%22primer%20plano%20a%20plano%20medio%2C%20a%20la%20altura%20de%20los%20ojos%20a%20trav%C3%A9s%20del%20reflejo%20del%20espejo%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%22iluminaci%C3%B3n%20interior%20suave%20y%20c%C3%A1lida%20con%20bajo%20contraste%22%2C%0A%20%20%20%20%20%20%22mood%22%3A%20%22calmado%2C%20introspectivo%2C%20minimalista%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22textura%20de%20piel%20natural%2C%20sombras%20suaves%2C%20grano%20sutil%22%2C%0A%20%20%20%20%20%20%22focus%22%3A%20%22enfoque%20n%C3%ADtido%20en%20el%20sujeto%20y%20el%20reflejo%20del%20tel%C3%A9fono%2C%20fondo%20suavemente%20desenfocado%22%0A%20%20%20%20%7D%2C%0A%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22pose%22%3A%20%22de%20pie%20en%20el%20interior%2C%20sosteniendo%20un%20smartphone%20para%20una%20selfie%20en%20el%20espejo%2C%20cabeza%20ligeramente%20girada%20hacia%20un%20lado%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22neutra%2C%20pensativa%2C%20relajada%22%2C%0A%20%20%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22largo%2C%20liso%20a%20ligeramente%20ondulado%2C%20suelto%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22casta%C3%B1o%20natural%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22ropa%20casual%20de%20interior%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22camiseta%20holgada%20de%20color%20oscuro%20con%20un%20estilo%20minimalista%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22phone%22%3A%20%22smartphone%20visible%20en%20la%20mano%20con%20la%20interfaz%20de%20la%20c%C3%A1mara%20reflejada%20en%20el%20espejo%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22setting%22%3A%20%22dormitorio%20o%20vestidor%22%2C%0A%20%20%20%20%20%20%22background%22%3A%20%22superficie%20de%20espejo%2C%20perchero%2C%20cajones%2C%20espacio%20interior%20suavemente%20iluminado%22%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%22ambiente%20interior%20tranquilo%2C%20personal%2C%20acogedor%22%0A%20%20%20%20%7D%2C%0A%0A%20%20%20%20%22aesthetic%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22selfie%20de%20estilo%20de%20vida%20natural%22%2C%0A%20%20%20%20%20%20%22features%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22composici%C3%B3n%20de%20reflejo%20en%20espejo%22%2C%0A%20%20%20%20%20%20%20%20%22iluminaci%C3%B3n%20ambiental%20interior%20suave%22%2C%0A%20%20%20%20%20%20%20%20%22moda%20minimalista%22%2C%0A%20%20%20%20%20%20%20%20%22ambiente%20casual%20cotidiano%22%2C%0A%20%20%20%20%20%20%20%20%22paleta%20de%20colores%20neutros%20y%20limpios%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 7: Sugerencia para una selfi seductora en el sofá
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt JSON altamente estructurado para generar un retrato selfie realista y en primer plano de una mujer joven recostada en un sofá de terciopelo rosa, centrándose en una mirada seductora, un atuendo específico (crop top y pants deportivos) y usando audífonos inalámbricos rosas.
+
+#### 📝 Prompt
+
+```
+{
+  "metadata": {
+    "type": "selfie de retrato realista",
+    "resolution": "1200x1200px",
+    "aspect_ratio": "1:1"
+  },
+  "subject": {
+    "demographics": "Mujer joven, seductora, rostro delgado, piel clara resaltada",
+    "expression_and_gaze": "Expresión facial suave y uniforme, mirando directamente a la cámara con una mirada seductora",
+    "hair": "Negro natural, ligeramente despeinado, mechones cayendo sobre la frente y las mejillas",
+    "makeup": "Estilo natural, labios acentuados con lápiz labial rosa nude brillante, delineador de ojos ligero",
+    "details": "Uñas ligeramente pintadas"
+  },
+  "action_and_pose": {
+    "type": "Tomando una selfie",
+    "posture": "Acostada en un sofá, brazos extendidos hacia adelante sosteniendo la cámara como elemento principal",
+    "composition": "Perspectiva ligeramente baja, retrato en primer plano"
+  },
+  "attire_and_accessories": {
+    "clothing": {
+      "top": "Top corto ajustado de tirantes finos color rosa oscuro, escote en V pronunciado",
+      "bottoms": "Pantalones deportivos gris claro"
+    },
+    "accessories": {
+      "headphones": "Auriculares inalámbricos supraaurales Edifier WH700NB rosas puestos",
+      "jewelry": "Pequeño collar plateado con un dije, pequeña pulsera plateada con un dije"
+    },
+    "text_elements": {
+      "location": "Bordado en el top corto",
+      "content": "MUKIGO"
+    }
+  },
+  "environment": {
+    "location": "Interior de sala de estar",
+    "furniture": "Sofá Rosee de dos plazas tapizado en terciopelo rosa",
+    "background_elements": [
+      "Almohadas blancas en el sofá",
+      "Un libro en el sofá",
+      "Cortina opaca amarilla opaca doblada en la pared",
+      "Cortina transparente de color claro doblada en la pared"
+    ]
+  },
+  "lighting_and_atmosphere": {
+    "lighting": "Luz diurna, adecuada y natural",
+    "mood": "Sexy, misterioso, juguetón, animado, sensación de espontaneidad",
+    "color_scheme": "Minimalista"
+  },
+  "photography_style": {
+    "medium": "Fotografía con cámara digital, tomada digitalmente",
+    "realism": "Rostro 100% original, altamente realista, sin estética de edición",
+    "technical_effects": "Ligero desenfoque de movimiento en la parte superior de la cabeza y el cabello"
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122644072_7btdp6_G7gi6ttXIAAAZXH.jpg" width="600" alt="Sugerencia para una selfi seductora en el sofá - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122649911_i01vhl_G7gkvL0XIAAsFQG.jpg" width="600" alt="Sugerencia para una selfi seductora en el sofá - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122650312_m59dtr_G7gkvLyXMAAHTDS.jpg" width="600" alt="Sugerencia para una selfi seductora en el sofá - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122650533_a3zdii_G7gkvMhXUAE_O3e.jpg" width="600" alt="Sugerencia para una selfi seductora en el sofá - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [kiren yi](https://x.com/Kirenyi16)
+- **Fuente:** [Twitter Post](https://x.com/Kirenyi16/status/1997386842820260128)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22metadata%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22selfie%20de%20retrato%20realista%22%2C%0A%20%20%20%20%22resolution%22%3A%20%221200x1200px%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%221%3A1%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22Mujer%20joven%2C%20seductora%2C%20rostro%20delgado%2C%20piel%20clara%20resaltada%22%2C%0A%20%20%20%20%22expression_and_gaze%22%3A%20%22Expresi%C3%B3n%20facial%20suave%20y%20uniforme%2C%20mirando%20directamente%20a%20la%20c%C3%A1mara%20con%20una%20mirada%20seductora%22%2C%0A%20%20%20%20%22hair%22%3A%20%22Negro%20natural%2C%20ligeramente%20despeinado%2C%20mechones%20cayendo%20sobre%20la%20frente%20y%20las%20mejillas%22%2C%0A%20%20%20%20%22makeup%22%3A%20%22Estilo%20natural%2C%20labios%20acentuados%20con%20l%C3%A1piz%20labial%20rosa%20nude%20brillante%2C%20delineador%20de%20ojos%20ligero%22%2C%0A%20%20%20%20%22details%22%3A%20%22U%C3%B1as%20ligeramente%20pintadas%22%0A%20%20%7D%2C%0A%20%20%22action_and_pose%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22Tomando%20una%20selfie%22%2C%0A%20%20%20%20%22posture%22%3A%20%22Acostada%20en%20un%20sof%C3%A1%2C%20brazos%20extendidos%20hacia%20adelante%20sosteniendo%20la%20c%C3%A1mara%20como%20elemento%20principal%22%2C%0A%20%20%20%20%22composition%22%3A%20%22Perspectiva%20ligeramente%20baja%2C%20retrato%20en%20primer%20plano%22%0A%20%20%7D%2C%0A%20%20%22attire_and_accessories%22%3A%20%7B%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22Top%20corto%20ajustado%20de%20tirantes%20finos%20color%20rosa%20oscuro%2C%20escote%20en%20V%20pronunciado%22%2C%0A%20%20%20%20%20%20%22bottoms%22%3A%20%22Pantalones%20deportivos%20gris%20claro%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%20%20%22headphones%22%3A%20%22Auriculares%20inal%C3%A1mbricos%20supraaurales%20Edifier%20WH700NB%20rosas%20puestos%22%2C%0A%20%20%20%20%20%20%22jewelry%22%3A%20%22Peque%C3%B1o%20collar%20plateado%20con%20un%20dije%2C%20peque%C3%B1a%20pulsera%20plateada%20con%20un%20dije%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22text_elements%22%3A%20%7B%0A%20%20%20%20%20%20%22location%22%3A%20%22Bordado%20en%20el%20top%20corto%22%2C%0A%20%20%20%20%20%20%22content%22%3A%20%22MUKIGO%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22Interior%20de%20sala%20de%20estar%22%2C%0A%20%20%20%20%22furniture%22%3A%20%22Sof%C3%A1%20Rosee%20de%20dos%20plazas%20tapizado%20en%20terciopelo%20rosa%22%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22Almohadas%20blancas%20en%20el%20sof%C3%A1%22%2C%0A%20%20%20%20%20%20%22Un%20libro%20en%20el%20sof%C3%A1%22%2C%0A%20%20%20%20%20%20%22Cortina%20opaca%20amarilla%20opaca%20doblada%20en%20la%20pared%22%2C%0A%20%20%20%20%20%20%22Cortina%20transparente%20de%20color%20claro%20doblada%20en%20la%20pared%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22lighting_and_atmosphere%22%3A%20%7B%0A%20%20%20%20%22lighting%22%3A%20%22Luz%20diurna%2C%20adecuada%20y%20natural%22%2C%0A%20%20%20%20%22mood%22%3A%20%22Sexy%2C%20misterioso%2C%20juguet%C3%B3n%2C%20animado%2C%20sensaci%C3%B3n%20de%20espontaneidad%22%2C%0A%20%20%20%20%22color_scheme%22%3A%20%22Minimalista%22%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22medium%22%3A%20%22Fotograf%C3%ADa%20con%20c%C3%A1mara%20digital%2C%20tomada%20digitalmente%22%2C%0A%20%20%20%20%22realism%22%3A%20%22Rostro%20100%25%20original%2C%20altamente%20realista%2C%20sin%20est%C3%A9tica%20de%20edici%C3%B3n%22%2C%0A%20%20%20%20%22technical_effects%22%3A%20%22Ligero%20desenfoque%20de%20movimiento%20en%20la%20parte%20superior%20de%20la%20cabeza%20y%20el%20cabello%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 8: Estilo de prompt para la ventana gráfica 3D de Blender
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* diseñado para renderizar una imagen al estilo de la ventana gráfica 3D de Blender, específicamente usando el modo de sombreado sólido (Solid Shading) con superposición de *wireframe* (Wireframe Overlay), huesos de armadura visibles en vista de rayos X (X-Ray view), contornos de objetos (Object Outlines) y el suelo de cuadrícula del cursor 3D.
+
+#### 📝 Prompt
+
+```
+Renderiza esta imagen al estilo de un visor 3D de Blender, usando el modo de sombreado sólido con la superposición de estructura alámbrica habilitada. Incluye los huesos de la armadura visibles en vista de rayos X, los contornos de los objetos y la cuadrícula del suelo del cursor 3D.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122636257_qzoyim_G7giCjnX0AA77Cx.jpg" width="600" alt="Estilo de prompt para la ventana gráfica 3D de Blender - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122638674_82inxy_G7giDDPWIAA5Iux.jpg" width="600" alt="Estilo de prompt para la ventana gráfica 3D de Blender - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Herman](https://x.com/LatentHermy)
+- **Fuente:** [Twitter Post](https://x.com/LatentHermy/status/1997384318038241511)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Renderiza%20esta%20imagen%20al%20estilo%20de%20un%20visor%203D%20de%20Blender%2C%20usando%20el%20modo%20de%20sombreado%20s%C3%B3lido%20con%20la%20superposici%C3%B3n%20de%20estructura%20al%C3%A1mbrica%20habilitada.%20Incluye%20los%20huesos%20de%20la%20armadura%20visibles%20en%20vista%20de%20rayos%20X%2C%20los%20contornos%20de%20los%20objetos%20y%20la%20cuadr%C3%ADcula%20del%20suelo%20del%20cursor%203D.)**
+
+---
+
+### No. 9: Indicación de foto de influencer de viajes para Nano Banana Pro
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un *system prompt* integral diseñado para Nano Banana Pro, con el fin de generar fotos de viajes de alta calidad y dignas de volverse virales (como las que se ven en Instagram o TikTok) basándose en coordenadas GPS proporcionadas. Le indica a la IA que actúe como un *influencer* de viajes y director de arte de primer nivel, calculando ángulos óptimos, un estilo de moda complementario y una iluminación dramática (hora dorada/azul) para lograr una estética de "Wanderlust". El *prompt* utiliza las coordenadas de Santorini, Grecia, como ejemplo.
+
+#### 📝 Prompt
+
+```
+Eres un influencer de viajes y director de arte de talla mundial. Analiza el texto de entrada (latitud y longitud) proporcionado al final y genera una foto de viaje abrumadoramente impresionante, capaz de ganar "100,000 me gusta" en Instagram o TikTok.
+
+El personaje de la imagen de referencia adjunta aparecerá como el viajero admirado.
+
+▼ Instrucciones para el proceso de generación (proceso de pensamiento)
+Utiliza las capacidades de razonamiento de Nano Banana Pro para resolver la siguiente ecuación de "atractivo estético" antes de dibujar:
+
+1. [Paso 1: Identificación de ubicaciones y ángulos estéticamente agradables]:
+   - Identifica la ubicación a partir de las coordenadas de entrada y selecciona los "lugares para fotos" y las "composiciones icónicas" más populares en las redes sociales.
+   - Calcula ángulos (como composiciones dinámicas con gran angular o vistas de dron) que enfaticen la escala o creen una narrativa al incluir a una persona, en lugar de solo una foto de paisaje.
+
+2. [Paso 2: Estilismo de moda con colores complementarios]:
+   - Analiza el color principal del fondo (por ejemplo, verde para un bosque, marrón para un desierto, azul para el mar) y selecciona ropa de moda en su "color complementario" (color opuesto) o colores de alto contraste.
+   - La ropa debe ser adecuada para el "clima local" mientras enfatiza la tendencia, como alta costura, estilo bohemio o streetwear de lujo.
+   - Incluye elementos (gafas de sol, sombreros, cámaras vintage, bebidas locales, etc.) para crear un look natural y sin esfuerzo.
+
+3. [Paso 3: Dirección de luz y color emocional]:
+   - Establece la hora del día en "Hora Dorada (luz dorada justo antes del atardecer)" u "Hora Azul (luz azul antes del amanecer)" para crear sombras dramáticas.
+   - Simula la gradación de color (corrección de color) para aplicar filtros populares en las redes sociales, como "Teal & Orange" o "Pastel Dream".
+
+▼ Especificación de diseño y estilo
+* Composición/Diseño: Desenfoca bellamente el fondo con poca profundidad de campo (Bokeh), o usa una lente gran angular (16 mm) para hacer que las extremidades se vean más largas mientras capturas el magnífico paisaje. Ten en cuenta la regla de los tercios.
+* Gusto: Una creación visual onírica pero vívida que evoca "Wanderlust" (un anhelo de viajar). Resolución 8k, fotografía estilo Unsplash.
+* Personaje: Mantén los rasgos faciales de la imagen de referencia mientras adoptas poses atractivas que atraigan al espectador, como una mirada pensativa directamente a la cámara o una sonrisa al voltear. Agrega movimiento mostrando el cabello ondeando al viento.
+* Texto: Coloca con estilo el nombre de la ubicación de forma sutil pero con la ortografía precisa en letreros u objetos dentro de la imagen (si es posible).
+
+▼ Texto de entrada
+Latitud y Longitud: {argument name="latitude and longitude" default="36.4618° N, 25.3753° E"}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122645268_w0dcu6_G7gRzOmbUAAP6qT.jpg" width="600" alt="Indicación de foto de influencer de viajes para Nano Banana Pro - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122644032_ovpww4_G7gRzOXbgAAB8UP.jpg" width="600" alt="Indicación de foto de influencer de viajes para Nano Banana Pro - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **Fuente:** [Twitter Post](https://x.com/hAru_mAki_ch/status/1997366281964781884)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Eres%20un%20influencer%20de%20viajes%20y%20director%20de%20arte%20de%20talla%20mundial.%20Analiza%20el%20texto%20de%20entrada%20(latitud%20y%20longitud)%20proporcionado%20al%20final%20y%20genera%20una%20foto%20de%20viaje%20abrumadoramente%20impresionante%2C%20capaz%20de%20ganar%20%22100%2C000%20me%20gusta%22%20en%20Instagram%20o%20TikTok.%0A%0AEl%20personaje%20de%20la%20imagen%20de%20referencia%20adjunta%20aparecer%C3%A1%20como%20el%20viajero%20admirado.%0A%0A%E2%96%BC%20Instrucciones%20para%20el%20proceso%20de%20generaci%C3%B3n%20(proceso%20de%20pensamiento)%0AUtiliza%20las%20capacidades%20de%20razonamiento%20de%20Nano%20Banana%20Pro%20para%20resolver%20la%20siguiente%20ecuaci%C3%B3n%20de%20%22atractivo%20est%C3%A9tico%22%20antes%20de%20dibujar%3A%0A%0A1.%20%5BPaso%201%3A%20Identificaci%C3%B3n%20de%20ubicaciones%20y%20%C3%A1ngulos%20est%C3%A9ticamente%20agradables%5D%3A%0A%20%20%20-%20Identifica%20la%20ubicaci%C3%B3n%20a%20partir%20de%20las%20coordenadas%20de%20entrada%20y%20selecciona%20los%20%22lugares%20para%20fotos%22%20y%20las%20%22composiciones%20ic%C3%B3nicas%22%20m%C3%A1s%20populares%20en%20las%20redes%20sociales.%0A%20%20%20-%20Calcula%20%C3%A1ngulos%20(como%20composiciones%20din%C3%A1micas%20con%20gran%20angular%20o%20vistas%20de%20dron)%20que%20enfaticen%20la%20escala%20o%20creen%20una%20narrativa%20al%20incluir%20a%20una%20persona%2C%20en%20lugar%20de%20solo%20una%20foto%20de%20paisaje.%0A%0A2.%20%5BPaso%202%3A%20Estilismo%20de%20moda%20con%20colores%20complementarios%5D%3A%0A%20%20%20-%20Analiza%20el%20color%20principal%20del%20fondo%20(por%20ejemplo%2C%20verde%20para%20un%20bosque%2C%20marr%C3%B3n%20para%20un%20desierto%2C%20azul%20para%20el%20mar)%20y%20selecciona%20ropa%20de%20moda%20en%20su%20%22color%20complementario%22%20(color%20opuesto)%20o%20colores%20de%20alto%20contraste.%0A%20%20%20-%20La%20ropa%20debe%20ser%20adecuada%20para%20el%20%22clima%20local%22%20mientras%20enfatiza%20la%20tendencia%2C%20como%20alta%20costura%2C%20estilo%20bohemio%20o%20streetwear%20de%20lujo.%0A%20%20%20-%20Incluye%20elementos%20(gafas%20de%20sol%2C%20sombreros%2C%20c%C3%A1maras%20vintage%2C%20bebidas%20locales%2C%20etc.)%20para%20crear%20un%20look%20natural%20y%20sin%20esfuerzo.%0A%0A3.%20%5BPaso%203%3A%20Direcci%C3%B3n%20de%20luz%20y%20color%20emocional%5D%3A%0A%20%20%20-%20Establece%20la%20hora%20del%20d%C3%ADa%20en%20%22Hora%20Dorada%20(luz%20dorada%20justo%20antes%20del%20atardecer)%22%20u%20%22Hora%20Azul%20(luz%20azul%20antes%20del%20amanecer)%22%20para%20crear%20sombras%20dram%C3%A1ticas.%0A%20%20%20-%20Simula%20la%20gradaci%C3%B3n%20de%20color%20(correcci%C3%B3n%20de%20color)%20para%20aplicar%20filtros%20populares%20en%20las%20redes%20sociales%2C%20como%20%22Teal%20%26%20Orange%22%20o%20%22Pastel%20Dream%22.%0A%0A%E2%96%BC%20Especificaci%C3%B3n%20de%20dise%C3%B1o%20y%20estilo%0A*%20Composici%C3%B3n%2FDise%C3%B1o%3A%20Desenfoca%20bellamente%20el%20fondo%20con%20poca%20profundidad%20de%20campo%20(Bokeh)%2C%20o%20usa%20una%20lente%20gran%20angular%20(16%20mm)%20para%20hacer%20que%20las%20extremidades%20se%20vean%20m%C3%A1s%20largas%20mientras%20capturas%20el%20magn%C3%ADfico%20paisaje.%20Ten%20en%20cuenta%20la%20regla%20de%20los%20tercios.%0A*%20Gusto%3A%20Una%20creaci%C3%B3n%20visual%20on%C3%ADrica%20pero%20v%C3%ADvida%20que%20evoca%20%22Wanderlust%22%20(un%20anhelo%20de%20viajar).%20Resoluci%C3%B3n%208k%2C%20fotograf%C3%ADa%20estilo%20Unsplash.%0A*%20Personaje%3A%20Mant%C3%A9n%20los%20rasgos%20faciales%20de%20la%20imagen%20de%20referencia%20mientras%20adoptas%20poses%20atractivas%20que%20atraigan%20al%20espectador%2C%20como%20una%20mirada%20pensativa%20directamente%20a%20la%20c%C3%A1mara%20o%20una%20sonrisa%20al%20voltear.%20Agrega%20movimiento%20mostrando%20el%20cabello%20ondeando%20al%20viento.%0A*%20Texto%3A%20Coloca%20con%20estilo%20el%20nombre%20de%20la%20ubicaci%C3%B3n%20de%20forma%20sutil%20pero%20con%20la%20ortograf%C3%ADa%20precisa%20en%20letreros%20u%20objetos%20dentro%20de%20la%20imagen%20(si%20es%20posible).%0A%0A%E2%96%BC%20Texto%20de%20entrada%0ALatitud%20y%20Longitud%3A%20%7Bargument%20name%3D%22latitude%20and%20longitude%22%20default%3D%2236.4618%C2%B0%20N%2C%2025.3753%C2%B0%20E%22%7D)**
+
+---
+
+### No. 10: Instrucciones para el póster "Cómo hacer" para niños
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt diseñado para generar un póster ilustrativo y tierno para niños que explique cómo atarse los zapatos, con pasos sencillos, colores brillantes e ilustraciones amigables.
+
+#### 📝 Prompt
+
+```
+Crea un lindo póster de "Cómo atarse los cordones" para niños con flechas grandes, pasos sencillos, colores brillantes e ilustraciones amigables.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122639253_p6hyjy_G7gNolVa4AAyLCr.jpg" width="600" alt="Instrucciones para el póster "Cómo hacer" para niños - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Lamar Andrews](https://x.com/LamarMandrews)
+- **Fuente:** [Twitter Post](https://x.com/LamarMandrews/status/1997361430769865213)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20lindo%20p%C3%B3ster%20de%20%22C%C3%B3mo%20atarse%20los%20cordones%22%20para%20ni%C3%B1os%20con%20flechas%20grandes%2C%20pasos%20sencillos%2C%20colores%20brillantes%20e%20ilustraciones%20amigables.)**
+
+---
+
+### No. 11: Grabación gráfica (GraReco) - Prompt para Nano Banana Pro
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Un *prompt* de sistema detallado que instruye a Nano Banana Pro para que actúe como un hábil "Grabador Gráfico" (GraReco). Analiza entradas de texto complejas, extrae temas clave y los visualiza utilizando un estilo cálido y dibujado a mano en una pizarra simulada o en un papel grande. El *prompt* exige estrictamente el uso de fuentes japonesas dibujadas a mano para todo el texto, paletas de colores limitadas (como juegos de marcadores) y un diseño de maquetación lógico para guiar la vista del espectador.
+
+#### 📝 Prompt
+
+```
+Eres un hábil "Grabador Gráfico" que estructura discusiones en tiempo real e información de texto compleja en elementos visuales intuitivos y texto al instante. Comprende y analiza a fondo el contenido del texto de entrada proporcionado al final, y resume sus puntos clave y estructura en una sola imagen al estilo de "Grabación Gráfica", combinando ilustraciones dibujadas a mano, íconos y texto manuscrito.
+
+▼ Instrucciones para el Proceso de Generación (Proceso de Pensamiento)
+Utiliza las capacidades de razonamiento del "Modelo de Pensamiento" de Nano Banana Pro para ejecutar el siguiente proceso lógico antes de dibujar:
+
+1.  **Extracción y Resumen de la Estructura**: Identifica el tema central, los temas principales (3-5 puntos) y sus relaciones (causalidad, oposición, secuencia, etc.) del texto de entrada y resúmelos.
+2.  **Visualización y Selección de Metáforas**: Determina íconos y metáforas amigables, dibujados a mano, que simbolicen cada tema (ej., crecimiento = brote, desafío = muro, idea = bombilla).
+3.  **Diseño y Guía Visual**: Diseña la disposición en el papel o pizarrón simulado para que la información fluya naturalmente de izquierda a derecha o de arriba a abajo. Planifica el uso de flechas y bordes para guiar lógicamente la mirada del espectador.
+
+▼ Especificación de Diseño y Estilo
+**Atmósfera General**:
+*   **Medio**: Una textura analógica dibujada en papel grande o un pizarrón. Expresa la textura de las fibras del papel y las marcas del marcador.
+*   **Toque**: Un estilo cálido, dibujado a mano, utilizando marcadores a base de agua o lápices de colores, típico de un facilitador profesional. Las líneas no deben ser perfectamente rectas, sino tener un temblor humano.
+
+**Representación del Texto (Crucial)**:
+*   **Todo Manuscrito**: Todo el texto, incluyendo títulos, encabezados, cuerpo del texto y comentarios suplementarios, debe dibujarse utilizando una "fuente japonesa manuscrita". No uses ninguna fuente impresa.
+*   **Énfasis y Jerarquía**: Define claramente la jerarquía de la información variando el tamaño y el grosor del texto; por ejemplo, escribiendo las palabras clave importantes en grande con un marcador grueso y la información suplementaria en pequeño con un bolígrafo delgado.
+
+**Esquema de Color**:
+*   **Paleta Limitada**: Principalmente arte lineal en blanco y negro. Usa 2-3 colores de un juego de marcadores (como amarillo cálido, azul tranquilo y rojo acento) como colores de énfasis para evitar el desorden visual.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122659657_oes885_G7gBZRbacAACMoW.jpg" width="600" alt="Grabación gráfica (GraReco) - Prompt para Nano Banana Pro - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **Fuente:** [Twitter Post](https://x.com/hAru_mAki_ch/status/1997349048127516919)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Eres%20un%20h%C3%A1bil%20%22Grabador%20Gr%C3%A1fico%22%20que%20estructura%20discusiones%20en%20tiempo%20real%20e%20informaci%C3%B3n%20de%20texto%20compleja%20en%20elementos%20visuales%20intuitivos%20y%20texto%20al%20instante.%20Comprende%20y%20analiza%20a%20fondo%20el%20contenido%20del%20texto%20de%20entrada%20proporcionado%20al%20final%2C%20y%20resume%20sus%20puntos%20clave%20y%20estructura%20en%20una%20sola%20imagen%20al%20estilo%20de%20%22Grabaci%C3%B3n%20Gr%C3%A1fica%22%2C%20combinando%20ilustraciones%20dibujadas%20a%20mano%2C%20%C3%ADconos%20y%20texto%20manuscrito.%0A%0A%E2%96%BC%20Instrucciones%20para%20el%20Proceso%20de%20Generaci%C3%B3n%20(Proceso%20de%20Pensamiento)%0AUtiliza%20las%20capacidades%20de%20razonamiento%20del%20%22Modelo%20de%20Pensamiento%22%20de%20Nano%20Banana%20Pro%20para%20ejecutar%20el%20siguiente%20proceso%20l%C3%B3gico%20antes%20de%20dibujar%3A%0A%0A1.%20%20**Extracci%C3%B3n%20y%20Resumen%20de%20la%20Estructura**%3A%20Identifica%20el%20tema%20central%2C%20los%20temas%20principales%20(3-5%20puntos)%20y%20sus%20relaciones%20(causalidad%2C%20oposici%C3%B3n%2C%20secuencia%2C%20etc.)%20del%20texto%20de%20entrada%20y%20res%C3%BAmelos.%0A2.%20%20**Visualizaci%C3%B3n%20y%20Selecci%C3%B3n%20de%20Met%C3%A1foras**%3A%20Determina%20%C3%ADconos%20y%20met%C3%A1foras%20amigables%2C%20dibujados%20a%20mano%2C%20que%20simbolicen%20cada%20tema%20(ej.%2C%20crecimiento%20%3D%20brote%2C%20desaf%C3%ADo%20%3D%20muro%2C%20idea%20%3D%20bombilla).%0A3.%20%20**Dise%C3%B1o%20y%20Gu%C3%ADa%20Visual**%3A%20Dise%C3%B1a%20la%20disposici%C3%B3n%20en%20el%20papel%20o%20pizarr%C3%B3n%20simulado%20para%20que%20la%20informaci%C3%B3n%20fluya%20naturalmente%20de%20izquierda%20a%20derecha%20o%20de%20arriba%20a%20abajo.%20Planifica%20el%20uso%20de%20flechas%20y%20bordes%20para%20guiar%20l%C3%B3gicamente%20la%20mirada%20del%20espectador.%0A%0A%E2%96%BC%20Especificaci%C3%B3n%20de%20Dise%C3%B1o%20y%20Estilo%0A**Atm%C3%B3sfera%20General**%3A%0A*%20%20%20**Medio**%3A%20Una%20textura%20anal%C3%B3gica%20dibujada%20en%20papel%20grande%20o%20un%20pizarr%C3%B3n.%20Expresa%20la%20textura%20de%20las%20fibras%20del%20papel%20y%20las%20marcas%20del%20marcador.%0A*%20%20%20**Toque**%3A%20Un%20estilo%20c%C3%A1lido%2C%20dibujado%20a%20mano%2C%20utilizando%20marcadores%20a%20base%20de%20agua%20o%20l%C3%A1pices%20de%20colores%2C%20t%C3%ADpico%20de%20un%20facilitador%20profesional.%20Las%20l%C3%ADneas%20no%20deben%20ser%20perfectamente%20rectas%2C%20sino%20tener%20un%20temblor%20humano.%0A%0A**Representaci%C3%B3n%20del%20Texto%20(Crucial)**%3A%0A*%20%20%20**Todo%20Manuscrito**%3A%20Todo%20el%20texto%2C%20incluyendo%20t%C3%ADtulos%2C%20encabezados%2C%20cuerpo%20del%20texto%20y%20comentarios%20suplementarios%2C%20debe%20dibujarse%20utilizando%20una%20%22fuente%20japonesa%20manuscrita%22.%20No%20uses%20ninguna%20fuente%20impresa.%0A*%20%20%20**%C3%89nfasis%20y%20Jerarqu%C3%ADa**%3A%20Define%20claramente%20la%20jerarqu%C3%ADa%20de%20la%20informaci%C3%B3n%20variando%20el%20tama%C3%B1o%20y%20el%20grosor%20del%20texto%3B%20por%20ejemplo%2C%20escribiendo%20las%20palabras%20clave%20importantes%20en%20grande%20con%20un%20marcador%20grueso%20y%20la%20informaci%C3%B3n%20suplementaria%20en%20peque%C3%B1o%20con%20un%20bol%C3%ADgrafo%20delgado.%0A%0A**Esquema%20de%20Color**%3A%0A*%20%20%20**Paleta%20Limitada**%3A%20Principalmente%20arte%20lineal%20en%20blanco%20y%20negro.%20Usa%202-3%20colores%20de%20un%20juego%20de%20marcadores%20(como%20amarillo%20c%C3%A1lido%2C%20azul%20tranquilo%20y%20rojo%20acento)%20como%20colores%20de%20%C3%A9nfasis%20para%20evitar%20el%20desorden%20visual.)**
+
+---
+
+### No. 12: Prompt de consistencia de personajes en cuadrícula de 3x3
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Una instrucción simple que le indica a la IA que genere una cuadrícula de 3x3 que muestre un personaje específico en diferentes poses aleatorias, manteniendo la misma escena y apariencia del personaje en las nueve imágenes.
+
+#### 📝 Prompt
+
+```
+En una cuadrícula de 3x3, muestra este personaje en diferentes ángulos, manteniendo la misma escena y con poses aleatorias.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122629867_nz091f_G7gBdrcaUAA8Jvl.jpg" width="600" alt="Prompt de consistencia de personajes en cuadrícula de 3x3 - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Shreya Yadav](https://x.com/ShreyaYadav___)
+- **Fuente:** [Twitter Post](https://x.com/ShreyaYadav___/status/1997348060968661245)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=En%20una%20cuadr%C3%ADcula%20de%203x3%2C%20muestra%20este%20personaje%20en%20diferentes%20%C3%A1ngulos%2C%20manteniendo%20la%20misma%20escena%20y%20con%20poses%20aleatorias.)**
+
+---
+
+### No. 13: Instrucciones para edición fotorrealista de gran angular dramática
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Este es un *prompt* detallado de generación de imágenes diseñado para transformar una foto original en una toma dramática, fotorrealista y de ultra gran angular. Enfatiza los ángulos de cámara extremos, las poses dinámicas y la perspectiva forzada, donde partes del cuerpo parecen enormes cerca del lente, creando un efecto visual poderoso y estilizado. También incluye un *prompt* secundario para generar la imagen original, centrándose en una estética de película *lo-fi* y cruda en un escenario nocturno de Tokio.
+
+#### 📝 Prompt
+
+```
+Perspectiva de gran angular extrema y edición de remezcla de pose dinámica.
+Esta es una EDICIÓN de la imagen original, no un personaje nuevo.
+
+General:
+Transforma la foto original en una toma dramática, fotorrealista y de gran angular con un ángulo de cámara extremo (incluidas vistas directamente desde abajo o desde arriba), donde una o más partes del cuerpo están justo al lado del lente y se ven enormes, el resto del cuerpo retrocede en perspectiva, y la misma persona adopta una pose elegante, compleja y poderosa en una versión consistente y ampliada del entorno original.
+
+Además, a continuación se muestra el prompt para generar la imagen original. Úsalo como referencia.
+
+fotografía de {argument name="subject" default="una mujer"} con {argument name="clothing style" default="estilo de ropa"} moda artística de color natural de invierno, entorno de instalación pública con vista nocturna de TOKIO en la ciudad, estética de película lo-fi granulada, una cabina telefónica de JAPÓN, vista inclinada cándida, auricular de teléfono, sin orejeras, un cable telefónico verde en espiral
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122663360_g154wg_G7gBHv1bYAAkuFJ.jpg" width="600" alt="Instrucciones para edición fotorrealista de gran angular dramática - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [SDT🌿](https://x.com/SDT_side)
+- **Fuente:** [Twitter Post](https://x.com/SDT_side/status/1997347674794954859)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Perspectiva%20de%20gran%20angular%20extrema%20y%20edici%C3%B3n%20de%20remezcla%20de%20pose%20din%C3%A1mica.%0AEsta%20es%20una%20EDICI%C3%93N%20de%20la%20imagen%20original%2C%20no%20un%20personaje%20nuevo.%0A%0AGeneral%3A%0ATransforma%20la%20foto%20original%20en%20una%20toma%20dram%C3%A1tica%2C%20fotorrealista%20y%20de%20gran%20angular%20con%20un%20%C3%A1ngulo%20de%20c%C3%A1mara%20extremo%20(incluidas%20vistas%20directamente%20desde%20abajo%20o%20desde%20arriba)%2C%20donde%20una%20o%20m%C3%A1s%20partes%20del%20cuerpo%20est%C3%A1n%20justo%20al%20lado%20del%20lente%20y%20se%20ven%20enormes%2C%20el%20resto%20del%20cuerpo%20retrocede%20en%20perspectiva%2C%20y%20la%20misma%20persona%20adopta%20una%20pose%20elegante%2C%20compleja%20y%20poderosa%20en%20una%20versi%C3%B3n%20consistente%20y%20ampliada%20del%20entorno%20original.%0A%0AAdem%C3%A1s%2C%20a%20continuaci%C3%B3n%20se%20muestra%20el%20prompt%20para%20generar%20la%20imagen%20original.%20%C3%9Asalo%20como%20referencia.%0A%0Afotograf%C3%ADa%20de%20%7Bargument%20name%3D%22subject%22%20default%3D%22una%20mujer%22%7D%20con%20%7Bargument%20name%3D%22clothing%20style%22%20default%3D%22estilo%20de%20ropa%22%7D%20moda%20art%C3%ADstica%20de%20color%20natural%20de%20invierno%2C%20entorno%20de%20instalaci%C3%B3n%20p%C3%BAblica%20con%20vista%20nocturna%20de%20TOKIO%20en%20la%20ciudad%2C%20est%C3%A9tica%20de%20pel%C3%ADcula%20lo-fi%20granulada%2C%20una%20cabina%20telef%C3%B3nica%20de%20JAP%C3%93N%2C%20vista%20inclinada%20c%C3%A1ndida%2C%20auricular%20de%20tel%C3%A9fono%2C%20sin%20orejeras%2C%20un%20cable%20telef%C3%B3nico%20verde%20en%20espiral)**
+
+---
+
+### No. 14: Marco de exhibición de obras de arte de cartón corrugado
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -823,7 +1472,706 @@ A continuación se presenta la lista de objetos, un total de 12, separados por c
 
 ---
 
-### No. 2: Render de rayos X térmico de alto contraste de un robot Android
+### No. 15: Diseño de miniatura para "Viaje emocional por el mar" (Santorini)
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado y estructurado de LLM para generar un diseño de miniatura de viaje con un tema emocional, específicamente para Santorini. Especifica el título, el concepto, el público objetivo, los elementos de composición (edificios blancos, cúpulas azules, mujer mirando el mar, reflejo del atardecer), la paleta de colores (azul primario, blanco secundario, dorado de acento), la tipografía y los efectos decorativos (destellos, grano de película) para crear una estética de "exaltación tranquila".
+
+#### 📝 Prompt
+
+```
+thumbnail_design: title: "{argument name="title" default="Viaje emocional por el mar – Santorini"}" concept: "{argument name="concept" default="Anuncio de viaje donde la luz y el viento de Santorini liberan el corazón, conmoviendo las emociones"}" target_audience: "Usuarios internacionales (20-40 años, usuarios de redes sociales, orientados a viajes)" composition: - "Terreno elevado en Santorini con calles blancas y cúpulas azules" - "Una mujer con el cabello al viento de pie, contemplando el mar" - "El sol poniente se refleja en la superficie del mar, envolviendo toda la ciudad en oro" - "Una composición con profundidad, que transmite el flujo del tiempo y la temperatura de la memoria" color_palette: primary: "#87C6E6" # Azul que evoca el cielo de Santorini secondary: "#FDF6EE" # Luz que se refleja en las paredes blancas accent: "#F5CBA7" # Color dorado del atardecer typography_color: "#222222" # Gris oscuro y tranquilo style: - "Composición minimalista que conserva la atmósfera" - "Caligrafía delicada a mano como eslogan principal" - "El inglés se añade ligeramente; el enfoque principal es la emoción japonesa" - "Diseño cinematográfico general con el tema 'Exaltación tranquila'" text_layout: headline: text: | "{argument name="headline text" default="Hay un lugar donde sientes 'Todavía no quiero volver a casa'. La luz acaricia suavemente tu mejilla y el olor de la m marea calma tu corazón. Solo caminar sin planear nada hace que la vida sea un poco más libre."}" font_style: "Emotional Handwriting Japanese" position: "Bottom Left" size: "medium-large" opacity: 0.92 sub_text: text: | "{argument name="subtext" default="Encuentra el momento que te haga respirar de nuevo. – Santorini, donde el tiempo se olvida de sí mismo –"}" font: "Sans-serif, Extra Light" position: "Bottom Left Lower Section" size: "small" opacity: 0.8 decoration: - "La luz del sol se refleja en las paredes blancas, extendiendo un tenue destello" - "Desenfoque suave añadido al mar distante, creando una impresión de ensueño" - "Una ligera sombra debajo del texto manuscrito para crear profundidad" - "Ruido granulado superpuesto en toda la imagen para simular un aspecto de película" export: aspect_ratio: "16:9" resolution: "1920x1080" format: "jpg" style_definition: name: "Emotional Handwriting Japanese" description: "Caligrafía delicada y cargada de emoción. Caracterizada por cambios en la presión del bolígrafo y la respiración del espacio en blanco." characteristics: - "Uso frecuente de líneas finas dibujadas con ligera presión del bolígrafo para expresar fluctuaciones emocionales" - "Amplio espacio entre caracteres para crear un espacio en blanco como el viento que pasa" - "Líneas verticales largas y líneas horizontales cortas para formar un ritmo fluido" - "Una ligera mancha de tinta al final de la escritura para transmitir calidez humana" emotional_tone: - "Nostalgia" - "Libertad" - "Pasión tranquila" - "Renacimiento" output_method: "Estilo de escritura a mano con bolígrafo fino — mantener la textura de tinta delgada, el movimiento natural de la mano y la profundidad sin pinceladas."
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122667975_9rwghg_G7fqhKHakAALRMI.jpg" width="600" alt="Diseño de miniatura para "Viaje emocional por el mar" (Santorini) - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Studio Veco|日本一ダサい画像を生成する人](https://x.com/studio_veco)
+- **Fuente:** [Twitter Post](https://x.com/studio_veco/status/1997323214964531476)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=thumbnail_design%3A%20title%3A%20%22%7Bargument%20name%3D%22title%22%20default%3D%22Viaje%20emocional%20por%20el%20mar%20%E2%80%93%20Santorini%22%7D%22%20concept%3A%20%22%7Bargument%20name%3D%22concept%22%20default%3D%22Anuncio%20de%20viaje%20donde%20la%20luz%20y%20el%20viento%20de%20Santorini%20liberan%20el%20coraz%C3%B3n%2C%20conmoviendo%20las%20emociones%22%7D%22%20target_audience%3A%20%22Usuarios%20internacionales%20(20-40%20a%C3%B1os%2C%20usuarios%20de%20redes%20sociales%2C%20orientados%20a%20viajes)%22%20composition%3A%20-%20%22Terreno%20elevado%20en%20Santorini%20con%20calles%20blancas%20y%20c%C3%BApulas%20azules%22%20-%20%22Una%20mujer%20con%20el%20cabello%20al%20viento%20de%20pie%2C%20contemplando%20el%20mar%22%20-%20%22El%20sol%20poniente%20se%20refleja%20en%20la%20superficie%20del%20mar%2C%20envolviendo%20toda%20la%20ciudad%20en%20oro%22%20-%20%22Una%20composici%C3%B3n%20con%20profundidad%2C%20que%20transmite%20el%20flujo%20del%20tiempo%20y%20la%20temperatura%20de%20la%20memoria%22%20color_palette%3A%20primary%3A%20%22%2387C6E6%22%20%23%20Azul%20que%20evoca%20el%20cielo%20de%20Santorini%20secondary%3A%20%22%23FDF6EE%22%20%23%20Luz%20que%20se%20refleja%20en%20las%20paredes%20blancas%20accent%3A%20%22%23F5CBA7%22%20%23%20Color%20dorado%20del%20atardecer%20typography_color%3A%20%22%23222222%22%20%23%20Gris%20oscuro%20y%20tranquilo%20style%3A%20-%20%22Composici%C3%B3n%20minimalista%20que%20conserva%20la%20atm%C3%B3sfera%22%20-%20%22Caligraf%C3%ADa%20delicada%20a%20mano%20como%20eslogan%20principal%22%20-%20%22El%20ingl%C3%A9s%20se%20a%C3%B1ade%20ligeramente%3B%20el%20enfoque%20principal%20es%20la%20emoci%C3%B3n%20japonesa%22%20-%20%22Dise%C3%B1o%20cinematogr%C3%A1fico%20general%20con%20el%20tema%20'Exaltaci%C3%B3n%20tranquila'%22%20text_layout%3A%20headline%3A%20text%3A%20%7C%20%22%7Bargument%20name%3D%22headline%20text%22%20default%3D%22Hay%20un%20lugar%20donde%20sientes%20'Todav%C3%ADa%20no%20quiero%20volver%20a%20casa'.%20La%20luz%20acaricia%20suavemente%20tu%20mejilla%20y%20el%20olor%20de%20la%20m%20marea%20calma%20tu%20coraz%C3%B3n.%20Solo%20caminar%20sin%20planear%20nada%20hace%20que%20la%20vida%20sea%20un%20poco%20m%C3%A1s%20libre.%22%7D%22%20font_style%3A%20%22Emotional%20Handwriting%20Japanese%22%20position%3A%20%22Bottom%20Left%22%20size%3A%20%22medium-large%22%20opacity%3A%200.92%20sub_text%3A%20text%3A%20%7C%20%22%7Bargument%20name%3D%22subtext%22%20default%3D%22Encuentra%20el%20momento%20que%20te%20haga%20respirar%20de%20nuevo.%20%E2%80%93%20Santorini%2C%20donde%20el%20tiempo%20se%20olvida%20de%20s%C3%AD%20mismo%20%E2%80%93%22%7D%22%20font%3A%20%22Sans-serif%2C%20Extra%20Light%22%20position%3A%20%22Bottom%20Left%20Lower%20Section%22%20size%3A%20%22small%22%20opacity%3A%200.8%20decoration%3A%20-%20%22La%20luz%20del%20sol%20se%20refleja%20en%20las%20paredes%20blancas%2C%20extendiendo%20un%20tenue%20destello%22%20-%20%22Desenfoque%20suave%20a%C3%B1adido%20al%20mar%20distante%2C%20creando%20una%20impresi%C3%B3n%20de%20ensue%C3%B1o%22%20-%20%22Una%20ligera%20sombra%20debajo%20del%20texto%20manuscrito%20para%20crear%20profundidad%22%20-%20%22Ruido%20granulado%20superpuesto%20en%20toda%20la%20imagen%20para%20simular%20un%20aspecto%20de%20pel%C3%ADcula%22%20export%3A%20aspect_ratio%3A%20%2216%3A9%22%20resolution%3A%20%221920x1080%22%20format%3A%20%22jpg%22%20style_definition%3A%20name%3A%20%22Emotional%20Handwriting%20Japanese%22%20description%3A%20%22Caligraf%C3%ADa%20delicada%20y%20cargada%20de%20emoci%C3%B3n.%20Caracterizada%20por%20cambios%20en%20la%20presi%C3%B3n%20del%20bol%C3%ADgrafo%20y%20la%20respiraci%C3%B3n%20del%20espacio%20en%20blanco.%22%20characteristics%3A%20-%20%22Uso%20frecuente%20de%20l%C3%ADneas%20finas%20dibujadas%20con%20ligera%20presi%C3%B3n%20del%20bol%C3%ADgrafo%20para%20expresar%20fluctuaciones%20emocionales%22%20-%20%22Amplio%20espacio%20entre%20caracteres%20para%20crear%20un%20espacio%20en%20blanco%20como%20el%20viento%20que%20pasa%22%20-%20%22L%C3%ADneas%20verticales%20largas%20y%20l%C3%ADneas%20horizontales%20cortas%20para%20formar%20un%20ritmo%20fluido%22%20-%20%22Una%20ligera%20mancha%20de%20tinta%20al%20final%20de%20la%20escritura%20para%20transmitir%20calidez%20humana%22%20emotional_tone%3A%20-%20%22Nostalgia%22%20-%20%22Libertad%22%20-%20%22Pasi%C3%B3n%20tranquila%22%20-%20%22Renacimiento%22%20output_method%3A%20%22Estilo%20de%20escritura%20a%20mano%20con%20bol%C3%ADgrafo%20fino%20%E2%80%94%20mantener%20la%20textura%20de%20tinta%20delgada%2C%20el%20movimiento%20natural%20de%20la%20mano%20y%20la%20profundidad%20sin%20pinceladas.%22)**
+
+---
+
+### No. 16: Prompt: Mujer coreana en un resort junto a la piscina
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Descripción
+
+Un *prompt* fotorrealista para generar un plano medio de una hermosa joven coreana sentada en una silla reclinable junto a la piscina de un resort, con el estilo de una foto espontánea de *influencer* de Instagram con estética de ídolo de K-pop.
+
+#### 📝 Prompt
+
+```
+Un primer plano medio fotorrealista de una hermosa joven coreana sentada en una tumbona blanca junto a la piscina de un resort. Tiene el cabello largo, negro y ondulado, con gafas de sol sobre la cabeza. Viste un top de bikini negro con aberturas y una falda negra, además de un collar plateado. Mira directamente a la cámara con una expresión suave y seductora. El fondo presenta pinos borrosos y sombrillas azules. Iluminación natural suave, luz diurna, alta resolución, 8k, tomada con lente de 35 mm, estilo influencer de Instagram espontáneo, estética de ídolo de K-pop. --ar 3:4
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122646749_rrotv0_G7fYZK7WgAArTzl.jpg" width="600" alt="Prompt: Mujer coreana en un resort junto a la piscina - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [kiren yi](https://x.com/Kirenyi16)
+- **Fuente:** [Twitter Post](https://x.com/Kirenyi16/status/1997303114236403965)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Un%20primer%20plano%20medio%20fotorrealista%20de%20una%20hermosa%20joven%20coreana%20sentada%20en%20una%20tumbona%20blanca%20junto%20a%20la%20piscina%20de%20un%20resort.%20Tiene%20el%20cabello%20largo%2C%20negro%20y%20ondulado%2C%20con%20gafas%20de%20sol%20sobre%20la%20cabeza.%20Viste%20un%20top%20de%20bikini%20negro%20con%20aberturas%20y%20una%20falda%20negra%2C%20adem%C3%A1s%20de%20un%20collar%20plateado.%20Mira%20directamente%20a%20la%20c%C3%A1mara%20con%20una%20expresi%C3%B3n%20suave%20y%20seductora.%20El%20fondo%20presenta%20pinos%20borrosos%20y%20sombrillas%20azules.%20Iluminaci%C3%B3n%20natural%20suave%2C%20luz%20diurna%2C%20alta%20resoluci%C3%B3n%2C%208k%2C%20tomada%20con%20lente%20de%2035%20mm%2C%20estilo%20influencer%20de%20Instagram%20espont%C3%A1neo%2C%20est%C3%A9tica%20de%20%C3%ADdolo%20de%20K-pop.%20--ar%203%3A4)**
+
+---
+
+### No. 17: Ukiyo-e: Infografía de la cabeza de una taza de té - Prompt
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt simple y efectivo para que Nano Banana Pro genere una infografía usando una estética específica y muy estilizada: Ukiyo-e (grabado japonés en madera) combinado con el estilo de personaje "Teacup Head".
+
+#### 📝 Prompt
+
+```
+Genera una infografía para el siguiente contenido al estilo de {argument name="style" default="Ukiyo-e"} + {argument name="character" default="Teacup Head"}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122656513_xz2xmj_G7fGhM4bcAAESJU.jpg" width="600" alt="Ukiyo-e: Infografía de la cabeza de una taza de té - Prompt - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [歸藏(guizang.ai)](https://x.com/op7418)
+- **Fuente:** [Twitter Post](https://x.com/op7418/status/1997283261064925190)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Genera%20una%20infograf%C3%ADa%20para%20el%20siguiente%20contenido%20al%20estilo%20de%20%7Bargument%20name%3D%22style%22%20default%3D%22Ukiyo-e%22%7D%20%2B%20%7Bargument%20name%3D%22character%22%20default%3D%22Teacup%20Head%22%7D)**
+
+---
+
+### No. 18: Prompt para retrato cinematográfico de ensueño en las Tierras Altas
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt JSON detallado para generar un retrato de tres cuartos, etéreo y de ensueño, de una mujer morena en un prado de las tierras altas, enfatizando la suave iluminación de la hora dorada, la vestimenta vintage fluida y elementos específicos como flores silvestres y nubes.
+
+#### 📝 Prompt
+
+```
+{
+  "prompt": "Un retrato de tres cuartos de una mujer morena con rizos castaños sueltos y flores silvestres entrelazadas en su cabello, de pie de lado en una pradera de las tierras altas. Viste un vestido floral beige de inspiración vintage con mangas transparentes pulidas, su vestido ondeando con el viento. Su cabeza está ligeramente girada hacia la cámara con una expresión serena y contemplativa. Flores silvestres doradas se mecen a su alrededor mientras las nubes se desplazan en el fondo. La suave iluminación de la hora dorada realza la atmósfera etérea y mágica, capturando un momento fugaz en un paisaje ventoso de las tierras altas.",
+  "style": "retrato cinematográfico de ensueño de las tierras altas",
+  "lighting": "suave resplandor de la hora dorada",
+  "background": "nubes y flores silvestres doradas azotadas por el viento",
+  "focus": "textura del cabello, flores silvestres, vestido vaporoso, expresión serena",
+  "shot_type": "retrato de tres cuartos",
+  "mood": "mágico, tranquilo, etéreo",
+  "aspect_ratio": "3:4"
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122634904_ur5wc5_G7e9yDfbsAAUwGL.jpg" width="600" alt="Prompt para retrato cinematográfico de ensueño en las Tierras Altas - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Aleena Amir](https://x.com/aleenaamiir)
+- **Fuente:** [Twitter Post](https://x.com/aleenaamiir/status/1997273663234851239)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22prompt%22%3A%20%22Un%20retrato%20de%20tres%20cuartos%20de%20una%20mujer%20morena%20con%20rizos%20casta%C3%B1os%20sueltos%20y%20flores%20silvestres%20entrelazadas%20en%20su%20cabello%2C%20de%20pie%20de%20lado%20en%20una%20pradera%20de%20las%20tierras%20altas.%20Viste%20un%20vestido%20floral%20beige%20de%20inspiraci%C3%B3n%20vintage%20con%20mangas%20transparentes%20pulidas%2C%20su%20vestido%20ondeando%20con%20el%20viento.%20Su%20cabeza%20est%C3%A1%20ligeramente%20girada%20hacia%20la%20c%C3%A1mara%20con%20una%20expresi%C3%B3n%20serena%20y%20contemplativa.%20Flores%20silvestres%20doradas%20se%20mecen%20a%20su%20alrededor%20mientras%20las%20nubes%20se%20desplazan%20en%20el%20fondo.%20La%20suave%20iluminaci%C3%B3n%20de%20la%20hora%20dorada%20realza%20la%20atm%C3%B3sfera%20et%C3%A9rea%20y%20m%C3%A1gica%2C%20capturando%20un%20momento%20fugaz%20en%20un%20paisaje%20ventoso%20de%20las%20tierras%20altas.%22%2C%0A%20%20%22style%22%3A%20%22retrato%20cinematogr%C3%A1fico%20de%20ensue%C3%B1o%20de%20las%20tierras%20altas%22%2C%0A%20%20%22lighting%22%3A%20%22suave%20resplandor%20de%20la%20hora%20dorada%22%2C%0A%20%20%22background%22%3A%20%22nubes%20y%20flores%20silvestres%20doradas%20azotadas%20por%20el%20viento%22%2C%0A%20%20%22focus%22%3A%20%22textura%20del%20cabello%2C%20flores%20silvestres%2C%20vestido%20vaporoso%2C%20expresi%C3%B3n%20serena%22%2C%0A%20%20%22shot_type%22%3A%20%22retrato%20de%20tres%20cuartos%22%2C%0A%20%20%22mood%22%3A%20%22m%C3%A1gico%2C%20tranquilo%2C%20et%C3%A9reo%22%2C%0A%20%20%22aspect_ratio%22%3A%20%223%3A4%22%0A%7D)**
+
+---
+
+### No. 19: Selfie de espejo con prompt de preservación facial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt JSON altamente detallado para generar una selfie de espejo de una mujer joven en un apartamento moderno, que requiere específicamente una preservación facial 100% idéntica basada en una imagen cargada, hasta las proporciones faciales y la textura natural de la piel.
+
+#### 📝 Prompt
+
+```
+{
+  "image_generation": {
+    "subject": {
+      "face": "igual a la imagen subida",
+      "description": "Mujer joven tomándose una selfie en el espejo dentro de una sala moderna.",
+      "face_preservation": {
+        "preserve_original": true,
+        "accuracy_level": "100% idéntica a la imagen de referencia",
+        "details": [
+          "proporciones faciales reales",
+          "textura de piel natural",
+          "forma de ojos y cejas auténticas",
+          "labios rosados suaves",
+          "maquillaje natural ligero"
+        ]
+      },
+      "expression": "expresión suave, ligeramente con puchero y ojos relajados",
+      "hair": {
+        "style": "cabello largo y ondulado peinado semirecogido con volumen suave",
+        "color": "castaño oscuro"
+      },
+      "pose": {
+        "type": "selfie en el espejo",
+        "description": "sentada de lado en un sofá, la parte superior del cuerpo ligeramente girada hacia el espejo, una mano sosteniendo el teléfono mientras la otra descansa sobre su pierna",
+        "camera_angle": "a la altura de los ojos, reflejada en el espejo"
+      },
+      "clothing": {
+        "main_outfit": "minivestido floral rosa y morado con mangas largas transparentes",
+        "fit": "ajustado con detalles fruncidos",
+        "accessories": [
+          "aretes de aro dorados",
+          "pulsera dorada delicada",
+          "anillos sencillos"
+        ]
+      },
+      "hands": {
+        "details": "sosteniendo un teléfono verde con funda de patrón floral, uñas cuidadosamente manicuradas"
+      }
+    },
+    "environment": {
+      "setting": "interior de un apartamento moderno y luminoso",
+      "elements": [
+        "patrón floral esmerilado decorativo en el espejo",
+        "amplia área de sala de estar",
+        "sofá seccional blanco",
+        "cocina visible al fondo",
+        "alfombra suave, mesa de centro con objetos decorativos"
+      ],
+      "lighting": {
+        "type": "luz natural suave del día",
+        "source": "ventanas grandes desde el lado izquierdo",
+        "effect": "iluminación suave y uniforme con brillo natural de la piel"
+      }
+    },
+    "composition": {
+      "frame": "plano medio, capturando la parte superior del cuerpo y parte de la pose sentada",
+      "style": "fotografía de estilo de vida natural",
+      "focus": "nítido en el rostro y el atuendo del sujeto, fondo ligeramente más suave"
+    },
+    "camera": {
+      "type": "selfie de espejo con iPhone",
+      "aspect_ratio": "9:16 vertical",
+      "quality": "captura de smartphone realista de alta resolución"
+    },
+    "aesthetic": {
+      "mood": "suave, femenino, tranquilo",
+      "color_palette": "rosas, morados, beige neutro y blanco",
+      "details": [
+          "bokeh sutil",
+          "ambiente interior limpio y moderno"
+      ]
+    }
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122635868_buh4fs_G7e3MvkbYAAS5G6.jpg" width="600" alt="Selfie de espejo con prompt de preservación facial - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [毎日の活力⚡](https://x.com/_dailyboost)
+- **Fuente:** [Twitter Post](https://x.com/_dailyboost/status/1997266594741747778)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_generation%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22face%22%3A%20%22igual%20a%20la%20imagen%20subida%22%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22Mujer%20joven%20tom%C3%A1ndose%20una%20selfie%20en%20el%20espejo%20dentro%20de%20una%20sala%20moderna.%22%2C%0A%20%20%20%20%20%20%22face_preservation%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22accuracy_level%22%3A%20%22100%25%20id%C3%A9ntica%20a%20la%20imagen%20de%20referencia%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22proporciones%20faciales%20reales%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22textura%20de%20piel%20natural%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22forma%20de%20ojos%20y%20cejas%20aut%C3%A9nticas%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22labios%20rosados%20suaves%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22maquillaje%20natural%20ligero%22%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22expresi%C3%B3n%20suave%2C%20ligeramente%20con%20puchero%20y%20ojos%20relajados%22%2C%0A%20%20%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22cabello%20largo%20y%20ondulado%20peinado%20semirecogido%20con%20volumen%20suave%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22casta%C3%B1o%20oscuro%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22selfie%20en%20el%20espejo%22%2C%0A%20%20%20%20%20%20%20%20%22description%22%3A%20%22sentada%20de%20lado%20en%20un%20sof%C3%A1%2C%20la%20parte%20superior%20del%20cuerpo%20ligeramente%20girada%20hacia%20el%20espejo%2C%20una%20mano%20sosteniendo%20el%20tel%C3%A9fono%20mientras%20la%20otra%20descansa%20sobre%20su%20pierna%22%2C%0A%20%20%20%20%20%20%20%20%22camera_angle%22%3A%20%22a%20la%20altura%20de%20los%20ojos%2C%20reflejada%20en%20el%20espejo%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22main_outfit%22%3A%20%22minivestido%20floral%20rosa%20y%20morado%20con%20mangas%20largas%20transparentes%22%2C%0A%20%20%20%20%20%20%20%20%22fit%22%3A%20%22ajustado%20con%20detalles%20fruncidos%22%2C%0A%20%20%20%20%20%20%20%20%22accessories%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22aretes%20de%20aro%20dorados%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22pulsera%20dorada%20delicada%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22anillos%20sencillos%22%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22sosteniendo%20un%20tel%C3%A9fono%20verde%20con%20funda%20de%20patr%C3%B3n%20floral%2C%20u%C3%B1as%20cuidadosamente%20manicuradas%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22setting%22%3A%20%22interior%20de%20un%20apartamento%20moderno%20y%20luminoso%22%2C%0A%20%20%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22patr%C3%B3n%20floral%20esmerilado%20decorativo%20en%20el%20espejo%22%2C%0A%20%20%20%20%20%20%20%20%22amplia%20%C3%A1rea%20de%20sala%20de%20estar%22%2C%0A%20%20%20%20%20%20%20%20%22sof%C3%A1%20seccional%20blanco%22%2C%0A%20%20%20%20%20%20%20%20%22cocina%20visible%20al%20fondo%22%2C%0A%20%20%20%20%20%20%20%20%22alfombra%20suave%2C%20mesa%20de%20centro%20con%20objetos%20decorativos%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22luz%20natural%20suave%20del%20d%C3%ADa%22%2C%0A%20%20%20%20%20%20%20%20%22source%22%3A%20%22ventanas%20grandes%20desde%20el%20lado%20izquierdo%22%2C%0A%20%20%20%20%20%20%20%20%22effect%22%3A%20%22iluminaci%C3%B3n%20suave%20y%20uniforme%20con%20brillo%20natural%20de%20la%20piel%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22frame%22%3A%20%22plano%20medio%2C%20capturando%20la%20parte%20superior%20del%20cuerpo%20y%20parte%20de%20la%20pose%20sentada%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22fotograf%C3%ADa%20de%20estilo%20de%20vida%20natural%22%2C%0A%20%20%20%20%20%20%22focus%22%3A%20%22n%C3%ADtido%20en%20el%20rostro%20y%20el%20atuendo%20del%20sujeto%2C%20fondo%20ligeramente%20m%C3%A1s%20suave%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22selfie%20de%20espejo%20con%20iPhone%22%2C%0A%20%20%20%20%20%20%22aspect_ratio%22%3A%20%229%3A16%20vertical%22%2C%0A%20%20%20%20%20%20%22quality%22%3A%20%22captura%20de%20smartphone%20realista%20de%20alta%20resoluci%C3%B3n%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22aesthetic%22%3A%20%7B%0A%20%20%20%20%20%20%22mood%22%3A%20%22suave%2C%20femenino%2C%20tranquilo%22%2C%0A%20%20%20%20%20%20%22color_palette%22%3A%20%22rosas%2C%20morados%2C%20beige%20neutro%20y%20blanco%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22bokeh%20sutil%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22ambiente%20interior%20limpio%20y%20moderno%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 20: Plantilla de prompt para la forma de la entrada de una cueva
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una plantilla de prompt para generar una imagen de paisaje que incluya la entrada de una cueva con la forma exacta de un contorno específico, asegurando que la forma sea simple, definida y que los detalles circundantes no distraigan de la forma única de la cueva.
+
+#### 📝 Prompt
+
+```
+Una imagen de un paisaje de {argument name="type" default="[TYPE]"} con la entrada de una cueva que tiene exactamente la forma del contorno de un {argument name="shape" default="[SHAPE]"}. La cueva debe integrarse de forma natural en el terreno accidentado de la montaña, con la entrada formando una silueta clara e inconfundible de {argument name="shape" default="[SHAPE]"}. Esta forma de {argument name="shape" default="[SHAPE]"} debe ser simple y definida, sin detalles intrincados, enfatizando solo el contorno general de {argument name="shape" default="[SHAPE]"}. El entorno debe incluir {argument name="details" default="[DETAILS]"}, pero estos elementos no deben distraer de la entrada de la cueva con forma de {argument name="shape" default="[SHAPE]"}. La iluminación de la escena debe realzar la visibilidad y la distinción de la entrada de la cueva con forma de {argument name="shape" default="[SHAPE]"}.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122634246_zmcgb3_G7e2PCqa8AA-i5h.jpg" width="600" alt="Plantilla de prompt para la forma de la entrada de una cueva - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122634373_0pv0li_G7e2PAoagAAmoLH.jpg" width="600" alt="Plantilla de prompt para la forma de la entrada de una cueva - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122637311_xduwmx_G7e2PJXbgAAZiU9.jpg" width="600" alt="Plantilla de prompt para la forma de la entrada de una cueva - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122638358_8fgjux_G7e2PKyb0AA-QS8.jpg" width="600" alt="Plantilla de prompt para la forma de la entrada de una cueva - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Umesh](https://x.com/umesh_ai)
+- **Fuente:** [Twitter Post](https://x.com/umesh_ai/status/1997265335494595040)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20imagen%20de%20un%20paisaje%20de%20%7Bargument%20name%3D%22type%22%20default%3D%22%5BTYPE%5D%22%7D%20con%20la%20entrada%20de%20una%20cueva%20que%20tiene%20exactamente%20la%20forma%20del%20contorno%20de%20un%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D.%20La%20cueva%20debe%20integrarse%20de%20forma%20natural%20en%20el%20terreno%20accidentado%20de%20la%20monta%C3%B1a%2C%20con%20la%20entrada%20formando%20una%20silueta%20clara%20e%20inconfundible%20de%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D.%20Esta%20forma%20de%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D%20debe%20ser%20simple%20y%20definida%2C%20sin%20detalles%20intrincados%2C%20enfatizando%20solo%20el%20contorno%20general%20de%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D.%20El%20entorno%20debe%20incluir%20%7Bargument%20name%3D%22details%22%20default%3D%22%5BDETAILS%5D%22%7D%2C%20pero%20estos%20elementos%20no%20deben%20distraer%20de%20la%20entrada%20de%20la%20cueva%20con%20forma%20de%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D.%20La%20iluminaci%C3%B3n%20de%20la%20escena%20debe%20realzar%20la%20visibilidad%20y%20la%20distinci%C3%B3n%20de%20la%20entrada%20de%20la%20cueva%20con%20forma%20de%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D.)**
+
+---
+
+### No. 21: Prompt para la generación precisa de diagramas académicos
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Un prompt para Nano Banana Pro diseñado para visualizar con precisión principios académicos complejos de un artículo de investigación en un diagrama o figura. Enfatiza el uso de texto en japonés para todas las etiquetas y prioriza la precisión y el lenguaje académico al traducir terminología especializada.
+
+#### 📝 Prompt
+
+```
+Para facilitar la comprensión del documento, utilice Nano Banana Pro para generar diagramas basados en el mismo. Coloque los diagramas en las ubicaciones apropiadas dentro del documento explicativo. Todo el texto dentro de los diagramas debe estar escrito en japonés. La traducción de la terminología especializada debe priorizar la precisión y utilizar un lenguaje académico.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122662552_yzznox_G7eZg22aUAAbcf1.jpg" width="600" alt="Prompt para la generación precisa de diagramas académicos - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Manus 公式（マナス）](https://x.com/ManusAI_JP)
+- **Fuente:** [Twitter Post](https://x.com/ManusAI_JP/status/1997233752611885063)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Para%20facilitar%20la%20comprensi%C3%B3n%20del%20documento%2C%20utilice%20Nano%20Banana%20Pro%20para%20generar%20diagramas%20basados%20en%20el%20mismo.%20Coloque%20los%20diagramas%20en%20las%20ubicaciones%20apropiadas%20dentro%20del%20documento%20explicativo.%20Todo%20el%20texto%20dentro%20de%20los%20diagramas%20debe%20estar%20escrito%20en%20japon%C3%A9s.%20La%20traducci%C3%B3n%20de%20la%20terminolog%C3%ADa%20especializada%20debe%20priorizar%20la%20precisi%C3%B3n%20y%20utilizar%20un%20lenguaje%20acad%C3%A9mico.)**
+
+---
+
+### No. 22: Prompt para retrato nocturno de ciudad neón
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt JSON detallado para generar un retrato vertical de una mujer en alta resolución, cinematográfico y fotorrealista, en una concurrida calle de ciudad de estilo asiático por la noche, centrándose en la iluminación dramática, los reflejos de neón y una profundidad de campo reducida.
+
+#### 📝 Prompt
+
+```
+{
+    "positive": "Retrato vertical de alta resolución, calidad 4K. Una mujer con cabello negro ondulado, ligeramente húmedo. Mirada soñadora y suave, mirando hacia la cámara. Viste una sudadera con capucha extragrande de color gris pizarra/verde azulado. Apoyada contra una pared cubierta de pósteres, volantes y calcomanías desordenados. Calle concurrida de ciudad de noche (estilo Tokio/Seúl/Hong Kong). Llovizna ligera con partículas de agua visibles en el aire. Superficie de la calle mojada y reflectante. Reflejos de neón rojos y luces de freno de autos brillantes dominando el pavimento. Letreros de tiendas de neón amarillos y rojos en el fondo. Iluminación dramática fuerte con alto contraste entre los rojos/amarillos cálidos del neón y los tonos ambientales fríos azules/grises. Poca profundidad de campo, fondo bokeh. Cinemático, fotorrealista.",
+    "negative": "cara borrosa, anatomía distorsionada, extremidades adicionales, dedos adicionales, marca de agua, texto, luces sobreexpuestas, sombras subexpuestas, estilo de caricatura, baja resolución, granulado, piel poco realista, características faciales duplicadas"
+  },
+  "parameters": {
+    "style": "fotorrealista",
+    "resolution": "4K",
+    "ratio": "3:4",
+    "camera": {
+      "lens": "lente de retrato (50mm–85mm)",
+      "depth_of_field": "poca",
+      "focus": "enfoque nítido en el sujeto"
+    },
+    "lighting": {
+      "type": "iluminación de ciudad de neón",
+      "contrast": "alto",
+      "color_palette": ["neón rojo", "neón amarillo", "sombras azul/gris frías"]
+    }
+  },
+  "environment_details": {
+    "weather": "lluvia ligera / llovizna",
+    "city_style": ["Tokio", "Seúl", "Hong Kong"],
+    "foreground": "pared cubierta de pósteres",
+    "background": {
+      "elements": ["calle mojada reflectante", "autos con luces de freno rojas", "letreros de neón de tiendas"],
+      "depth": "bokeh borroso"
+    }
+  },
+  "subject": {
+    "gender": "femenino",
+    "expression": "mirada soñadora y suave hacia arriba",
+    "hair": "negro ondulado, ligeramente húmedo",
+    "clothing": "sudadera con capucha extragrande de color gris pizarra/verde azulado"
+  }
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122646172_scp97m_G7eKwm3b0AMVUXK.jpg" width="600" alt="Prompt para retrato nocturno de ciudad neón - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Dr.duet](https://x.com/Sheldon056)
+- **Fuente:** [Twitter Post](https://x.com/Sheldon056/status/1997217542742675775)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%20%20%22positive%22%3A%20%22Retrato%20vertical%20de%20alta%20resoluci%C3%B3n%2C%20calidad%204K.%20Una%20mujer%20con%20cabello%20negro%20ondulado%2C%20ligeramente%20h%C3%BAmedo.%20Mirada%20so%C3%B1adora%20y%20suave%2C%20mirando%20hacia%20la%20c%C3%A1mara.%20Viste%20una%20sudadera%20con%20capucha%20extragrande%20de%20color%20gris%20pizarra%2Fverde%20azulado.%20Apoyada%20contra%20una%20pared%20cubierta%20de%20p%C3%B3steres%2C%20volantes%20y%20calcoman%C3%ADas%20desordenados.%20Calle%20concurrida%20de%20ciudad%20de%20noche%20(estilo%20Tokio%2FSe%C3%BAl%2FHong%20Kong).%20Llovizna%20ligera%20con%20part%C3%ADculas%20de%20agua%20visibles%20en%20el%20aire.%20Superficie%20de%20la%20calle%20mojada%20y%20reflectante.%20Reflejos%20de%20ne%C3%B3n%20rojos%20y%20luces%20de%20freno%20de%20autos%20brillantes%20dominando%20el%20pavimento.%20Letreros%20de%20tiendas%20de%20ne%C3%B3n%20amarillos%20y%20rojos%20en%20el%20fondo.%20Iluminaci%C3%B3n%20dram%C3%A1tica%20fuerte%20con%20alto%20contraste%20entre%20los%20rojos%2Famarillos%20c%C3%A1lidos%20del%20ne%C3%B3n%20y%20los%20tonos%20ambientales%20fr%C3%ADos%20azules%2Fgrises.%20Poca%20profundidad%20de%20campo%2C%20fondo%20bokeh.%20Cinem%C3%A1tico%2C%20fotorrealista.%22%2C%0A%20%20%20%20%22negative%22%3A%20%22cara%20borrosa%2C%20anatom%C3%ADa%20distorsionada%2C%20extremidades%20adicionales%2C%20dedos%20adicionales%2C%20marca%20de%20agua%2C%20texto%2C%20luces%20sobreexpuestas%2C%20sombras%20subexpuestas%2C%20estilo%20de%20caricatura%2C%20baja%20resoluci%C3%B3n%2C%20granulado%2C%20piel%20poco%20realista%2C%20caracter%C3%ADsticas%20faciales%20duplicadas%22%0A%20%20%7D%2C%0A%20%20%22parameters%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22fotorrealista%22%2C%0A%20%20%20%20%22resolution%22%3A%20%224K%22%2C%0A%20%20%20%20%22ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%22lens%22%3A%20%22lente%20de%20retrato%20(50mm%E2%80%9385mm)%22%2C%0A%20%20%20%20%20%20%22depth_of_field%22%3A%20%22poca%22%2C%0A%20%20%20%20%20%20%22focus%22%3A%20%22enfoque%20n%C3%ADtido%20en%20el%20sujeto%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22iluminaci%C3%B3n%20de%20ciudad%20de%20ne%C3%B3n%22%2C%0A%20%20%20%20%20%20%22contrast%22%3A%20%22alto%22%2C%0A%20%20%20%20%20%20%22color_palette%22%3A%20%5B%22ne%C3%B3n%20rojo%22%2C%20%22ne%C3%B3n%20amarillo%22%2C%20%22sombras%20azul%2Fgris%20fr%C3%ADas%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment_details%22%3A%20%7B%0A%20%20%20%20%22weather%22%3A%20%22lluvia%20ligera%20%2F%20llovizna%22%2C%0A%20%20%20%20%22city_style%22%3A%20%5B%22Tokio%22%2C%20%22Se%C3%BAl%22%2C%20%22Hong%20Kong%22%5D%2C%0A%20%20%20%20%22foreground%22%3A%20%22pared%20cubierta%20de%20p%C3%B3steres%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22elements%22%3A%20%5B%22calle%20mojada%20reflectante%22%2C%20%22autos%20con%20luces%20de%20freno%20rojas%22%2C%20%22letreros%20de%20ne%C3%B3n%20de%20tiendas%22%5D%2C%0A%20%20%20%20%20%20%22depth%22%3A%20%22bokeh%20borroso%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22femenino%22%2C%0A%20%20%20%20%22expression%22%3A%20%22mirada%20so%C3%B1adora%20y%20suave%20hacia%20arriba%22%2C%0A%20%20%20%20%22hair%22%3A%20%22negro%20ondulado%2C%20ligeramente%20h%C3%BAmedo%22%2C%0A%20%20%20%20%22clothing%22%3A%20%22sudadera%20con%20capucha%20extragrande%20de%20color%20gris%20pizarra%2Fverde%20azulado%22%0A%20%20%7D)**
+
+---
+
+### No. 23: Prompts para la conversión de personajes de juegos retro de 16 bits
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un conjunto de tres prompts de generación de imágenes diseñados para convertir un personaje original subido en varios estilos de videojuegos retro de 16 bits usando Nano Banana Pro. Los estilos incluyen un juego de acción de desplazamiento lateral, una pantalla de batalla RPG horizontal y una escena de diálogo de juego de aventura, lo que permite a los usuarios personalizar fácilmente el personaje y los detalles de la escena.
+
+#### 📝 Prompt
+
+```
+Prompt (Estilo de acción de desplazamiento lateral):
+Reproduce esta [{argument name="character description" default="chica con capa"}] como un personaje de videojuego de 16 bits y coloca al personaje en un videojuego de plataformas 2D de 16 bits.
+Composición de la pantalla del juego: Acción de desplazamiento lateral, avanzando mientras recolecta donas, 100 puntos por tomar una dona, el escenario es dentro de un castillo oscuro.
+
+Prompt (Estilo de batalla RPG horizontal):
+Reproduce esta [{argument name="character description" default="chica con capa"}] como un personaje de videojuego de 16 bits y coloca al personaje en un videojuego de plataformas 2D de 16 bits.
+Composición de la pantalla del juego:
+Pantalla de batalla RPG horizontal
+Luchando contra un monstruo de dona, atacando con una espada, el fondo es la orilla del lago, el nombre del personaje es "{argument name="character name" default="Tsunochian"}", muestra el nombre del personaje, HP, menú de comandos, daño y números de HP plausibles en la parte inferior de la pantalla.
+
+Prompt (Estilo de juego de aventuras):
+Reproduce esta [{argument name="character description" default="chica con capa"}] como un personaje de videojuego de 16 bits y coloca al personaje en un videojuego de plataformas 2D de 16 bits.
+Composición de la pantalla del juego: Pantalla de diálogo de juego de aventuras, busto del personaje en el centro, fecha y clima en la parte superior derecha, nombre de la ubicación en la parte superior izquierda, menú de comandos y ventana de diálogo en la parte inferior de la pantalla, diálogo "{argument name="character name" default="Tsunochian"} '{argument name="dialogue" default="¿Ya es hora de la merienda?"}'", el fondo es la sala de estar.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122662845_x5zou8_G7cwFxOawAAP0cm.jpg" width="600" alt="Prompts para la conversión de personajes de juegos retro de 16 bits - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122665230_fde4bm_G7cwHJHb0AAgwsR.jpg" width="600" alt="Prompts para la conversión de personajes de juegos retro de 16 bits - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122665826_7gdiyk_G7cwHuBbwAAK-sH.jpg" width="600" alt="Prompts para la conversión de personajes de juegos retro de 16 bits - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122666911_nymai3_G7cwGsVb0AETgeC.jpg" width="600" alt="Prompts para la conversión de personajes de juegos retro de 16 bits - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [シュナプーン](https://x.com/schnapoon)
+- **Fuente:** [Twitter Post](https://x.com/schnapoon/status/1997199328587534729)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Prompt%20(Estilo%20de%20acci%C3%B3n%20de%20desplazamiento%20lateral)%3A%0AReproduce%20esta%20%5B%7Bargument%20name%3D%22character%20description%22%20default%3D%22chica%20con%20capa%22%7D%5D%20como%20un%20personaje%20de%20videojuego%20de%2016%20bits%20y%20coloca%20al%20personaje%20en%20un%20videojuego%20de%20plataformas%202D%20de%2016%20bits.%0AComposici%C3%B3n%20de%20la%20pantalla%20del%20juego%3A%20Acci%C3%B3n%20de%20desplazamiento%20lateral%2C%20avanzando%20mientras%20recolecta%20donas%2C%20100%20puntos%20por%20tomar%20una%20dona%2C%20el%20escenario%20es%20dentro%20de%20un%20castillo%20oscuro.%0A%0APrompt%20(Estilo%20de%20batalla%20RPG%20horizontal)%3A%0AReproduce%20esta%20%5B%7Bargument%20name%3D%22character%20description%22%20default%3D%22chica%20con%20capa%22%7D%5D%20como%20un%20personaje%20de%20videojuego%20de%2016%20bits%20y%20coloca%20al%20personaje%20en%20un%20videojuego%20de%20plataformas%202D%20de%2016%20bits.%0AComposici%C3%B3n%20de%20la%20pantalla%20del%20juego%3A%0APantalla%20de%20batalla%20RPG%20horizontal%0ALuchando%20contra%20un%20monstruo%20de%20dona%2C%20atacando%20con%20una%20espada%2C%20el%20fondo%20es%20la%20orilla%20del%20lago%2C%20el%20nombre%20del%20personaje%20es%20%22%7Bargument%20name%3D%22character%20name%22%20default%3D%22Tsunochian%22%7D%22%2C%20muestra%20el%20nombre%20del%20personaje%2C%20HP%2C%20men%C3%BA%20de%20comandos%2C%20da%C3%B1o%20y%20n%C3%BAmeros%20de%20HP%20plausibles%20en%20la%20parte%20inferior%20de%20la%20pantalla.%0A%0APrompt%20(Estilo%20de%20juego%20de%20aventuras)%3A%0AReproduce%20esta%20%5B%7Bargument%20name%3D%22character%20description%22%20default%3D%22chica%20con%20capa%22%7D%5D%20como%20un%20personaje%20de%20videojuego%20de%2016%20bits%20y%20coloca%20al%20personaje%20en%20un%20videojuego%20de%20plataformas%202D%20de%2016%20bits.%0AComposici%C3%B3n%20de%20la%20pantalla%20del%20juego%3A%20Pantalla%20de%20di%C3%A1logo%20de%20juego%20de%20aventuras%2C%20busto%20del%20personaje%20en%20el%20centro%2C%20fecha%20y%20clima%20en%20la%20parte%20superior%20derecha%2C%20nombre%20de%20la%20ubicaci%C3%B3n%20en%20la%20parte%20superior%20izquierda%2C%20men%C3%BA%20de%20comandos%20y%20ventana%20de%20di%C3%A1logo%20en%20la%20parte%20inferior%20de%20la%20pantalla%2C%20di%C3%A1logo%20%22%7Bargument%20name%3D%22character%20name%22%20default%3D%22Tsunochian%22%7D%20'%7Bargument%20name%3D%22dialogue%22%20default%3D%22%C2%BFYa%20es%20hora%20de%20la%20merienda%3F%22%7D'%22%2C%20el%20fondo%20es%20la%20sala%20de%20estar.)**
+
+---
+
+### No. 24: Prompt para selfie de retrato en vuelo de clase ejecutiva
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un *prompt* JSON detallado para generar un retrato *selfie* ultra fotorrealista y de gran angular de una mujer joven en la cabina de un avión moderno de clase ejecutiva, especificando la iluminación, la pose, los detalles de la vestimenta (incluyendo zapatillas deportivas gruesas) y la configuración de la cámara.
+
+#### 📝 Prompt
+
+```
+{
+  "scene": {
+    "environment": "cabina de clase ejecutiva de un avión moderno",
+    "aircraft_details": "ventanas anchas y curvas, iluminación superior suave, paneles interiores elegantes de color gris",
+    "seat_layout": "asiento tipo cápsula premium con pantalla personal, consola lateral, compartimentos de almacenamiento",
+    "props": {
+      "bag": "bolso de mano de lujo con monograma colocado en la mesa lateral",
+      "book": "libro grande y colorido apoyado en el asiento",
+      "monitor": "pantalla de entretenimiento de la aerolínea con interfaz de vuelo"
+    },
+    "lighting": "luz diurna suave y difusa proveniente de las ventanas del avión",
+    "mood": "momento de vuelo tranquilo, espontáneo y relajado"
+  },
+  "camera": {
+    "angle": "perspectiva de selfie de gran angular",
+    "position": "ligeramente por encima y a la izquierda del sujeto, punto de vista con el brazo extendido",
+    "lens": "lente gran angular de 24 mm",
+    "framing": "sujeto centrado en el asiento, piernas extendidas, cabina visible detrás",
+    "depth_of_field": "medio, enfoque nítido en el sujeto y el asiento"
+  },
+  "subject": {
+    "gender": "femenino",
+    "age": "adulto joven",
+    "pose": "relajada, recostada en el asiento, una mano cerca de la cara, pies apoyados en el otomán",
+    "expression": "tranquila, ligeramente juguetona, aspecto natural",
+    "clothing": {
+      "hoodie": {
+        "type": "sudadera con capucha extragrande",
+        "color": "verde bosque profundo",
+        "material": "felpa de algodón suave"
+      },
+      "shorts": {
+        "type": "pantalones cortos cargo holgados",
+        "color": "azul marino",
+        "texture": "algodón mate"
+      },
+      "socks": {
+        "color": "gris"
+      },
+      "shoes": {
+        "type": "zapatillas deportivas gruesas",
+        "colorway": "base blanca con detalles en verde azulado y naranja neón en lugar de amarillo-negro",
+        "material": "malla y goma con tiras reflectantes"
+      }
+    },
+    "skin_details": "textura de piel natural muy realista, reflejos suaves, maquillaje sutil"
+  },
+  "effects": {
+    "realism": "ultra_fotorrealista",
+    "color_grading": "tonos neutros de luz diurna, contraste suave",
+    "noise": "mínimo",
+    "sharpness": "alto microdetalle en telas y superficies de la cabina"
+  }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122644412_4m911h_G7duikbaoAAGgLn.jpg" width="600" alt="Prompt para selfie de retrato en vuelo de clase ejecutiva - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Shreya Yadav](https://x.com/ShreyaYadav___)
+- **Fuente:** [Twitter Post](https://x.com/ShreyaYadav___/status/1997186517853454700)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22cabina%20de%20clase%20ejecutiva%20de%20un%20avi%C3%B3n%20moderno%22%2C%0A%20%20%20%20%22aircraft_details%22%3A%20%22ventanas%20anchas%20y%20curvas%2C%20iluminaci%C3%B3n%20superior%20suave%2C%20paneles%20interiores%20elegantes%20de%20color%20gris%22%2C%0A%20%20%20%20%22seat_layout%22%3A%20%22asiento%20tipo%20c%C3%A1psula%20premium%20con%20pantalla%20personal%2C%20consola%20lateral%2C%20compartimentos%20de%20almacenamiento%22%2C%0A%20%20%20%20%22props%22%3A%20%7B%0A%20%20%20%20%20%20%22bag%22%3A%20%22bolso%20de%20mano%20de%20lujo%20con%20monograma%20colocado%20en%20la%20mesa%20lateral%22%2C%0A%20%20%20%20%20%20%22book%22%3A%20%22libro%20grande%20y%20colorido%20apoyado%20en%20el%20asiento%22%2C%0A%20%20%20%20%20%20%22monitor%22%3A%20%22pantalla%20de%20entretenimiento%20de%20la%20aerol%C3%ADnea%20con%20interfaz%20de%20vuelo%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lighting%22%3A%20%22luz%20diurna%20suave%20y%20difusa%20proveniente%20de%20las%20ventanas%20del%20avi%C3%B3n%22%2C%0A%20%20%20%20%22mood%22%3A%20%22momento%20de%20vuelo%20tranquilo%2C%20espont%C3%A1neo%20y%20relajado%22%0A%20%20%7D%2C%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22perspectiva%20de%20selfie%20de%20gran%20angular%22%2C%0A%20%20%20%20%22position%22%3A%20%22ligeramente%20por%20encima%20y%20a%20la%20izquierda%20del%20sujeto%2C%20punto%20de%20vista%20con%20el%20brazo%20extendido%22%2C%0A%20%20%20%20%22lens%22%3A%20%22lente%20gran%20angular%20de%2024%20mm%22%2C%0A%20%20%20%20%22framing%22%3A%20%22sujeto%20centrado%20en%20el%20asiento%2C%20piernas%20extendidas%2C%20cabina%20visible%20detr%C3%A1s%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22medio%2C%20enfoque%20n%C3%ADtido%20en%20el%20sujeto%20y%20el%20asiento%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22femenino%22%2C%0A%20%20%20%20%22age%22%3A%20%22adulto%20joven%22%2C%0A%20%20%20%20%22pose%22%3A%20%22relajada%2C%20recostada%20en%20el%20asiento%2C%20una%20mano%20cerca%20de%20la%20cara%2C%20pies%20apoyados%20en%20el%20otom%C3%A1n%22%2C%0A%20%20%20%20%22expression%22%3A%20%22tranquila%2C%20ligeramente%20juguetona%2C%20aspecto%20natural%22%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22hoodie%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22sudadera%20con%20capucha%20extragrande%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22verde%20bosque%20profundo%22%2C%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22felpa%20de%20algod%C3%B3n%20suave%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shorts%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22pantalones%20cortos%20cargo%20holgados%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22azul%20marino%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22algod%C3%B3n%20mate%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22socks%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22gris%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shoes%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22zapatillas%20deportivas%20gruesas%22%2C%0A%20%20%20%20%20%20%20%20%22colorway%22%3A%20%22base%20blanca%20con%20detalles%20en%20verde%20azulado%20y%20naranja%20ne%C3%B3n%20en%20lugar%20de%20amarillo-negro%22%2C%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22malla%20y%20goma%20con%20tiras%20reflectantes%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22skin_details%22%3A%20%22textura%20de%20piel%20natural%20muy%20realista%2C%20reflejos%20suaves%2C%20maquillaje%20sutil%22%0A%20%20%7D%2C%0A%20%20%22effects%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22ultra_fotorrealista%22%2C%0A%20%20%20%20%22color_grading%22%3A%20%22tonos%20neutros%20de%20luz%20diurna%2C%20contraste%20suave%22%2C%0A%20%20%20%20%22noise%22%3A%20%22m%C3%ADnimo%22%2C%0A%20%20%20%20%22sharpness%22%3A%20%22alto%20microdetalle%20en%20telas%20y%20superficies%20de%20la%20cabina%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 25: Prompt de ilustración de calcomanía troquelada con texto en japonés
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado para que Nano Banana Pro transforme una imagen cargada en una ilustración de sticker troquelado. El estilo es una deformación chibi con contornos negros gruesos y colores planos y vibrantes. Crucialmente, especifica la ubicación de tres bloques de texto japonés vertical (derecha, izquierda y abajo) y requiere un borde blanco único y continuo que abarque toda la ilustración y todos los bloques de texto para crear una forma de sticker unificada.
+
+#### 📝 Prompt
+
+```
+Una ilustración de calcomanía troquelada basada en la imagen cargada. El sujeto se transforma en un estilo de ilustración deforme chibi, con contornos negros gruesos y audaces, colores planos y vibrantes, y una pose de caricatura. Texto japonés vertical grande "{argument name="right side comment" default="right side comment"}" en el lado derecho, texto japonés vertical "{argument name="left side comment" default="left side comment"}" en el lado izquierdo, y texto "{argument name="bottom comment" default="bottom comment"}" en el borde inferior. **Fundamentalmente, un borde troquelado blanco, único, grande y continuo debe abarcar todos los elementos por completo —rodeando la ilustración y todos los bloques de texto juntos— para crear una forma de calcomanía unificada y fácil de cortar sobre un fondo blanco liso.**
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122651472_5g1m6q_G7dLSUEb0AQPTN2.jpg" width="600" alt="Prompt de ilustración de calcomanía troquelada con texto en japonés - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122654946_ix7tbr_G7dLM68bIAAEKt7.jpg" width="600" alt="Prompt de ilustración de calcomanía troquelada con texto en japonés - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [清水勇人｜DMM .com 亀ちょく本部長 / DMMホールディングス 代表取締役](https://x.com/HAYXtqsWTN58832)
+- **Fuente:** [Twitter Post](https://x.com/HAYXtqsWTN58832/status/1997147760093511730)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20ilustraci%C3%B3n%20de%20calcoman%C3%ADa%20troquelada%20basada%20en%20la%20imagen%20cargada.%20El%20sujeto%20se%20transforma%20en%20un%20estilo%20de%20ilustraci%C3%B3n%20deforme%20chibi%2C%20con%20contornos%20negros%20gruesos%20y%20audaces%2C%20colores%20planos%20y%20vibrantes%2C%20y%20una%20pose%20de%20caricatura.%20Texto%20japon%C3%A9s%20vertical%20grande%20%22%7Bargument%20name%3D%22right%20side%20comment%22%20default%3D%22right%20side%20comment%22%7D%22%20en%20el%20lado%20derecho%2C%20texto%20japon%C3%A9s%20vertical%20%22%7Bargument%20name%3D%22left%20side%20comment%22%20default%3D%22left%20side%20comment%22%7D%22%20en%20el%20lado%20izquierdo%2C%20y%20texto%20%22%7Bargument%20name%3D%22bottom%20comment%22%20default%3D%22bottom%20comment%22%7D%22%20en%20el%20borde%20inferior.%20**Fundamentalmente%2C%20un%20borde%20troquelado%20blanco%2C%20%C3%BAnico%2C%20grande%20y%20continuo%20debe%20abarcar%20todos%20los%20elementos%20por%20completo%20%E2%80%94rodeando%20la%20ilustraci%C3%B3n%20y%20todos%20los%20bloques%20de%20texto%20juntos%E2%80%94%20para%20crear%20una%20forma%20de%20calcoman%C3%ADa%20unificada%20y%20f%C3%A1cil%20de%20cortar%20sobre%20un%20fondo%20blanco%20liso.**)**
+
+---
+
+### No. 26: Prompt para la generación de guiones gráficos cinematográficos
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt diseñado para Nano Banana Pro para generar un guion gráfico cinematográfico (E-Konte) basado en una imagen cargada y una descripción de la escena. Le indica a la IA que analice la escena, proponga movimientos y ángulos de cámara tipo película, y organice las imágenes resultantes en un diseño de panel de cómic que fluya de arriba a la derecha a abajo a la izquierda, enfatizando los momentos clave y las transiciones.
+
+#### 📝 Prompt
+
+```
+Crea el guion gráfico óptimo (E-Konte) para la escena de la imagen cargada, enfatizando los momentos importantes y las transiciones de escena utilizando ángulos cinematográficos, movimientos de cámara y composición que capturen la atmósfera y el flujo de la historia.
+Los elementos visuales de la escena deben desarrollarse en un diseño de panel de cómic, fluyendo de arriba a la derecha hacia abajo a la izquierda.
+
+Escena: {argument name="scene" default="Una paloma desciende sobre la chica en la pantalla"}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122651131_hh83hi_G7cuqa1bgAAj2RT.jpg" width="600" alt="Prompt para la generación de guiones gráficos cinematográficos - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122656319_7l770w_G7cusvub0AE3XZR.jpg" width="600" alt="Prompt para la generación de guiones gráficos cinematográficos - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [シュナプーン](https://x.com/schnapoon)
+- **Fuente:** [Twitter Post](https://x.com/schnapoon/status/1997138942424907884)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20el%20guion%20gr%C3%A1fico%20%C3%B3ptimo%20(E-Konte)%20para%20la%20escena%20de%20la%20imagen%20cargada%2C%20enfatizando%20los%20momentos%20importantes%20y%20las%20transiciones%20de%20escena%20utilizando%20%C3%A1ngulos%20cinematogr%C3%A1ficos%2C%20movimientos%20de%20c%C3%A1mara%20y%20composici%C3%B3n%20que%20capturen%20la%20atm%C3%B3sfera%20y%20el%20flujo%20de%20la%20historia.%0ALos%20elementos%20visuales%20de%20la%20escena%20deben%20desarrollarse%20en%20un%20dise%C3%B1o%20de%20panel%20de%20c%C3%B3mic%2C%20fluyendo%20de%20arriba%20a%20la%20derecha%20hacia%20abajo%20a%20la%20izquierda.%0A%0AEscena%3A%20%7Bargument%20name%3D%22scene%22%20default%3D%22Una%20paloma%20desciende%20sobre%20la%20chica%20en%20la%20pantalla%22%7D)**
+
+---
+
+### No. 27: Prompt: Mujer al estilo de la pintura japonesa
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Un prompt sencillo para Nano Banana Pro que solicita una imagen de una mujer con cabello negro corto, renderizada al estilo de la pintura tradicional japonesa (Nihonga).
+
+#### 📝 Prompt
+
+```
+Una mujer con cabello negro corto al estilo de pintura japonesa (Nihonga)
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122664807_1zr77e_G7c1nxqb0AAiFa5.jpg" width="600" alt="Prompt: Mujer al estilo de la pintura japonesa - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [うみつる](https://x.com/umitsuru_fire)
+- **Fuente:** [Twitter Post](https://x.com/umitsuru_fire/status/1997123949675925529)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20mujer%20con%20cabello%20negro%20corto%20al%20estilo%20de%20pintura%20japonesa%20(Nihonga))**
+
+---
+
+### No. 28: Prompt de "Gigante asomándose en Shinjuku"
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descripción
+
+Una instrucción creativa para que Nano Banana Pro genere una imagen surrealista que represente una versión gigante del usuario asomándose entre los rascacielos de Shinjuku, Tokio.
+
+#### 📝 Prompt
+
+```
+Una versión gigante de mí mismo mirando hacia abajo desde entre los rascacielos de Shinjuku
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122695221_afj9zi_G7Xht8EasAARHnd.jpg" width="600" alt="Prompt de "Gigante asomándose en Shinjuku" - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [岡田泰彦｜光邦｜巻き込まれ型AIエヴァンジェリスト](https://x.com/KohoOkada)
+- **Fuente:** [Twitter Post](https://x.com/KohoOkada/status/1997109736723173814)
+- **Publicado:** 6 de diciembre de 2025
+- **Idiomas:** ja
+
+**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20versi%C3%B3n%20gigante%20de%20m%C3%AD%20mismo%20mirando%20hacia%20abajo%20desde%20entre%20los%20rascacielos%20de%20Shinjuku)**
+
+---
+
+### No. 29: Render de rayos X térmico de alto contraste de un robot Android
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -856,7 +2204,7 @@ El robot de Google Android, presentado en una representación de estudio cientí
 
 ---
 
-### No. 3: Prompts de generación de imágenes y videos en varios pasos (Grok Imagine, Seedream, Nano Banana Pro)
+### No. 30: Prompts de generación de imágenes y videos en varios pasos (Grok Imagine, Seedream, Nano Banana Pro)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -889,7 +2237,7 @@ Una imagen donde el gato de la Imagen 2 empuja el texto "いいね" (Me gusta) d
 
 ---
 
-### No. 4: Prompt de diagrama de pictograma isométrico para Nano Banana Pro
+### No. 31: Prompt de diagrama de pictograma isométrico para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -922,7 +2270,7 @@ Cree un diagrama de pictograma isométrico para "Pasos para calmar el enojo (man
 
 ---
 
-### No. 5: Indicación para el flujo de trabajo de "Coffee Shot Cinematic Disaster"
+### No. 32: Indicación para el flujo de trabajo de "Coffee Shot Cinematic Disaster"
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -955,7 +2303,7 @@ Un solo shot de café se convirtió en un pequeño desastre cinematográfico.
 
 ---
 
-### No. 6: Prompt de consistencia de imagen y transferencia de estilo
+### No. 33: Prompt de consistencia de imagen y transferencia de estilo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -994,7 +2342,7 @@ Recrea a la persona de la imagen adjunta en diferentes perspectivas de cámara. 
 
 ---
 
-### No. 7: Prompt de retrato de ventana en claroscuro
+### No. 34: Prompt de retrato de ventana en claroscuro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1049,7 +2397,7 @@ Un prompt detallado en formato JSON para Nano Banana Pro, enfocado en un retrato
 
 ---
 
-### No. 8: Indicación para la interpretación de miniaturas de video
+### No. 35: Indicación para la interpretación de miniaturas de video
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1090,7 +2438,7 @@ formato de salida esperado: texto pequeño, fácil de leer, en formato de bloque
 
 ---
 
-### No. 9: Nano Banana Pro: Idea de negocio ficticia para un prompt
+### No. 36: Nano Banana Pro: Idea de negocio ficticia para un prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1123,7 +2471,7 @@ Un negocio en el que pones la marca de una empresa ganadora en el palito de hela
 
 ---
 
-### No. 10: Fotografía comparativa de Apple Vision Pro deconstruido
+### No. 37: Fotografía comparativa de Apple Vision Pro deconstruido
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1159,7 +2507,7 @@ Fondo gris oscuro limpio, ángulo cenital alto, estética industrial minimalista
 
 ---
 
-### No. 11: Prompt para selfie de espejo de chica gamer viral
+### No. 38: Prompt para selfie de espejo de chica gamer viral
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1279,7 +2627,7 @@ Un prompt detallado en formato JSON diseñado para generar una selfie "viral" de
 
 ---
 
-### No. 12: Plantilla de prompt para arte con IA de alta resolución
+### No. 39: Plantilla de prompt para arte con IA de alta resolución
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1318,7 +2666,7 @@ Una plantilla de prompt que enfatiza la importancia de definir la resolución y 
 
 ---
 
-### No. 13: HUD de indicaciones para editor de fotos profesional
+### No. 40: HUD de indicaciones para editor de fotos profesional
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1399,7 +2747,7 @@ Un prompt JSON detallado para que Nano Banana Pro genere una imagen de un editor
 
 ---
 
-### No. 14: Prompt de transferencia de estilo artístico vectorial minimalista y colorido
+### No. 41: Prompt de transferencia de estilo artístico vectorial minimalista y colorido
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1450,7 +2798,7 @@ convierte tus fotos en arte colorido, minimalista y estilo vectorial
 
 ---
 
-### No. 15: Retro Photo Booth Strip Prompt para una pareja
+### No. 42: Retro Photo Booth Strip Prompt para una pareja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1528,7 +2876,7 @@ Un prompt detallado en formato JSON diseñado para que Nano Banana genere un col
 
 ---
 
-### No. 16: Prompt sencillo para generar miniaturas de YouTube
+### No. 43: Prompt sencillo para generar miniaturas de YouTube
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1570,7 +2918,7 @@ Un prompt muy simple utilizado para generar una miniatura de YouTube con Nano Ba
 
 ---
 
-### No. 17: Prompt para selfi de pareja con cabezas de caja
+### No. 44: Prompt para selfi de pareja con cabezas de caja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1693,7 +3041,7 @@ Un *prompt* JSON altamente detallado para Nano Banana Pro que genera una *selfie
 
 ---
 
-### No. 18: Prompt de retrato callejero cinematográfico para Nano Banana Pro
+### No. 45: Prompt de retrato callejero cinematográfico para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1783,7 +3131,7 @@ Un *prompt* altamente estructurado diseñado para crear un retrato callejero gen
 
 ---
 
-### No. 19: Prompt de generación de video con IA para un superhéroe volador
+### No. 46: Prompt de generación de video con IA para un superhéroe volador
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1820,7 +3168,7 @@ Cámara: Travelling / Dolly hacia adelante. La cámara la sigue a la misma veloc
 
 ---
 
-### No. 20: Escena surrealista en la piscina al estilo de Guy Bourdin
+### No. 47: Escena surrealista en la piscina al estilo de Guy Bourdin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1853,7 +3201,7 @@ Al estilo de Guy Bourdin. Una piscina vintage vacía, revestida con azulejos car
 
 ---
 
-### No. 21: Ciudad 3D en miniatura con aviso de clima en vivo
+### No. 48: Ciudad 3D en miniatura con aviso de clima en vivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1888,7 +3236,7 @@ Ciudad 3D en miniatura + Clima en vivo
 
 ---
 
-### No. 22: Generación de elementos visuales a partir de noticias coreanas en tiempo real
+### No. 49: Generación de elementos visuales a partir de noticias coreanas en tiempo real
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -1927,7 +3275,7 @@ Genera una imagen representativa basada en las noticias de última hora de Corea
 
 ---
 
-### No. 23: Imagen de comparación de VFX (antes/después) para Nano Banana Pro
+### No. 50: Imagen de comparación de VFX (antes/después) para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1981,7 +3329,7 @@ Aspecto y sensación de los VFX de antes y después del cine japonés de princip
 
 ---
 
-### No. 24: Prompt para una escena de oficina surrealista bajo el agua
+### No. 51: Prompt para una escena de oficina surrealista bajo el agua
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2014,7 +3362,7 @@ Una fotografía surrealista y onírica de un entorno de oficina completo sumergi
 
 ---
 
-### No. 25: Prompt de escalado 4K para Nano Banana Pro
+### No. 52: Prompt de escalado 4K para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2047,7 +3395,7 @@ Por favor, mejora la resolución a 4K.
 
 ---
 
-### No. 26: Generación de contenido para redes sociales para una marca de aceite de oliva
+### No. 53: Generación de contenido para redes sociales para una marca de aceite de oliva
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2080,7 +3428,7 @@ Crea un feed de redes sociales para una marca de aceite de oliva de producción 
 
 ---
 
-### No. 27: Creación de contenido para redes sociales para una marca de aceite de oliva
+### No. 54: Creación de contenido para redes sociales para una marca de aceite de oliva
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2113,7 +3461,7 @@ Crea un feed social para una marca de aceite de oliva de producción limitada.
 
 ---
 
-### No. 28: Generación de manga con IA con Nano Banana Pro
+### No. 55: Generación de manga con IA con Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2151,7 +3499,7 @@ Este tuit muestra el uso de Nano Banana Pro para generar contenido de manga con 
 
 ---
 
-### No. 29: Nano Banana Pro: prompt para un aspecto no IA
+### No. 56: Nano Banana Pro: prompt para un aspecto no IA
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2184,7 +3532,7 @@ Estrategia de diseño x IA
 
 ---
 
-### No. 30: Prompt de generación de diapositivas de diseño plano de alta calidad
+### No. 57: Prompt de generación de diapositivas de diseño plano de alta calidad
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2239,7 +3587,7 @@ Maximiza el espacio en blanco, centrándote en la visibilidad y un diseño equil
 
 ---
 
-### No. 31: Nano Banana Pro: Prompt para escena nostálgica
+### No. 58: Nano Banana Pro: Prompt para escena nostálgica
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2284,7 +3632,7 @@ El pueblo natal, en esa hermosa distancia, la esperanza en el cuerpo, los sueño
 
 ---
 
-### No. 32: Selfie en el auto con galleta de queso
+### No. 59: Selfie en el auto con galleta de queso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2341,7 +3689,7 @@ Un *prompt* JSON estructurado para generar una imagen de una mujer joven guiñan
 
 ---
 
-### No. 33: Indicación de edición de imagen: Añadir una casita de juegos detrás del personaje
+### No. 60: Indicación de edición de imagen: Añadir una casita de juegos detrás del personaje
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2380,7 +3728,7 @@ agrega una casita de juegos detrás de Mickey
 
 ---
 
-### No. 34: Prompt de retrato hiperrealista detallado para Nano Banana Pro
+### No. 61: Prompt de retrato hiperrealista detallado para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2462,7 +3810,7 @@ Un prompt altamente estructurado y detallado para Nano Banana Pro, enfocado en g
 
 ---
 
-### No. 35: Modificador de estilo para realismo de caricaturas de los 90
+### No. 62: Modificador de estilo para realismo de caricaturas de los 90
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2501,7 +3849,7 @@ estilo de caricatura de realismo literal
 
 ---
 
-### No. 36: Prompt de generación de imágenes para caricaturas 3D estilizadas
+### No. 63: Prompt de generación de imágenes para caricaturas 3D estilizadas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2540,7 +3888,7 @@ Una caricatura 3D muy estilizada de la persona en la imagen cargada, con rasgos 
 
 ---
 
-### No. 37: JSON detallado para un retrato estético con Canon IXUS
+### No. 64: JSON detallado para un retrato estético con Canon IXUS
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2623,7 +3971,7 @@ Un *prompt* JSON estructurado para Gemini Nano Banana Pro, con el objetivo de ge
 
 ---
 
-### No. 38: Genera una cuadrícula de múltiples ángulos a partir de una sola imagen
+### No. 65: Genera una cuadrícula de múltiples ángulos a partir de una sola imagen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2656,7 +4004,7 @@ En una cuadrícula de 3x3, muéstrame diferentes ángulos de esta escena.
 
 ---
 
-### No. 39: Prompt detallado en francés para retrato urbano de athleisure
+### No. 66: Prompt detallado en francés para retrato urbano de athleisure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2689,7 +4037,7 @@ Una mujer con cabello largo, liso y negro, con la raya ligeramente descentrada, 
 
 ---
 
-### No. 40: Instrucciones JSON detalladas para un retrato cinematográfico de invierno tipo selfie
+### No. 67: Instrucciones JSON detalladas para un retrato cinematográfico de invierno tipo selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2775,7 +4123,7 @@ Un prompt JSON complejo y estructurado para Nano Banana Pro, enfocado en generar
 
 ---
 
-### No. 41: Plantilla de póster de rutina para niños
+### No. 68: Plantilla de póster de rutina para niños
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2808,7 +4156,7 @@ Crea un póster infantil de "Cómo cepillarse los dientes" con dientes de carica
 
 ---
 
-### No. 42: Prompt para la generación de guiones gráficos cinematográficos
+### No. 69: Prompt para la generación de guiones gráficos cinematográficos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2841,7 +4189,7 @@ Crea un guion gráfico cinematográfico de 9 paneles ambientado en una atmósfer
 
 ---
 
-### No. 43: Prompt para retrato de hoja de contactos de película analógica de los años 2000
+### No. 70: Prompt para retrato de hoja de contactos de película analógica de los años 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2884,7 +4232,7 @@ Detalles: Bordes de película visibles con el texto "KODAK 160NC", números de f
 
 ---
 
-### No. 44: Instrucciones para caricaturas 3D a partir de una imagen cargada
+### No. 71: Instrucciones para caricaturas 3D a partir de una imagen cargada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2923,7 +4271,7 @@ Una caricatura 3D altamente estilizada de la persona en la imagen subida, con ra
 
 ---
 
-### No. 45: JSON detallado para un "prompt" de retrato tipo "selfie" de auto
+### No. 72: JSON detallado para un "prompt" de retrato tipo "selfie" de auto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3010,7 +4358,7 @@ Un prompt JSON altamente detallado y estructurado, diseñado para que Nano Banan
 
 ---
 
-### No. 46: Instrucciones para la generación de subtítulos base de YouTube
+### No. 73: Instrucciones para la generación de subtítulos base de YouTube
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3095,7 +4443,7 @@ Un prompt integral diseñado para Nano Banana Pro para generar bases de subtítu
 
 ---
 
-### No. 47: Prompt para la generación de stickers de LINE
+### No. 74: Prompt para la generación de stickers de LINE
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3160,7 +4508,7 @@ Frase: {argument name="phrase 9" default="No sé"}
 
 ---
 
-### No. 48: Ilustración de fondo de cielo cinematográfico al estilo de Makoto Shinkai
+### No. 75: Ilustración de fondo de cielo cinematográfico al estilo de Makoto Shinkai
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3208,7 +4556,7 @@ El color general debe ser claro y saturado, pero no áspero. El contraste entre 
 
 ---
 
-### No. 49: Indicaciones de estilo de ilustración de libros infantiles para dibujar personajes
+### No. 76: Indicaciones de estilo de ilustración de libros infantiles para dibujar personajes
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3284,7 +4632,7 @@ DIBUJO de {argument name="character" default="[Character]"}, crayón sobre papel
 
 ---
 
-### No. 50: Prompt de póster de calendario cinematográfico 2026
+### No. 77: Prompt de póster de calendario cinematográfico 2026
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3320,7 +4668,7 @@ Firma: Shreya Yadav
 
 ---
 
-### No. 51: Prompt para transformar una selfie en una foto profesional para currículum
+### No. 78: Prompt para transformar una selfie en una foto profesional para currículum
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3365,7 +4713,7 @@ Estilo estudio, nítido, fondo neutro.
 
 ---
 
-### No. 52: Póster de anime pop-art inspirado en Persona 5 para un personaje chuunibyou personalizado
+### No. 79: Póster de anime pop-art inspirado en Persona 5 para un personaje chuunibyou personalizado
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3415,7 +4763,7 @@ El ambiente general debe ser extremadamente dinámico, extremadamente chuunibyou
 
 ---
 
-### No. 53: Edición de imagen de viñeta de manga: Escena de Katsu Curry
+### No. 80: Edición de imagen de viñeta de manga: Escena de Katsu Curry
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3457,7 +4805,7 @@ Además, por favor, borra los palillos que se sostienen en la mano derecha.
 
 ---
 
-### No. 54: Indicación de rediseño de folleto usando Nano Banana Pro
+### No. 81: Indicación de rediseño de folleto usando Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3508,7 +4856,7 @@ Quiero crear un diseño de volante para un evento. La imagen de referencia es so
 
 ---
 
-### No. 55: Captura de pantalla de una cámara digital compacta con una mujer joven
+### No. 82: Captura de pantalla de una cámara digital compacta con una mujer joven
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3552,7 +4900,7 @@ Estilo de gradación de color: Tono nostálgico de cámara digital, efecto de fl
 
 ---
 
-### No. 56: Selfie de ojo de pez con personajes de películas usando Nano Banana Pro
+### No. 83: Selfie de ojo de pez con personajes de películas usando Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3608,7 +4956,7 @@ Iluminación y textura: Iluminación de flash directo y fuerte que crea sombras 
 
 ---
 
-### No. 57: Superposición de postal de chica escrita a mano estilo Y2K
+### No. 84: Superposición de postal de chica escrita a mano estilo Y2K
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3648,7 +4996,7 @@ Agrega texto y dibujos peculiares hechos a mano al estilo de una chica escritos 
 
 ---
 
-### No. 58: Prompt de imagen simple de perro y Santa de Navidad
+### No. 85: Prompt de imagen simple de perro y Santa de Navidad
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3694,7 +5042,7 @@ Un *prompt* japonés muy corto usado en varios modelos para generar una imagen d
 
 ---
 
-### No. 59: Sora: guion de video para comercial de Macho Meal de McDonald's
+### No. 86: Sora: guion de video para comercial de Macho Meal de McDonald's
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3734,7 +5082,7 @@ Auténtico comercial vintage de los 80 de la {argument name="product name in eng
 
 ---
 
-### No. 60: Prompt de simulación de selfie de pareja con pantalla de MacBook
+### No. 87: Prompt de simulación de selfie de pareja con pantalla de MacBook
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3833,7 +5181,7 @@ Una configuración JSON compleja para simular una pantalla de MacBook hiperreali
 
 ---
 
-### No. 61: Imagen de letrero de entrada de izakaya japonés para Nano Banana Pro
+### No. 88: Imagen de letrero de entrada de izakaya japonés para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3877,7 +5225,7 @@ calidad fotorrealista
 
 ---
 
-### No. 62: Prompt de consistencia de chica anime en tres poses
+### No. 89: Prompt de consistencia de chica anime en tres poses
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3917,7 +5265,7 @@ Una ilustración estilo anime de {argument name="the same girl" default="la mism
 
 ---
 
-### No. 63: Guía de estilo para la expresión en el diseño de personajes
+### No. 90: Guía de estilo para la expresión en el diseño de personajes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3950,7 +5298,7 @@ Crea una guía de estilo de expresión para el diseño de personajes de la image
 
 ---
 
-### No. 64: Marco de ilustración de caja de luz de corte de papel 3D
+### No. 91: Marco de ilustración de caja de luz de corte de papel 3D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4031,7 +5379,7 @@ Parámetros técnicos: relación vertical 3:4, salida de alta resolución.
 
 ---
 
-### No. 65: Escena fotorealista de un café callejero en Málaga, tomada con un iPhone
+### No. 92: Escena fotorealista de un café callejero en Málaga, tomada con un iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4071,7 +5419,7 @@ Genera una imagen fotorrealista tomada con un {argument name="device" default="i
 
 ---
 
-### No. 66: Retrato cinematográfico de primer plano con ojos verdes y suéter de punto
+### No. 93: Retrato cinematográfico de primer plano con ojos verdes y suéter de punto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4104,7 +5452,7 @@ Retrato cinematográfico en primer plano de una mujer joven con flequillo oscuro
 
 ---
 
-### No. 67: Selfie de deportes extremos al estilo GoPro
+### No. 94: Selfie de deportes extremos al estilo GoPro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4144,7 +5492,7 @@ Una selfie hiperrealista estilo GoPro de {argument name="subject in english" def
 
 ---
 
-### No. 68: Indicación para retrato en terraza de café en el barrio de Le Marais, París
+### No. 95: Indicación para retrato en terraza de café en el barrio de Le Marais, París
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4184,7 +5532,7 @@ Genera una imagen fotorrealista de la terraza de un café en el {argument name="
 
 ---
 
-### No. 69: Retrato de mujer elegante en minivestido marrón.
+### No. 96: Retrato de mujer elegante en minivestido marrón.
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4225,7 +5573,7 @@ Un prompt envuelto en JSON que describe a una mujer segura de sí misma con un m
 
 ---
 
-### No. 70: Prompt para fotografía de retratos en la azotea durante la hora dorada
+### No. 97: Prompt para fotografía de retratos en la azotea durante la hora dorada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4264,7 +5612,7 @@ Una persona de pie en la azotea de un edificio en la ciudad durante la hora dora
 
 ---
 
-### No. 71: Nano Banana Pro: prompt de edición para cambiar de estilo, tipo papel rasgado
+### No. 98: Nano Banana Pro: prompt de edición para cambiar de estilo, tipo papel rasgado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4380,7 +5728,7 @@ interior_style:
 
 ---
 
-### No. 72: Nano Banana Pro, ilustración de líneas de corte para ropa estilo meme, prompt
+### No. 99: Nano Banana Pro, ilustración de líneas de corte para ropa estilo meme, prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4450,7 +5798,7 @@ Crear una "ilustración estilo meme donde la ropa se recorta según los recuento
 
 ---
 
-### No. 73: Indicaciones para la ilustración de un personaje de esfera de nieve para Nano Banana Pro
+### No. 100: Indicaciones para la ilustración de un personaje de esfera de nieve para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4510,7 +5858,7 @@ No muestres dedos humanos. No hagas que la cola del perro mapache sea rayada.
 
 ---
 
-### No. 74: Prompts de generación de mapas normales y de profundidad para Nano Banana Pro
+### No. 101: Prompts de generación de mapas normales y de profundidad para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4569,7 +5917,7 @@ Requisitos:
 
 ---
 
-### No. 75: Indicación sencilla para mejorar y reparar fotos
+### No. 102: Indicación sencilla para mejorar y reparar fotos
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4608,7 +5956,7 @@ Repara la foto, mejora la resolución de esta imagen a 2K y hazla completamente 
 
 ---
 
-### No. 76: Guía de estilo de diseño de diapositivas limpias y planas para NotebookLM
+### No. 103: Guía de estilo de diseño de diapositivas limpias y planas para NotebookLM
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4665,7 +6013,7 @@ Se deja suficiente espacio en blanco para priorizar la legibilidad y una composi
 
 ---
 
-### No. 77: Instrucciones para una presentación de selfies en el espejo para una mujer joven con estilo
+### No. 104: Instrucciones para una presentación de selfies en el espejo para una mujer joven con estilo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4765,7 +6113,7 @@ Un prompt de presentación de Nano Banana Pro altamente estructurado que describ
 
 ---
 
-### No. 78: Prompt para ilustración aérea estilo dron de Google Maps con caricaturas
+### No. 105: Prompt para ilustración aérea estilo dron de Google Maps con caricaturas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4804,7 +6152,7 @@ Transforma esta vista de mapa aéreo en una fotografía aérea ilustrada, captur
 
 ---
 
-### No. 79: Retrato estilizado de una mujer joven en un ángulo bajo, en una habitación con poca luz
+### No. 106: Retrato estilizado de una mujer joven en un ángulo bajo, en una habitación con poca luz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4899,7 +6247,7 @@ Un prompt JSON estructurado para que Gemini Nano Banana Pro genere una fotograf�
 
 ---
 
-### No. 80: Edición ultra realista en 16K de una selfie de una chica soñando despierta sobre una manta
+### No. 107: Edición ultra realista en 16K de una selfie de una chica soñando despierta sobre una manta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4933,7 +6281,7 @@ Edita la foto en resolución ultra realista de 16K. Una chica {argument name="su
 
 ---
 
-### No. 81: Prompt de escena de escritorio de naturaleza muerta matutina en 8K, altamente detallada
+### No. 108: Prompt de escena de escritorio de naturaleza muerta matutina en 8K, altamente detallada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4978,7 +6326,7 @@ Máximo detalle de textura, dispersión subsuperficial, cáusticas, reflejos esp
 
 ---
 
-### No. 82: Parámetro de estilo de prompt para retrato de estudio de un sujeto masculino
+### No. 109: Parámetro de estilo de prompt para retrato de estudio de un sujeto masculino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5043,7 +6391,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 83: Indicación de fotografía de producto para una escena de atlas de un pop-up de Tokio
+### No. 110: Indicación de fotografía de producto para una escena de atlas de un pop-up de Tokio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5077,7 +6425,7 @@ Un atlas de tapa dura abierto yace plano, con una miniatura pop-up de precisión
 
 ---
 
-### No. 84: Plantilla de prompt JSON del sistema para influencers de IA ultrarrealistas al estilo iPhone
+### No. 111: Plantilla de prompt JSON del sistema para influencers de IA ultrarrealistas al estilo iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5185,7 +6533,7 @@ Espere la descripción de la escena por parte del usuario. Genere la salida JSON
 
 ---
 
-### No. 85: JSON Nano Banana Pro prompt para banco de trabajo de botánico steampunk
+### No. 112: JSON Nano Banana Pro prompt para banco de trabajo de botánico steampunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5235,41 +6583,7 @@ Un *prompt* detallado basado en JSON para Nano Banana Pro que describe un primer
 
 ---
 
-### No. 86: Desafío: Letras con vegetales
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un mensaje conciso de desafío creativo que le pide a Nano Banana Pro que deletree la palabra HARVEST utilizando únicamente texturas vegetales, útil para probar la tipografía y el renderizado de materiales.
-
-#### 📝 Prompt
-
-```
-Deletrea la palabra {argument name="word in English" default="HARVEST"} usando solo texturas de vegetales.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909168933_nqf49v_04S9vNQIoznRyZDI.jpg" width="600" alt="Desafío: Letras con vegetales - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [EyeingAI](https://x.com/EyeingAI)
-- **Fuente:** [Twitter Post](https://x.com/EyeingAI/status/1995861596992930026)
-- **Publicado:** 2 de diciembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Deletrea%20la%20palabra%20%7Bargument%20name%3D%22word%20in%20English%22%20default%3D%22HARVEST%22%7D%20usando%20solo%20texturas%20de%20vegetales.)**
-
----
-
-### No. 87: Prompt JSON estructurado para un retrato de una joven con ropa urbana elegante
+### No. 113: Prompt JSON estructurado para un retrato de una joven con ropa urbana elegante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5342,7 +6656,7 @@ Un prompt detallado para la generación de imágenes estilo JSON para Nano Banan
 
 ---
 
-### No. 88: Concepto de prompt: lugar de viaje en miniatura 3D estilo chibi
+### No. 114: Concepto de prompt: lugar de viaje en miniatura 3D estilo chibi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5394,7 +6708,7 @@ Un concepto de viaje en miniatura estilo chibi 3D, ambientado en {argument name=
 
 ---
 
-### No. 89: Prompt de marca para tienda conceptual de chibis 3D
+### No. 115: Prompt de marca para tienda conceptual de chibis 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5428,7 +6742,7 @@ Tienda conceptual en miniatura estilo chibi 3D de {argument name="brand name in 
 
 ---
 
-### No. 90: Transforma una imagen de referencia en un pastel de Navidad realista
+### No. 116: Transforma una imagen de referencia en un pastel de Navidad realista
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5473,7 +6787,7 @@ Por favor, convierte la imagen de referencia en un pastel de Navidad realista.
 
 ---
 
-### No. 91: Concepto de silla colgante cinematográfica junto al lago con temática de objeto espacial
+### No. 117: Concepto de silla colgante cinematográfica junto al lago con temática de objeto espacial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5525,7 +6839,7 @@ Escena nocturna cinematográfica de un acogedor refugio al aire libre junto a la
 
 ---
 
-### No. 92: Prompt para una selfie de auto natural al estilo de Instagram
+### No. 118: Prompt para una selfie de auto natural al estilo de Instagram
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5573,7 +6887,7 @@ Colores: brillantes, luminosos y con tonos ligeramente cálidos. El rostro y la 
 
 ---
 
-### No. 93: Prompt para ilustración: Acorazado colosal al amanecer
+### No. 119: Prompt para ilustración: Acorazado colosal al amanecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5606,7 +6920,7 @@ Un acorazado colosal navegando por las tranquilas aguas del océano al amanecer.
 
 ---
 
-### No. 94: Logotipo de marca en relieve 3D sobre fondo monocromático
+### No. 120: Logotipo de marca en relieve 3D sobre fondo monocromático
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5648,7 +6962,7 @@ Iluminación suave y difusa con fuertes reflejos especulares en las esquinas red
 
 ---
 
-### No. 95: Prompt de Nano Banana Pro estilo JSON para rostros realistas
+### No. 121: Prompt de Nano Banana Pro estilo JSON para rostros realistas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5716,7 +7030,7 @@ Una plantilla de prompt JSON detallada para Nano Banana Pro que genera un retrat
 
 ---
 
-### No. 96: Prompt de imagen simple de uvas en una canasta
+### No. 122: Prompt de imagen simple de uvas en una canasta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5756,41 +7070,7 @@ Un *prompt* de imagen conciso de Nano Banana Pro para generar uvas en una canast
 
 ---
 
-### No. 97: Generador de publicaciones para redes sociales sobre aceite de oliva
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un mensaje de texto para generar un feed completo de redes sociales para una marca de aceite de oliva de lotes pequeños, que Nano Banana Pro luego usó para crear tomas de productos y etiquetas hiperrealistas.
-
-#### 📝 Prompt
-
-```
-Crea un feed de redes sociales para esta {argument name="brand type in English" default="marca de aceite de oliva de producción limitada"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909178669_ywr3is_gkAfLJuI96xTwChD.jpg" width="600" alt="Generador de publicaciones para redes sociales sobre aceite de oliva - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Aakash Verma](https://x.com/VermaAakash3)
-- **Fuente:** [Twitter Post](https://x.com/VermaAakash3/status/1995730717758947616)
-- **Publicado:** 2 de diciembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20feed%20de%20redes%20sociales%20para%20esta%20%7Bargument%20name%3D%22brand%20type%20in%20English%22%20default%3D%22marca%20de%20aceite%20de%20oliva%20de%20producci%C3%B3n%20limitada%22%7D.)**
-
----
-
-### No. 98: Concepto de tienda de marca de miniaturas 3D chibi
+### No. 123: Concepto de tienda de marca de miniaturas 3D chibi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5842,7 +7122,7 @@ Una tienda conceptual en miniatura estilo chibi 3D para {argument name="brand na
 
 ---
 
-### No. 99: Reemplazo de anuncios y prompt de adaptación de marca para Nano Banana Pro
+### No. 124: Reemplazo de anuncios y prompt de adaptación de marca para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5900,7 +7180,7 @@ Asegúrate de que la composición final se sienta auténtica al concepto del anu
 
 ---
 
-### No. 100: Selfie con un personaje de película usando una cara de referencia en Nano Banana Pro
+### No. 125: Selfie con un personaje de película usando una cara de referencia en Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5954,7 +7234,7 @@ Mantén a la persona exactamente como se muestra en la imagen de referencia con 
 
 ---
 
-### No. 101: Indicación de arte lineal para libro de colorear para Nano Banana Pro
+### No. 126: Indicación de arte lineal para libro de colorear para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6006,7 +7286,7 @@ Crea un dibujo lineal para una página para colorear. La edad objetivo es de {ar
 
 ---
 
-### No. 102: Escena invernal medieval en un libro antiguo ambientado en Pereira, Colombia
+### No. 127: Escena invernal medieval en un libro antiguo ambientado en Pereira, Colombia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6042,7 +7322,7 @@ Diseña una escena invernal medieval dentro de un libro antiguo
 
 ---
 
-### No. 103: Prompt de personaje fijo estilo Rorona para Nano Banana Pro / Gemini
+### No. 128: Prompt de personaje fijo estilo Rorona para Nano Banana Pro / Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6086,7 +7366,7 @@ personaje consistente, el mismo rostro en cada cuadro,
 
 ---
 
-### No. 104: Prompt para exhibición de dibujos animados en 3D de los edificios más altos de la ciudad
+### No. 129: Prompt para exhibición de dibujos animados en 3D de los edificios más altos de la ciudad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6135,7 +7415,7 @@ Utiliza una composición cuadrada de 1080×1080. Utiliza un fondo limpio y neutr
 
 ---
 
-### No. 105: Marco de estilo de fotoperiodismo de guerra de mediados del siglo XX
+### No. 130: Marco de estilo de fotoperiodismo de guerra de mediados del siglo XX
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6192,7 +7472,7 @@ Simule una película en blanco y negro de grano grueso y alta velocidad que ha s
 
 ---
 
-### No. 106: Escena de selfie de celebridades históricas (Michael Jackson y George W. Bush)
+### No. 131: Escena de selfie de celebridades históricas (Michael Jackson y George W. Bush)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6226,7 +7506,7 @@ Una selfie casual de {argument name="first person in English" default="Michael J
 
 ---
 
-### No. 107: Prompt de variación de retrato de Instagram de 9 cuadrículas para Nano Banana Pro
+### No. 132: Prompt de variación de retrato de Instagram de 9 cuadrículas para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6266,7 +7546,7 @@ Genere solo las {argument name="final number of outputs" default="9"} imágenes 
 
 ---
 
-### No. 108: JSON selfie-on-bed prompt para Nano Banana Pro
+### No. 133: JSON selfie-on-bed prompt para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6357,7 +7637,7 @@ Un prompt JSON estructurado que describe a una mujer joven acostada en una cama 
 
 ---
 
-### No. 109: Miniatura viral: Señalando con entusiasmo, tostadas de aguacate, "¡Listo en 3 minutos!"
+### No. 134: Miniatura viral: Señalando con entusiasmo, tostadas de aguacate, "¡Listo en 3 minutos!"
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6403,7 +7683,7 @@ Diseña una miniatura de video viral usando a la persona de la Imagen 1. Consist
 
 ---
 
-### No. 110: Foto de perfil POV de cita en cafetería para Nano Banana Pro
+### No. 135: Foto de perfil POV de cita en cafetería para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6497,7 +7777,7 @@ Un prompt detallado de generación de imágenes de Nano Banana Pro que crea una 
 
 ---
 
-### No. 111: JSON de prompt de espejo para selfie en auto para Nano Banana Pro
+### No. 136: JSON de prompt de espejo para selfie en auto para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6565,7 +7845,7 @@ Un prompt detallado en formato JSON para generar una selfie ultrarrealista de un
 
 ---
 
-### No. 112: Prompt de escena minimalista contemplativa de un muelle para Nano Banana Pro
+### No. 137: Prompt de escena minimalista contemplativa de un muelle para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6599,7 +7879,7 @@ Escena minimalista de {argument name="number of people" default="una sola"} pers
 
 ---
 
-### No. 113: Prompt de doble personalidad (santo y demonio) para Nano Banana Pro
+### No. 138: Prompt de doble personalidad (santo y demonio) para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6649,7 +7929,7 @@ Demonio: {argument name="demon style" default="renderizado estilo juego social, 
 
 ---
 
-### No. 114: Personaje de collage de bosque estacional para Nano Banana Pro
+### No. 139: Personaje de collage de bosque estacional para Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6683,7 +7963,7 @@ Recrea un personaje como un collage usando fotos de {argument name="types of pla
 
 ---
 
-### No. 115: Prompt de diseño de fotolibro japonés de 9 cuadrículas para Nano Banana Pro
+### No. 140: Prompt de diseño de fotolibro japonés de 9 cuadrículas para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6735,7 +8015,7 @@ Un prompt muy detallado que crea una página de fotolibro japonés de 9 fotos co
 
 ---
 
-### No. 116: Extrae un solo panel de una cuadrícula de imágenes de 3x3 con Nano Banana Pro
+### No. 141: Extrae un solo panel de una cuadrícula de imágenes de 3x3 con Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6781,7 +8061,7 @@ Extrae la imagen de la fila {argument name="target row" default="2"}, columna {a
 
 ---
 
-### No. 117: Direct flash gamer girl Nano Banana Pro JSON tag prompt
+### No. 142: Direct flash gamer girl Nano Banana Pro JSON tag prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6833,7 +8113,7 @@ Un *prompt* de imagen estructurado de Nano Banana Pro que define una escena de *
 
 ---
 
-### No. 118: Indicación de refinamiento de imagen de Two‑step Nano Banana Pro
+### No. 143: Indicación de refinamiento de imagen de Two‑step Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6875,7 +8155,7 @@ Segundo: luego aplica la siguiente indicación al resultado generado: "{argument
 
 ---
 
-### No. 119: Prompt para una estética de personaje en un feed de Instagram de 12 imágenes
+### No. 144: Prompt para una estética de personaje en un feed de Instagram de 12 imágenes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6915,7 +8195,7 @@ Crea un feed de Instagram de {argument name="image count" default="12"} imágene
 
 ---
 
-### No. 120: Estructura del prompt para retrato de dormitorio espontáneo
+### No. 145: Estructura del prompt para retrato de dormitorio espontáneo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6948,7 +8228,7 @@ Una fotografía espontánea de alta resolución en un dormitorio con iluminació
 
 ---
 
-### No. 121: Prompt de autorretrato cinematográfico en el dormitorio para Nano Banana Pro
+### No. 146: Prompt de autorretrato cinematográfico en el dormitorio para Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7008,7 +8288,7 @@ Una mujer se sienta en el borde de una cama moderna y minimalista. Tiene el cabe
 
 ---
 
-### No. 122: Prompt de personaje de juguete de fieltro para Nano Banana Pro
+### No. 147: Prompt de personaje de juguete de fieltro para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7062,7 +8342,7 @@ Juguete de cuerpo entero de {argument name="subject" default="[Subject]"}, {argu
 
 ---
 
-### No. 123: Prompt de pintura de tinta de bote solitario para Nano Banana Pro
+### No. 148: Prompt de pintura de tinta de bote solitario para Nano Banana Pro
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7096,7 +8376,7 @@ Estilo de pintura a tinta en blanco y negro, con uso poético del espacio en bla
 
 ---
 
-### No. 124: Un estudiante de secundaria hace garabatos en las páginas de su libro de historia
+### No. 149: Un estudiante de secundaria hace garabatos en las páginas de su libro de historia
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7147,7 +8427,7 @@ Una página de un libro de texto de historia utilizado por estudiantes de secund
 
 ---
 
-### No. 125: Prompt JSON para escena urbana cinematográfica lluviosa
+### No. 150: Prompt JSON para escena urbana cinematográfica lluviosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7186,1405 +8466,13 @@ Un *prompt* JSON de Nano Banana Pro que describe una imagen cinematográfica fij
 
 ---
 
-### No. 126: Hoja de contactos de guion gráfico cinematográfico de 3×3 a partir de una imagen de entrada
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descripción
-
-Un prompt de instrucciones detallado de Nano Banana Pro que analiza una imagen de referencia y genera una hoja de contacto cinematográfica coherente de 3×3 del mismo sujeto con diferentes tipos de tomas, manteniendo la identidad, la vestimenta y la iluminación consistentes.
-
-#### 📝 Prompt
-
-```
-Analiza la composición completa de la imagen de entrada. Identifica todos los sujetos clave presentes (ya sea una sola persona, un grupo/pareja, un vehículo o un objeto específico) y sus relaciones/interacciones espaciales.
-Genera una cuadrícula coherente de "hoja de contacto" de 3×3 que muestre 9 tomas diferentes de exactamente estos sujetos dentro del mismo entorno.
-Debes adaptar los tipos de tomas cinematográficas estándar para que se ajusten al contenido (por ejemplo, si es un grupo, mantén al grupo unido; si es un objeto, encuadra el objeto completo):
-Fila 1 (estableciendo el entorno):
-1. Toma de plano general extremo (ELS): el sujeto aparece pequeño dentro de un entorno vasto.
-2. Toma de plano general (LS): el sujeto o grupo completo es visible de arriba a abajo (de la cabeza a los pies / de las ruedas al techo).
-3. Toma de plano medio largo (plano americano / tres cuartos): encuadrado desde arriba de las rodillas (para personas) o una vista de 3/4 (para objetos).
-Fila 2 (cobertura principal):
-4. Toma de plano medio (MS): encuadrado de la cintura para arriba (o el núcleo central de un objeto). Se enfoca en la interacción/acción.
-5. Primer plano medio (MCU): encuadrado del pecho para arriba. Un encuadre íntimo del sujeto principal.
-6. Primer plano (CU): encuadrado de cerca en la cara o la "parte frontal" del objeto.
-Fila 3 (detalles y ángulos):
-7. Primer plano extremo (ECU): enfoque intenso en características clave (ojos, manos, letreros, texturas) con detalles tipo macro.
-8. Toma de ángulo bajo (vista de gusano): mira al sujeto desde el nivel del suelo (sensación épica/heroica).
-9. Toma de ángulo alto (vista de pájaro): mira al sujeto desde arriba.
-Asegura una estricta consistencia: la misma persona/objeto, la misma vestimenta y la misma iluminación deben aparecer en los 9 paneles. La profundidad de campo debe variar de manera realista (con desenfoque de fondo en tomas de primer plano).
-
-Crea una cuadrícula de storyboard cinematográfico profesional de 3×3 con 9 paneles.
-La cuadrícula debe presentar un sujeto/escena específica de la imagen de entrada en un rango completo de distancias focales.
-Fila superior: toma ambiental amplia, vista de cuerpo completo, recortada 3/4 (de las rodillas hacia arriba).
-Fila central: vista de la cintura hacia arriba, vista del pecho hacia arriba, primer plano de la cara/parte frontal.
-Fila inferior: detalles macro, ángulo bajo, ángulo alto.
-Todos los fotogramas deben tener texturas fotorrealistas, una gradación de color cinematográfica consistente y un encuadre correcto adaptado al número y tipo de sujetos u objetos que se analizan.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="Hoja de contactos de guion gráfico cinematográfico de 3×3 a partir de una imagen de entrada - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="Hoja de contactos de guion gráfico cinematográfico de 3×3 a partir de una imagen de entrada - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="Hoja de contactos de guion gráfico cinematográfico de 3×3 a partir de una imagen de entrada - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="Hoja de contactos de guion gráfico cinematográfico de 3×3 a partir de una imagen de entrada - Image 4">
-</div>
-
-##### Image 5
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="Hoja de contactos de guion gráfico cinematográfico de 3×3 a partir de una imagen de entrada - Image 5">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [松果先森](https://x.com/songguoxiansen)
-- **Fuente:** [Twitter Post](https://x.com/songguoxiansen/status/1994783047825473774)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Analiza%20la%20composici%C3%B3n%20completa%20de%20la%20imagen%20de%20entrada.%20Identifica%20todos%20los%20sujetos%20clave%20presentes%20(ya%20sea%20una%20sola%20persona%2C%20un%20grupo%2Fpareja%2C%20un%20veh%C3%ADculo%20o%20un%20objeto%20espec%C3%ADfico)%20y%20sus%20relaciones%2Finteracciones%20espaciales.%0AGenera%20una%20cuadr%C3%ADcula%20coherente%20de%20%22hoja%20de%20contacto%22%20de%203%C3%973%20que%20muestre%209%20tomas%20diferentes%20de%20exactamente%20estos%20sujetos%20dentro%20del%20mismo%20entorno.%0ADebes%20adaptar%20los%20tipos%20de%20tomas%20cinematogr%C3%A1ficas%20est%C3%A1ndar%20para%20que%20se%20ajusten%20al%20contenido%20(por%20ejemplo%2C%20si%20es%20un%20grupo%2C%20mant%C3%A9n%20al%20grupo%20unido%3B%20si%20es%20un%20objeto%2C%20encuadra%20el%20objeto%20completo)%3A%0AFila%201%20(estableciendo%20el%20entorno)%3A%0A1.%20Toma%20de%20plano%20general%20extremo%20(ELS)%3A%20el%20sujeto%20aparece%20peque%C3%B1o%20dentro%20de%20un%20entorno%20vasto.%0A2.%20Toma%20de%20plano%20general%20(LS)%3A%20el%20sujeto%20o%20grupo%20completo%20es%20visible%20de%20arriba%20a%20abajo%20(de%20la%20cabeza%20a%20los%20pies%20%2F%20de%20las%20ruedas%20al%20techo).%0A3.%20Toma%20de%20plano%20medio%20largo%20(plano%20americano%20%2F%20tres%20cuartos)%3A%20encuadrado%20desde%20arriba%20de%20las%20rodillas%20(para%20personas)%20o%20una%20vista%20de%203%2F4%20(para%20objetos).%0AFila%202%20(cobertura%20principal)%3A%0A4.%20Toma%20de%20plano%20medio%20(MS)%3A%20encuadrado%20de%20la%20cintura%20para%20arriba%20(o%20el%20n%C3%BAcleo%20central%20de%20un%20objeto).%20Se%20enfoca%20en%20la%20interacci%C3%B3n%2Facci%C3%B3n.%0A5.%20Primer%20plano%20medio%20(MCU)%3A%20encuadrado%20del%20pecho%20para%20arriba.%20Un%20encuadre%20%C3%ADntimo%20del%20sujeto%20principal.%0A6.%20Primer%20plano%20(CU)%3A%20encuadrado%20de%20cerca%20en%20la%20cara%20o%20la%20%22parte%20frontal%22%20del%20objeto.%0AFila%203%20(detalles%20y%20%C3%A1ngulos)%3A%0A7.%20Primer%20plano%20extremo%20(ECU)%3A%20enfoque%20intenso%20en%20caracter%C3%ADsticas%20clave%20(ojos%2C%20manos%2C%20letreros%2C%20texturas)%20con%20detalles%20tipo%20macro.%0A8.%20Toma%20de%20%C3%A1ngulo%20bajo%20(vista%20de%20gusano)%3A%20mira%20al%20sujeto%20desde%20el%20nivel%20del%20suelo%20(sensaci%C3%B3n%20%C3%A9pica%2Fheroica).%0A9.%20Toma%20de%20%C3%A1ngulo%20alto%20(vista%20de%20p%C3%A1jaro)%3A%20mira%20al%20sujeto%20desde%20arriba.%0AAsegura%20una%20estricta%20consistencia%3A%20la%20misma%20persona%2Fobjeto%2C%20la%20misma%20vestimenta%20y%20la%20misma%20iluminaci%C3%B3n%20deben%20aparecer%20en%20los%209%20paneles.%20La%20profundidad%20de%20campo%20debe%20variar%20de%20manera%20realista%20(con%20desenfoque%20de%20fondo%20en%20tomas%20de%20primer%20plano).%0A%0ACrea%20una%20cuadr%C3%ADcula%20de%20storyboard%20cinematogr%C3%A1fico%20profesional%20de%203%C3%973%20con%209%20paneles.%0ALa%20cuadr%C3%ADcula%20debe%20presentar%20un%20sujeto%2Fescena%20espec%C3%ADfica%20de%20la%20imagen%20de%20entrada%20en%20un%20rango%20completo%20de%20distancias%20focales.%0AFila%20superior%3A%20toma%20ambiental%20amplia%2C%20vista%20de%20cuerpo%20completo%2C%20recortada%203%2F4%20(de%20las%20rodillas%20hacia%20arriba).%0AFila%20central%3A%20vista%20de%20la%20cintura%20hacia%20arriba%2C%20vista%20del%20pecho%20hacia%20arriba%2C%20primer%20plano%20de%20la%20cara%2Fparte%20frontal.%0AFila%20inferior%3A%20detalles%20macro%2C%20%C3%A1ngulo%20bajo%2C%20%C3%A1ngulo%20alto.%0ATodos%20los%20fotogramas%20deben%20tener%20texturas%20fotorrealistas%2C%20una%20gradaci%C3%B3n%20de%20color%20cinematogr%C3%A1fica%20consistente%20y%20un%20encuadre%20correcto%20adaptado%20al%20n%C3%BAmero%20y%20tipo%20de%20sujetos%20u%20objetos%20que%20se%20analizan.)**
-
----
-
-### No. 127: Prompt para foto de perfil profesional para Nano Banana Pro
-
-![Language-KO](https://img.shields.io/badge/Language-KO-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una plantilla detallada de prompt en coreano para generar una foto de perfil profesional de alta calidad a partir de una imagen de entrada usando Nano Banana Pro, con encuadre, vestimenta, color de fondo, iluminación, lente y estado de ánimo controlados.
-
-#### 📝 Prompt
-
-```
-Una foto de perfil profesional de alta resolución que preserve la estructura facial exacta, la identidad y las características clave de la persona en la imagen de entrada. El sujeto está encuadrado de medio cuerpo hacia arriba con amplio espacio superior. La persona mira directamente a la cámara. Vístela con un blazer lujoso, elegante e informal, en un sutil color gris carbón, con un estilo de sesión de fotos de estudio profesional. El fondo es un color de estudio neutro y sólido de "{argument name="background color" default="#562226"}". Toma la foto desde un ángulo alto, utilizando una iluminación de estudio suave, difusa, brillante y bien ventilada que ilumine suavemente el rostro y cree sutiles reflejos en los ojos para transmitir claridad. Usa un objetivo de 85 mm f/1.8 con poca profundidad de campo, con un enfoque perfecto en los ojos y un bokeh suave y hermoso. Captura detalles nítidos en la textura de la tela del blazer, cada mechón de cabello y una textura de piel natural y realista. El ambiente debe irradiar confianza, profesionalismo y accesibilidad. Aplica una gradación de color cinematográfica limpia y brillante con una calidez sutil y tonos equilibrados para asegurar un aspecto refinado y moderno.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909196159_r2hp0o_G67ej0KbkAAWzN0.jpg" width="600" alt="Prompt para foto de perfil profesional para Nano Banana Pro - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909198332_lb4go4_G67ej0JaQAAm4tR.jpg" width="600" alt="Prompt para foto de perfil profesional para Nano Banana Pro - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [lucas](https://x.com/lucas_flatwhite)
-- **Fuente:** [Twitter Post](https://x.com/lucas_flatwhite/status/1994776765349364059)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** ko
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20foto%20de%20perfil%20profesional%20de%20alta%20resoluci%C3%B3n%20que%20preserve%20la%20estructura%20facial%20exacta%2C%20la%20identidad%20y%20las%20caracter%C3%ADsticas%20clave%20de%20la%20persona%20en%20la%20imagen%20de%20entrada.%20El%20sujeto%20est%C3%A1%20encuadrado%20de%20medio%20cuerpo%20hacia%20arriba%20con%20amplio%20espacio%20superior.%20La%20persona%20mira%20directamente%20a%20la%20c%C3%A1mara.%20V%C3%ADstela%20con%20un%20blazer%20lujoso%2C%20elegante%20e%20informal%2C%20en%20un%20sutil%20color%20gris%20carb%C3%B3n%2C%20con%20un%20estilo%20de%20sesi%C3%B3n%20de%20fotos%20de%20estudio%20profesional.%20El%20fondo%20es%20un%20color%20de%20estudio%20neutro%20y%20s%C3%B3lido%20de%20%22%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23562226%22%7D%22.%20Toma%20la%20foto%20desde%20un%20%C3%A1ngulo%20alto%2C%20utilizando%20una%20iluminaci%C3%B3n%20de%20estudio%20suave%2C%20difusa%2C%20brillante%20y%20bien%20ventilada%20que%20ilumine%20suavemente%20el%20rostro%20y%20cree%20sutiles%20reflejos%20en%20los%20ojos%20para%20transmitir%20claridad.%20Usa%20un%20objetivo%20de%2085%20mm%20f%2F1.8%20con%20poca%20profundidad%20de%20campo%2C%20con%20un%20enfoque%20perfecto%20en%20los%20ojos%20y%20un%20bokeh%20suave%20y%20hermoso.%20Captura%20detalles%20n%C3%ADtidos%20en%20la%20textura%20de%20la%20tela%20del%20blazer%2C%20cada%20mech%C3%B3n%20de%20cabello%20y%20una%20textura%20de%20piel%20natural%20y%20realista.%20El%20ambiente%20debe%20irradiar%20confianza%2C%20profesionalismo%20y%20accesibilidad.%20Aplica%20una%20gradaci%C3%B3n%20de%20color%20cinematogr%C3%A1fica%20limpia%20y%20brillante%20con%20una%20calidez%20sutil%20y%20tonos%20equilibrados%20para%20asegurar%20un%20aspecto%20refinado%20y%20moderno.)**
-
----
-
-### No. 128: Conversión de prompts YAML para imágenes y diagramas
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Una instrucción de Nano Banana Pro que le indica al modelo que convierta la imagen, foto o diagrama proporcionado en un *prompt* YAML estructurado, incluyendo el tamaño y los detalles, y que lo muestre en un bloque de código.
-
-#### 📝 Prompt
-
-```
-prompt: Convierte esto en un prompt de YAML, incluyendo el tamaño de la imagen y todos los detalles visuales.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577566138_041vou_G67R84uaoAAb33m.jpg" width="600" alt="Conversión de prompts YAML para imágenes y diagramas - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo)
-- **Fuente:** [Twitter Post](https://x.com/tetumemo/status/1994765066198290751)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=prompt%3A%20Convierte%20esto%20en%20un%20prompt%20de%20YAML%2C%20incluyendo%20el%20tama%C3%B1o%20de%20la%20imagen%20y%20todos%20los%20detalles%20visuales.)**
-
----
-
-### No. 129: JSON de prompt de retrato de mujer con referencia coincidente
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt estilo JSON de Nano Banana Pro enfocado en recrear a una mujer exactamente como en la imagen de referencia, preservando su identidad con un 100% de coincidencia en las características faciales y la estructura ósea.
-
-#### 📝 Prompt
-
-```
-{
-  "image_description": {
-    "identity": {
-      "preserve_face": true,
-      "reference_match": true,
-      "description": "Recrea a la mujer exactamente como se muestra en la imagen de referencia con rasgos faciales y estructura ósea 100% idénticos."
-    }
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577187204_54fdgj_G66s0h2bkAIW6PV.jpg" width="600" alt="JSON de prompt de retrato de mujer con referencia coincidente - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Eyisha Zyer](https://x.com/eyishazyer)
-- **Fuente:** [Twitter Post](https://x.com/eyishazyer/status/1994724289623593011)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_face%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22Recrea%20a%20la%20mujer%20exactamente%20como%20se%20muestra%20en%20la%20imagen%20de%20referencia%20con%20rasgos%20faciales%20y%20estructura%20%C3%B3sea%20100%25%20id%C3%A9nticos.%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 130: Prompt para retrato en terraza de hotel de lujo frente al mar
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* complejo de Nano Banana Pro para un retrato ultrarrealista de una mujer en una cena en la terraza de un hotel de lujo junto al mar, con estricta coincidencia de referencias, accesorios, utilería, iluminación y ambiente totalmente especificados.
-
-#### 📝 Prompt
-
-```
-{
-  "project": "Retrato ultrarrealista",
-  "reference_settings": {
-    "use_reference_image": true,
-    "fidelity_strength": "{argument name=\"reference fidelity\" default=\"100%\"}",
-    "instruction": "La cara y el atuendo deben coincidir con la foto de referencia al 100%, sin absolutamente ninguna alteración."
-  },
-  "subject": {
-    "demographics": "{argument name=\"subject gender\" default=\"Woman\"}",
-    "focus_features": ["Ojos", "Nariz", "Labios"],
-    "expression": "Sonriente, linda, fresca, soñadora, ligeramente sensual",
-    "pose": "Sentada en una mesa blanca, apoyando la barbilla en ambas manos, girando ligeramente",
-    "hair": {
-      "style": "Liso, moño alto grande",
-      "accessory": "Moño a juego con el atuendo",
-      "texture": "Suave en capas, mechones sueltos cayendo naturalmente sobre la cara",
-      "movement": "Ligeramente movido por el viento"
-    },
-    "makeup": {
-      "cheeks": "Rubor natural en mejillas y nariz",
-      "lips": "Labios carnosos, tono rosa-durazno suave"
-    }
-  },
-  "fashion_and_accessories": {
-    "outfit": "Coincidencia exacta con la imagen de referencia",
-    "shoes": "Zapatos de tacón alto (a juego con la referencia)",
-    "bag": "Mismo bolso que en la foto de referencia",
-    "jewelry": {
-      "necklace": "Fino de oro con dijes alternados (corazón, luna creciente, dije Gucci)",
-      "bracelet": "Delicada pulsera Gucci con dijes",
-      "rings": "Anillos de oro",
-      "watch": "Patek Philippe de banda de acero",
-      "earrings": "Pequeños aretes Gucci de oro"
-    }
-  },
-  "environment": {
-    "location": "Terraza de hotel de lujo / Costa",
-    "time_of_day_options": [
-      "Opción A: Cielo nocturno azul profundo, estrellas, estrella fugaz, luz de luna",
-      "Opción B: Amanecer temprano, tonos de cielo naranja-amarillo"
-    ],
-    "background_elements": [
-      "Reflejos cálidos de hotel de lujo",
-      "Paisaje marino tranquilo"
-    ]
-  },
-  "props": {
-    "table_setting": "Mesa blanca",
-    "items": [
-      "Vaso con una sola rosa blanca",
-      "Copa de vino",
-      "Botella de vino",
-      "Juego de plato con cuchillo y tenedor",
-      "Gran bistec T-bone en el centro",
-      "Vela en vaso (añadiendo un toque de luz cálida)"
-    ]
-  },
-  "photography_style": {
-    "aesthetic": "Estilo de flash de cámara digital de los 2000",
-    "lighting": "Brillo de flash realista, tono cálido, ligero brillo en la piel",
-    "mood": "Relajante, cálido, nostálgico, elegante, con estilo, ligeramente sexy",
-    "shot_type": "Retrato de primer plano"
-  },
-  "technical_parameters": {
-    "aspect_ratio": "{argument name=\"aspect ratio\" default=\"3:4\"}",
-    "detail_level": "{argument name=\"detail level\" default=\"8k\"}",
-    "style_tags": ["foto", "realista", "fotografía con flash"]
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="Prompt para retrato en terraza de hotel de lujo frente al mar - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Alejo](https://x.com/ecommartinez)
-- **Fuente:** [Twitter Post](https://x.com/ecommartinez/status/1994722200394633230)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22Retrato%20ultrarrealista%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22%7Bargument%20name%3D%5C%22reference%20fidelity%5C%22%20default%3D%5C%22100%25%5C%22%7D%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22La%20cara%20y%20el%20atuendo%20deben%20coincidir%20con%20la%20foto%20de%20referencia%20al%20100%25%2C%20sin%20absolutamente%20ninguna%20alteraci%C3%B3n.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22%7Bargument%20name%3D%5C%22subject%20gender%5C%22%20default%3D%5C%22Woman%5C%22%7D%22%2C%0A%20%20%20%20%22focus_features%22%3A%20%5B%22Ojos%22%2C%20%22Nariz%22%2C%20%22Labios%22%5D%2C%0A%20%20%20%20%22expression%22%3A%20%22Sonriente%2C%20linda%2C%20fresca%2C%20so%C3%B1adora%2C%20ligeramente%20sensual%22%2C%0A%20%20%20%20%22pose%22%3A%20%22Sentada%20en%20una%20mesa%20blanca%2C%20apoyando%20la%20barbilla%20en%20ambas%20manos%2C%20girando%20ligeramente%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22Liso%2C%20mo%C3%B1o%20alto%20grande%22%2C%0A%20%20%20%20%20%20%22accessory%22%3A%20%22Mo%C3%B1o%20a%20juego%20con%20el%20atuendo%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22Suave%20en%20capas%2C%20mechones%20sueltos%20cayendo%20naturalmente%20sobre%20la%20cara%22%2C%0A%20%20%20%20%20%20%22movement%22%3A%20%22Ligeramente%20movido%20por%20el%20viento%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks%22%3A%20%22Rubor%20natural%20en%20mejillas%20y%20nariz%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22Labios%20carnosos%2C%20tono%20rosa-durazno%20suave%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22fashion_and_accessories%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22Coincidencia%20exacta%20con%20la%20imagen%20de%20referencia%22%2C%0A%20%20%20%20%22shoes%22%3A%20%22Zapatos%20de%20tac%C3%B3n%20alto%20(a%20juego%20con%20la%20referencia)%22%2C%0A%20%20%20%20%22bag%22%3A%20%22Mismo%20bolso%20que%20en%20la%20foto%20de%20referencia%22%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22necklace%22%3A%20%22Fino%20de%20oro%20con%20dijes%20alternados%20(coraz%C3%B3n%2C%20luna%20creciente%2C%20dije%20Gucci)%22%2C%0A%20%20%20%20%20%20%22bracelet%22%3A%20%22Delicada%20pulsera%20Gucci%20con%20dijes%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22Anillos%20de%20oro%22%2C%0A%20%20%20%20%20%20%22watch%22%3A%20%22Patek%20Philippe%20de%20banda%20de%20acero%22%2C%0A%20%20%20%20%20%20%22earrings%22%3A%20%22Peque%C3%B1os%20aretes%20Gucci%20de%20oro%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22Terraza%20de%20hotel%20de%20lujo%20%2F%20Costa%22%2C%0A%20%20%20%20%22time_of_day_options%22%3A%20%5B%0A%20%20%20%20%20%20%22Opci%C3%B3n%20A%3A%20Cielo%20nocturno%20azul%20profundo%2C%20estrellas%2C%20estrella%20fugaz%2C%20luz%20de%20luna%22%2C%0A%20%20%20%20%20%20%22Opci%C3%B3n%20B%3A%20Amanecer%20temprano%2C%20tonos%20de%20cielo%20naranja-amarillo%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22Reflejos%20c%C3%A1lidos%20de%20hotel%20de%20lujo%22%2C%0A%20%20%20%20%20%20%22Paisaje%20marino%20tranquilo%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22props%22%3A%20%7B%0A%20%20%20%20%22table_setting%22%3A%20%22Mesa%20blanca%22%2C%0A%20%20%20%20%22items%22%3A%20%5B%0A%20%20%20%20%20%20%22Vaso%20con%20una%20sola%20rosa%20blanca%22%2C%0A%20%20%20%20%20%20%22Copa%20de%20vino%22%2C%0A%20%20%20%20%20%20%22Botella%20de%20vino%22%2C%0A%20%20%20%20%20%20%22Juego%20de%20plato%20con%20cuchillo%20y%20tenedor%22%2C%0A%20%20%20%20%20%20%22Gran%20bistec%20T-bone%20en%20el%20centro%22%2C%0A%20%20%20%20%20%20%22Vela%20en%20vaso%20(a%C3%B1adiendo%20un%20toque%20de%20luz%20c%C3%A1lida)%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22aesthetic%22%3A%20%22Estilo%20de%20flash%20de%20c%C3%A1mara%20digital%20de%20los%202000%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22Brillo%20de%20flash%20realista%2C%20tono%20c%C3%A1lido%2C%20ligero%20brillo%20en%20la%20piel%22%2C%0A%20%20%20%20%22mood%22%3A%20%22Relajante%2C%20c%C3%A1lido%2C%20nost%C3%A1lgico%2C%20elegante%2C%20con%20estilo%2C%20ligeramente%20sexy%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22Retrato%20de%20primer%20plano%22%0A%20%20%7D%2C%0A%20%20%22technical_parameters%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%5C%22aspect%20ratio%5C%22%20default%3D%5C%223%3A4%5C%22%7D%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22%7Bargument%20name%3D%5C%22detail%20level%5C%22%20default%3D%5C%228k%5C%22%7D%22%2C%0A%20%20%20%20%22style_tags%22%3A%20%5B%22foto%22%2C%20%22realista%22%2C%20%22fotograf%C3%ADa%20con%20flash%22%5D%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 131: Restauración de fotos antiguas a retratos digitales modernos
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt bilingüe de Nano Banana Pro para convertir una foto antigua en un retrato moderno de alta calidad, conservando la pose y expresión del sujeto.
-
-#### 📝 Prompt
-
-```
-Transforma la imagen en un retrato digital moderno y de alta calidad con colores vibrantes y actualizados, texturas de piel suaves y realistas, e iluminación natural. Mejora el atuendo y el fondo con una estética limpia y moderna, conservando la autenticidad de la pose y la expresión originales.
-
-Conviértelo en un retrato digital moderno de alta calidad con colores vivos, texturas de piel delicadas y realistas, e iluminación natural. La ropa y el fondo deben mejorarse a un estilo sencillo y moderno, conservando la autenticidad de la pose y la expresión de la foto original.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="Restauración de fotos antiguas a retratos digitales modernos - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="Restauración de fotos antiguas a retratos digitales modernos - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="Restauración de fotos antiguas a retratos digitales modernos - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="Restauración de fotos antiguas a retratos digitales modernos - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [苍何](https://x.com/canghecode)
-- **Fuente:** [Twitter Post](https://x.com/canghecode/status/1994693495421112739)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Transforma%20la%20imagen%20en%20un%20retrato%20digital%20moderno%20y%20de%20alta%20calidad%20con%20colores%20vibrantes%20y%20actualizados%2C%20texturas%20de%20piel%20suaves%20y%20realistas%2C%20e%20iluminaci%C3%B3n%20natural.%20Mejora%20el%20atuendo%20y%20el%20fondo%20con%20una%20est%C3%A9tica%20limpia%20y%20moderna%2C%20conservando%20la%20autenticidad%20de%20la%20pose%20y%20la%20expresi%C3%B3n%20originales.%0A%0AConvi%C3%A9rtelo%20en%20un%20retrato%20digital%20moderno%20de%20alta%20calidad%20con%20colores%20vivos%2C%20texturas%20de%20piel%20delicadas%20y%20realistas%2C%20e%20iluminaci%C3%B3n%20natural.%20La%20ropa%20y%20el%20fondo%20deben%20mejorarse%20a%20un%20estilo%20sencillo%20y%20moderno%2C%20conservando%20la%20autenticidad%20de%20la%20pose%20y%20la%20expresi%C3%B3n%20de%20la%20foto%20original.)**
-
----
-
-### No. 132: Genera guiones gráficos en blanco y negro a partir de una imagen
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Un prompt de Nano Banana Pro que toma una imagen cargada y genera una secuencia de viñetas de storyboard en blanco y negro, capturando la esencia emocional y la tensión de la historia en aproximadamente cuatro paneles.
-
-#### 📝 Prompt
-
-```
-Basándose en la imagen cargada, cree una secuencia de viñetas de guion gráfico en blanco y negro que representen las escenas principales de la historia.
-En cada viñeta, describa los siguientes elementos en detalle para expresar el flujo emocional y la tensión de la historia:
-Aproximadamente cuatro paneles en total.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577554408_2kooiv_G61QpVVbMAAB7Jl.jpg" width="600" alt="Genera guiones gráficos en blanco y negro a partir de una imagen - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577557466_nw8fne_G61QqlsbcAAbOMW.jpg" width="600" alt="Genera guiones gráficos en blanco y negro a partir de una imagen - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Wondershare UniConverter｜動画変換・圧縮・補正オールインワンソフト](https://x.com/UniConverterJP)
-- **Fuente:** [Twitter Post](https://x.com/UniConverterJP/status/1994666889491222818)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Bas%C3%A1ndose%20en%20la%20imagen%20cargada%2C%20cree%20una%20secuencia%20de%20vi%C3%B1etas%20de%20guion%20gr%C3%A1fico%20en%20blanco%20y%20negro%20que%20representen%20las%20escenas%20principales%20de%20la%20historia.%0AEn%20cada%20vi%C3%B1eta%2C%20describa%20los%20siguientes%20elementos%20en%20detalle%20para%20expresar%20el%20flujo%20emocional%20y%20la%20tensi%C3%B3n%20de%20la%20historia%3A%0AAproximadamente%20cuatro%20paneles%20en%20total.)**
-
----
-
-### No. 133: Indicación de foto de ídolo estilo Cheki usando una persona de referencia
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de Nano Banana Pro para crear fotos cheki estilo ídolo a partir de una imagen de persona proporcionada, donde insertas el nombre del sujeto en la plantilla.
-
-#### 📝 Prompt
-
-```
-Por favor, usa a la persona de la imagen adjunta. Su nombre es {argument name="name" default="[your name]"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577574244_ebjxyq_G6520uubcAAaYhr.jpg" width="600" alt="Indicación de foto de ídolo estilo Cheki usando una persona de referencia - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577577700_hnylyz_G6520vVbkAIuuyN.jpg" width="600" alt="Indicación de foto de ídolo estilo Cheki usando una persona de referencia - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577580224_8yiwvi_G6520yzacAArjn8.jpg" width="600" alt="Indicación de foto de ídolo estilo Cheki usando una persona de referencia - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577582701_dm8cld_G65204EbkAAiP6E.jpg" width="600" alt="Indicación de foto de ídolo estilo Cheki usando una persona de referencia - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Shi-on🎀AI沼](https://x.com/cheese_ai07)
-- **Fuente:** [Twitter Post](https://x.com/cheese_ai07/status/1994662338608161086)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Por%20favor%2C%20usa%20a%20la%20persona%20de%20la%20imagen%20adjunta.%20Su%20nombre%20es%20%7Bargument%20name%3D%22name%22%20default%3D%22%5Byour%20name%5D%22%7D.)**
-
----
-
-### No. 134: Diseño de PPT estilo SaaS con glassmorphism para Nano Banana Pro
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descripción
-
-Un *prompt* de diseño de presentación UI/UX integral que permite a Nano Banana Pro generar diapositivas de 16:9 con un estilo futurista de tarjetas de cristal, combinando el minimalismo de Apple Keynote y la estética moderna de SaaS.
-
-#### 📝 Prompt
-
-```
-Eres un diseñador de presentaciones UI/UX de nivel experto. Genera diapositivas de presentación de alta fidelidad y futuristas en formato 16:9. Basándote en la estética del equilibrio visual, elige automáticamente la composición más perfecta entre una portada, un diseño de cuadrícula o una visualización de datos.
-
-Para el lenguaje visual global, el estilo debe combinar a la perfección el minimalismo de Apple Keynote, el diseño moderno de productos SaaS y el *glassmorphism*. El ambiente general debe sentirse *premium*, inmersivo, limpio y espacioso. Utiliza iluminación volumétrica cinematográfica, reflejos suaves trazados por rayos y oclusión ambiental. Para la combinación de colores, elige negro abismo profundo o blanco cerámico puro como base, acentuado con degradados de aurora fluidos como morado neón, azul eléctrico, naranja coral suave y cian para el fondo y los detalles de la interfaz de usuario.
-
-Para los módulos de contenido en cada diapositiva, integra inteligentemente los siguientes elementos:
-
-1.  Utiliza un sistema de cuadrícula *bento* como motor de diseño, organizando el contenido dentro de contenedores modulares de rectángulos redondeados. Los contenedores deben ser de vidrio esmerilado con efecto de desenfoque, con bordes blancos delicados y sombras suaves, y deben preservar estrictamente un espacio en blanco interno generoso para evitar el amontonamiento.
-
-2.  Inserta objetos 3D tipo regalo, renderizando artefactos 3D abstractos únicos y de alta gama como anclas visuales. Deben parecer regalos o coleccionables tangibles y costosos, con materiales como metal pulido, acrílico iridiscente, vidrio transparente o silicona suave, y formas como cápsulas flotantes, esferas, escudos, cintas de Möbius u ondas fluidas.
-
-3.  Para la tipografía y los datos, utiliza fuentes *sans-serif* limpias con alto contraste. Si hay gráficos, usa gráficos de dona 3D brillantes, barras de progreso en forma de cápsula o números flotantes; los gráficos deben parecer juguetes de neón brillantes.
-
-Referencia de lógica de composición: Si generas una portada, coloca un objeto de vidrio 3D enorme y complejo en el centro con texto grande y audaz sobre él y ondas de aurora extendiéndose en el fondo. Si generas una diapositiva de contenido, usa el diseño de cuadrícula *bento* con íconos 3D en tarjetas pequeñas y texto en tarjetas grandes. Si generas una diapositiva de datos, usa un diseño de pantalla dividida: tipografía a la izquierda y una gran visualización de datos 3D brillante flotando a la derecha.
-
-Requisitos de calidad de renderizado: Renderizado con Unreal Engine 5, resolución 8K, texturas ultradetalladas, fuerte sentido de diseño de UI, interfaz UX, estilo de tendencia de Dribbble, calidad de diseño galardonada.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Diseño de PPT estilo SaaS con glassmorphism para Nano Banana Pro - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [歸藏(guizang.ai)](https://x.com/op7418)
-- **Fuente:** [Twitter Post](https://x.com/op7418/status/1994640215160287637)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Eres%20un%20dise%C3%B1ador%20de%20presentaciones%20UI%2FUX%20de%20nivel%20experto.%20Genera%20diapositivas%20de%20presentaci%C3%B3n%20de%20alta%20fidelidad%20y%20futuristas%20en%20formato%2016%3A9.%20Bas%C3%A1ndote%20en%20la%20est%C3%A9tica%20del%20equilibrio%20visual%2C%20elige%20autom%C3%A1ticamente%20la%20composici%C3%B3n%20m%C3%A1s%20perfecta%20entre%20una%20portada%2C%20un%20dise%C3%B1o%20de%20cuadr%C3%ADcula%20o%20una%20visualizaci%C3%B3n%20de%20datos.%0A%0APara%20el%20lenguaje%20visual%20global%2C%20el%20estilo%20debe%20combinar%20a%20la%20perfecci%C3%B3n%20el%20minimalismo%20de%20Apple%20Keynote%2C%20el%20dise%C3%B1o%20moderno%20de%20productos%20SaaS%20y%20el%20*glassmorphism*.%20El%20ambiente%20general%20debe%20sentirse%20*premium*%2C%20inmersivo%2C%20limpio%20y%20espacioso.%20Utiliza%20iluminaci%C3%B3n%20volum%C3%A9trica%20cinematogr%C3%A1fica%2C%20reflejos%20suaves%20trazados%20por%20rayos%20y%20oclusi%C3%B3n%20ambiental.%20Para%20la%20combinaci%C3%B3n%20de%20colores%2C%20elige%20negro%20abismo%20profundo%20o%20blanco%20cer%C3%A1mico%20puro%20como%20base%2C%20acentuado%20con%20degradados%20de%20aurora%20fluidos%20como%20morado%20ne%C3%B3n%2C%20azul%20el%C3%A9ctrico%2C%20naranja%20coral%20suave%20y%20cian%20para%20el%20fondo%20y%20los%20detalles%20de%20la%20interfaz%20de%20usuario.%0A%0APara%20los%20m%C3%B3dulos%20de%20contenido%20en%20cada%20diapositiva%2C%20integra%20inteligentemente%20los%20siguientes%20elementos%3A%0A%0A1.%20%20Utiliza%20un%20sistema%20de%20cuadr%C3%ADcula%20*bento*%20como%20motor%20de%20dise%C3%B1o%2C%20organizando%20el%20contenido%20dentro%20de%20contenedores%20modulares%20de%20rect%C3%A1ngulos%20redondeados.%20Los%20contenedores%20deben%20ser%20de%20vidrio%20esmerilado%20con%20efecto%20de%20desenfoque%2C%20con%20bordes%20blancos%20delicados%20y%20sombras%20suaves%2C%20y%20deben%20preservar%20estrictamente%20un%20espacio%20en%20blanco%20interno%20generoso%20para%20evitar%20el%20amontonamiento.%0A%0A2.%20%20Inserta%20objetos%203D%20tipo%20regalo%2C%20renderizando%20artefactos%203D%20abstractos%20%C3%BAnicos%20y%20de%20alta%20gama%20como%20anclas%20visuales.%20Deben%20parecer%20regalos%20o%20coleccionables%20tangibles%20y%20costosos%2C%20con%20materiales%20como%20metal%20pulido%2C%20acr%C3%ADlico%20iridiscente%2C%20vidrio%20transparente%20o%20silicona%20suave%2C%20y%20formas%20como%20c%C3%A1psulas%20flotantes%2C%20esferas%2C%20escudos%2C%20cintas%20de%20M%C3%B6bius%20u%20ondas%20fluidas.%0A%0A3.%20%20Para%20la%20tipograf%C3%ADa%20y%20los%20datos%2C%20utiliza%20fuentes%20*sans-serif*%20limpias%20con%20alto%20contraste.%20Si%20hay%20gr%C3%A1ficos%2C%20usa%20gr%C3%A1ficos%20de%20dona%203D%20brillantes%2C%20barras%20de%20progreso%20en%20forma%20de%20c%C3%A1psula%20o%20n%C3%BAmeros%20flotantes%3B%20los%20gr%C3%A1ficos%20deben%20parecer%20juguetes%20de%20ne%C3%B3n%20brillantes.%0A%0AReferencia%20de%20l%C3%B3gica%20de%20composici%C3%B3n%3A%20Si%20generas%20una%20portada%2C%20coloca%20un%20objeto%20de%20vidrio%203D%20enorme%20y%20complejo%20en%20el%20centro%20con%20texto%20grande%20y%20audaz%20sobre%20%C3%A9l%20y%20ondas%20de%20aurora%20extendi%C3%A9ndose%20en%20el%20fondo.%20Si%20generas%20una%20diapositiva%20de%20contenido%2C%20usa%20el%20dise%C3%B1o%20de%20cuadr%C3%ADcula%20*bento*%20con%20%C3%ADconos%203D%20en%20tarjetas%20peque%C3%B1as%20y%20texto%20en%20tarjetas%20grandes.%20Si%20generas%20una%20diapositiva%20de%20datos%2C%20usa%20un%20dise%C3%B1o%20de%20pantalla%20dividida%3A%20tipograf%C3%ADa%20a%20la%20izquierda%20y%20una%20gran%20visualizaci%C3%B3n%20de%20datos%203D%20brillante%20flotando%20a%20la%20derecha.%0A%0ARequisitos%20de%20calidad%20de%20renderizado%3A%20Renderizado%20con%20Unreal%20Engine%205%2C%20resoluci%C3%B3n%208K%2C%20texturas%20ultradetalladas%2C%20fuerte%20sentido%20de%20dise%C3%B1o%20de%20UI%2C%20interfaz%20UX%2C%20estilo%20de%20tendencia%20de%20Dribbble%2C%20calidad%20de%20dise%C3%B1o%20galardonada.)**
-
----
-
-### No. 135: Mensaje de edición de física de cabello movido por el viento
-
-![Language-KO](https://img.shields.io/badge/Language-KO-blue)
-
-#### 📖 Descripción
-
-Un ejemplo de prompt en coreano que le pide al modelo que represente el cabello ondeando con el viento.
-
-#### 📝 Prompt
-
-```
-Haz que el cabello vuele con el viento.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909194344_j8ahsh_G64vG0-bkAEdu0T.jpg" width="600" alt="Mensaje de edición de física de cabello movido por el viento - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909196593_vjptzw_G64vG1TbkAEcisK.jpg" width="600" alt="Mensaje de edición de física de cabello movido por el viento - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909199505_75vlef_G64vG03a4AAxsgy.jpg" width="600" alt="Mensaje de edición de física de cabello movido por el viento - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909201708_d2yy9u_G64vG1AbkAQQHJ1.jpg" width="600" alt="Mensaje de edición de física de cabello movido por el viento - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [lucas](https://x.com/lucas_flatwhite)
-- **Fuente:** [Twitter Post](https://x.com/lucas_flatwhite/status/1994583692212330538)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** ko
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Haz%20que%20el%20cabello%20vuele%20con%20el%20viento.)**
-
----
-
-### No. 136: Barrera de campo de energía VFX y prompt YAML de ajuste de pose
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt detallado de YAML Nano Banana Pro que cambia la pose de un personaje para extender ambos brazos hacia adelante y agrega barreras concéntricas de campo de energía octogonales frente a las manos, mientras conserva todos los detalles originales del personaje y del fondo.
-
-#### 📝 Prompt
-
-```
-task: "pose-and-barrier-vfx"
-
-reference_image:
-  keep_original: true
-
-subject:
-  keep_character_design: true
-
-rules:
-  - do not change the character’s face, expression, hairstyle, anatomy, or proportions
-  - do not change outfit, colors, lineart, or art style
-  - do not change background, composition, shading, or lighting
-  - all modifications occur only through the defined steps
-
-steps:
-
-  - step: "pose-adjustment"
-    action:
-      - extend both arms forward toward the viewer
-      - rotate both palms to face directly toward the camera
-      - fingers naturally spread
-    constraints:
-      forbidden:
-        - altering facial expression
-        - modifying outfit
-        - adding props or new items
-        - introducing glow or VFX
-
-  - step: "energy-barrier-vfx"
-    vfx:
-      type: "concentric-octagonal-barrier"
-      placement: "in front of both palms"
-
-      geometry:
-        shape: "regular octagon"
-        structure: "multiple concentric octagonal surfaces"
-        alignment:
-          - all surfaces share the same center
-          - all surfaces are parallel to the camera plane
-          - no curvature or spherical distortion
-        forbidden:
-          - outline-only shapes
-          - hollow frames
-          - hexagonal shapes
-          - domed or warped surfaces
-
-      surface:
-        fill: "center-to-edge radial gradient"
-        colors:
-          center: "white-yellow"
-          mid: "orange-gold"
-          edge: "transparent orange"
-        glow:
-          - strong center luminosity
-          - soft bloom
-          - refractive shimmer
-        opacity: "semi-transparent"
-
-      layering:
-        count: {argument name="number of barrier layers" default="8"}
-        direction: "stacked forward"
-
-  - step: "text-overlay"
-    text:
-      content: "Prompt by てんねん@ munou_ac"
-      position: "bottom-left"
-      font_color: "white"
-      font_size: "small"
-      opacity: "0.9"
-
-composition:
-  camera:
-    angle: "frontal"
-    distance: "medium shot"
-    focus: "hands and barrier surface"
-  lighting:
-    keep_original: true
-  placement:
-    barrier_position: "centered between both palms"
-    size: "large frontal barrier"
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577540773_v85176_G64gFJzbkAQpKL2.jpg" width="600" alt="Barrera de campo de energía VFX y prompt YAML de ajuste de pose - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577543806_hhuvsz_G64gKH-bkAQsjS9.jpg" width="600" alt="Barrera de campo de energía VFX y prompt YAML de ajuste de pose - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [てんねん](https://x.com/munou_ac)
-- **Fuente:** [Twitter Post](https://x.com/munou_ac/status/1994567138384994796)
-- **Publicado:** 29 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=task%3A%20%22pose-and-barrier-vfx%22%0A%0Areference_image%3A%0A%20%20keep_original%3A%20true%0A%0Asubject%3A%0A%20%20keep_character_design%3A%20true%0A%0Arules%3A%0A%20%20-%20do%20not%20change%20the%20character%E2%80%99s%20face%2C%20expression%2C%20hairstyle%2C%20anatomy%2C%20or%20proportions%0A%20%20-%20do%20not%20change%20outfit%2C%20colors%2C%20lineart%2C%20or%20art%20style%0A%20%20-%20do%20not%20change%20background%2C%20composition%2C%20shading%2C%20or%20lighting%0A%20%20-%20all%20modifications%20occur%20only%20through%20the%20defined%20steps%0A%0Asteps%3A%0A%0A%20%20-%20step%3A%20%22pose-adjustment%22%0A%20%20%20%20action%3A%0A%20%20%20%20%20%20-%20extend%20both%20arms%20forward%20toward%20the%20viewer%0A%20%20%20%20%20%20-%20rotate%20both%20palms%20to%20face%20directly%20toward%20the%20camera%0A%20%20%20%20%20%20-%20fingers%20naturally%20spread%0A%20%20%20%20constraints%3A%0A%20%20%20%20%20%20forbidden%3A%0A%20%20%20%20%20%20%20%20-%20altering%20facial%20expression%0A%20%20%20%20%20%20%20%20-%20modifying%20outfit%0A%20%20%20%20%20%20%20%20-%20adding%20props%20or%20new%20items%0A%20%20%20%20%20%20%20%20-%20introducing%20glow%20or%20VFX%0A%0A%20%20-%20step%3A%20%22energy-barrier-vfx%22%0A%20%20%20%20vfx%3A%0A%20%20%20%20%20%20type%3A%20%22concentric-octagonal-barrier%22%0A%20%20%20%20%20%20placement%3A%20%22in%20front%20of%20both%20palms%22%0A%0A%20%20%20%20%20%20geometry%3A%0A%20%20%20%20%20%20%20%20shape%3A%20%22regular%20octagon%22%0A%20%20%20%20%20%20%20%20structure%3A%20%22multiple%20concentric%20octagonal%20surfaces%22%0A%20%20%20%20%20%20%20%20alignment%3A%0A%20%20%20%20%20%20%20%20%20%20-%20all%20surfaces%20share%20the%20same%20center%0A%20%20%20%20%20%20%20%20%20%20-%20all%20surfaces%20are%20parallel%20to%20the%20camera%20plane%0A%20%20%20%20%20%20%20%20%20%20-%20no%20curvature%20or%20spherical%20distortion%0A%20%20%20%20%20%20%20%20forbidden%3A%0A%20%20%20%20%20%20%20%20%20%20-%20outline-only%20shapes%0A%20%20%20%20%20%20%20%20%20%20-%20hollow%20frames%0A%20%20%20%20%20%20%20%20%20%20-%20hexagonal%20shapes%0A%20%20%20%20%20%20%20%20%20%20-%20domed%20or%20warped%20surfaces%0A%0A%20%20%20%20%20%20surface%3A%0A%20%20%20%20%20%20%20%20fill%3A%20%22center-to-edge%20radial%20gradient%22%0A%20%20%20%20%20%20%20%20colors%3A%0A%20%20%20%20%20%20%20%20%20%20center%3A%20%22white-yellow%22%0A%20%20%20%20%20%20%20%20%20%20mid%3A%20%22orange-gold%22%0A%20%20%20%20%20%20%20%20%20%20edge%3A%20%22transparent%20orange%22%0A%20%20%20%20%20%20%20%20glow%3A%0A%20%20%20%20%20%20%20%20%20%20-%20strong%20center%20luminosity%0A%20%20%20%20%20%20%20%20%20%20-%20soft%20bloom%0A%20%20%20%20%20%20%20%20%20%20-%20refractive%20shimmer%0A%20%20%20%20%20%20%20%20opacity%3A%20%22semi-transparent%22%0A%0A%20%20%20%20%20%20layering%3A%0A%20%20%20%20%20%20%20%20count%3A%20%7Bargument%20name%3D%22number%20of%20barrier%20layers%22%20default%3D%228%22%7D%0A%20%20%20%20%20%20%20%20direction%3A%20%22stacked%20forward%22%0A%0A%20%20-%20step%3A%20%22text-overlay%22%0A%20%20%20%20text%3A%0A%20%20%20%20%20%20content%3A%20%22Prompt%20by%20%E3%81%A6%E3%82%93%E3%81%AD%E3%82%93%40%20munou_ac%22%0A%20%20%20%20%20%20position%3A%20%22bottom-left%22%0A%20%20%20%20%20%20font_color%3A%20%22white%22%0A%20%20%20%20%20%20font_size%3A%20%22small%22%0A%20%20%20%20%20%20opacity%3A%20%220.9%22%0A%0Acomposition%3A%0A%20%20camera%3A%0A%20%20%20%20angle%3A%20%22frontal%22%0A%20%20%20%20distance%3A%20%22medium%20shot%22%0A%20%20%20%20focus%3A%20%22hands%20and%20barrier%20surface%22%0A%20%20lighting%3A%0A%20%20%20%20keep_original%3A%20true%0A%20%20placement%3A%0A%20%20%20%20barrier_position%3A%20%22centered%20between%20both%20palms%22%0A%20%20%20%20size%3A%20%22large%20frontal%20barrier%22)**
-
----
-
-### No. 137: Boceto de producto a prompt de renderizado final
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt para convertir un boceto de producto en un render limpio, con estilo de fabricación en masa, con materiales e iluminación específicos, conservando las proporciones originales.
-
-#### 📝 Prompt
-
-```
-Renderiza este boceto como un producto final fabricado en serie. Iluminación de estudio, cuerpo de plástico blanco brillante moldeado por inyección, mango de roble pulido, bandeja de goteo de acero inoxidable. Mantén las proporciones exactas del boceto desordenado.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577197724_4u7hm0_6uEg00so5XfBLc7c.jpg" width="600" alt="Boceto de producto a prompt de renderizado final - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Gadgetify](https://x.com/Gdgtify)
-- **Fuente:** [Twitter Post](https://x.com/Gdgtify/status/1994487583125246021)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Renderiza%20este%20boceto%20como%20un%20producto%20final%20fabricado%20en%20serie.%20Iluminaci%C3%B3n%20de%20estudio%2C%20cuerpo%20de%20pl%C3%A1stico%20blanco%20brillante%20moldeado%20por%20inyecci%C3%B3n%2C%20mango%20de%20roble%20pulido%2C%20bandeja%20de%20goteo%20de%20acero%20inoxidable.%20Mant%C3%A9n%20las%20proporciones%20exactas%20del%20boceto%20desordenado.)**
-
----
-
-### No. 138: Configuración de imagen vertical de ultra alto detalle para Nano Banana Pro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* de configuración JSON para Nano Banana Pro que especifica un lienzo vertical alto de 8K con detalles ultraaltos. Es un *prompt* base reutilizable para definir las dimensiones y la calidad técnica de las tomas verticales.
-
-#### 📝 Prompt
-
-```
-{
-  "image_info": {
-    "width": {argument name="image width" default="4096"},
-    "height": {argument name="image height" default="8192"},
-    "aspect_ratio": "{argument name="aspect ratio" default="1:2"}",
-    "orientation": "{argument name="orientation" default="vertical"}"
-  },
-
-  "technical": {
-    "resolution": "{argument name="resolution" default="8k"}",
-    "dimensions": "{argument name="dimensions" default="4096x8192 o superior"}",
-    "quality": "{argument name="quality" default="detalle ultra alto"}"
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577532761_diywuf_G63J0rlbYAAVOje.jpg" width="600" alt="Configuración de imagen vertical de ultra alto detalle para Nano Banana Pro - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577536218_wr8uh4_G63J1XKbkAEBch2.jpg" width="600" alt="Configuración de imagen vertical de ultra alto detalle para Nano Banana Pro - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [tenso](https://x.com/distributedkv)
-- **Fuente:** [Twitter Post](https://x.com/distributedkv/status/1994472225714647245)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_info%22%3A%20%7B%0A%20%20%20%20%22width%22%3A%20%7Bargument%20name%3D%22image%20width%22%20default%3D%224096%22%7D%2C%0A%20%20%20%20%22height%22%3A%20%7Bargument%20name%3D%22image%20height%22%20default%3D%228192%22%7D%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%22aspect%20ratio%22%20default%3D%221%3A2%22%7D%22%2C%0A%20%20%20%20%22orientation%22%3A%20%22%7Bargument%20name%3D%22orientation%22%20default%3D%22vertical%22%7D%22%0A%20%20%7D%2C%0A%0A%20%20%22technical%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22%7Bargument%20name%3D%22resolution%22%20default%3D%228k%22%7D%22%2C%0A%20%20%20%20%22dimensions%22%3A%20%22%7Bargument%20name%3D%22dimensions%22%20default%3D%224096x8192%20o%20superior%22%7D%22%2C%0A%20%20%20%20%22quality%22%3A%20%22%7Bargument%20name%3D%22quality%22%20default%3D%22detalle%20ultra%20alto%22%7D%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 139: Simulación de empaque con un mensaje de prueba de texto pequeño
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un mensaje conciso en inglés utilizado para probar la representación de texto pequeño y el razonamiento profundo, pidiéndole a Nano Banana Pro que genere una maqueta del empaque de una caja de té de hierbas con etiquetas e instrucciones precisas.
-
-#### 📝 Prompt
-
-```
-Maqueta de empaque para una caja de té de hierbas, con una etiqueta nutricional precisa, código de barras e instrucciones de preparación en letra pequeña.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577541810_8jheny_G62kTkUaQAAzxY8.jpg" width="600" alt="Simulación de empaque con un mensaje de prueba de texto pequeño - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Nas](https://x.com/Nas_tech_AI)
-- **Fuente:** [Twitter Post](https://x.com/Nas_tech_AI/status/1994430868975493199)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Maqueta%20de%20empaque%20para%20una%20caja%20de%20t%C3%A9%20de%20hierbas%2C%20con%20una%20etiqueta%20nutricional%20precisa%2C%20c%C3%B3digo%20de%20barras%20e%20instrucciones%20de%20preparaci%C3%B3n%20en%20letra%20peque%C3%B1a.)**
-
----
-
-### No. 140: Las estrictas limitaciones del fotorrealismo exigen Nano Banana Pro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt JSON que define estrictas restricciones de proyecto para Nano Banana Pro, exigiendo fotorrealismo puro, preservación exacta del rostro a partir de una referencia e integridad de las manos. Está diseñado como un bloque de restricción global que puedes reutilizar en otros prompts.
-
-#### 📝 Prompt
-
-```
-{
-  "project_constraints": {
-    "style": "{argument name=\"style\" default=\"solo fotorrealismo estricto, sin caricaturas, sin ilustraciones, sin estilizaciones\"}",
-    "face_preservation": "{argument name=\"face preservation\" default=\"rostro humano 100% original de la referencia, sin cambios en la identidad, expresión o textura\"}",
-    "hand_integrity": "{argument name=\"hand integrity\" default=\"las manos deben ser anatómicamente correctas, con el número correcto de dedos, poses naturales y sin distorsiones\"}"
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577530234_xt1e2y_G609phDaYAAwT-W.jpg" width="600" alt="Las estrictas limitaciones del fotorrealismo exigen Nano Banana Pro - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577533011_80mx1g_G609phBbAAAxC4b.jpg" width="600" alt="Las estrictas limitaciones del fotorrealismo exigen Nano Banana Pro - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [tenso](https://x.com/distributedkv)
-- **Fuente:** [Twitter Post](https://x.com/distributedkv/status/1994317999147503924)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project_constraints%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22style%5C%22%20default%3D%5C%22solo%20fotorrealismo%20estricto%2C%20sin%20caricaturas%2C%20sin%20ilustraciones%2C%20sin%20estilizaciones%5C%22%7D%22%2C%0A%20%20%20%20%22face_preservation%22%3A%20%22%7Bargument%20name%3D%5C%22face%20preservation%5C%22%20default%3D%5C%22rostro%20humano%20100%25%20original%20de%20la%20referencia%2C%20sin%20cambios%20en%20la%20identidad%2C%20expresi%C3%B3n%20o%20textura%5C%22%7D%22%2C%0A%20%20%20%20%22hand_integrity%22%3A%20%22%7Bargument%20name%3D%5C%22hand%20integrity%5C%22%20default%3D%5C%22las%20manos%20deben%20ser%20anat%C3%B3micamente%20correctas%2C%20con%20el%20n%C3%BAmero%20correcto%20de%20dedos%2C%20poses%20naturales%20y%20sin%20distorsiones%5C%22%7D%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 141: Haz que las fotos se vean mal con coordenadas GPS específicas
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* de imagen de Nano Banana Pro que degrada intencionalmente la calidad y el realismo de una foto basándose en una latitud y longitud específicas, produciendo artefactos extraños como caras borrosas y reflejos.
-
-#### 📝 Prompt
-
-```
-Haz que esto parezca una instantánea mal tomada en un lugar con latitud y longitud {argument name="latitude and longitude" default="35.31721720077321"}.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577559103_scnta3_G602uKHa0AM1g0_.jpg" width="600" alt="Haz que las fotos se vean mal con coordenadas GPS específicas - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577561703_3tn84b_G602yzga0AAZVnK.jpg" width="600" alt="Haz que las fotos se vean mal con coordenadas GPS específicas - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577564067_2udq7q_G602z0_a0AMFYyd.jpg" width="600" alt="Haz que las fotos se vean mal con coordenadas GPS específicas - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577567323_lh77bg_G603KzUa8AArCK0.jpg" width="600" alt="Haz que las fotos se vean mal con coordenadas GPS específicas - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [空想写真家](https://x.com/KusoPhoto)
-- **Fuente:** [Twitter Post](https://x.com/KusoPhoto/status/1994310947528429640)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Haz%20que%20esto%20parezca%20una%20instant%C3%A1nea%20mal%20tomada%20en%20un%20lugar%20con%20latitud%20y%20longitud%20%7Bargument%20name%3D%22latitude%20and%20longitude%22%20default%3D%2235.31721720077321%22%7D.)**
-
----
-
-### No. 142: Manga a todo color estilo Moe a partir de un personaje e historia dados.
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Un *prompt* de Nano Banana Pro de formato largo en japonés que genera un manga a todo color estilo *moe* usando personajes adjuntos, aplicando el orden de lectura de derecha a izquierda japonés, diseños de paneles flexibles y prohibiendo ciertos cambios o resultados.
-
-#### 📝 Prompt
-
-```
-Usando el personaje adjunto, genera un manga que enfatice la ilustración, la dirección y las expresiones faciales al estilo moe.
-Como formato de manga japonés, haz que el diseño de los paneles se pueda leer de forma natural de derecha a izquierda y de arriba a abajo.
-La ubicación y las formas de los paneles son libres, pero el flujo de la mirada del lector debe seguir el orden de lectura japonés.
-En lugar de un diseño uniforme, utiliza una estructura de paneles irregular o dispuesta libremente.
-Asegúrate de generarlo como un manga a todo color.
-
-"Una semana desde el lanzamiento de Nano Banana Pro (Probanana).
-Después de seguir probando y compartiendo sin descanso... ¡gané +235 seguidores y alcancé 450,000 impresiones!
-
-No tenía mucha experiencia compartiendo contenido útil, así que estaba ansiosa, pero recibí muchos comentarios como '¡Gracias a tus publicaciones, pude hacer XX!', lo que realmente me animó.
-Cada vez que veo a la gente organizar el contenido que he compartido para crear nuevos métodos y ejemplos, realmente me alegro de haberlo compartido.
-
-Si, como mi yo del pasado, te preguntas: '¿Tiene algún valor que yo comparta cosas?', por favor, da solo un paso adelante.
-Cuando encuentres información que haría feliz a tu yo del pasado que no la conocía, incluso una publicación corta está bien, así que compártela.
-Ese paso podría darle a otra persona el impulso que necesita."
-
-Prohibido:
-・Diseños que se leen de izquierda a derecha o de abajo a arriba
-・Arreglos que hacen que el personaje parezca una persona diferente
-・Reemplazar los rasgos del personaje de referencia con los de otros personajes
-・Usar inglés o escritura horizontal para los diálogos
-・Cambiar colores o atuendos, o generar en monocromo, blanco y negro, solo arte lineal, solo tonos o escala de grises
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577545414_4gnqwy_G6z874AbIAAWwhF.jpg" width="600" alt="Manga a todo color estilo Moe a partir de un personaje e historia dados. - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [🍣お寿司職人｜CNP Land開発中](https://x.com/SushiNFTart)
-- **Fuente:** [Twitter Post](https://x.com/SushiNFTart/status/1994249535468798390)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Usando%20el%20personaje%20adjunto%2C%20genera%20un%20manga%20que%20enfatice%20la%20ilustraci%C3%B3n%2C%20la%20direcci%C3%B3n%20y%20las%20expresiones%20faciales%20al%20estilo%20moe.%0AComo%20formato%20de%20manga%20japon%C3%A9s%2C%20haz%20que%20el%20dise%C3%B1o%20de%20los%20paneles%20se%20pueda%20leer%20de%20forma%20natural%20de%20derecha%20a%20izquierda%20y%20de%20arriba%20a%20abajo.%0ALa%20ubicaci%C3%B3n%20y%20las%20formas%20de%20los%20paneles%20son%20libres%2C%20pero%20el%20flujo%20de%20la%20mirada%20del%20lector%20debe%20seguir%20el%20orden%20de%20lectura%20japon%C3%A9s.%0AEn%20lugar%20de%20un%20dise%C3%B1o%20uniforme%2C%20utiliza%20una%20estructura%20de%20paneles%20irregular%20o%20dispuesta%20libremente.%0AAseg%C3%BArate%20de%20generarlo%20como%20un%20manga%20a%20todo%20color.%0A%0A%22Una%20semana%20desde%20el%20lanzamiento%20de%20Nano%20Banana%20Pro%20(Probanana).%0ADespu%C3%A9s%20de%20seguir%20probando%20y%20compartiendo%20sin%20descanso...%20%C2%A1gan%C3%A9%20%2B235%20seguidores%20y%20alcanc%C3%A9%20450%2C000%20impresiones!%0A%0ANo%20ten%C3%ADa%20mucha%20experiencia%20compartiendo%20contenido%20%C3%BAtil%2C%20as%C3%AD%20que%20estaba%20ansiosa%2C%20pero%20recib%C3%AD%20muchos%20comentarios%20como%20'%C2%A1Gracias%20a%20tus%20publicaciones%2C%20pude%20hacer%20XX!'%2C%20lo%20que%20realmente%20me%20anim%C3%B3.%0ACada%20vez%20que%20veo%20a%20la%20gente%20organizar%20el%20contenido%20que%20he%20compartido%20para%20crear%20nuevos%20m%C3%A9todos%20y%20ejemplos%2C%20realmente%20me%20alegro%20de%20haberlo%20compartido.%0A%0ASi%2C%20como%20mi%20yo%20del%20pasado%2C%20te%20preguntas%3A%20'%C2%BFTiene%20alg%C3%BAn%20valor%20que%20yo%20comparta%20cosas%3F'%2C%20por%20favor%2C%20da%20solo%20un%20paso%20adelante.%0ACuando%20encuentres%20informaci%C3%B3n%20que%20har%C3%ADa%20feliz%20a%20tu%20yo%20del%20pasado%20que%20no%20la%20conoc%C3%ADa%2C%20incluso%20una%20publicaci%C3%B3n%20corta%20est%C3%A1%20bien%2C%20as%C3%AD%20que%20comp%C3%A1rtela.%0AEse%20paso%20podr%C3%ADa%20darle%20a%20otra%20persona%20el%20impulso%20que%20necesita.%22%0A%0AProhibido%3A%0A%E3%83%BBDise%C3%B1os%20que%20se%20leen%20de%20izquierda%20a%20derecha%20o%20de%20abajo%20a%20arriba%0A%E3%83%BBArreglos%20que%20hacen%20que%20el%20personaje%20parezca%20una%20persona%20diferente%0A%E3%83%BBReemplazar%20los%20rasgos%20del%20personaje%20de%20referencia%20con%20los%20de%20otros%20personajes%0A%E3%83%BBUsar%20ingl%C3%A9s%20o%20escritura%20horizontal%20para%20los%20di%C3%A1logos%0A%E3%83%BBCambiar%20colores%20o%20atuendos%2C%20o%20generar%20en%20monocromo%2C%20blanco%20y%20negro%2C%20solo%20arte%20lineal%2C%20solo%20tonos%20o%20escala%20de%20grises)**
-
----
-
-### No. 143: Prompt de instantánea de escuela secundaria con cámara desechable de baja calidad
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Un prompt de Nano Banana Pro que hace que una foto parezca una instantánea cotidiana vieja y mal tomada por un estudiante de secundaria japonés con una cámara desechable, ideal para imágenes nostálgicas o de estilo emo.
-
-#### 📝 Prompt
-
-```
-Una simple foto cotidiana tomada con una cámara desechable de baja calidad. Una foto mal tomada por un estudiante de secundaria japonés.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577581428_byr0np_G6z7gUVa0AMf1-G.jpg" width="600" alt="Prompt de instantánea de escuela secundaria con cámara desechable de baja calidad - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577585883_zy2ic4_G6z7gWaa0AIUxEb.jpg" width="600" alt="Prompt de instantánea de escuela secundaria con cámara desechable de baja calidad - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577588926_xb6hd6_G6z7gW7aIAA7qHf.jpg" width="600" alt="Prompt de instantánea de escuela secundaria con cámara desechable de baja calidad - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577591506_28plll_G6z7gUvbMAAAYii.jpg" width="600" alt="Prompt de instantánea de escuela secundaria con cámara desechable de baja calidad - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
-- **Fuente:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/1994245271220568233)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Una%20simple%20foto%20cotidiana%20tomada%20con%20una%20c%C3%A1mara%20desechable%20de%20baja%20calidad.%20Una%20foto%20mal%20tomada%20por%20un%20estudiante%20de%20secundaria%20japon%C3%A9s.)**
-
----
-
-### No. 144: Convierta el boceto del stand en un dibujo en perspectiva
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 Descripción
-
-Un prompt de Nano Banana Pro que toma un boceto de stand de exhibición y lo convierte en una ilustración en perspectiva útil para presentaciones.
-
-#### 📝 Prompt
-
-```
-Crea un dibujo en perspectiva a partir del boceto de un stand de exposición.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577571213_rf1k25_G6z0dknboAA-g3f.jpg" width="600" alt="Convierta el boceto del stand en un dibujo en perspectiva - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577573640_r1m695_G6z0dgia0AEQH-U.jpg" width="600" alt="Convierta el boceto del stand en un dibujo en perspectiva - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [岩尾陵佑｜株式会社ピネアル CD](https://x.com/iwaoryo)
-- **Fuente:** [Twitter Post](https://x.com/iwaoryo/status/1994237532888813637)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** ja
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Crea%20un%20dibujo%20en%20perspectiva%20a%20partir%20del%20boceto%20de%20un%20stand%20de%20exposici%C3%B3n.)**
-
----
-
-### No. 145: Retrato de una mujer tomándose una selfie en el gimnasio sobre una colchoneta de yoga para Nano Banana Pro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un prompt JSON estructurado que describe a una mujer joven después de hacer ejercicio, sentada en una colchoneta de yoga en un gimnasio moderno, secándose el sudor y sosteniendo una botella de agua, con detalles de la ropa, accesorios y elementos de fondo en una estética de selfie vertical de gimnasio.
-
-#### 📝 Prompt
-
-```
-{
-  "subject": {
-    "description": "Una mujer joven sentada en una colchoneta de yoga, secándose el sudor con una toalla, sosteniendo una botella de agua",
-    "mirror_rules": "N/A - foto directa de gimnasio",
-    "age": "finales de los 20",
-    "expression": "satisfecha, ligeramente sin aliento, sonrisa de confianza",
-    "hair": {
-      "color": "rubia con reflejos",
-      "style": "cola de caballo alta, ligeramente despeinada con cabellos sueltos por el ejercicio"
-    },
-    "clothing": {
-      "top": {
-        "type": "sujetador deportivo",
-        "color": "rosa palo",
-        "details": "soporte medio, detalle de tiras en la espalda, humedad visible por el sudor"
-      },
-      "bottom": {
-        "type": "leggings de tiro alto",
-        "color": "negro con paneles de malla",
-        "details": "hasta el tobillo, recortes de malla en las pantorrillas, ajuste de compresión"
-      }
-    },
-    "face": {
-      "preserve_original": true,
-      "makeup": "mínimo, brillante por el ejercicio, mejillas sonrojadas naturalmente, sin maquillaje de ojos"
-    }
-  },
-  "accessories": {
-    "headwear": {
-      "type": "ninguno",
-      "details": "cabello recogido con una scrunchie"
-    },
-    "jewelry": {
-      "earrings": "pequeños aretes de diamante",
-      "necklace": "ninguno",
-      "wrist": "rastreador de actividad física de oro rosa, ligas de pelo negras en la muñeca",
-      "rings": "ninguno"
-    },
-    "device": {
-      "type": "smartphone",
-      "details": "apoyado contra una mancuerna, grabando una selfie de entrenamiento"
-    },
-    "prop": {
-      "type": "botella de agua aislada",
-      "details": "botella de 32 oz de color negro mate con una calcomanía de cita motivacional, condensación visible"
-    }
-  },
-  "photography": {
-    "camera_style": "estética de selfie de gimnasio, cámara frontal de smartphone",
-    "angle": "ligeramente por encima del nivel de los ojos, posición sentada",
-    "shot_type": "parte superior del cuerpo completa y piernas cruzadas, composición centrada",
-    "aspect_ratio": "9:16 vertical",
-    "texture": "detalle nítido, iluminación brillante de gimnasio, sensación energética"
-  },
-  "background": {
-    "setting": "estudio de gimnasio moderno",
-    "wall_color": "gris claro con mural motivacional",
-    "elements": [
-      "colchoneta de yoga morada extendida",
-      "juego de mancuernas esparcidas cerca",
-      "toalla blanca colgada sobre el hombro",
-      "equipo de gimnasio borroso en el fondo",
-      "espejo grande que refleja la pared trasera",
-      "bandas de resistencia enrolladas en el suelo"
-    ],
-    "atmosphere": "energética, de logro, enfocada en la salud",
-    "lighting": "iluminación LED brillante de gimnasio, cobertura uniforme"
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="Retrato de una mujer tomándose una selfie en el gimnasio sobre una colchoneta de yoga para Nano Banana Pro - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [God of Prompt](https://x.com/godofprompt)
-- **Fuente:** [Twitter Post](https://x.com/godofprompt/status/1994226363692171267)
-- **Publicado:** 28 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22Una%20mujer%20joven%20sentada%20en%20una%20colchoneta%20de%20yoga%2C%20sec%C3%A1ndose%20el%20sudor%20con%20una%20toalla%2C%20sosteniendo%20una%20botella%20de%20agua%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22N%2FA%20-%20foto%20directa%20de%20gimnasio%22%2C%0A%20%20%20%20%22age%22%3A%20%22finales%20de%20los%2020%22%2C%0A%20%20%20%20%22expression%22%3A%20%22satisfecha%2C%20ligeramente%20sin%20aliento%2C%20sonrisa%20de%20confianza%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22rubia%20con%20reflejos%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22cola%20de%20caballo%20alta%2C%20ligeramente%20despeinada%20con%20cabellos%20sueltos%20por%20el%20ejercicio%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22sujetador%20deportivo%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22rosa%20palo%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22soporte%20medio%2C%20detalle%20de%20tiras%20en%20la%20espalda%2C%20humedad%20visible%20por%20el%20sudor%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22leggings%20de%20tiro%20alto%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22negro%20con%20paneles%20de%20malla%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22hasta%20el%20tobillo%2C%20recortes%20de%20malla%20en%20las%20pantorrillas%2C%20ajuste%20de%20compresi%C3%B3n%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22m%C3%ADnimo%2C%20brillante%20por%20el%20ejercicio%2C%20mejillas%20sonrojadas%20naturalmente%2C%20sin%20maquillaje%20de%20ojos%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22ninguno%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22cabello%20recogido%20con%20una%20scrunchie%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22earrings%22%3A%20%22peque%C3%B1os%20aretes%20de%20diamante%22%2C%0A%20%20%20%20%20%20%22necklace%22%3A%20%22ninguno%22%2C%0A%20%20%20%20%20%20%22wrist%22%3A%20%22rastreador%20de%20actividad%20f%C3%ADsica%20de%20oro%20rosa%2C%20ligas%20de%20pelo%20negras%20en%20la%20mu%C3%B1eca%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22ninguno%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22device%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22smartphone%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22apoyado%20contra%20una%20mancuerna%2C%20grabando%20una%20selfie%20de%20entrenamiento%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22botella%20de%20agua%20aislada%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22botella%20de%2032%20oz%20de%20color%20negro%20mate%20con%20una%20calcoman%C3%ADa%20de%20cita%20motivacional%2C%20condensaci%C3%B3n%20visible%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22photography%22%3A%20%7B%0A%20%20%20%20%22camera_style%22%3A%20%22est%C3%A9tica%20de%20selfie%20de%20gimnasio%2C%20c%C3%A1mara%20frontal%20de%20smartphone%22%2C%0A%20%20%20%20%22angle%22%3A%20%22ligeramente%20por%20encima%20del%20nivel%20de%20los%20ojos%2C%20posici%C3%B3n%20sentada%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22parte%20superior%20del%20cuerpo%20completa%20y%20piernas%20cruzadas%2C%20composici%C3%B3n%20centrada%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%229%3A16%20vertical%22%2C%0A%20%20%20%20%22texture%22%3A%20%22detalle%20n%C3%ADtido%2C%20iluminaci%C3%B3n%20brillante%20de%20gimnasio%2C%20sensaci%C3%B3n%20energ%C3%A9tica%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22estudio%20de%20gimnasio%20moderno%22%2C%0A%20%20%20%20%22wall_color%22%3A%20%22gris%20claro%20con%20mural%20motivacional%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22colchoneta%20de%20yoga%20morada%20extendida%22%2C%0A%20%20%20%20%20%20%22juego%20de%20mancuernas%20esparcidas%20cerca%22%2C%0A%20%20%20%20%20%20%22toalla%20blanca%20colgada%20sobre%20el%20hombro%22%2C%0A%20%20%20%20%20%20%22equipo%20de%20gimnasio%20borroso%20en%20el%20fondo%22%2C%0A%20%20%20%20%20%20%22espejo%20grande%20que%20refleja%20la%20pared%20trasera%22%2C%0A%20%20%20%20%20%20%22bandas%20de%20resistencia%20enrolladas%20en%20el%20suelo%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22energ%C3%A9tica%2C%20de%20logro%2C%20enfocada%20en%20la%20salud%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22iluminaci%C3%B3n%20LED%20brillante%20de%20gimnasio%2C%20cobertura%20uniforme%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 146: Solicitud de recreación de anuncios utilizando la estética de su producto y marca
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un *prompt* de texto para Nano Banana Pro que recrea el diseño de un anuncio existente con tu propio producto y marca, manteniendo la composición y el ambiente, y eliminando la marca de la competencia.
-
-#### 📝 Prompt
-
-```
-Recrea este concepto de anuncio usando {argument name="your product" default="my product"} en lugar del producto de la competencia. Mantén el mismo ambiente, iluminación, composición y vibra general. Elimina toda la marca de la competencia.
-Reemplaza el producto con el de {argument name="reference image" default="my uploaded image"} y adapta todos los elementos de fondo, accesorios y texturas circundantes para que sean visualmente relevantes para {argument name="your brand" default="my product’s brand"}, {argument name="flavor profile" default="my product’s flavor profile"} y la estética, no la de la marca original. Mantén el fotorrealismo y las proporciones precisas del producto.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909317083_vg9s0c_G6s_-BpXgAA9i4k.jpg" width="600" alt="Solicitud de recreación de anuncios utilizando la estética de su producto y marca - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909320013_shh6cp_G6s__DKW4AEdcPu.jpg" width="600" alt="Solicitud de recreación de anuncios utilizando la estética de su producto y marca - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [J.B.](https://x.com/VibeMarketer_)
-- **Fuente:** [Twitter Post](https://x.com/VibeMarketer_/status/1993757724564189225)
-- **Publicado:** 26 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Recrea%20este%20concepto%20de%20anuncio%20usando%20%7Bargument%20name%3D%22your%20product%22%20default%3D%22my%20product%22%7D%20en%20lugar%20del%20producto%20de%20la%20competencia.%20Mant%C3%A9n%20el%20mismo%20ambiente%2C%20iluminaci%C3%B3n%2C%20composici%C3%B3n%20y%20vibra%20general.%20Elimina%20toda%20la%20marca%20de%20la%20competencia.%0AReemplaza%20el%20producto%20con%20el%20de%20%7Bargument%20name%3D%22reference%20image%22%20default%3D%22my%20uploaded%20image%22%7D%20y%20adapta%20todos%20los%20elementos%20de%20fondo%2C%20accesorios%20y%20texturas%20circundantes%20para%20que%20sean%20visualmente%20relevantes%20para%20%7Bargument%20name%3D%22your%20brand%22%20default%3D%22my%20product%E2%80%99s%20brand%22%7D%2C%20%7Bargument%20name%3D%22flavor%20profile%22%20default%3D%22my%20product%E2%80%99s%20flavor%20profile%22%7D%20y%20la%20est%C3%A9tica%2C%20no%20la%20de%20la%20marca%20original.%20Mant%C3%A9n%20el%20fotorrealismo%20y%20las%20proporciones%20precisas%20del%20producto.)**
-
----
-
-### No. 147: Prompt para retrato de pareja en auto, estilo Y2K flash night
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt muy detallado estilo JSON para generar una foto nocturna cruda estilo Y2K de una pareja en un auto, con estricta preservación de identidad, poses específicas, vestuario, iluminación y configuración de ambiente.
-
-#### 📝 Prompt
-
-```
-{
-  "generation_constraints": {
-    "identity_preservation": "{argument name=\"identity preservation\" default=\"Bloqueo estricto de identidad completa en ambos sujetos de la foto de referencia\"}",
-    "facial_features": "No alterar rostros, proporciones ni expresiones naturales",
-    "style_reference": "Estilo de foto nocturna Y2K cruda"
-  },
-  "camera_settings": {
-    "lens": "Lente de retrato de 85 mm",
-    "focus": "Poca profundidad de campo",
-    "angle": "A la altura de los ojos",
-    "framing": "Plano medio",
-    "technique": "Flash frontal directo fuerte (flash en cámara)"
-  },
-  "subject_details": {
-    "pose_interaction": {
-      "position": "Sentados muy juntos en el asiento trasero del auto",
-      "man_action": "Abrazando suavemente a la mujer por el cuello, besándole la sien",
-      "woman_action": "Inclinándose suavemente hacia él, con los ojos cerrados",
-      "mood": "Pacífico, íntimo, tranquilo"
-    },
-    "wardrobe": {
-      "woman": {
-        "garment": "Elegante vestido negro de manga larga",
-        "fabric": "Tela mate densa",
-        "details": "Cuello alto, hombros no expuestos, silueta clásica ajustada"
-      },
-      "man": {
-        "outfit": "Traje negro con pantalones a juego",
-        "shirt": "Camisa negra debajo"
-      }
-    }
-  },
-  "lighting_and_atmosphere": {
-    "primary_source": "Flash frontal directo fuerte",
-    "ambient_light": "Ninguna en el interior (interior oscuro), luces cálidas de la ciudad borrosas en el exterior",
-    "contrast": "Bordes de alto contraste, sombras nítidas detrás de los sujetos",
-    "highlights": "Reflejos de flash nítidos en la piel y el cristal mojado"
-  },
-  "environment_context": {
-    "setting": "Dentro de un auto por la noche",
-    "background_elements": "Ventanas del auto empañadas con gotas de lluvia",
-    "effects": "Reflejos del flash rebotando en el cristal, sutil neblina del aire frío de la noche",
-    "depth": "El fondo permanece profundo y oscuro con un suave desenfoque"
-  }
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909329620_vd9p4w_G6lTK_eWEAEwfKD.jpg" width="600" alt="Prompt para retrato de pareja en auto, estilo Y2K flash night - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Melisa♡](https://x.com/xmliisu)
-- **Fuente:** [Twitter Post](https://x.com/xmliisu/status/1993215769765703861)
-- **Publicado:** 25 de noviembre de 2025
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22generation_constraints%22%3A%20%7B%0A%20%20%20%20%22identity_preservation%22%3A%20%22%7Bargument%20name%3D%5C%22identity%20preservation%5C%22%20default%3D%5C%22Bloqueo%20estricto%20de%20identidad%20completa%20en%20ambos%20sujetos%20de%20la%20foto%20de%20referencia%5C%22%7D%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22No%20alterar%20rostros%2C%20proporciones%20ni%20expresiones%20naturales%22%2C%0A%20%20%20%20%22style_reference%22%3A%20%22Estilo%20de%20foto%20nocturna%20Y2K%20cruda%22%0A%20%20%7D%2C%0A%20%20%22camera_settings%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%22Lente%20de%20retrato%20de%2085%20mm%22%2C%0A%20%20%20%20%22focus%22%3A%20%22Poca%20profundidad%20de%20campo%22%2C%0A%20%20%20%20%22angle%22%3A%20%22A%20la%20altura%20de%20los%20ojos%22%2C%0A%20%20%20%20%22framing%22%3A%20%22Plano%20medio%22%2C%0A%20%20%20%20%22technique%22%3A%20%22Flash%20frontal%20directo%20fuerte%20(flash%20en%20c%C3%A1mara)%22%0A%20%20%7D%2C%0A%20%20%22subject_details%22%3A%20%7B%0A%20%20%20%20%22pose_interaction%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22Sentados%20muy%20juntos%20en%20el%20asiento%20trasero%20del%20auto%22%2C%0A%20%20%20%20%20%20%22man_action%22%3A%20%22Abrazando%20suavemente%20a%20la%20mujer%20por%20el%20cuello%2C%20bes%C3%A1ndole%20la%20sien%22%2C%0A%20%20%20%20%20%20%22woman_action%22%3A%20%22Inclin%C3%A1ndose%20suavemente%20hacia%20%C3%A9l%2C%20con%20los%20ojos%20cerrados%22%2C%0A%20%20%20%20%20%20%22mood%22%3A%20%22Pac%C3%ADfico%2C%20%C3%ADntimo%2C%20tranquilo%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%20%20%22woman%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22garment%22%3A%20%22Elegante%20vestido%20negro%20de%20manga%20larga%22%2C%0A%20%20%20%20%20%20%20%20%22fabric%22%3A%20%22Tela%20mate%20densa%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22Cuello%20alto%2C%20hombros%20no%20expuestos%2C%20silueta%20cl%C3%A1sica%20ajustada%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22man%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22outfit%22%3A%20%22Traje%20negro%20con%20pantalones%20a%20juego%22%2C%0A%20%20%20%20%20%20%20%20%22shirt%22%3A%20%22Camisa%20negra%20debajo%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_and_atmosphere%22%3A%20%7B%0A%20%20%20%20%22primary_source%22%3A%20%22Flash%20frontal%20directo%20fuerte%22%2C%0A%20%20%20%20%22ambient_light%22%3A%20%22Ninguna%20en%20el%20interior%20(interior%20oscuro)%2C%20luces%20c%C3%A1lidas%20de%20la%20ciudad%20borrosas%20en%20el%20exterior%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22Bordes%20de%20alto%20contraste%2C%20sombras%20n%C3%ADtidas%20detr%C3%A1s%20de%20los%20sujetos%22%2C%0A%20%20%20%20%22highlights%22%3A%20%22Reflejos%20de%20flash%20n%C3%ADtidos%20en%20la%20piel%20y%20el%20cristal%20mojado%22%0A%20%20%7D%2C%0A%20%20%22environment_context%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22Dentro%20de%20un%20auto%20por%20la%20noche%22%2C%0A%20%20%20%20%22background_elements%22%3A%20%22Ventanas%20del%20auto%20empa%C3%B1adas%20con%20gotas%20de%20lluvia%22%2C%0A%20%20%20%20%22effects%22%3A%20%22Reflejos%20del%20flash%20rebotando%20en%20el%20cristal%2C%20sutil%20neblina%20del%20aire%20fr%C3%ADo%20de%20la%20noche%22%2C%0A%20%20%20%20%22depth%22%3A%20%22El%20fondo%20permanece%20profundo%20y%20oscuro%20con%20un%20suave%20desenfoque%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 148: Retrato emocional horizontal de tres paneles a partir de una imagen
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de Nano Banana Pro que utiliza una sola foto de referencia para crear un tríptico horizontal donde el mismo personaje aparece en tres variaciones emocionales y compositivas.
-
-#### 📝 Prompt
-
-```
-Usa la imagen adjunta como base.
-No cambies el rostro, peinado, ropa ni proporciones corporales de la persona.
-
-Genera una composición horizontal de tres paneles (superior / medio / inferior).
-
-Panel superior:
-
-Primer plano mostrando solo los ojos y la boca.
-
-Emoción: {argument name="top panel emotion" default="lloroso, con la voz entrecortada, ligeramente llorando"}
-
-Panel central:
-
-A gatas.
-
-Sonrisa suave.
-
-Mirando directamente a la cámara.
-
-Panel inferior:
-
-Primer plano de perfil, de la cabeza al cuello.
-
-{argument name="bottom panel expression and action" default="labios fruncidos, como si fuera a dar un beso"}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909275493_0jdkmx_G6k2ZXibsAAzrBQ.jpg" width="600" alt="Retrato emocional horizontal de tres paneles a partir de una imagen - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [摆烂程序媛](https://x.com/wanerfu)
-- **Fuente:** [Twitter Post](https://x.com/wanerfu/status/1993184128091799571)
-- **Publicado:** 25 de noviembre de 2025
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Usa%20la%20imagen%20adjunta%20como%20base.%0ANo%20cambies%20el%20rostro%2C%20peinado%2C%20ropa%20ni%20proporciones%20corporales%20de%20la%20persona.%0A%0AGenera%20una%20composici%C3%B3n%20horizontal%20de%20tres%20paneles%20(superior%20%2F%20medio%20%2F%20inferior).%0A%0APanel%20superior%3A%0A%0APrimer%20plano%20mostrando%20solo%20los%20ojos%20y%20la%20boca.%0A%0AEmoci%C3%B3n%3A%20%7Bargument%20name%3D%22top%20panel%20emotion%22%20default%3D%22lloroso%2C%20con%20la%20voz%20entrecortada%2C%20ligeramente%20llorando%22%7D%0A%0APanel%20central%3A%0A%0AA%20gatas.%0A%0ASonrisa%20suave.%0A%0AMirando%20directamente%20a%20la%20c%C3%A1mara.%0A%0APanel%20inferior%3A%0A%0APrimer%20plano%20de%20perfil%2C%20de%20la%20cabeza%20al%20cuello.%0A%0A%7Bargument%20name%3D%22bottom%20panel%20expression%20and%20action%22%20default%3D%22labios%20fruncidos%2C%20como%20si%20fuera%20a%20dar%20un%20beso%22%7D)**
-
----
-
-### No. 149: Prompt de flujo de trabajo de PPT académico cálido estilo Anthropic
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descripción
-
-Un prompt estilo flujo de trabajo para Nano Banana Pro que primero esquematiza una PPT a partir de un artículo, y luego genera cada diapositiva con un estilo de diseño cálido y académico inspirado en Anthropic/Claude.
-
-#### 📝 Prompt
-
-```
-Basado en el siguiente artículo, crea una presentación de PowerPoint profesional en chino para mí.
-Primero, escribe un esquema de la presentación y planifica el contenido de cada diapositiva.
-Luego, introduce el contenido de cada diapositiva en Nano Banana Pro para generar la página de PowerPoint correspondiente, asegurando un estilo consistente.
-
-El estilo específico de la presentación debe ser un diseño humanista, cálido y académico al "estilo Anthropic/Claude".
-Fondo: utiliza un beige/crema cálido (#F3F0E9) como color base sólido, con una ligera textura de papel premium.
-Fuentes: usa una fuente serif elegante para los títulos y una fuente sans-serif moderna para el cuerpo del texto.
-Paleta de colores: los colores principales son el rojo terracota (#D67052) y el amarillo mostaza (#F0B857), acentuados con azul marino oscuro. Evita los colores neón o el negro puro.
-Elementos visuales: utiliza un diseño de cuadrícula que enfatice la tipografía. El estilo de ilustración debe ser arte lineal abstracto, orgánico y dibujado a mano en negro, colocado sobre bloques sólidos de color rojo terracota. Debes usar ilustraciones y elementos decorativos con mucha moderación, y deben servir al contenido.
-Gráficos: gráficos planos y minimalistas que enfaticen la comparación de datos, eliminando bordes innecesarios.
-
-Tanto el texto como las imágenes son generados por Nano Banana Pro. Además, no conviertas la presentación en una sola imagen grande; debe ser una imagen por diapositiva.
-
-El contenido del artículo es:
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909280626_bh9j8m_G6kir-JbwAQO4LN.jpg" width="600" alt="Prompt de flujo de trabajo de PPT académico cálido estilo Anthropic - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [歸藏(guizang.ai)](https://x.com/op7418)
-- **Fuente:** [Twitter Post](https://x.com/op7418/status/1993162900630823106)
-- **Publicado:** 25 de noviembre de 2025
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Basado%20en%20el%20siguiente%20art%C3%ADculo%2C%20crea%20una%20presentaci%C3%B3n%20de%20PowerPoint%20profesional%20en%20chino%20para%20m%C3%AD.%0APrimero%2C%20escribe%20un%20esquema%20de%20la%20presentaci%C3%B3n%20y%20planifica%20el%20contenido%20de%20cada%20diapositiva.%0ALuego%2C%20introduce%20el%20contenido%20de%20cada%20diapositiva%20en%20Nano%20Banana%20Pro%20para%20generar%20la%20p%C3%A1gina%20de%20PowerPoint%20correspondiente%2C%20asegurando%20un%20estilo%20consistente.%0A%0AEl%20estilo%20espec%C3%ADfico%20de%20la%20presentaci%C3%B3n%20debe%20ser%20un%20dise%C3%B1o%20humanista%2C%20c%C3%A1lido%20y%20acad%C3%A9mico%20al%20%22estilo%20Anthropic%2FClaude%22.%0AFondo%3A%20utiliza%20un%20beige%2Fcrema%20c%C3%A1lido%20(%23F3F0E9)%20como%20color%20base%20s%C3%B3lido%2C%20con%20una%20ligera%20textura%20de%20papel%20premium.%0AFuentes%3A%20usa%20una%20fuente%20serif%20elegante%20para%20los%20t%C3%ADtulos%20y%20una%20fuente%20sans-serif%20moderna%20para%20el%20cuerpo%20del%20texto.%0APaleta%20de%20colores%3A%20los%20colores%20principales%20son%20el%20rojo%20terracota%20(%23D67052)%20y%20el%20amarillo%20mostaza%20(%23F0B857)%2C%20acentuados%20con%20azul%20marino%20oscuro.%20Evita%20los%20colores%20ne%C3%B3n%20o%20el%20negro%20puro.%0AElementos%20visuales%3A%20utiliza%20un%20dise%C3%B1o%20de%20cuadr%C3%ADcula%20que%20enfatice%20la%20tipograf%C3%ADa.%20El%20estilo%20de%20ilustraci%C3%B3n%20debe%20ser%20arte%20lineal%20abstracto%2C%20org%C3%A1nico%20y%20dibujado%20a%20mano%20en%20negro%2C%20colocado%20sobre%20bloques%20s%C3%B3lidos%20de%20color%20rojo%20terracota.%20Debes%20usar%20ilustraciones%20y%20elementos%20decorativos%20con%20mucha%20moderaci%C3%B3n%2C%20y%20deben%20servir%20al%20contenido.%0AGr%C3%A1ficos%3A%20gr%C3%A1ficos%20planos%20y%20minimalistas%20que%20enfaticen%20la%20comparaci%C3%B3n%20de%20datos%2C%20eliminando%20bordes%20innecesarios.%0A%0ATanto%20el%20texto%20como%20las%20im%C3%A1genes%20son%20generados%20por%20Nano%20Banana%20Pro.%20Adem%C3%A1s%2C%20no%20conviertas%20la%20presentaci%C3%B3n%20en%20una%20sola%20imagen%20grande%3B%20debe%20ser%20una%20imagen%20por%20diapositiva.%0A%0AEl%20contenido%20del%20art%C3%ADculo%20es%3A)**
-
----
-
-### No. 150: Solicitud de generación de foto de identificación para Nano Banana Pro
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt simple para convertir un retrato en una foto de identificación profesional de 2 pulgadas con un color de fondo, vestimenta y expresión específicos.
-
-#### 📝 Prompt
-
-```
-Recorta la cabeza de la persona en la imagen y conviértela en una foto de identificación de 2 pulgadas con los siguientes requisitos:
-1. {argument name="background color" default="blue background"}
-2. Vestimenta formal profesional
-3. Mirar directamente a la cámara
-4. Sonrisa leve
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909281176_xrpzzd_G6j6mWtbwAAx4bq.jpg" width="600" alt="Solicitud de generación de foto de identificación para Nano Banana Pro - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909283247_06l64k_G6j6nXlakAAkf5e.jpg" width="600" alt="Solicitud de generación de foto de identificación para Nano Banana Pro - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909285507_c63j11_G6j6pYObwAIm-OF.jpg" width="600" alt="Solicitud de generación de foto de identificación para Nano Banana Pro - Image 3">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [松果先森](https://x.com/songguoxiansen)
-- **Fuente:** [Twitter Post](https://x.com/songguoxiansen/status/1993135045846987053)
-- **Publicado:** 25 de noviembre de 2025
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/nano-banana-pro-prompts?prompt=Recorta%20la%20cabeza%20de%20la%20persona%20en%20la%20imagen%20y%20convi%C3%A9rtela%20en%20una%20foto%20de%20identificaci%C3%B3n%20de%202%20pulgadas%20con%20los%20siguientes%20requisitos%3A%0A1.%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22blue%20background%22%7D%0A2.%20Vestimenta%20formal%20profesional%0A3.%20Mirar%20directamente%20a%20la%20c%C3%A1mara%0A4.%20Sonrisa%20leve)**
-
----
-
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 516 prompts más no mostrados aquí
+### 🎯 541 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 150 regular prompts in this README.
 
@@ -8647,6 +8535,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-07T12:19:11.819Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-07T16:13:05.359Z</sub>
 
 </div>

@@ -88,9 +88,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **680** |
-| ⭐ 추천 | **14** |
-| 🔄 마지막 업데이트 | **2025년 12월 7일 일요일 오후 12시 18분 43초 UTC** |
+| 📝 총 프롬프트 수 | **703** |
+| ⭐ 추천 | **12** |
+| 🔄 마지막 업데이트 | **2025년 12월 7일 일요일 오후 4시 12분 19초 UTC** |
 
 </div>
 
@@ -682,81 +682,730 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 13: 올리브 오일 브랜드의 소셜 미디어 피드 생성 요청
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-해당 트윗은 Gamma에 주어진 자연어 요청을 인용하는데, 이 요청은 Nano Banana Pro를 사용했으며, 소규모 올리브 오일 브랜드의 소셜 미디어 피드를 생성하기 위한 간단한 프롬프트로 재사용될 수 있습니다.
-
-#### 📝 프롬프트
-
-```
-{argument name="brand description" default="이 소규모 올리브 오일 브랜드"}를 위한 소셜 미디어 피드를 만들어 주세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909159851_ahqsgd_AINoNNOpgxMpOVV7.jpg" width="700" alt="올리브 오일 브랜드의 소셜 미디어 피드 생성 요청 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Bishal Nandi](https://x.com/LearnWithBishal)
-- **출처:** [Twitter Post](https://x.com/LearnWithBishal/status/1995876788657172902)
-- **게시일:** 2025년 12월 2일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22brand%20description%22%20default%3D%22%EC%9D%B4%20%EC%86%8C%EA%B7%9C%EB%AA%A8%20%EC%98%AC%EB%A6%AC%EB%B8%8C%20%EC%98%A4%EC%9D%BC%20%EB%B8%8C%EB%9E%9C%EB%93%9C%22%7D%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%86%8C%EC%85%9C%20%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%94%BC%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
-
----
-
-### No. 14: 올리브 오일 소셜 미디어 피드 프롬프트 복제
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-소규모 올리브 오일 브랜드의 소셜 미디어 피드를 생성해 달라는 동일한 요청을 인용한 또 다른 트윗으로, 제품 사진과 함께 Nano Banana Pro 텍스트 또는 이미지 프롬프트로 사용할 수 있습니다.
-
-#### 📝 프롬프트
-
-```
-{argument name="brand description" default="이 소량 생산 올리브 오일 브랜드"}를 위한 소셜 미디어 피드를 만들어 주세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909156641_4jmcin_tOn80A78xv0O-eYb.jpg" width="700" alt="올리브 오일 소셜 미디어 피드 프롬프트 복제 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Mujeeb Ahmed](https://x.com/hey_mujeebahmed)
-- **출처:** [Twitter Post](https://x.com/hey_mujeebahmed/status/1995920209941856416)
-- **게시일:** 2025년 12월 2일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22brand%20description%22%20default%3D%22%EC%9D%B4%20%EC%86%8C%EB%9F%89%20%EC%83%9D%EC%82%B0%20%EC%98%AC%EB%A6%AC%EB%B8%8C%20%EC%98%A4%EC%9D%BC%20%EB%B8%8C%EB%9E%9C%EB%93%9C%22%7D%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%86%8C%EC%85%9C%20%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%94%BC%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
-
----
-
 ## 📋 모든 프롬프트
 
 > 📝 게시일 기준 정렬(최신순)
 
-### No. 1: 골판지 아트워크 프레임 디스플레이
+### No. 1: Y!mobile 광고 포스터 생성 프롬프트
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+Y!mobile 광고 포스터를 제작하기 위한 Nano Banana Pro용 짧은 프롬프트입니다. 가로세로 비율(16:9), 주요 색상(Y!mobile의 시그니처 레드), 24엔 2년 렌탈 플랜에 대한 구체적인 프로모션 콘텐츠를 지정합니다.
+
+#### 📝 프롬프트
+
+```
+#장면 Y!mobile의 시그니처 컬러인 빨간색을 바탕으로 광고 포스터를 만드세요.
+
+#콘텐츠 {argument name="content" default="새로운 특가 서포트 2년 렌탈 총 결제 금액 24엔"}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122655963_txylks_G7hJLfRbUAA9h7j.png" width="600" alt="Y!mobile 광고 포스터 생성 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [たまコイン＠発展途上国底辺FIRE民](https://x.com/tamacoin_tamao)
+- **출처:** [Twitter Post](https://x.com/tamacoin_tamao/status/1997426898406912416)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%23%EC%9E%A5%EB%A9%B4%20Y!mobile%EC%9D%98%20%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98%20%EC%BB%AC%EB%9F%AC%EC%9D%B8%20%EB%B9%A8%EA%B0%84%EC%83%89%EC%9D%84%20%EB%B0%94%ED%83%95%EC%9C%BC%EB%A1%9C%20%EA%B4%91%EA%B3%A0%20%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.%0A%0A%23%EC%BD%98%ED%85%90%EC%B8%A0%20%7Bargument%20name%3D%22content%22%20default%3D%22%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8A%B9%EA%B0%80%20%EC%84%9C%ED%8F%AC%ED%8A%B8%202%EB%85%84%20%EB%A0%8C%ED%83%88%20%EC%B4%9D%20%EA%B2%B0%EC%A0%9C%20%EA%B8%88%EC%95%A1%2024%EC%97%94%22%7D)**
+
+---
+
+### No. 2: 실사 거울 셀카 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+현대적인 욕실에서 젊은 여성이 찍은 사실적인 거울 셀카를 생성하기 위한 상세 프롬프트. 특정 포즈, 의상, 액세서리에 초점을 맞추고, 최종 이미지가 정확한 반사와 자연스러운 질감을 가진 실제 휴대폰 셀카처럼 보이도록 합니다.
+
+#### 📝 프롬프트
+
+```
+욕실 카운터 가장자리에 앉아 거울을 향해 어깨 너머로 살짝 몸을 돌린 젊은 여성이 거울 셀카를 찍는 모습을 사실적으로 묘사해 주세요. 그녀는 한 손으로 휴대폰을 들고 사진을 찍고 있습니다. 그녀는 길고 웨이브진 금발 머리에 자연스러운 화장을 했고, 커다란 투명 뿔테 안경을 쓰고 있습니다. 그녀의 의상은 허리와 엉덩이에 꼭 맞는 타이트한 검은색 반팔 보디콘 드레스입니다. 팔찌와 반지 등 심플한 금색 장신구를 착용했습니다. 배경은 밝은 뉴트럴 톤 벽, 유리 샤워 부스, 접힌 수건, 대리석 카운터탑, 부드러운 자연광이 있는 현대적이고 미니멀한 욕실입니다. 사진은 정확한 반사, 선명한 디테일, 자연스러운 피부 질감을 가진 사실적인 휴대폰 셀카처럼 보여야 합니다. 원본 이미지를 재현하면서 동일한 포즈, 앵글, 프레이밍, 조명 및 전반적인 미학을 담아내세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122628982_t6h6co_G7hCE09bMAAmcO8.jpg" width="600" alt="실사 거울 셀카 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122630176_l8e0ip_G7hCE2iaIAAICjM.jpg" width="600" alt="실사 거울 셀카 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122631523_f0fxg3_G7hCE95acAAs15H.jpg" width="600" alt="실사 거울 셀카 프롬프트 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122632466_yiukpk_G7hCE6iacAAg-2S.jpg" width="600" alt="실사 거울 셀카 프롬프트 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Milova](https://x.com/milovaai)
+- **출처:** [Twitter Post](https://x.com/milovaai/status/1997419100256309430)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9A%95%EC%8B%A4%20%EC%B9%B4%EC%9A%B4%ED%84%B0%20%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC%EC%97%90%20%EC%95%89%EC%95%84%20%EA%B1%B0%EC%9A%B8%EC%9D%84%20%ED%96%A5%ED%95%B4%20%EC%96%B4%EA%B9%A8%20%EB%84%88%EB%A8%B8%EB%A1%9C%20%EC%82%B4%EC%A7%9D%20%EB%AA%B8%EC%9D%84%20%EB%8F%8C%EB%A6%B0%20%EC%A0%8A%EC%9D%80%20%EC%97%AC%EC%84%B1%EC%9D%B4%20%EA%B1%B0%EC%9A%B8%20%EC%85%80%EC%B9%B4%EB%A5%BC%20%EC%B0%8D%EB%8A%94%20%EB%AA%A8%EC%8A%B5%EC%9D%84%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%AC%98%EC%82%AC%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EA%B7%B8%EB%85%80%EB%8A%94%20%ED%95%9C%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9D%84%20%EB%93%A4%EA%B3%A0%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EC%B0%8D%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%85%80%EB%8A%94%20%EA%B8%B8%EA%B3%A0%20%EC%9B%A8%EC%9D%B4%EB%B8%8C%EC%A7%84%20%EA%B8%88%EB%B0%9C%20%EB%A8%B8%EB%A6%AC%EC%97%90%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%99%94%EC%9E%A5%EC%9D%84%20%ED%96%88%EA%B3%A0%2C%20%EC%BB%A4%EB%8B%A4%EB%9E%80%20%ED%88%AC%EB%AA%85%20%EB%BF%94%ED%85%8C%20%EC%95%88%EA%B2%BD%EC%9D%84%20%EC%93%B0%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EA%B7%B8%EB%85%80%EC%9D%98%20%EC%9D%98%EC%83%81%EC%9D%80%20%ED%97%88%EB%A6%AC%EC%99%80%20%EC%97%89%EB%8D%A9%EC%9D%B4%EC%97%90%20%EA%BC%AD%20%EB%A7%9E%EB%8A%94%20%ED%83%80%EC%9D%B4%ED%8A%B8%ED%95%9C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EB%B0%98%ED%8C%94%20%EB%B3%B4%EB%94%94%EC%BD%98%20%EB%93%9C%EB%A0%88%EC%8A%A4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%ED%8C%94%EC%B0%8C%EC%99%80%20%EB%B0%98%EC%A7%80%20%EB%93%B1%20%EC%8B%AC%ED%94%8C%ED%95%9C%20%EA%B8%88%EC%83%89%20%EC%9E%A5%EC%8B%A0%EA%B5%AC%EB%A5%BC%20%EC%B0%A9%EC%9A%A9%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%B0%9D%EC%9D%80%20%EB%89%B4%ED%8A%B8%EB%9F%B4%20%ED%86%A4%20%EB%B2%BD%2C%20%EC%9C%A0%EB%A6%AC%20%EC%83%A4%EC%9B%8C%20%EB%B6%80%EC%8A%A4%2C%20%EC%A0%91%ED%9E%8C%20%EC%88%98%EA%B1%B4%2C%20%EB%8C%80%EB%A6%AC%EC%84%9D%20%EC%B9%B4%EC%9A%B4%ED%84%B0%ED%83%91%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%9E%90%EC%97%B0%EA%B4%91%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B4%EA%B3%A0%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%20%EC%9A%95%EC%8B%A4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%82%AC%EC%A7%84%EC%9D%80%20%EC%A0%95%ED%99%95%ED%95%9C%20%EB%B0%98%EC%82%AC%2C%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EB%94%94%ED%85%8C%EC%9D%BC%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%20%EC%A7%88%EA%B0%90%EC%9D%84%20%EA%B0%80%EC%A7%84%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EC%85%80%EC%B9%B4%EC%B2%98%EB%9F%BC%20%EB%B3%B4%EC%97%AC%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9B%90%EB%B3%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%9E%AC%ED%98%84%ED%95%98%EB%A9%B4%EC%84%9C%20%EB%8F%99%EC%9D%BC%ED%95%9C%20%ED%8F%AC%EC%A6%88%2C%20%EC%95%B5%EA%B8%80%2C%20%ED%94%84%EB%A0%88%EC%9D%B4%EB%B0%8D%2C%20%EC%A1%B0%EB%AA%85%20%EB%B0%8F%20%EC%A0%84%EB%B0%98%EC%A0%81%EC%9D%B8%20%EB%AF%B8%ED%95%99%EC%9D%84%20%EB%8B%B4%EC%95%84%EB%82%B4%EC%84%B8%EC%9A%94.)**
+
+---
+
+### No. 3: 바이럴 슬라이드쇼 프롬프트: 핑크색 BMW 셀카
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+슬라이드쇼에 사용할 사실적인 이미지를 생성하기 위한 고도로 구조화된 JSON 프롬프트입니다. 크롬 핑크색 BMW i8 옆에서 셀카를 찍는 젊은 여성을 묘사하며, 특정 의상, 포즈, 표정, 그리고 '주인공 에너지(main character energy)' 미학을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "subject": {
+    "description": "크롬 핑크 BMW i8 옆에서 셀카를 찍는 젊은 여성, 무심한 듯 시크한 주인공 분위기",
+    "setting_rules": "거리 풍경, 럭셔리 자동차, 도시적인 현대적 배경",
+    "age": "20대 초반",
+    "expression": {
+      "eyes": "휴대폰 화면에 집중, 셀카 촬영 중, 무심한 자신감",
+      "mouth": "편안하고 부드러우며 자연스러움",
+      "brows": "편안하고 자연스러움",
+      "overall": "신경 쓰지 않는 듯한, '그냥 핑크색 슈퍼카 옆에 있는' 분위기"
+    },
+    "hair": {
+      "color": "플래티넘 블론드",
+      "style": "모자 아래로 느슨하게 흘러내림",
+      "details": "자연스럽게 흐트러진 듯 예쁨, 몇 가닥은 앞으로 떨어짐, 자연스러운 웨이브",
+      "length": "어깨를 넘는 중간 길이"
+    },
+    "body": {
+      "frame": "아담하고 날씬하며 탄탄함",
+      "waist": "매우 가는 허리, 복부가 완전히 노출됨",
+      "legs": "탄탄하고 운동으로 다져진 다리, 완전히 보임",
+      "stance": "자동차에 무심하게 기대어 서 있음, 체중 이동"
+    },
+    "pose": {
+      "position": "자동차 운전석 문 옆에 서서 살짝 기대어 있음",
+      "upper_body": {
+        "action": "한 팔을 위로 들어 휴대폰으로 셀카 촬영",
+        "phone_angle": "높은 각도, 전형적인 셀카 포즈",
+        "other_arm": "옆에 편안하게 내려져 있음"
+      },
+      "lower_body": {
+        "stance": "한쪽 다리는 곧게 펴고 다른 쪽 다리는 살짝 교차하거나 구부림",
+        "weight": "무심하게 기대어 서 있음, 엉덩이가 자동차에 가까움",
+        "energy": "편안하지만 각도를 의식함"
+      },
+      "overall": "'우연히 이 슈퍼카와 함께 찍혔네' 하는 포즈지만 전혀 우연이 아님"
+    },
+    "clothing": {
+      "top": {
+        "type": "울트라 크롭 베이비 티",
+        "color": "밝은 노란색, 햇살 같은 노란색",
+        "graphic": "가슴에 작은 별 또는 귀여운 그래픽 (또는 BANANA 로고)",
+        "fit": {
+          "length": "극단적인 크롭 - 가슴 바로 아래에서 끝남, 복부 전체 노출",
+          "tightness": "몸에 밀착되어 곡선을 드러냄",
+          "sleeves": "짧은 소매, 캐주얼함"
+        },
+        "effect": "가슴 바로 아래부터 반바지까지 복부 전체가 보임"
+      },
+      "bottom": {
+        "type": "울트라 미니 애슬레저 반바지",
+        "color": "화이트, 깨끗하고 밝은 화이트",
+        "fit": {
+          "style": "몸에 밀착되는 애슬레저 반바지",
+          "length": "매우 짧음, 허벅지 위쪽",
+          "waist": "하이웨이스트, 자연스러운 허리선에 위치",
+          "effect": "다리 전체 길이를 보여주고 곡선을 드러냄"
+        },
+        "material": "신축성 있는 애슬레저 원단, 매끄러움"
+      },
+      "shoes": {
+        "type": "화이트 스니커즈",
+        "style": "깨끗하고 캐주얼하며 스포티한 느낌",
+        "effect": "스포티하고 귀여운 룩을 완성함"
+      }
+    },
+    "face": {
+      "features": "예쁘고 큰 눈, 작은 코, 부드러운 입술",
+      "makeup": "자연스럽고 최소한의, 생기 있는 얼굴",
+      "expression": "셀카에 집중, 무심하게 예쁨"
+    }
+  },
+  "accessories": {
+    "headwear": {
+      "type": "야구 모자",
+      "color": "블랙",
+      "style": "앞으로 눌러 씀, 클래식함",
+      "logo": "작은 pa"
+    }
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122630723_d3b5ie_G7g1VriWkAAhtan.jpg" width="600" alt="바이럴 슬라이드쇼 프롬프트: 핑크색 BMW 셀카 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [gauche](https://x.com/gaucheai)
+- **출처:** [Twitter Post](https://x.com/gaucheai/status/1997405140723323255)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22%ED%81%AC%EB%A1%AC%20%ED%95%91%ED%81%AC%20BMW%20i8%20%EC%98%86%EC%97%90%EC%84%9C%20%EC%85%80%EC%B9%B4%EB%A5%BC%20%EC%B0%8D%EB%8A%94%20%EC%A0%8A%EC%9D%80%20%EC%97%AC%EC%84%B1%2C%20%EB%AC%B4%EC%8B%AC%ED%95%9C%20%EB%93%AF%20%EC%8B%9C%ED%81%AC%ED%95%9C%20%EC%A3%BC%EC%9D%B8%EA%B3%B5%20%EB%B6%84%EC%9C%84%EA%B8%B0%22%2C%0A%20%20%20%20%22setting_rules%22%3A%20%22%EA%B1%B0%EB%A6%AC%20%ED%92%8D%EA%B2%BD%2C%20%EB%9F%AD%EC%85%94%EB%A6%AC%20%EC%9E%90%EB%8F%99%EC%B0%A8%2C%20%EB%8F%84%EC%8B%9C%EC%A0%81%EC%9D%B8%20%ED%98%84%EB%8C%80%EC%A0%81%20%EB%B0%B0%EA%B2%BD%22%2C%0A%20%20%20%20%22age%22%3A%20%2220%EB%8C%80%20%EC%B4%88%EB%B0%98%22%2C%0A%20%20%20%20%22expression%22%3A%20%7B%0A%20%20%20%20%20%20%22eyes%22%3A%20%22%ED%9C%B4%EB%8C%80%ED%8F%B0%20%ED%99%94%EB%A9%B4%EC%97%90%20%EC%A7%91%EC%A4%91%2C%20%EC%85%80%EC%B9%B4%20%EC%B4%AC%EC%98%81%20%EC%A4%91%2C%20%EB%AC%B4%EC%8B%AC%ED%95%9C%20%EC%9E%90%EC%8B%A0%EA%B0%90%22%2C%0A%20%20%20%20%20%20%22mouth%22%3A%20%22%ED%8E%B8%EC%95%88%ED%95%98%EA%B3%A0%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B0%EB%A9%B0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9B%80%22%2C%0A%20%20%20%20%20%20%22brows%22%3A%20%22%ED%8E%B8%EC%95%88%ED%95%98%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9B%80%22%2C%0A%20%20%20%20%20%20%22overall%22%3A%20%22%EC%8B%A0%EA%B2%BD%20%EC%93%B0%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%93%AF%ED%95%9C%2C%20'%EA%B7%B8%EB%83%A5%20%ED%95%91%ED%81%AC%EC%83%89%20%EC%8A%88%ED%8D%BC%EC%B9%B4%20%EC%98%86%EC%97%90%20%EC%9E%88%EB%8A%94'%20%EB%B6%84%EC%9C%84%EA%B8%B0%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%ED%94%8C%EB%9E%98%ED%8B%B0%EB%84%98%20%EB%B8%94%EB%A1%A0%EB%93%9C%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%EB%AA%A8%EC%9E%90%20%EC%95%84%EB%9E%98%EB%A1%9C%20%EB%8A%90%EC%8A%A8%ED%95%98%EA%B2%8C%20%ED%9D%98%EB%9F%AC%EB%82%B4%EB%A6%BC%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%ED%9D%90%ED%8A%B8%EB%9F%AC%EC%A7%84%20%EB%93%AF%20%EC%98%88%EC%81%A8%2C%20%EB%AA%87%20%EA%B0%80%EB%8B%A5%EC%9D%80%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EB%96%A8%EC%96%B4%EC%A7%90%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%9B%A8%EC%9D%B4%EB%B8%8C%22%2C%0A%20%20%20%20%20%20%22length%22%3A%20%22%EC%96%B4%EA%B9%A8%EB%A5%BC%20%EB%84%98%EB%8A%94%20%EC%A4%91%EA%B0%84%20%EA%B8%B8%EC%9D%B4%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22body%22%3A%20%7B%0A%20%20%20%20%20%20%22frame%22%3A%20%22%EC%95%84%EB%8B%B4%ED%95%98%EA%B3%A0%20%EB%82%A0%EC%94%AC%ED%95%98%EB%A9%B0%20%ED%83%84%ED%83%84%ED%95%A8%22%2C%0A%20%20%20%20%20%20%22waist%22%3A%20%22%EB%A7%A4%EC%9A%B0%20%EA%B0%80%EB%8A%94%20%ED%97%88%EB%A6%AC%2C%20%EB%B3%B5%EB%B6%80%EA%B0%80%20%EC%99%84%EC%A0%84%ED%9E%88%20%EB%85%B8%EC%B6%9C%EB%90%A8%22%2C%0A%20%20%20%20%20%20%22legs%22%3A%20%22%ED%83%84%ED%83%84%ED%95%98%EA%B3%A0%20%EC%9A%B4%EB%8F%99%EC%9C%BC%EB%A1%9C%20%EB%8B%A4%EC%A0%B8%EC%A7%84%20%EB%8B%A4%EB%A6%AC%2C%20%EC%99%84%EC%A0%84%ED%9E%88%20%EB%B3%B4%EC%9E%84%22%2C%0A%20%20%20%20%20%20%22stance%22%3A%20%22%EC%9E%90%EB%8F%99%EC%B0%A8%EC%97%90%20%EB%AC%B4%EC%8B%AC%ED%95%98%EA%B2%8C%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EC%84%9C%20%EC%9E%88%EC%9D%8C%2C%20%EC%B2%B4%EC%A4%91%20%EC%9D%B4%EB%8F%99%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%9A%B4%EC%A0%84%EC%84%9D%20%EB%AC%B8%20%EC%98%86%EC%97%90%20%EC%84%9C%EC%84%9C%20%EC%82%B4%EC%A7%9D%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22upper_body%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22action%22%3A%20%22%ED%95%9C%20%ED%8C%94%EC%9D%84%20%EC%9C%84%EB%A1%9C%20%EB%93%A4%EC%96%B4%20%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9C%BC%EB%A1%9C%20%EC%85%80%EC%B9%B4%20%EC%B4%AC%EC%98%81%22%2C%0A%20%20%20%20%20%20%20%20%22phone_angle%22%3A%20%22%EB%86%92%EC%9D%80%20%EA%B0%81%EB%8F%84%2C%20%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8%20%EC%85%80%EC%B9%B4%20%ED%8F%AC%EC%A6%88%22%2C%0A%20%20%20%20%20%20%20%20%22other_arm%22%3A%20%22%EC%98%86%EC%97%90%20%ED%8E%B8%EC%95%88%ED%95%98%EA%B2%8C%20%EB%82%B4%EB%A0%A4%EC%A0%B8%20%EC%9E%88%EC%9D%8C%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22lower_body%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22stance%22%3A%20%22%ED%95%9C%EC%AA%BD%20%EB%8B%A4%EB%A6%AC%EB%8A%94%20%EA%B3%A7%EA%B2%8C%20%ED%8E%B4%EA%B3%A0%20%EB%8B%A4%EB%A5%B8%20%EC%AA%BD%20%EB%8B%A4%EB%A6%AC%EB%8A%94%20%EC%82%B4%EC%A7%9D%20%EA%B5%90%EC%B0%A8%ED%95%98%EA%B1%B0%EB%82%98%20%EA%B5%AC%EB%B6%80%EB%A6%BC%22%2C%0A%20%20%20%20%20%20%20%20%22weight%22%3A%20%22%EB%AC%B4%EC%8B%AC%ED%95%98%EA%B2%8C%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EC%84%9C%20%EC%9E%88%EC%9D%8C%2C%20%EC%97%89%EB%8D%A9%EC%9D%B4%EA%B0%80%20%EC%9E%90%EB%8F%99%EC%B0%A8%EC%97%90%20%EA%B0%80%EA%B9%8C%EC%9B%80%22%2C%0A%20%20%20%20%20%20%20%20%22energy%22%3A%20%22%ED%8E%B8%EC%95%88%ED%95%98%EC%A7%80%EB%A7%8C%20%EA%B0%81%EB%8F%84%EB%A5%BC%20%EC%9D%98%EC%8B%9D%ED%95%A8%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22overall%22%3A%20%22'%EC%9A%B0%EC%97%B0%ED%9E%88%20%EC%9D%B4%20%EC%8A%88%ED%8D%BC%EC%B9%B4%EC%99%80%20%ED%95%A8%EA%BB%98%20%EC%B0%8D%ED%98%94%EB%84%A4'%20%ED%95%98%EB%8A%94%20%ED%8F%AC%EC%A6%88%EC%A7%80%EB%A7%8C%20%EC%A0%84%ED%98%80%20%EC%9A%B0%EC%97%B0%EC%9D%B4%20%EC%95%84%EB%8B%98%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EC%9A%B8%ED%8A%B8%EB%9D%BC%20%ED%81%AC%EB%A1%AD%20%EB%B2%A0%EC%9D%B4%EB%B9%84%20%ED%8B%B0%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%EB%B0%9D%EC%9D%80%20%EB%85%B8%EB%9E%80%EC%83%89%2C%20%ED%96%87%EC%82%B4%20%EA%B0%99%EC%9D%80%20%EB%85%B8%EB%9E%80%EC%83%89%22%2C%0A%20%20%20%20%20%20%20%20%22graphic%22%3A%20%22%EA%B0%80%EC%8A%B4%EC%97%90%20%EC%9E%91%EC%9D%80%20%EB%B3%84%20%EB%98%90%EB%8A%94%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EA%B7%B8%EB%9E%98%ED%94%BD%20(%EB%98%90%EB%8A%94%20BANANA%20%EB%A1%9C%EA%B3%A0)%22%2C%0A%20%20%20%20%20%20%20%20%22fit%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22length%22%3A%20%22%EA%B7%B9%EB%8B%A8%EC%A0%81%EC%9D%B8%20%ED%81%AC%EB%A1%AD%20-%20%EA%B0%80%EC%8A%B4%20%EB%B0%94%EB%A1%9C%20%EC%95%84%EB%9E%98%EC%97%90%EC%84%9C%20%EB%81%9D%EB%82%A8%2C%20%EB%B3%B5%EB%B6%80%20%EC%A0%84%EC%B2%B4%20%EB%85%B8%EC%B6%9C%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22tightness%22%3A%20%22%EB%AA%B8%EC%97%90%20%EB%B0%80%EC%B0%A9%EB%90%98%EC%96%B4%20%EA%B3%A1%EC%84%A0%EC%9D%84%20%EB%93%9C%EB%9F%AC%EB%83%84%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22sleeves%22%3A%20%22%EC%A7%A7%EC%9D%80%20%EC%86%8C%EB%A7%A4%2C%20%EC%BA%90%EC%A3%BC%EC%96%BC%ED%95%A8%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%22effect%22%3A%20%22%EA%B0%80%EC%8A%B4%20%EB%B0%94%EB%A1%9C%20%EC%95%84%EB%9E%98%EB%B6%80%ED%84%B0%20%EB%B0%98%EB%B0%94%EC%A7%80%EA%B9%8C%EC%A7%80%20%EB%B3%B5%EB%B6%80%20%EC%A0%84%EC%B2%B4%EA%B0%80%20%EB%B3%B4%EC%9E%84%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EC%9A%B8%ED%8A%B8%EB%9D%BC%20%EB%AF%B8%EB%8B%88%20%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80%20%EB%B0%98%EB%B0%94%EC%A7%80%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%ED%99%94%EC%9D%B4%ED%8A%B8%2C%20%EA%B9%A8%EB%81%97%ED%95%98%EA%B3%A0%20%EB%B0%9D%EC%9D%80%20%ED%99%94%EC%9D%B4%ED%8A%B8%22%2C%0A%20%20%20%20%20%20%20%20%22fit%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%22style%22%3A%20%22%EB%AA%B8%EC%97%90%20%EB%B0%80%EC%B0%A9%EB%90%98%EB%8A%94%20%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80%20%EB%B0%98%EB%B0%94%EC%A7%80%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22length%22%3A%20%22%EB%A7%A4%EC%9A%B0%20%EC%A7%A7%EC%9D%8C%2C%20%ED%97%88%EB%B2%85%EC%A7%80%20%EC%9C%84%EC%AA%BD%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22waist%22%3A%20%22%ED%95%98%EC%9D%B4%EC%9B%A8%EC%9D%B4%EC%8A%A4%ED%8A%B8%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%97%88%EB%A6%AC%EC%84%A0%EC%97%90%20%EC%9C%84%EC%B9%98%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22effect%22%3A%20%22%EB%8B%A4%EB%A6%AC%20%EC%A0%84%EC%B2%B4%20%EA%B8%B8%EC%9D%B4%EB%A5%BC%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B3%A0%20%EA%B3%A1%EC%84%A0%EC%9D%84%20%EB%93%9C%EB%9F%AC%EB%83%84%22%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22%EC%8B%A0%EC%B6%95%EC%84%B1%20%EC%9E%88%EB%8A%94%20%EC%95%A0%EC%8A%AC%EB%A0%88%EC%A0%80%20%EC%9B%90%EB%8B%A8%2C%20%EB%A7%A4%EB%81%84%EB%9F%AC%EC%9B%80%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shoes%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%8A%A4%EB%8B%88%EC%BB%A4%EC%A6%88%22%2C%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22%EA%B9%A8%EB%81%97%ED%95%98%EA%B3%A0%20%EC%BA%90%EC%A3%BC%EC%96%BC%ED%95%98%EB%A9%B0%20%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%95%9C%20%EB%8A%90%EB%82%8C%22%2C%0A%20%20%20%20%20%20%20%20%22effect%22%3A%20%22%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%95%98%EA%B3%A0%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%EB%A3%A9%EC%9D%84%20%EC%99%84%EC%84%B1%ED%95%A8%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22features%22%3A%20%22%EC%98%88%EC%81%98%EA%B3%A0%20%ED%81%B0%20%EB%88%88%2C%20%EC%9E%91%EC%9D%80%20%EC%BD%94%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%9E%85%EC%88%A0%22%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B3%A0%20%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98%2C%20%EC%83%9D%EA%B8%B0%20%EC%9E%88%EB%8A%94%20%EC%96%BC%EA%B5%B4%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%EC%85%80%EC%B9%B4%EC%97%90%20%EC%A7%91%EC%A4%91%2C%20%EB%AC%B4%EC%8B%AC%ED%95%98%EA%B2%8C%20%EC%98%88%EC%81%A8%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%EC%95%BC%EA%B5%AC%20%EB%AA%A8%EC%9E%90%22%2C%0A%20%20%20%20%20%20%22color%22%3A%20%22%EB%B8%94%EB%9E%99%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EB%88%8C%EB%9F%AC%20%EC%94%80%2C%20%ED%81%B4%EB%9E%98%EC%8B%9D%ED%95%A8%22%2C%0A%20%20%20%20%20%20%22logo%22%3A%20%22%EC%9E%91%EC%9D%80%20pa%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 4: 야간 필름 그레인 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+야외 콘크리트 벤치에 앉아 있는 젊은 여성의 밤 사진을 상세하게 묘사하는 Nano Banana Pro용 이미지 생성 프롬프트. 이 프롬프트는 그녀의 외모, 의상, 액세서리, 환경을 명시하며, 강렬하고 따뜻한 노란색 가로등, 깊은 그림자, 어두운 잔디밭 배경, 거친 필름 질감 미학을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "prompt": "긴 갈색 머리를 가진 젊은 여성이 야외 콘크리트 벤치에 앉아 카메라를 향해 따뜻하게 미소 짓는 밤 사진. 그녀는 작은 검은색 별 그래픽이 있는 흰색 골지 튜브톱과 미니 스커트 세트를 입고 있으며, 은색 십자가 목걸이를 착용하고 있다. 그녀 옆에는 검은색 숄더백이 놓여 있다. 강렬하고 따뜻한 노란색 가로등 불빛이 장면을 비추며 깊은 그림자를 드리운다. 배경은 어두운 하늘 아래 멀리 교외 주택들이 보이는 어두운 잔디밭이다. 거친 필름 질감.",
+  "negative_prompt": "낮, 태양, 밝은 하늘, 부드러움, 스튜디오 사진, 만화, 애니메이션, 3D 렌더링, 그림, 나쁜 해부학, 기형적인 사지, 흐릿함, 낮은 해상도."
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122668590_r9xqk7_G7gztjsWgAESzmh.jpg" width="600" alt="야간 필름 그레인 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Selin Aydoğdu](https://x.com/aydogduselin34)
+- **출처:** [Twitter Post](https://x.com/aydogduselin34/status/1997404798312972636)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22prompt%22%3A%20%22%EA%B8%B4%20%EA%B0%88%EC%83%89%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%EA%B0%80%EC%A7%84%20%EC%A0%8A%EC%9D%80%20%EC%97%AC%EC%84%B1%EC%9D%B4%20%EC%95%BC%EC%99%B8%20%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8%20%EB%B2%A4%EC%B9%98%EC%97%90%20%EC%95%89%EC%95%84%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%ED%96%A5%ED%95%B4%20%EB%94%B0%EB%9C%BB%ED%95%98%EA%B2%8C%20%EB%AF%B8%EC%86%8C%20%EC%A7%93%EB%8A%94%20%EB%B0%A4%20%EC%82%AC%EC%A7%84.%20%EA%B7%B8%EB%85%80%EB%8A%94%20%EC%9E%91%EC%9D%80%20%EA%B2%80%EC%9D%80%EC%83%89%20%EB%B3%84%20%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%ED%9D%B0%EC%83%89%20%EA%B3%A8%EC%A7%80%20%ED%8A%9C%EB%B8%8C%ED%86%B1%EA%B3%BC%20%EB%AF%B8%EB%8B%88%20%EC%8A%A4%EC%BB%A4%ED%8A%B8%20%EC%84%B8%ED%8A%B8%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%9D%80%EC%83%89%20%EC%8B%AD%EC%9E%90%EA%B0%80%20%EB%AA%A9%EA%B1%B8%EC%9D%B4%EB%A5%BC%20%EC%B0%A9%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B7%B8%EB%85%80%20%EC%98%86%EC%97%90%EB%8A%94%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%88%84%EB%8D%94%EB%B0%B1%EC%9D%B4%20%EB%86%93%EC%97%AC%20%EC%9E%88%EB%8B%A4.%20%EA%B0%95%EB%A0%AC%ED%95%98%EA%B3%A0%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EB%85%B8%EB%9E%80%EC%83%89%20%EA%B0%80%EB%A1%9C%EB%93%B1%20%EB%B6%88%EB%B9%9B%EC%9D%B4%20%EC%9E%A5%EB%A9%B4%EC%9D%84%20%EB%B9%84%EC%B6%94%EB%A9%B0%20%EA%B9%8A%EC%9D%80%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A5%BC%20%EB%93%9C%EB%A6%AC%EC%9A%B4%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EC%96%B4%EB%91%90%EC%9A%B4%20%ED%95%98%EB%8A%98%20%EC%95%84%EB%9E%98%20%EB%A9%80%EB%A6%AC%20%EA%B5%90%EC%99%B8%20%EC%A3%BC%ED%83%9D%EB%93%A4%EC%9D%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EC%96%B4%EB%91%90%EC%9A%B4%20%EC%9E%94%EB%94%94%EB%B0%AD%EC%9D%B4%EB%8B%A4.%20%EA%B1%B0%EC%B9%9C%20%ED%95%84%EB%A6%84%20%EC%A7%88%EA%B0%90.%22%2C%0A%20%20%22negative_prompt%22%3A%20%22%EB%82%AE%2C%20%ED%83%9C%EC%96%91%2C%20%EB%B0%9D%EC%9D%80%20%ED%95%98%EB%8A%98%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9B%80%2C%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%82%AC%EC%A7%84%2C%20%EB%A7%8C%ED%99%94%2C%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%2C%203D%20%EB%A0%8C%EB%8D%94%EB%A7%81%2C%20%EA%B7%B8%EB%A6%BC%2C%20%EB%82%98%EC%81%9C%20%ED%95%B4%EB%B6%80%ED%95%99%2C%20%EA%B8%B0%ED%98%95%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%A7%80%2C%20%ED%9D%90%EB%A6%BF%ED%95%A8%2C%20%EB%82%AE%EC%9D%80%20%ED%95%B4%EC%83%81%EB%8F%84.%22%0A%7D)**
+
+---
+
+### No. 5: 비디오 게임 스크린샷 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+'Age of Nano Banana Pro'라는 가상의 비디오 게임 스크린샷 생성을 요청하는 간단한 프롬프트.
+
+#### 📝 프롬프트
+
+```
+age of nano banana pro라는 비디오 게임 스크린샷
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122639239_ye8ddv_G7guIbaWYAAke6Q.jpg" width="600" alt="비디오 게임 스크린샷 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Ceunde-AI](https://x.com/CeundeNL)
+- **출처:** [Twitter Post](https://x.com/CeundeNL/status/1997397161621799086)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=age%20of%20nano%20banana%20pro%EB%9D%BC%EB%8A%94%20%EB%B9%84%EB%94%94%EC%98%A4%20%EA%B2%8C%EC%9E%84%20%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7)**
+
+---
+
+### No. 6: Nano Banana Pro를 위한 거울 셀카 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+Nano Banana Pro를 위해 디자인된 상세한 이미지 생성 프롬프트로, 부드럽고 내성적인 거울 셀카 인물 사진을 만듭니다. 이 프롬프트는 카메라 앵글, 조명, 피사체 세부 사항(포즈, 표정, 의상), 환경, 그리고 자연스러운 피부 질감과 깨끗한 색상 팔레트와 같은 미학적 특징을 지정하며, 거울 반사를 통한 클로즈업, 눈높이 샷에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "image_generation": {
+    "face": {
+      "preserve_original": true,
+      "reference_match": true
+   },
+    "photo_style": {
+      "type": "거울 셀카 인물 사진",
+      "camera_angle": "클로즈업에서 미디엄 샷, 거울 반사를 통한 눈높이",
+      "lighting": "낮은 대비의 부드럽고 따뜻한 실내 조명",
+      "mood": "차분하고 사색적이며 미니멀한",
+      "texture": "자연스러운 피부 질감, 부드러운 그림자, 미묘한 그레인",
+      "focus": "피사체와 휴대폰 반사에 선명한 초점, 배경은 부드럽게 흐림"
+    },
+
+    "subject": {
+      "pose": "실내에서 스마트폰을 들고 거울 셀카를 찍는 모습, 고개는 약간 옆으로 돌림",
+      "expression": "무표정하고 사려 깊으며 편안한",
+      "hair": {
+        "style": "길고, 생머리에서 약간 웨이브, 느슨하게",
+        "color": "자연스러운 갈색"
+      },
+      "clothing": {
+        "type": "캐주얼한 실내복",
+        "details": "미니멀한 스타일의 헐렁한 어두운 색 티셔츠"
+      },
+      "accessories": {
+        "phone": "손에 든 스마트폰이 거울에 카메라 인터페이스와 함께 반사되어 보임"
+      }
+    },
+
+    "environment": {
+      "setting": "침실 또는 드레스룸",
+      "background": "거울 표면, 옷걸이, 서랍, 부드러운 조명의 실내 공간",
+      "atmosphere": "조용하고 개인적이며 아늑한 실내 환경"
+    },
+
+    "aesthetic": {
+      "style": "자연스러운 라이프스타일 셀카",
+      "features": [
+        "거울 반사 구도",
+        "부드러운 주변 실내 조명",
+        "미니멀리스트 패션",
+        "캐주얼한 일상 환경",
+        "깔끔하고 중성적인 색상 팔레트"
+      ]
+    }
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122666675_fq0ce8_G7gtZHybsAAQXBs.jpg" width="600" alt="Nano Banana Pro를 위한 거울 셀카 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **출처:** [Twitter Post](https://x.com/saniaspeaks_/status/1997396354059104347)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_generation%22%3A%20%7B%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%0A%20%20%20%7D%2C%0A%20%20%20%20%22photo_style%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%EA%B1%B0%EC%9A%B8%20%EC%85%80%EC%B9%B4%20%EC%9D%B8%EB%AC%BC%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%20%20%20%20%22camera_angle%22%3A%20%22%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%EC%97%90%EC%84%9C%20%EB%AF%B8%EB%94%94%EC%97%84%20%EC%83%B7%2C%20%EA%B1%B0%EC%9A%B8%20%EB%B0%98%EC%82%AC%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EB%88%88%EB%86%92%EC%9D%B4%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%22%EB%82%AE%EC%9D%80%20%EB%8C%80%EB%B9%84%EC%9D%98%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EC%8B%A4%EB%82%B4%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%20%20%22mood%22%3A%20%22%EC%B0%A8%EB%B6%84%ED%95%98%EA%B3%A0%20%EC%82%AC%EC%83%89%EC%A0%81%EC%9D%B4%EB%A9%B0%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%20%EC%A7%88%EA%B0%90%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%2C%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EA%B7%B8%EB%A0%88%EC%9D%B8%22%2C%0A%20%20%20%20%20%20%22focus%22%3A%20%22%ED%94%BC%EC%82%AC%EC%B2%B4%EC%99%80%20%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EB%B0%98%EC%82%AC%EC%97%90%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EC%B4%88%EC%A0%90%2C%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%20%ED%9D%90%EB%A6%BC%22%0A%20%20%20%20%7D%2C%0A%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22pose%22%3A%20%22%EC%8B%A4%EB%82%B4%EC%97%90%EC%84%9C%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9D%84%20%EB%93%A4%EA%B3%A0%20%EA%B1%B0%EC%9A%B8%20%EC%85%80%EC%B9%B4%EB%A5%BC%20%EC%B0%8D%EB%8A%94%20%EB%AA%A8%EC%8A%B5%2C%20%EA%B3%A0%EA%B0%9C%EB%8A%94%20%EC%95%BD%EA%B0%84%20%EC%98%86%EC%9C%BC%EB%A1%9C%20%EB%8F%8C%EB%A6%BC%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%EB%AC%B4%ED%91%9C%EC%A0%95%ED%95%98%EA%B3%A0%20%EC%82%AC%EB%A0%A4%20%EA%B9%8A%EC%9C%BC%EB%A9%B0%20%ED%8E%B8%EC%95%88%ED%95%9C%22%2C%0A%20%20%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22%EA%B8%B8%EA%B3%A0%2C%20%EC%83%9D%EB%A8%B8%EB%A6%AC%EC%97%90%EC%84%9C%20%EC%95%BD%EA%B0%84%20%EC%9B%A8%EC%9D%B4%EB%B8%8C%2C%20%EB%8A%90%EC%8A%A8%ED%95%98%EA%B2%8C%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EA%B0%88%EC%83%89%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EC%BA%90%EC%A3%BC%EC%96%BC%ED%95%9C%20%EC%8B%A4%EB%82%B4%EB%B3%B5%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%ED%97%90%EB%A0%81%ED%95%9C%20%EC%96%B4%EB%91%90%EC%9A%B4%20%EC%83%89%20%ED%8B%B0%EC%85%94%EC%B8%A0%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22phone%22%3A%20%22%EC%86%90%EC%97%90%20%EB%93%A0%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9D%B4%20%EA%B1%B0%EC%9A%B8%EC%97%90%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B0%98%EC%82%AC%EB%90%98%EC%96%B4%20%EB%B3%B4%EC%9E%84%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22setting%22%3A%20%22%EC%B9%A8%EC%8B%A4%20%EB%98%90%EB%8A%94%20%EB%93%9C%EB%A0%88%EC%8A%A4%EB%A3%B8%22%2C%0A%20%20%20%20%20%20%22background%22%3A%20%22%EA%B1%B0%EC%9A%B8%20%ED%91%9C%EB%A9%B4%2C%20%EC%98%B7%EA%B1%B8%EC%9D%B4%2C%20%EC%84%9C%EB%9E%8D%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%A1%B0%EB%AA%85%EC%9D%98%20%EC%8B%A4%EB%82%B4%20%EA%B3%B5%EA%B0%84%22%2C%0A%20%20%20%20%20%20%22atmosphere%22%3A%20%22%EC%A1%B0%EC%9A%A9%ED%95%98%EA%B3%A0%20%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B4%EB%A9%B0%20%EC%95%84%EB%8A%91%ED%95%9C%20%EC%8B%A4%EB%82%B4%20%ED%99%98%EA%B2%BD%22%0A%20%20%20%20%7D%2C%0A%0A%20%20%20%20%22aesthetic%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%85%80%EC%B9%B4%22%2C%0A%20%20%20%20%20%20%22features%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%EA%B1%B0%EC%9A%B8%20%EB%B0%98%EC%82%AC%20%EA%B5%AC%EB%8F%84%22%2C%0A%20%20%20%20%20%20%20%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%A3%BC%EB%B3%80%20%EC%8B%A4%EB%82%B4%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%20%20%20%20%22%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%8C%A8%EC%85%98%22%2C%0A%20%20%20%20%20%20%20%20%22%EC%BA%90%EC%A3%BC%EC%96%BC%ED%95%9C%20%EC%9D%BC%EC%83%81%20%ED%99%98%EA%B2%BD%22%2C%0A%20%20%20%20%20%20%20%20%22%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%EC%A4%91%EC%84%B1%EC%A0%81%EC%9D%B8%20%EC%83%89%EC%83%81%20%ED%8C%94%EB%A0%88%ED%8A%B8%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 7: 매혹적인 소파 셀카 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+분홍색 벨벳 소파에 누워 있는 젊은 여성의 사실적인 클로즈업 셀카 인물 사진을 생성하기 위한 고도로 구조화된 JSON 프롬프트. 유혹적인 시선, 특정 의상(크롭탑과 스웨트팬츠), 분홍색 무선 헤드폰 착용에 초점을 맞춥니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "metadata": {
+    "type": "사실적인 인물 셀카",
+    "resolution": "1200x1200px",
+    "aspect_ratio": "1:1"
+  },
+  "subject": {
+    "demographics": "젊은 여성, 유혹적, 갸름한 얼굴형, 강조된 하얀 피부",
+    "expression_and_gaze": "부드럽고 고른 표정, 유혹적인 시선으로 카메라를 직접 응시",
+    "hair": "자연스러운 검은색, 약간 흐트러진, 이마와 뺨에 흘러내리는 머리카락",
+    "makeup": "내추럴 스타일, 글로시한 누드 핑크 립스틱으로 강조된 입술, 가벼운 아이라이너",
+    "details": "옅게 칠해진 손톱"
+  },
+  "action_and_pose": {
+    "type": "셀카 촬영",
+    "posture": "소파에 누워 카메라를 주요 요소로 잡고 팔을 앞으로 뻗음",
+    "composition": "약간 낮은 시점, 클로즈업 인물 사진"
+  },
+  "attire_and_accessories": {
+    "clothing": {
+      "top": "타이트한 짙은 핑크색 스파게티 스트랩 크롭탑, 깊은 V넥",
+      "bottoms": "밝은 회색 스웨트팬츠"
+    },
+    "accessories": {
+      "headphones": "Edifier WH700NB 핑크색 무선 오버이어 헤드폰 착용",
+      "jewelry": "펜던트가 달린 작은 은 목걸이, 펜던트가 달린 작은 은 팔찌"
+    },
+    "text_elements": {
+      "location": "크롭탑에 자수",
+      "content": "MUKIGO"
+    }
+  },
+  "environment": {
+    "location": "거실 내부",
+    "furniture": "핑크색 벨벳으로 덮인 2인용 Rosee 소파",
+    "background_elements": [
+      "소파 위의 흰색 베개",
+      "소파 위의 책 한 권",
+      "벽에 접혀 있는 칙칙한 노란색 암막 커튼",
+      "벽에 접혀 있는 밝은 색의 쉬폰 커튼"
+    ]
+  },
+  "lighting_and_atmosphere": {
+    "lighting": "자연광, 적절하고 자연스러움",
+    "mood": "섹시하고, 신비롭고, 장난기 넘치고, 활기차고, 의도치 않은 느낌",
+    "color_scheme": "미니멀리스트"
+  },
+  "photography_style": {
+    "medium": "디지털 카메라 사진, 디지털 촬영",
+    "realism": "100% 원본 얼굴, 매우 사실적, 편집 없는 미학",
+    "technical_effects": "머리 상단과 머리카락에 약간의 모션 블러"
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122644072_7btdp6_G7gi6ttXIAAAZXH.jpg" width="600" alt="매혹적인 소파 셀카 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122649911_i01vhl_G7gkvL0XIAAsFQG.jpg" width="600" alt="매혹적인 소파 셀카 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122650312_m59dtr_G7gkvLyXMAAHTDS.jpg" width="600" alt="매혹적인 소파 셀카 프롬프트 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122650533_a3zdii_G7gkvMhXUAE_O3e.jpg" width="600" alt="매혹적인 소파 셀카 프롬프트 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [kiren yi](https://x.com/Kirenyi16)
+- **출처:** [Twitter Post](https://x.com/Kirenyi16/status/1997386842820260128)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22metadata%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%9D%B8%EB%AC%BC%20%EC%85%80%EC%B9%B4%22%2C%0A%20%20%20%20%22resolution%22%3A%20%221200x1200px%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%221%3A1%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22%EC%A0%8A%EC%9D%80%20%EC%97%AC%EC%84%B1%2C%20%EC%9C%A0%ED%98%B9%EC%A0%81%2C%20%EA%B0%B8%EB%A6%84%ED%95%9C%20%EC%96%BC%EA%B5%B4%ED%98%95%2C%20%EA%B0%95%EC%A1%B0%EB%90%9C%20%ED%95%98%EC%96%80%20%ED%94%BC%EB%B6%80%22%2C%0A%20%20%20%20%22expression_and_gaze%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EA%B3%A0%EB%A5%B8%20%ED%91%9C%EC%A0%95%2C%20%EC%9C%A0%ED%98%B9%EC%A0%81%EC%9D%B8%20%EC%8B%9C%EC%84%A0%EC%9C%BC%EB%A1%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%A7%81%EC%A0%91%20%EC%9D%91%EC%8B%9C%22%2C%0A%20%20%20%20%22hair%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EA%B2%80%EC%9D%80%EC%83%89%2C%20%EC%95%BD%EA%B0%84%20%ED%9D%90%ED%8A%B8%EB%9F%AC%EC%A7%84%2C%20%EC%9D%B4%EB%A7%88%EC%99%80%20%EB%BA%A8%EC%97%90%20%ED%9D%98%EB%9F%AC%EB%82%B4%EB%A6%AC%EB%8A%94%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%22%2C%0A%20%20%20%20%22makeup%22%3A%20%22%EB%82%B4%EC%B6%94%EB%9F%B4%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EA%B8%80%EB%A1%9C%EC%8B%9C%ED%95%9C%20%EB%88%84%EB%93%9C%20%ED%95%91%ED%81%AC%20%EB%A6%BD%EC%8A%A4%ED%8B%B1%EC%9C%BC%EB%A1%9C%20%EA%B0%95%EC%A1%B0%EB%90%9C%20%EC%9E%85%EC%88%A0%2C%20%EA%B0%80%EB%B2%BC%EC%9A%B4%20%EC%95%84%EC%9D%B4%EB%9D%BC%EC%9D%B4%EB%84%88%22%2C%0A%20%20%20%20%22details%22%3A%20%22%EC%98%85%EA%B2%8C%20%EC%B9%A0%ED%95%B4%EC%A7%84%20%EC%86%90%ED%86%B1%22%0A%20%20%7D%2C%0A%20%20%22action_and_pose%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22%EC%85%80%EC%B9%B4%20%EC%B4%AC%EC%98%81%22%2C%0A%20%20%20%20%22posture%22%3A%20%22%EC%86%8C%ED%8C%8C%EC%97%90%20%EB%88%84%EC%9B%8C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%A3%BC%EC%9A%94%20%EC%9A%94%EC%86%8C%EB%A1%9C%20%EC%9E%A1%EA%B3%A0%20%ED%8C%94%EC%9D%84%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EB%BB%97%EC%9D%8C%22%2C%0A%20%20%20%20%22composition%22%3A%20%22%EC%95%BD%EA%B0%84%20%EB%82%AE%EC%9D%80%20%EC%8B%9C%EC%A0%90%2C%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20%EC%9D%B8%EB%AC%BC%20%EC%82%AC%EC%A7%84%22%0A%20%20%7D%2C%0A%20%20%22attire_and_accessories%22%3A%20%7B%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%22%ED%83%80%EC%9D%B4%ED%8A%B8%ED%95%9C%20%EC%A7%99%EC%9D%80%20%ED%95%91%ED%81%AC%EC%83%89%20%EC%8A%A4%ED%8C%8C%EA%B2%8C%ED%8B%B0%20%EC%8A%A4%ED%8A%B8%EB%9E%A9%20%ED%81%AC%EB%A1%AD%ED%83%91%2C%20%EA%B9%8A%EC%9D%80%20V%EB%84%A5%22%2C%0A%20%20%20%20%20%20%22bottoms%22%3A%20%22%EB%B0%9D%EC%9D%80%20%ED%9A%8C%EC%83%89%20%EC%8A%A4%EC%9B%A8%ED%8A%B8%ED%8C%AC%EC%B8%A0%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%20%20%22headphones%22%3A%20%22Edifier%20WH700NB%20%ED%95%91%ED%81%AC%EC%83%89%20%EB%AC%B4%EC%84%A0%20%EC%98%A4%EB%B2%84%EC%9D%B4%EC%96%B4%20%ED%97%A4%EB%93%9C%ED%8F%B0%20%EC%B0%A9%EC%9A%A9%22%2C%0A%20%20%20%20%20%20%22jewelry%22%3A%20%22%ED%8E%9C%EB%8D%98%ED%8A%B8%EA%B0%80%20%EB%8B%AC%EB%A6%B0%20%EC%9E%91%EC%9D%80%20%EC%9D%80%20%EB%AA%A9%EA%B1%B8%EC%9D%B4%2C%20%ED%8E%9C%EB%8D%98%ED%8A%B8%EA%B0%80%20%EB%8B%AC%EB%A6%B0%20%EC%9E%91%EC%9D%80%20%EC%9D%80%20%ED%8C%94%EC%B0%8C%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22text_elements%22%3A%20%7B%0A%20%20%20%20%20%20%22location%22%3A%20%22%ED%81%AC%EB%A1%AD%ED%83%91%EC%97%90%20%EC%9E%90%EC%88%98%22%2C%0A%20%20%20%20%20%20%22content%22%3A%20%22MUKIGO%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%EA%B1%B0%EC%8B%A4%20%EB%82%B4%EB%B6%80%22%2C%0A%20%20%20%20%22furniture%22%3A%20%22%ED%95%91%ED%81%AC%EC%83%89%20%EB%B2%A8%EB%B2%B3%EC%9C%BC%EB%A1%9C%20%EB%8D%AE%EC%9D%B8%202%EC%9D%B8%EC%9A%A9%20Rosee%20%EC%86%8C%ED%8C%8C%22%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%EC%86%8C%ED%8C%8C%20%EC%9C%84%EC%9D%98%20%ED%9D%B0%EC%83%89%20%EB%B2%A0%EA%B0%9C%22%2C%0A%20%20%20%20%20%20%22%EC%86%8C%ED%8C%8C%20%EC%9C%84%EC%9D%98%20%EC%B1%85%20%ED%95%9C%20%EA%B6%8C%22%2C%0A%20%20%20%20%20%20%22%EB%B2%BD%EC%97%90%20%EC%A0%91%ED%98%80%20%EC%9E%88%EB%8A%94%20%EC%B9%99%EC%B9%99%ED%95%9C%20%EB%85%B8%EB%9E%80%EC%83%89%20%EC%95%94%EB%A7%89%20%EC%BB%A4%ED%8A%BC%22%2C%0A%20%20%20%20%20%20%22%EB%B2%BD%EC%97%90%20%EC%A0%91%ED%98%80%20%EC%9E%88%EB%8A%94%20%EB%B0%9D%EC%9D%80%20%EC%83%89%EC%9D%98%20%EC%89%AC%ED%8F%B0%20%EC%BB%A4%ED%8A%BC%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22lighting_and_atmosphere%22%3A%20%7B%0A%20%20%20%20%22lighting%22%3A%20%22%EC%9E%90%EC%97%B0%EA%B4%91%2C%20%EC%A0%81%EC%A0%88%ED%95%98%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9B%80%22%2C%0A%20%20%20%20%22mood%22%3A%20%22%EC%84%B9%EC%8B%9C%ED%95%98%EA%B3%A0%2C%20%EC%8B%A0%EB%B9%84%EB%A1%AD%EA%B3%A0%2C%20%EC%9E%A5%EB%82%9C%EA%B8%B0%20%EB%84%98%EC%B9%98%EA%B3%A0%2C%20%ED%99%9C%EA%B8%B0%EC%B0%A8%EA%B3%A0%2C%20%EC%9D%98%EB%8F%84%EC%B9%98%20%EC%95%8A%EC%9D%80%20%EB%8A%90%EB%82%8C%22%2C%0A%20%20%20%20%22color_scheme%22%3A%20%22%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%8A%A4%ED%8A%B8%22%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22medium%22%3A%20%22%EB%94%94%EC%A7%80%ED%84%B8%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%82%AC%EC%A7%84%2C%20%EB%94%94%EC%A7%80%ED%84%B8%20%EC%B4%AC%EC%98%81%22%2C%0A%20%20%20%20%22realism%22%3A%20%22100%25%20%EC%9B%90%EB%B3%B8%20%EC%96%BC%EA%B5%B4%2C%20%EB%A7%A4%EC%9A%B0%20%EC%82%AC%EC%8B%A4%EC%A0%81%2C%20%ED%8E%B8%EC%A7%91%20%EC%97%86%EB%8A%94%20%EB%AF%B8%ED%95%99%22%2C%0A%20%20%20%20%22technical_effects%22%3A%20%22%EB%A8%B8%EB%A6%AC%20%EC%83%81%EB%8B%A8%EA%B3%BC%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EC%97%90%20%EC%95%BD%EA%B0%84%EC%9D%98%20%EB%AA%A8%EC%85%98%20%EB%B8%94%EB%9F%AC%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 8: Blender 3D 뷰포트 스타일 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+Blender 3D 뷰포트 스타일로 이미지를 렌더링하도록 설계된 프롬프트입니다. 특히 솔리드 셰이딩 모드와 와이어프레임 오버레이, X-Ray 뷰에서 보이는 Armature 본, 오브젝트 아웃라인, 그리고 3D 커서 그리드 플로어를 사용합니다.
+
+#### 📝 프롬프트
+
+```
+이 이미지를 Blender 3D 뷰포트 스타일로 렌더링하고, 와이어프레임 오버레이가 활성화된 솔리드 셰이딩 모드를 사용하세요. X-Ray 뷰의 보이는 Armature 본, Object Outlines, 그리고 3D 커서 그리드 플로어를 포함하세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122636257_qzoyim_G7giCjnX0AA77Cx.jpg" width="600" alt="Blender 3D 뷰포트 스타일 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122638674_82inxy_G7giDDPWIAA5Iux.jpg" width="600" alt="Blender 3D 뷰포트 스타일 프롬프트 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Herman](https://x.com/LatentHermy)
+- **출처:** [Twitter Post](https://x.com/LatentHermy/status/1997384318038241511)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9D%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20Blender%203D%20%EB%B7%B0%ED%8F%AC%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%ED%95%98%EA%B3%A0%2C%20%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84%20%EC%98%A4%EB%B2%84%EB%A0%88%EC%9D%B4%EA%B0%80%20%ED%99%9C%EC%84%B1%ED%99%94%EB%90%9C%20%EC%86%94%EB%A6%AC%EB%93%9C%20%EC%85%B0%EC%9D%B4%EB%94%A9%20%EB%AA%A8%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%84%B8%EC%9A%94.%20X-Ray%20%EB%B7%B0%EC%9D%98%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20Armature%20%EB%B3%B8%2C%20Object%20Outlines%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%203D%20%EC%BB%A4%EC%84%9C%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%ED%94%8C%EB%A1%9C%EC%96%B4%EB%A5%BC%20%ED%8F%AC%ED%95%A8%ED%95%98%EC%84%B8%EC%9A%94.)**
+
+---
+
+### No. 9: Nano Banana Pro를 위한 여행 인플루언서 사진 프롬프트
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+Nano Banana Pro가 제공된 GPS 좌표를 기반으로 고품질의 바이럴성 여행 사진(인스타그램이나 TikTok에서 볼 수 있는 것과 같은)을 생성하도록 설계된 포괄적인 시스템 프롬프트입니다. AI에게 최고의 여행 인플루언서이자 아트 디렉터 역할을 하도록 지시하며, '방랑벽(Wanderlust)' 미학을 달성하기 위해 최적의 각도, 보완적인 패션 스타일링, 극적인 조명(골든/블루 아워)을 계산합니다. 이 프롬프트는 그리스 산토리니의 좌표를 예시로 사용합니다.
+
+#### 📝 프롬프트
+
+```
+당신은 세계적인 여행 인플루언서이자 아트 디렉터입니다. 마지막에 제공된 입력 텍스트(위도 및 경도)를 분석하여 Instagram 또는 TikTok에서 "좋아요 10만 개"를 받을 수 있는 압도적으로 멋진 여행 사진을 생성하세요.
+
+첨부된 참고 이미지의 인물이 존경받는 여행자로 등장합니다.
+
+▼ 생성 프로세스 지침 (사고 과정)
+그림을 그리기 전에 Nano Banana Pro의 추론 능력을 활용하여 다음 "미적 매력" 방정식을 해결하세요.
+
+1. [1단계: 미학적으로 아름다운 장소 및 앵글 식별]:
+   - 입력 좌표에서 위치를 식별하고 소셜 미디어에서 가장 인기 있는 "사진 명소"와 "상징적인 구도"를 선택합니다.
+   - 단순한 풍경 사진이 아닌, 인물을 포함하여 규모를 강조하거나 이야기를 만들어내는 앵글(예: 초광각 또는 드론 뷰를 사용한 역동적인 구도)을 계산합니다.
+
+2. [2단계: 보색을 목표로 하는 패션 스타일링]:
+   - 배경의 주요 색상(예: 숲의 녹색, 사막의 갈색, 바다의 파란색)을 분석하고 "보색"(반대색) 또는 고대비 색상의 세련된 의류를 선택합니다.
+   - 의류는 "현지 기후"에 적합하면서도 하이 패션, 보헤미안 스타일 또는 럭셔리 스트리트웨어와 같은 트렌디함을 강조해야 합니다.
+   - 자연스럽고 편안한 모습을 연출하기 위해 아이템(선글라스, 모자, 빈티지 카메라, 현지 음료 등)을 포함합니다.
+
+3. [3단계: 감성적인 빛과 색상 연출]:
+   - 드라마틱한 그림자를 만들기 위해 시간을 "골든 아워(일몰 직전의 황금빛)" 또는 "블루 아워(새벽 전의 푸른빛)"로 설정합니다.
+   - "Teal & Orange" 또는 "Pastel Dream"과 같이 소셜 미디어에서 선호하는 필터를 적용하기 위해 색상 보정(컬러 그레이딩)을 시뮬레이션합니다.
+
+▼ 디자인 및 스타일 사양
+* 구도/레이아웃: 얕은 피사계 심도(보케)로 배경을 아름답게 흐리게 처리하거나, 광각 렌즈(16mm)를 사용하여 웅장한 풍경을 담으면서 팔다리가 더 길어 보이도록 합니다. 삼분할 법칙을 염두에 둡니다.
+* 분위기: "여행에 대한 갈망(Wanderlust)"을 불러일으키는 몽환적이면서도 생생한 시각적 창작물. 8k 해상도, Unsplash 스타일 사진.
+* 인물: 참고 이미지의 얼굴 특징을 유지하면서 카메라를 직접 응시하는 사색적인 표정이나 뒤돌아보며 미소 짓는 등 보는 사람을 끌어들이는 매력적인 포즈를 취합니다. 바람에 머리카락이 날리는 모습을 보여주어 움직임을 더합니다.
+* 텍스트: 이미지 내의 표지판이나 물건에 위치 이름을 미묘하지만 정확하게 철자하여 세련되게 배치합니다(가능한 경우).
+
+▼ 입력 텍스트
+위도 및 경도: {argument name="latitude and longitude" default="36.4618° N, 25.3753° E"}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122645268_w0dcu6_G7gRzOmbUAAP6qT.jpg" width="600" alt="Nano Banana Pro를 위한 여행 인플루언서 사진 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122644032_ovpww4_G7gRzOXbgAAB8UP.jpg" width="600" alt="Nano Banana Pro를 위한 여행 인플루언서 사진 프롬프트 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **출처:** [Twitter Post](https://x.com/hAru_mAki_ch/status/1997366281964781884)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EB%8B%B9%EC%8B%A0%EC%9D%80%20%EC%84%B8%EA%B3%84%EC%A0%81%EC%9D%B8%20%EC%97%AC%ED%96%89%20%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C%EC%9D%B4%EC%9E%90%20%EC%95%84%ED%8A%B8%20%EB%94%94%EB%A0%89%ED%84%B0%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%A7%88%EC%A7%80%EB%A7%89%EC%97%90%20%EC%A0%9C%EA%B3%B5%EB%90%9C%20%EC%9E%85%EB%A0%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8(%EC%9C%84%EB%8F%84%20%EB%B0%8F%20%EA%B2%BD%EB%8F%84)%EB%A5%BC%20%EB%B6%84%EC%84%9D%ED%95%98%EC%97%AC%20Instagram%20%EB%98%90%EB%8A%94%20TikTok%EC%97%90%EC%84%9C%20%22%EC%A2%8B%EC%95%84%EC%9A%94%2010%EB%A7%8C%20%EA%B0%9C%22%EB%A5%BC%20%EB%B0%9B%EC%9D%84%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%95%95%EB%8F%84%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%A9%8B%EC%A7%84%20%EC%97%AC%ED%96%89%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EC%83%9D%EC%84%B1%ED%95%98%EC%84%B8%EC%9A%94.%0A%0A%EC%B2%A8%EB%B6%80%EB%90%9C%20%EC%B0%B8%EA%B3%A0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EC%9D%B8%EB%AC%BC%EC%9D%B4%20%EC%A1%B4%EA%B2%BD%EB%B0%9B%EB%8A%94%20%EC%97%AC%ED%96%89%EC%9E%90%EB%A1%9C%20%EB%93%B1%EC%9E%A5%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A%E2%96%BC%20%EC%83%9D%EC%84%B1%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A7%80%EC%B9%A8%20(%EC%82%AC%EA%B3%A0%20%EA%B3%BC%EC%A0%95)%0A%EA%B7%B8%EB%A6%BC%EC%9D%84%20%EA%B7%B8%EB%A6%AC%EA%B8%B0%20%EC%A0%84%EC%97%90%20Nano%20Banana%20Pro%EC%9D%98%20%EC%B6%94%EB%A1%A0%20%EB%8A%A5%EB%A0%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%8B%A4%EC%9D%8C%20%22%EB%AF%B8%EC%A0%81%20%EB%A7%A4%EB%A0%A5%22%20%EB%B0%A9%EC%A0%95%EC%8B%9D%EC%9D%84%20%ED%95%B4%EA%B2%B0%ED%95%98%EC%84%B8%EC%9A%94.%0A%0A1.%20%5B1%EB%8B%A8%EA%B3%84%3A%20%EB%AF%B8%ED%95%99%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%9E%A5%EC%86%8C%20%EB%B0%8F%20%EC%95%B5%EA%B8%80%20%EC%8B%9D%EB%B3%84%5D%3A%0A%20%20%20-%20%EC%9E%85%EB%A0%A5%20%EC%A2%8C%ED%91%9C%EC%97%90%EC%84%9C%20%EC%9C%84%EC%B9%98%EB%A5%BC%20%EC%8B%9D%EB%B3%84%ED%95%98%EA%B3%A0%20%EC%86%8C%EC%85%9C%20%EB%AF%B8%EB%94%94%EC%96%B4%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EC%9D%B8%EA%B8%B0%20%EC%9E%88%EB%8A%94%20%22%EC%82%AC%EC%A7%84%20%EB%AA%85%EC%86%8C%22%EC%99%80%20%22%EC%83%81%EC%A7%95%EC%A0%81%EC%9D%B8%20%EA%B5%AC%EB%8F%84%22%EB%A5%BC%20%EC%84%A0%ED%83%9D%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20-%20%EB%8B%A8%EC%88%9C%ED%95%9C%20%ED%92%8D%EA%B2%BD%20%EC%82%AC%EC%A7%84%EC%9D%B4%20%EC%95%84%EB%8B%8C%2C%20%EC%9D%B8%EB%AC%BC%EC%9D%84%20%ED%8F%AC%ED%95%A8%ED%95%98%EC%97%AC%20%EA%B7%9C%EB%AA%A8%EB%A5%BC%20%EA%B0%95%EC%A1%B0%ED%95%98%EA%B1%B0%EB%82%98%20%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%82%B4%EB%8A%94%20%EC%95%B5%EA%B8%80(%EC%98%88%3A%20%EC%B4%88%EA%B4%91%EA%B0%81%20%EB%98%90%EB%8A%94%20%EB%93%9C%EB%A1%A0%20%EB%B7%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EC%97%AD%EB%8F%99%EC%A0%81%EC%9D%B8%20%EA%B5%AC%EB%8F%84)%EC%9D%84%20%EA%B3%84%EC%82%B0%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A2.%20%5B2%EB%8B%A8%EA%B3%84%3A%20%EB%B3%B4%EC%83%89%EC%9D%84%20%EB%AA%A9%ED%91%9C%EB%A1%9C%20%ED%95%98%EB%8A%94%20%ED%8C%A8%EC%85%98%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81%5D%3A%0A%20%20%20-%20%EB%B0%B0%EA%B2%BD%EC%9D%98%20%EC%A3%BC%EC%9A%94%20%EC%83%89%EC%83%81(%EC%98%88%3A%20%EC%88%B2%EC%9D%98%20%EB%85%B9%EC%83%89%2C%20%EC%82%AC%EB%A7%89%EC%9D%98%20%EA%B0%88%EC%83%89%2C%20%EB%B0%94%EB%8B%A4%EC%9D%98%20%ED%8C%8C%EB%9E%80%EC%83%89)%EC%9D%84%20%EB%B6%84%EC%84%9D%ED%95%98%EA%B3%A0%20%22%EB%B3%B4%EC%83%89%22(%EB%B0%98%EB%8C%80%EC%83%89)%20%EB%98%90%EB%8A%94%20%EA%B3%A0%EB%8C%80%EB%B9%84%20%EC%83%89%EC%83%81%EC%9D%98%20%EC%84%B8%EB%A0%A8%EB%90%9C%20%EC%9D%98%EB%A5%98%EB%A5%BC%20%EC%84%A0%ED%83%9D%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20-%20%EC%9D%98%EB%A5%98%EB%8A%94%20%22%ED%98%84%EC%A7%80%20%EA%B8%B0%ED%9B%84%22%EC%97%90%20%EC%A0%81%ED%95%A9%ED%95%98%EB%A9%B4%EC%84%9C%EB%8F%84%20%ED%95%98%EC%9D%B4%20%ED%8C%A8%EC%85%98%2C%20%EB%B3%B4%ED%97%A4%EB%AF%B8%EC%95%88%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EB%98%90%EB%8A%94%20%EB%9F%AD%EC%85%94%EB%A6%AC%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%99%80%20%EA%B0%99%EC%9D%80%20%ED%8A%B8%EB%A0%8C%EB%94%94%ED%95%A8%EC%9D%84%20%EA%B0%95%EC%A1%B0%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20-%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B3%A0%20%ED%8E%B8%EC%95%88%ED%95%9C%20%EB%AA%A8%EC%8A%B5%EC%9D%84%20%EC%97%B0%EC%B6%9C%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%95%84%EC%9D%B4%ED%85%9C(%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%2C%20%EB%AA%A8%EC%9E%90%2C%20%EB%B9%88%ED%8B%B0%EC%A7%80%20%EC%B9%B4%EB%A9%94%EB%9D%BC%2C%20%ED%98%84%EC%A7%80%20%EC%9D%8C%EB%A3%8C%20%EB%93%B1)%EC%9D%84%20%ED%8F%AC%ED%95%A8%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A3.%20%5B3%EB%8B%A8%EA%B3%84%3A%20%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EB%B9%9B%EA%B3%BC%20%EC%83%89%EC%83%81%20%EC%97%B0%EC%B6%9C%5D%3A%0A%20%20%20-%20%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%8B%9C%EA%B0%84%EC%9D%84%20%22%EA%B3%A8%EB%93%A0%20%EC%95%84%EC%9B%8C(%EC%9D%BC%EB%AA%B0%20%EC%A7%81%EC%A0%84%EC%9D%98%20%ED%99%A9%EA%B8%88%EB%B9%9B)%22%20%EB%98%90%EB%8A%94%20%22%EB%B8%94%EB%A3%A8%20%EC%95%84%EC%9B%8C(%EC%83%88%EB%B2%BD%20%EC%A0%84%EC%9D%98%20%ED%91%B8%EB%A5%B8%EB%B9%9B)%22%EB%A1%9C%20%EC%84%A4%EC%A0%95%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20-%20%22Teal%20%26%20Orange%22%20%EB%98%90%EB%8A%94%20%22Pastel%20Dream%22%EA%B3%BC%20%EA%B0%99%EC%9D%B4%20%EC%86%8C%EC%85%9C%20%EB%AF%B8%EB%94%94%EC%96%B4%EC%97%90%EC%84%9C%20%EC%84%A0%ED%98%B8%ED%95%98%EB%8A%94%20%ED%95%84%ED%84%B0%EB%A5%BC%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EC%83%89%EC%83%81%20%EB%B3%B4%EC%A0%95(%EC%BB%AC%EB%9F%AC%20%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%94%A9)%EC%9D%84%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A%E2%96%BC%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EB%B0%8F%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%82%AC%EC%96%91%0A*%20%EA%B5%AC%EB%8F%84%2F%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%3A%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84(%EB%B3%B4%EC%BC%80)%EB%A1%9C%20%EB%B0%B0%EA%B2%BD%EC%9D%84%20%EC%95%84%EB%A6%84%EB%8B%B5%EA%B2%8C%20%ED%9D%90%EB%A6%AC%EA%B2%8C%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B1%B0%EB%82%98%2C%20%EA%B4%91%EA%B0%81%20%EB%A0%8C%EC%A6%88(16mm)%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%9B%85%EC%9E%A5%ED%95%9C%20%ED%92%8D%EA%B2%BD%EC%9D%84%20%EB%8B%B4%EC%9C%BC%EB%A9%B4%EC%84%9C%20%ED%8C%94%EB%8B%A4%EB%A6%AC%EA%B0%80%20%EB%8D%94%20%EA%B8%B8%EC%96%B4%20%EB%B3%B4%EC%9D%B4%EB%8F%84%EB%A1%9D%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%82%BC%EB%B6%84%ED%95%A0%20%EB%B2%95%EC%B9%99%EC%9D%84%20%EC%97%BC%EB%91%90%EC%97%90%20%EB%91%A1%EB%8B%88%EB%8B%A4.%0A*%20%EB%B6%84%EC%9C%84%EA%B8%B0%3A%20%22%EC%97%AC%ED%96%89%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B0%88%EB%A7%9D(Wanderlust)%22%EC%9D%84%20%EB%B6%88%EB%9F%AC%EC%9D%BC%EC%9C%BC%ED%82%A4%EB%8A%94%20%EB%AA%BD%ED%99%98%EC%A0%81%EC%9D%B4%EB%A9%B4%EC%84%9C%EB%8F%84%20%EC%83%9D%EC%83%9D%ED%95%9C%20%EC%8B%9C%EA%B0%81%EC%A0%81%20%EC%B0%BD%EC%9E%91%EB%AC%BC.%208k%20%ED%95%B4%EC%83%81%EB%8F%84%2C%20Unsplash%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%82%AC%EC%A7%84.%0A*%20%EC%9D%B8%EB%AC%BC%3A%20%EC%B0%B8%EA%B3%A0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EC%96%BC%EA%B5%B4%20%ED%8A%B9%EC%A7%95%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EB%A9%B4%EC%84%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%A7%81%EC%A0%91%20%EC%9D%91%EC%8B%9C%ED%95%98%EB%8A%94%20%EC%82%AC%EC%83%89%EC%A0%81%EC%9D%B8%20%ED%91%9C%EC%A0%95%EC%9D%B4%EB%82%98%20%EB%92%A4%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0%20%EB%AF%B8%EC%86%8C%20%EC%A7%93%EB%8A%94%20%EB%93%B1%20%EB%B3%B4%EB%8A%94%20%EC%82%AC%EB%9E%8C%EC%9D%84%20%EB%81%8C%EC%96%B4%EB%93%A4%EC%9D%B4%EB%8A%94%20%EB%A7%A4%EB%A0%A5%EC%A0%81%EC%9D%B8%20%ED%8F%AC%EC%A6%88%EB%A5%BC%20%EC%B7%A8%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EB%B0%94%EB%9E%8C%EC%97%90%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EC%9D%B4%20%EB%82%A0%EB%A6%AC%EB%8A%94%20%EB%AA%A8%EC%8A%B5%EC%9D%84%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EC%96%B4%20%EC%9B%80%EC%A7%81%EC%9E%84%EC%9D%84%20%EB%8D%94%ED%95%A9%EB%8B%88%EB%8B%A4.%0A*%20%ED%85%8D%EC%8A%A4%ED%8A%B8%3A%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%82%B4%EC%9D%98%20%ED%91%9C%EC%A7%80%ED%8C%90%EC%9D%B4%EB%82%98%20%EB%AC%BC%EA%B1%B4%EC%97%90%20%EC%9C%84%EC%B9%98%20%EC%9D%B4%EB%A6%84%EC%9D%84%20%EB%AF%B8%EB%AC%98%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%A0%95%ED%99%95%ED%95%98%EA%B2%8C%20%EC%B2%A0%EC%9E%90%ED%95%98%EC%97%AC%20%EC%84%B8%EB%A0%A8%EB%90%98%EA%B2%8C%20%EB%B0%B0%EC%B9%98%ED%95%A9%EB%8B%88%EB%8B%A4(%EA%B0%80%EB%8A%A5%ED%95%9C%20%EA%B2%BD%EC%9A%B0).%0A%0A%E2%96%BC%20%EC%9E%85%EB%A0%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%0A%EC%9C%84%EB%8F%84%20%EB%B0%8F%20%EA%B2%BD%EB%8F%84%3A%20%7Bargument%20name%3D%22latitude%20and%20longitude%22%20default%3D%2236.4618%C2%B0%20N%2C%2025.3753%C2%B0%20E%22%7D)**
+
+---
+
+### No. 10: 어린이용 따라 하기 포스터 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+신발 끈 묶는 방법을 설명하는 귀엽고 그림 같은 어린이 포스터를 생성하기 위한 프롬프트입니다. 간단한 단계, 밝은 색상, 친근한 일러스트레이션이 특징입니다.
+
+#### 📝 프롬프트
+
+```
+크고 큼직한 화살표, 간단한 단계, 밝은 색상, 친근한 그림을 넣어 아이들을 위한 귀여운 '신발 끈 묶는 방법' 포스터를 만들어 주세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122639253_p6hyjy_G7gNolVa4AAyLCr.jpg" width="600" alt="어린이용 따라 하기 포스터 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Lamar Andrews](https://x.com/LamarMandrews)
+- **출처:** [Twitter Post](https://x.com/LamarMandrews/status/1997361430769865213)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%ED%81%AC%EA%B3%A0%20%ED%81%BC%EC%A7%81%ED%95%9C%20%ED%99%94%EC%82%B4%ED%91%9C%2C%20%EA%B0%84%EB%8B%A8%ED%95%9C%20%EB%8B%A8%EA%B3%84%2C%20%EB%B0%9D%EC%9D%80%20%EC%83%89%EC%83%81%2C%20%EC%B9%9C%EA%B7%BC%ED%95%9C%20%EA%B7%B8%EB%A6%BC%EC%9D%84%20%EB%84%A3%EC%96%B4%20%EC%95%84%EC%9D%B4%EB%93%A4%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B7%80%EC%97%AC%EC%9A%B4%20'%EC%8B%A0%EB%B0%9C%20%EB%81%88%20%EB%AC%B6%EB%8A%94%20%EB%B0%A9%EB%B2%95'%20%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
+
+---
+
+### No. 11: Nano Banana Pro용 그래픽 레코딩 (GraReco) 프롬프트
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 설명
+
+숙련된 '그래픽 레코더(GraReco)' 역할을 하도록 Nano Banana Pro에 지시하는 상세한 시스템 프롬프트입니다. 복잡한 텍스트 입력을 분석하고 핵심 테마를 추출하여 시뮬레이션된 화이트보드나 큰 종이에 따뜻한 손그림 스타일로 시각화합니다. 이 프롬프트는 모든 텍스트에 손으로 그린 일본어 글꼴, 제한된 색상 팔레트(마커 세트 등), 그리고 보는 사람의 시선을 유도하는 논리적인 레이아웃 디자인을 엄격하게 사용하도록 지시합니다.
+
+#### 📝 프롬프트
+
+```
+당신은 실시간 토론과 복잡한 텍스트 정보를 직관적인 시각 자료와 텍스트로 현장에서 구성하는 숙련된 "그래픽 레코더"입니다. 마지막에 제공된 입력 텍스트의 내용을 깊이 이해하고 분석하여, 핵심 요점과 구조를 손으로 그린 일러스트레이션, 아이콘, 손글씨를 결합한 "그래픽 레코딩" 스타일의 단일 이미지로 요약하세요.
+
+▼ 생성 프로세스 지침 (사고 과정)
+그리기 전에 Nano Banana Pro의 "사고 모델" 추론 기능을 활용하여 다음 논리적 프로세스를 실행하세요.
+
+1.  **구조 추출 및 요약**: 입력 텍스트에서 중심 주제, 주요 토픽(3~5개), 그리고 그 관계(인과 관계, 대립, 순서 등)를 식별하고 요약합니다.
+2.  **시각화 및 은유 선택**: 각 토픽을 상징하는 친근하고 손으로 그린 아이콘과 은유를 결정합니다(예: 성장 = 새싹, 도전 = 벽, 아이디어 = 전구).
+3.  **레이아웃 및 시선 유도**: 시뮬레이션된 종이나 화이트보드에 정보가 왼쪽에서 오른쪽 또는 위에서 아래로 자연스럽게 흐르도록 배열을 디자인합니다. 화살표와 테두리를 사용하여 시청자의 시선을 논리적으로 유도할 계획을 세웁니다.
+
+▼ 디자인 및 스타일 사양
+**전반적인 분위기**:
+*   **매체**: 큰 종이나 화이트보드에 그린 아날로그 질감. 종이 섬유의 질감과 마커의 번짐을 표현합니다.
+*   **느낌**: 전문 퍼실리테이터의 전형적인 수성 마커 또는 색연필을 사용한 따뜻하고 손으로 그린 스타일. 선은 완벽하게 직선이 아니라 인간적인 흔들림이 있어야 합니다.
+
+**텍스트 표현 (중요)**:
+*   **모두 손글씨**: 제목, 머리글, 본문 텍스트, 보충 설명을 포함한 모든 텍스트는 "손글씨 일본어 글꼴"을 사용하여 그려야 합니다. 인쇄된 글꼴은 사용하지 마세요.
+*   **강조 및 계층**: 텍스트의 크기와 두께를 다양하게 하여 정보 계층을 명확하게 정의합니다. 예를 들어, 중요한 키워드는 굵은 마커로 크게 쓰고, 보충 정보는 얇은 펜으로 작게 씁니다.
+
+**색상 구성**:
+*   **제한된 팔레트**: 주로 검정색과 회색 선화. 시각적 혼란을 방지하기 위해 마커 세트에서 2~3가지 색상(예: 따뜻한 노란색, 차분한 파란색, 강조 빨간색)을 강조 색상으로 사용합니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122659657_oes885_G7gBZRbacAACMoW.jpg" width="600" alt="Nano Banana Pro용 그래픽 레코딩 (GraReco) 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **출처:** [Twitter Post](https://x.com/hAru_mAki_ch/status/1997349048127516919)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EB%8B%B9%EC%8B%A0%EC%9D%80%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%ED%86%A0%EB%A1%A0%EA%B3%BC%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8%20%EC%8B%9C%EA%B0%81%20%EC%9E%90%EB%A3%8C%EC%99%80%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C%20%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94%20%EC%88%99%EB%A0%A8%EB%90%9C%20%22%EA%B7%B8%EB%9E%98%ED%94%BD%20%EB%A0%88%EC%BD%94%EB%8D%94%22%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%A7%88%EC%A7%80%EB%A7%89%EC%97%90%20%EC%A0%9C%EA%B3%B5%EB%90%9C%20%EC%9E%85%EB%A0%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EB%82%B4%EC%9A%A9%EC%9D%84%20%EA%B9%8A%EC%9D%B4%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%20%EB%B6%84%EC%84%9D%ED%95%98%EC%97%AC%2C%20%ED%95%B5%EC%8B%AC%20%EC%9A%94%EC%A0%90%EA%B3%BC%20%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EA%B7%B8%EB%A6%B0%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%2C%20%EC%95%84%EC%9D%B4%EC%BD%98%2C%20%EC%86%90%EA%B8%80%EC%94%A8%EB%A5%BC%20%EA%B2%B0%ED%95%A9%ED%95%9C%20%22%EA%B7%B8%EB%9E%98%ED%94%BD%20%EB%A0%88%EC%BD%94%EB%94%A9%22%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%EB%8B%A8%EC%9D%BC%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C%20%EC%9A%94%EC%95%BD%ED%95%98%EC%84%B8%EC%9A%94.%0A%0A%E2%96%BC%20%EC%83%9D%EC%84%B1%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A7%80%EC%B9%A8%20(%EC%82%AC%EA%B3%A0%20%EA%B3%BC%EC%A0%95)%0A%EA%B7%B8%EB%A6%AC%EA%B8%B0%20%EC%A0%84%EC%97%90%20Nano%20Banana%20Pro%EC%9D%98%20%22%EC%82%AC%EA%B3%A0%20%EB%AA%A8%EB%8D%B8%22%20%EC%B6%94%EB%A1%A0%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%8B%A4%EC%9D%8C%20%EB%85%BC%EB%A6%AC%EC%A0%81%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EC%8B%A4%ED%96%89%ED%95%98%EC%84%B8%EC%9A%94.%0A%0A1.%20%20**%EA%B5%AC%EC%A1%B0%20%EC%B6%94%EC%B6%9C%20%EB%B0%8F%20%EC%9A%94%EC%95%BD**%3A%20%EC%9E%85%EB%A0%A5%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EC%A4%91%EC%8B%AC%20%EC%A3%BC%EC%A0%9C%2C%20%EC%A3%BC%EC%9A%94%20%ED%86%A0%ED%94%BD(3~5%EA%B0%9C)%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EA%B7%B8%20%EA%B4%80%EA%B3%84(%EC%9D%B8%EA%B3%BC%20%EA%B4%80%EA%B3%84%2C%20%EB%8C%80%EB%A6%BD%2C%20%EC%88%9C%EC%84%9C%20%EB%93%B1)%EB%A5%BC%20%EC%8B%9D%EB%B3%84%ED%95%98%EA%B3%A0%20%EC%9A%94%EC%95%BD%ED%95%A9%EB%8B%88%EB%8B%A4.%0A2.%20%20**%EC%8B%9C%EA%B0%81%ED%99%94%20%EB%B0%8F%20%EC%9D%80%EC%9C%A0%20%EC%84%A0%ED%83%9D**%3A%20%EA%B0%81%20%ED%86%A0%ED%94%BD%EC%9D%84%20%EC%83%81%EC%A7%95%ED%95%98%EB%8A%94%20%EC%B9%9C%EA%B7%BC%ED%95%98%EA%B3%A0%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EA%B7%B8%EB%A6%B0%20%EC%95%84%EC%9D%B4%EC%BD%98%EA%B3%BC%20%EC%9D%80%EC%9C%A0%EB%A5%BC%20%EA%B2%B0%EC%A0%95%ED%95%A9%EB%8B%88%EB%8B%A4(%EC%98%88%3A%20%EC%84%B1%EC%9E%A5%20%3D%20%EC%83%88%EC%8B%B9%2C%20%EB%8F%84%EC%A0%84%20%3D%20%EB%B2%BD%2C%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%3D%20%EC%A0%84%EA%B5%AC).%0A3.%20%20**%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20%EB%B0%8F%20%EC%8B%9C%EC%84%A0%20%EC%9C%A0%EB%8F%84**%3A%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EB%90%9C%20%EC%A2%85%EC%9D%B4%EB%82%98%20%ED%99%94%EC%9D%B4%ED%8A%B8%EB%B3%B4%EB%93%9C%EC%97%90%20%EC%A0%95%EB%B3%B4%EA%B0%80%20%EC%99%BC%EC%AA%BD%EC%97%90%EC%84%9C%20%EC%98%A4%EB%A5%B8%EC%AA%BD%20%EB%98%90%EB%8A%94%20%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%ED%9D%90%EB%A5%B4%EB%8F%84%EB%A1%9D%20%EB%B0%B0%EC%97%B4%EC%9D%84%20%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%A9%EB%8B%88%EB%8B%A4.%20%ED%99%94%EC%82%B4%ED%91%9C%EC%99%80%20%ED%85%8C%EB%91%90%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%8B%9C%EC%B2%AD%EC%9E%90%EC%9D%98%20%EC%8B%9C%EC%84%A0%EC%9D%84%20%EB%85%BC%EB%A6%AC%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%9C%A0%EB%8F%84%ED%95%A0%20%EA%B3%84%ED%9A%8D%EC%9D%84%20%EC%84%B8%EC%9B%81%EB%8B%88%EB%8B%A4.%0A%0A%E2%96%BC%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EB%B0%8F%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%82%AC%EC%96%91%0A**%EC%A0%84%EB%B0%98%EC%A0%81%EC%9D%B8%20%EB%B6%84%EC%9C%84%EA%B8%B0**%3A%0A*%20%20%20**%EB%A7%A4%EC%B2%B4**%3A%20%ED%81%B0%20%EC%A2%85%EC%9D%B4%EB%82%98%20%ED%99%94%EC%9D%B4%ED%8A%B8%EB%B3%B4%EB%93%9C%EC%97%90%20%EA%B7%B8%EB%A6%B0%20%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8%20%EC%A7%88%EA%B0%90.%20%EC%A2%85%EC%9D%B4%20%EC%84%AC%EC%9C%A0%EC%9D%98%20%EC%A7%88%EA%B0%90%EA%B3%BC%20%EB%A7%88%EC%BB%A4%EC%9D%98%20%EB%B2%88%EC%A7%90%EC%9D%84%20%ED%91%9C%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%0A*%20%20%20**%EB%8A%90%EB%82%8C**%3A%20%EC%A0%84%EB%AC%B8%20%ED%8D%BC%EC%8B%A4%EB%A6%AC%ED%85%8C%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%A0%84%ED%98%95%EC%A0%81%EC%9D%B8%20%EC%88%98%EC%84%B1%20%EB%A7%88%EC%BB%A4%20%EB%98%90%EB%8A%94%20%EC%83%89%EC%97%B0%ED%95%84%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EB%94%B0%EB%9C%BB%ED%95%98%EA%B3%A0%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EA%B7%B8%EB%A6%B0%20%EC%8A%A4%ED%83%80%EC%9D%BC.%20%EC%84%A0%EC%9D%80%20%EC%99%84%EB%B2%BD%ED%95%98%EA%B2%8C%20%EC%A7%81%EC%84%A0%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%EC%9D%B8%EA%B0%84%EC%A0%81%EC%9D%B8%20%ED%9D%94%EB%93%A4%EB%A6%BC%EC%9D%B4%20%EC%9E%88%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A**%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%91%9C%ED%98%84%20(%EC%A4%91%EC%9A%94)**%3A%0A*%20%20%20**%EB%AA%A8%EB%91%90%20%EC%86%90%EA%B8%80%EC%94%A8**%3A%20%EC%A0%9C%EB%AA%A9%2C%20%EB%A8%B8%EB%A6%AC%EA%B8%80%2C%20%EB%B3%B8%EB%AC%B8%20%ED%85%8D%EC%8A%A4%ED%8A%B8%2C%20%EB%B3%B4%EC%B6%A9%20%EC%84%A4%EB%AA%85%EC%9D%84%20%ED%8F%AC%ED%95%A8%ED%95%9C%20%EB%AA%A8%EB%93%A0%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8A%94%20%22%EC%86%90%EA%B8%80%EC%94%A8%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B8%80%EA%BC%B4%22%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EA%B7%B8%EB%A0%A4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9D%B8%EC%87%84%EB%90%9C%20%EA%B8%80%EA%BC%B4%EC%9D%80%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94.%0A*%20%20%20**%EA%B0%95%EC%A1%B0%20%EB%B0%8F%20%EA%B3%84%EC%B8%B5**%3A%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98%20%ED%81%AC%EA%B8%B0%EC%99%80%20%EB%91%90%EA%BB%98%EB%A5%BC%20%EB%8B%A4%EC%96%91%ED%95%98%EA%B2%8C%20%ED%95%98%EC%97%AC%20%EC%A0%95%EB%B3%B4%20%EA%B3%84%EC%B8%B5%EC%9D%84%20%EB%AA%85%ED%99%95%ED%95%98%EA%B2%8C%20%EC%A0%95%EC%9D%98%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%98%88%EB%A5%BC%20%EB%93%A4%EC%96%B4%2C%20%EC%A4%91%EC%9A%94%ED%95%9C%20%ED%82%A4%EC%9B%8C%EB%93%9C%EB%8A%94%20%EA%B5%B5%EC%9D%80%20%EB%A7%88%EC%BB%A4%EB%A1%9C%20%ED%81%AC%EA%B2%8C%20%EC%93%B0%EA%B3%A0%2C%20%EB%B3%B4%EC%B6%A9%20%EC%A0%95%EB%B3%B4%EB%8A%94%20%EC%96%87%EC%9D%80%20%ED%8E%9C%EC%9C%BC%EB%A1%9C%20%EC%9E%91%EA%B2%8C%20%EC%94%81%EB%8B%88%EB%8B%A4.%0A%0A**%EC%83%89%EC%83%81%20%EA%B5%AC%EC%84%B1**%3A%0A*%20%20%20**%EC%A0%9C%ED%95%9C%EB%90%9C%20%ED%8C%94%EB%A0%88%ED%8A%B8**%3A%20%EC%A3%BC%EB%A1%9C%20%EA%B2%80%EC%A0%95%EC%83%89%EA%B3%BC%20%ED%9A%8C%EC%83%89%20%EC%84%A0%ED%99%94.%20%EC%8B%9C%EA%B0%81%EC%A0%81%20%ED%98%BC%EB%9E%80%EC%9D%84%20%EB%B0%A9%EC%A7%80%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EB%A7%88%EC%BB%A4%20%EC%84%B8%ED%8A%B8%EC%97%90%EC%84%9C%202~3%EA%B0%80%EC%A7%80%20%EC%83%89%EC%83%81(%EC%98%88%3A%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EB%85%B8%EB%9E%80%EC%83%89%2C%20%EC%B0%A8%EB%B6%84%ED%95%9C%20%ED%8C%8C%EB%9E%80%EC%83%89%2C%20%EA%B0%95%EC%A1%B0%20%EB%B9%A8%EA%B0%84%EC%83%89)%EC%9D%84%20%EA%B0%95%EC%A1%B0%20%EC%83%89%EC%83%81%EC%9C%BC%EB%A1%9C%20%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.)**
+
+---
+
+### No. 12: 3x3 그리드 캐릭터 일관성 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+AI에게 특정 캐릭터가 다양한 무작위 포즈를 취하고 있는 3x3 그리드를 생성하도록 지시하는 간단한 프롬프트입니다. 이때 아홉 개의 이미지 전체에서 동일한 장면과 캐릭터 외형을 유지해야 합니다.
+
+#### 📝 프롬프트
+
+```
+3x3 격자 안에 이 캐릭터를 다양한 각도로 보여주세요. 배경은 동일하게 유지하고, 포즈는 무작위로 해주세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122629867_nz091f_G7gBdrcaUAA8Jvl.jpg" width="600" alt="3x3 그리드 캐릭터 일관성 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Shreya Yadav](https://x.com/ShreyaYadav___)
+- **출처:** [Twitter Post](https://x.com/ShreyaYadav___/status/1997348060968661245)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=3x3%20%EA%B2%A9%EC%9E%90%20%EC%95%88%EC%97%90%20%EC%9D%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A5%BC%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EA%B0%81%EB%8F%84%EB%A1%9C%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%8F%99%EC%9D%BC%ED%95%98%EA%B2%8C%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B3%A0%2C%20%ED%8F%AC%EC%A6%88%EB%8A%94%20%EB%AC%B4%EC%9E%91%EC%9C%84%EB%A1%9C%20%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.)**
+
+---
+
+### No. 13: 극적인 초광각 실사 편집 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+원본 사진을 드라마틱하고 사실적인 초광각 사진으로 변환하도록 설계된 상세한 이미지 생성 프롬프트입니다. 극단적인 카메라 앵글, 역동적인 포즈, 그리고 렌즈 가까이에 신체 일부가 거대하게 보이는 강제 원근법을 강조하여 강력하고 양식화된 시각적 효과를 만들어냅니다. 또한, 도쿄의 밤을 배경으로 거칠고 로우파이(lo-fi) 필름 미학에 초점을 맞춘 원본 이미지를 생성하기 위한 보조 프롬프트도 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+초광각 시점과 역동적인 포즈를 리믹스하여 편집합니다.
+이것은 원본 이미지를 **편집**한 것이며, 새로운 캐릭터가 아닙니다.
+
+전반적인 내용:
+원본 사진을 극적인 초광각 사진으로 변환하고, 극단적인 카메라 앵글(바로 아래 또는 위에서 본 시점 포함)을 사용하여 하나 이상의 신체 부위가 렌즈 바로 옆에 있어 거대하게 보이고, 나머지 신체는 원근법에 따라 멀어지며, 동일 인물이 원본 환경의 일관되고 확장된 버전에서 스타일리시하고 복잡하며 강력한 포즈를 취합니다.
+
+또한, 아래는 원본 이미지 생성 프롬프트입니다. 참고 자료로 활용해 주세요.
+
+{argument name="subject" default="a women"}이(가) {argument name="clothing style" default="clothing style"} 겨울 내추럴 컬러 아트 패션을 입고 있는 사진, TOKYO 시티 야경이 있는 공공시설 환경, 거친 로파이 필름 미학, 일본 공중전화 부스, 솔직한 틸트 뷰, 전화 수화기, 귀마개 없음, 녹색 코일형 전화 코드
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122663360_g154wg_G7gBHv1bYAAkuFJ.jpg" width="600" alt="극적인 초광각 실사 편집 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [SDT🌿](https://x.com/SDT_side)
+- **출처:** [Twitter Post](https://x.com/SDT_side/status/1997347674794954859)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%B4%88%EA%B4%91%EA%B0%81%20%EC%8B%9C%EC%A0%90%EA%B3%BC%20%EC%97%AD%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8F%AC%EC%A6%88%EB%A5%BC%20%EB%A6%AC%EB%AF%B9%EC%8A%A4%ED%95%98%EC%97%AC%20%ED%8E%B8%EC%A7%91%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%EC%9D%B4%EA%B2%83%EC%9D%80%20%EC%9B%90%EB%B3%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20**%ED%8E%B8%EC%A7%91**%ED%95%9C%20%EA%B2%83%EC%9D%B4%EB%A9%B0%2C%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%BA%90%EB%A6%AD%ED%84%B0%EA%B0%80%20%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4.%0A%0A%EC%A0%84%EB%B0%98%EC%A0%81%EC%9D%B8%20%EB%82%B4%EC%9A%A9%3A%0A%EC%9B%90%EB%B3%B8%20%EC%82%AC%EC%A7%84%EC%9D%84%20%EA%B7%B9%EC%A0%81%EC%9D%B8%20%EC%B4%88%EA%B4%91%EA%B0%81%20%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B3%A0%2C%20%EA%B7%B9%EB%8B%A8%EC%A0%81%EC%9D%B8%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%95%B5%EA%B8%80(%EB%B0%94%EB%A1%9C%20%EC%95%84%EB%9E%98%20%EB%98%90%EB%8A%94%20%EC%9C%84%EC%97%90%EC%84%9C%20%EB%B3%B8%20%EC%8B%9C%EC%A0%90%20%ED%8F%AC%ED%95%A8)%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%ED%95%98%EB%82%98%20%EC%9D%B4%EC%83%81%EC%9D%98%20%EC%8B%A0%EC%B2%B4%20%EB%B6%80%EC%9C%84%EA%B0%80%20%EB%A0%8C%EC%A6%88%20%EB%B0%94%EB%A1%9C%20%EC%98%86%EC%97%90%20%EC%9E%88%EC%96%B4%20%EA%B1%B0%EB%8C%80%ED%95%98%EA%B2%8C%20%EB%B3%B4%EC%9D%B4%EA%B3%A0%2C%20%EB%82%98%EB%A8%B8%EC%A7%80%20%EC%8B%A0%EC%B2%B4%EB%8A%94%20%EC%9B%90%EA%B7%BC%EB%B2%95%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%A9%80%EC%96%B4%EC%A7%80%EB%A9%B0%2C%20%EB%8F%99%EC%9D%BC%20%EC%9D%B8%EB%AC%BC%EC%9D%B4%20%EC%9B%90%EB%B3%B8%20%ED%99%98%EA%B2%BD%EC%9D%98%20%EC%9D%BC%EA%B4%80%EB%90%98%EA%B3%A0%20%ED%99%95%EC%9E%A5%EB%90%9C%20%EB%B2%84%EC%A0%84%EC%97%90%EC%84%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A6%AC%EC%8B%9C%ED%95%98%EA%B3%A0%20%EB%B3%B5%EC%9E%A1%ED%95%98%EB%A9%B0%20%EA%B0%95%EB%A0%A5%ED%95%9C%20%ED%8F%AC%EC%A6%88%EB%A5%BC%20%EC%B7%A8%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A%EB%98%90%ED%95%9C%2C%20%EC%95%84%EB%9E%98%EB%8A%94%20%EC%9B%90%EB%B3%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%B0%B8%EA%B3%A0%20%EC%9E%90%EB%A3%8C%EB%A1%9C%20%ED%99%9C%EC%9A%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%0A%7Bargument%20name%3D%22subject%22%20default%3D%22a%20women%22%7D%EC%9D%B4(%EA%B0%80)%20%7Bargument%20name%3D%22clothing%20style%22%20default%3D%22clothing%20style%22%7D%20%EA%B2%A8%EC%9A%B8%20%EB%82%B4%EC%B6%94%EB%9F%B4%20%EC%BB%AC%EB%9F%AC%20%EC%95%84%ED%8A%B8%20%ED%8C%A8%EC%85%98%EC%9D%84%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EC%A7%84%2C%20TOKYO%20%EC%8B%9C%ED%8B%B0%20%EC%95%BC%EA%B2%BD%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EA%B3%B5%EA%B3%B5%EC%8B%9C%EC%84%A4%20%ED%99%98%EA%B2%BD%2C%20%EA%B1%B0%EC%B9%9C%20%EB%A1%9C%ED%8C%8C%EC%9D%B4%20%ED%95%84%EB%A6%84%20%EB%AF%B8%ED%95%99%2C%20%EC%9D%BC%EB%B3%B8%20%EA%B3%B5%EC%A4%91%EC%A0%84%ED%99%94%20%EB%B6%80%EC%8A%A4%2C%20%EC%86%94%EC%A7%81%ED%95%9C%20%ED%8B%B8%ED%8A%B8%20%EB%B7%B0%2C%20%EC%A0%84%ED%99%94%20%EC%88%98%ED%99%94%EA%B8%B0%2C%20%EA%B7%80%EB%A7%88%EA%B0%9C%20%EC%97%86%EC%9D%8C%2C%20%EB%85%B9%EC%83%89%20%EC%BD%94%EC%9D%BC%ED%98%95%20%EC%A0%84%ED%99%94%20%EC%BD%94%EB%93%9C)**
+
+---
+
+### No. 14: 골판지 아트워크 프레임 디스플레이
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -823,7 +1472,706 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 2: 안드로이드 로봇의 고대비 열 X-레이 렌더링
+### No. 15: 감성적인 바다 여행 썸네일 디자인 프롬프트 (산토리니)
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+산토리니를 위한 감성적인 테마의 여행 썸네일 디자인을 생성하기 위한 상세하고 구조화된 LLM 프롬프트입니다. '고요한 환희' 미학을 구현하기 위해 제목, 콘셉트, 타겟 고객, 구성 요소(하얀 건물, 파란 돔, 바다를 바라보는 여성, 일몰 반영), 색상 팔레트(주색 파랑, 보조색 흰색, 강조색 금색), 타이포그래피, 장식 효과(플레어, 필름 그레인)를 명시합니다.
+
+#### 📝 프롬프트
+
+```
+thumbnail_design: title: "{argument name="title" default="감성적인 바다 여행 – 산토리니"}" concept: "{argument name="concept" default="산토리니의 빛과 바람이 마음을 해방시키고 감동을 선사하는 여행 광고"}" target_audience: "해외 사용자 (20대-40대, SNS 사용자, 여행 지향적)" composition: - "산토리니의 흰 거리와 푸른 돔이 있는 고지대" - "바람에 머리카락을 휘날리며 바다를 바라보는 여성" - "지는 해가 바다 표면에 반사되어 마을 전체를 황금빛으로 물들임" - "시간의 흐름과 기억의 온도를 전달하는 깊이감 있는 구도" color_palette: primary: "#87C6E6" # 산토리니 하늘을 연상시키는 파란색 secondary: "#FDF6EE" # 흰 벽에 반사되는 빛 accent: "#F5CBA7" # 일몰의 황금빛 typography_color: "#222222" # 차분한 짙은 회색 style: - "분위기를 보존하는 미니멀한 구성" - "섬세한 손글씨 서체를 메인 캐치프레이즈로 사용" - "영어를 가볍게 추가하고, 일본어 감성에 중점" - "'고요한 황홀경'을 테마로 한 전체적인 시네마틱 디자인" text_layout: headline: text: | "{argument name="headline text" default="아직 집에 가고 싶지 않다는 생각이 드는 곳이 있습니다. 빛이 뺨을 부드럽게 어루만지고, 조수의 냄새가 마음을 달래줍니다. 아무 계획 없이 걷는 것만으로도 삶은 조금 더 자유로워집니다."}" font_style: "Emotional Handwriting Japanese" position: "Bottom Left" size: "medium-large" opacity: 0.92 sub_text: text: | "{argument name="subtext" default="다시 숨 쉬게 하는 순간을 찾아보세요. – 시간이 스스로를 잊는 곳, 산토리니 –"}" font: "Sans-serif, Extra Light" position: "Bottom Left Lower Section" size: "small" opacity: 0.8 decoration: - "흰 벽에 반사된 햇빛이 희미한 플레어를 퍼뜨림" - "멀리 있는 바다에 부드러운 블러를 추가하여 몽환적인 느낌 연출" - "손글씨 텍스트 아래에 약간의 그림자를 넣어 깊이감 부여" - "전체 이미지에 그레인 노이즈를 겹쳐 필름 느낌 시뮬레이션" export: aspect_ratio: "16:9" resolution: "1920x1080" format: "jpg" style_definition: name: "Emotional Handwriting Japanese" description: "섬세하고 감성적인 손글씨 서체. 필압의 변화와 여백의 숨결이 특징입니다." characteristics: - "감정의 흐름을 표현하기 위해 가벼운 필압으로 그은 얇은 선을 자주 사용" - "바람이 스쳐 지나가는 듯한 여백을 만들기 위해 글자 간 넓은 간격" - "긴 세로선과 짧은 가로선으로 유려한 리듬 형성" - "글씨 끝에 약간의 잉크 번짐을 남겨 인간적인 온기 전달" emotional_tone: - "향수" - "자유" - "고요한 열정" - "재탄생" output_method: "가는 볼펜 필기체 스타일 — 얇은 잉크 질감, 자연스러운 손 움직임, 붓 터치 없이 깊이감 유지."
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122667975_9rwghg_G7fqhKHakAALRMI.jpg" width="600" alt="감성적인 바다 여행 썸네일 디자인 프롬프트 (산토리니) - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Studio Veco|日本一ダサい画像を生成する人](https://x.com/studio_veco)
+- **출처:** [Twitter Post](https://x.com/studio_veco/status/1997323214964531476)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=thumbnail_design%3A%20title%3A%20%22%7Bargument%20name%3D%22title%22%20default%3D%22%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EB%B0%94%EB%8B%A4%20%EC%97%AC%ED%96%89%20%E2%80%93%20%EC%82%B0%ED%86%A0%EB%A6%AC%EB%8B%88%22%7D%22%20concept%3A%20%22%7Bargument%20name%3D%22concept%22%20default%3D%22%EC%82%B0%ED%86%A0%EB%A6%AC%EB%8B%88%EC%9D%98%20%EB%B9%9B%EA%B3%BC%20%EB%B0%94%EB%9E%8C%EC%9D%B4%20%EB%A7%88%EC%9D%8C%EC%9D%84%20%ED%95%B4%EB%B0%A9%EC%8B%9C%ED%82%A4%EA%B3%A0%20%EA%B0%90%EB%8F%99%EC%9D%84%20%EC%84%A0%EC%82%AC%ED%95%98%EB%8A%94%20%EC%97%AC%ED%96%89%20%EA%B4%91%EA%B3%A0%22%7D%22%20target_audience%3A%20%22%ED%95%B4%EC%99%B8%20%EC%82%AC%EC%9A%A9%EC%9E%90%20(20%EB%8C%80-40%EB%8C%80%2C%20SNS%20%EC%82%AC%EC%9A%A9%EC%9E%90%2C%20%EC%97%AC%ED%96%89%20%EC%A7%80%ED%96%A5%EC%A0%81)%22%20composition%3A%20-%20%22%EC%82%B0%ED%86%A0%EB%A6%AC%EB%8B%88%EC%9D%98%20%ED%9D%B0%20%EA%B1%B0%EB%A6%AC%EC%99%80%20%ED%91%B8%EB%A5%B8%20%EB%8F%94%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EA%B3%A0%EC%A7%80%EB%8C%80%22%20-%20%22%EB%B0%94%EB%9E%8C%EC%97%90%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EC%9D%84%20%ED%9C%98%EB%82%A0%EB%A6%AC%EB%A9%B0%20%EB%B0%94%EB%8B%A4%EB%A5%BC%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94%20%EC%97%AC%EC%84%B1%22%20-%20%22%EC%A7%80%EB%8A%94%20%ED%95%B4%EA%B0%80%20%EB%B0%94%EB%8B%A4%20%ED%91%9C%EB%A9%B4%EC%97%90%20%EB%B0%98%EC%82%AC%EB%90%98%EC%96%B4%20%EB%A7%88%EC%9D%84%20%EC%A0%84%EC%B2%B4%EB%A5%BC%20%ED%99%A9%EA%B8%88%EB%B9%9B%EC%9C%BC%EB%A1%9C%20%EB%AC%BC%EB%93%A4%EC%9E%84%22%20-%20%22%EC%8B%9C%EA%B0%84%EC%9D%98%20%ED%9D%90%EB%A6%84%EA%B3%BC%20%EA%B8%B0%EC%96%B5%EC%9D%98%20%EC%98%A8%EB%8F%84%EB%A5%BC%20%EC%A0%84%EB%8B%AC%ED%95%98%EB%8A%94%20%EA%B9%8A%EC%9D%B4%EA%B0%90%20%EC%9E%88%EB%8A%94%20%EA%B5%AC%EB%8F%84%22%20color_palette%3A%20primary%3A%20%22%2387C6E6%22%20%23%20%EC%82%B0%ED%86%A0%EB%A6%AC%EB%8B%88%20%ED%95%98%EB%8A%98%EC%9D%84%20%EC%97%B0%EC%83%81%EC%8B%9C%ED%82%A4%EB%8A%94%20%ED%8C%8C%EB%9E%80%EC%83%89%20secondary%3A%20%22%23FDF6EE%22%20%23%20%ED%9D%B0%20%EB%B2%BD%EC%97%90%20%EB%B0%98%EC%82%AC%EB%90%98%EB%8A%94%20%EB%B9%9B%20accent%3A%20%22%23F5CBA7%22%20%23%20%EC%9D%BC%EB%AA%B0%EC%9D%98%20%ED%99%A9%EA%B8%88%EB%B9%9B%20typography_color%3A%20%22%23222222%22%20%23%20%EC%B0%A8%EB%B6%84%ED%95%9C%20%EC%A7%99%EC%9D%80%20%ED%9A%8C%EC%83%89%20style%3A%20-%20%22%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC%20%EB%B3%B4%EC%A1%B4%ED%95%98%EB%8A%94%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%20%EA%B5%AC%EC%84%B1%22%20-%20%22%EC%84%AC%EC%84%B8%ED%95%9C%20%EC%86%90%EA%B8%80%EC%94%A8%20%EC%84%9C%EC%B2%B4%EB%A5%BC%20%EB%A9%94%EC%9D%B8%20%EC%BA%90%EC%B9%98%ED%94%84%EB%A0%88%EC%9D%B4%EC%A6%88%EB%A1%9C%20%EC%82%AC%EC%9A%A9%22%20-%20%22%EC%98%81%EC%96%B4%EB%A5%BC%20%EA%B0%80%EB%B3%8D%EA%B2%8C%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0%2C%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B0%90%EC%84%B1%EC%97%90%20%EC%A4%91%EC%A0%90%22%20-%20%22'%EA%B3%A0%EC%9A%94%ED%95%9C%20%ED%99%A9%ED%99%80%EA%B2%BD'%EC%9D%84%20%ED%85%8C%EB%A7%88%EB%A1%9C%20%ED%95%9C%20%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%20%EB%94%94%EC%9E%90%EC%9D%B8%22%20text_layout%3A%20headline%3A%20text%3A%20%7C%20%22%7Bargument%20name%3D%22headline%20text%22%20default%3D%22%EC%95%84%EC%A7%81%20%EC%A7%91%EC%97%90%20%EA%B0%80%EA%B3%A0%20%EC%8B%B6%EC%A7%80%20%EC%95%8A%EB%8B%A4%EB%8A%94%20%EC%83%9D%EA%B0%81%EC%9D%B4%20%EB%93%9C%EB%8A%94%20%EA%B3%B3%EC%9D%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%B9%9B%EC%9D%B4%20%EB%BA%A8%EC%9D%84%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%20%EC%96%B4%EB%A3%A8%EB%A7%8C%EC%A7%80%EA%B3%A0%2C%20%EC%A1%B0%EC%88%98%EC%9D%98%20%EB%83%84%EC%83%88%EA%B0%80%20%EB%A7%88%EC%9D%8C%EC%9D%84%20%EB%8B%AC%EB%9E%98%EC%A4%8D%EB%8B%88%EB%8B%A4.%20%EC%95%84%EB%AC%B4%20%EA%B3%84%ED%9A%8D%20%EC%97%86%EC%9D%B4%20%EA%B1%B7%EB%8A%94%20%EA%B2%83%EB%A7%8C%EC%9C%BC%EB%A1%9C%EB%8F%84%20%EC%82%B6%EC%9D%80%20%EC%A1%B0%EA%B8%88%20%EB%8D%94%20%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9B%8C%EC%A7%91%EB%8B%88%EB%8B%A4.%22%7D%22%20font_style%3A%20%22Emotional%20Handwriting%20Japanese%22%20position%3A%20%22Bottom%20Left%22%20size%3A%20%22medium-large%22%20opacity%3A%200.92%20sub_text%3A%20text%3A%20%7C%20%22%7Bargument%20name%3D%22subtext%22%20default%3D%22%EB%8B%A4%EC%8B%9C%20%EC%88%A8%20%EC%89%AC%EA%B2%8C%20%ED%95%98%EB%8A%94%20%EC%88%9C%EA%B0%84%EC%9D%84%20%EC%B0%BE%EC%95%84%EB%B3%B4%EC%84%B8%EC%9A%94.%20%E2%80%93%20%EC%8B%9C%EA%B0%84%EC%9D%B4%20%EC%8A%A4%EC%8A%A4%EB%A1%9C%EB%A5%BC%20%EC%9E%8A%EB%8A%94%20%EA%B3%B3%2C%20%EC%82%B0%ED%86%A0%EB%A6%AC%EB%8B%88%20%E2%80%93%22%7D%22%20font%3A%20%22Sans-serif%2C%20Extra%20Light%22%20position%3A%20%22Bottom%20Left%20Lower%20Section%22%20size%3A%20%22small%22%20opacity%3A%200.8%20decoration%3A%20-%20%22%ED%9D%B0%20%EB%B2%BD%EC%97%90%20%EB%B0%98%EC%82%AC%EB%90%9C%20%ED%96%87%EB%B9%9B%EC%9D%B4%20%ED%9D%AC%EB%AF%B8%ED%95%9C%20%ED%94%8C%EB%A0%88%EC%96%B4%EB%A5%BC%20%ED%8D%BC%EB%9C%A8%EB%A6%BC%22%20-%20%22%EB%A9%80%EB%A6%AC%20%EC%9E%88%EB%8A%94%20%EB%B0%94%EB%8B%A4%EC%97%90%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%B8%94%EB%9F%AC%EB%A5%BC%20%EC%B6%94%EA%B0%80%ED%95%98%EC%97%AC%20%EB%AA%BD%ED%99%98%EC%A0%81%EC%9D%B8%20%EB%8A%90%EB%82%8C%20%EC%97%B0%EC%B6%9C%22%20-%20%22%EC%86%90%EA%B8%80%EC%94%A8%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%95%84%EB%9E%98%EC%97%90%20%EC%95%BD%EA%B0%84%EC%9D%98%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A5%BC%20%EB%84%A3%EC%96%B4%20%EA%B9%8A%EC%9D%B4%EA%B0%90%20%EB%B6%80%EC%97%AC%22%20-%20%22%EC%A0%84%EC%B2%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%20%EA%B7%B8%EB%A0%88%EC%9D%B8%20%EB%85%B8%EC%9D%B4%EC%A6%88%EB%A5%BC%20%EA%B2%B9%EC%B3%90%20%ED%95%84%EB%A6%84%20%EB%8A%90%EB%82%8C%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%22%20export%3A%20aspect_ratio%3A%20%2216%3A9%22%20resolution%3A%20%221920x1080%22%20format%3A%20%22jpg%22%20style_definition%3A%20name%3A%20%22Emotional%20Handwriting%20Japanese%22%20description%3A%20%22%EC%84%AC%EC%84%B8%ED%95%98%EA%B3%A0%20%EA%B0%90%EC%84%B1%EC%A0%81%EC%9D%B8%20%EC%86%90%EA%B8%80%EC%94%A8%20%EC%84%9C%EC%B2%B4.%20%ED%95%84%EC%95%95%EC%9D%98%20%EB%B3%80%ED%99%94%EC%99%80%20%EC%97%AC%EB%B0%B1%EC%9D%98%20%EC%88%A8%EA%B2%B0%EC%9D%B4%20%ED%8A%B9%EC%A7%95%EC%9E%85%EB%8B%88%EB%8B%A4.%22%20characteristics%3A%20-%20%22%EA%B0%90%EC%A0%95%EC%9D%98%20%ED%9D%90%EB%A6%84%EC%9D%84%20%ED%91%9C%ED%98%84%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EA%B0%80%EB%B2%BC%EC%9A%B4%20%ED%95%84%EC%95%95%EC%9C%BC%EB%A1%9C%20%EA%B7%B8%EC%9D%80%20%EC%96%87%EC%9D%80%20%EC%84%A0%EC%9D%84%20%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%22%20-%20%22%EB%B0%94%EB%9E%8C%EC%9D%B4%20%EC%8A%A4%EC%B3%90%20%EC%A7%80%EB%82%98%EA%B0%80%EB%8A%94%20%EB%93%AF%ED%95%9C%20%EC%97%AC%EB%B0%B1%EC%9D%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EA%B8%80%EC%9E%90%20%EA%B0%84%20%EB%84%93%EC%9D%80%20%EA%B0%84%EA%B2%A9%22%20-%20%22%EA%B8%B4%20%EC%84%B8%EB%A1%9C%EC%84%A0%EA%B3%BC%20%EC%A7%A7%EC%9D%80%20%EA%B0%80%EB%A1%9C%EC%84%A0%EC%9C%BC%EB%A1%9C%20%EC%9C%A0%EB%A0%A4%ED%95%9C%20%EB%A6%AC%EB%93%AC%20%ED%98%95%EC%84%B1%22%20-%20%22%EA%B8%80%EC%94%A8%20%EB%81%9D%EC%97%90%20%EC%95%BD%EA%B0%84%EC%9D%98%20%EC%9E%89%ED%81%AC%20%EB%B2%88%EC%A7%90%EC%9D%84%20%EB%82%A8%EA%B2%A8%20%EC%9D%B8%EA%B0%84%EC%A0%81%EC%9D%B8%20%EC%98%A8%EA%B8%B0%20%EC%A0%84%EB%8B%AC%22%20emotional_tone%3A%20-%20%22%ED%96%A5%EC%88%98%22%20-%20%22%EC%9E%90%EC%9C%A0%22%20-%20%22%EA%B3%A0%EC%9A%94%ED%95%9C%20%EC%97%B4%EC%A0%95%22%20-%20%22%EC%9E%AC%ED%83%84%EC%83%9D%22%20output_method%3A%20%22%EA%B0%80%EB%8A%94%20%EB%B3%BC%ED%8E%9C%20%ED%95%84%EA%B8%B0%EC%B2%B4%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%E2%80%94%20%EC%96%87%EC%9D%80%20%EC%9E%89%ED%81%AC%20%EC%A7%88%EA%B0%90%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%86%90%20%EC%9B%80%EC%A7%81%EC%9E%84%2C%20%EB%B6%93%20%ED%84%B0%EC%B9%98%20%EC%97%86%EC%9D%B4%20%EA%B9%8A%EC%9D%B4%EA%B0%90%20%EC%9C%A0%EC%A7%80.%22)**
+
+---
+
+### No. 16: 한국 여성 풀사이드 리조트 촬영 프롬프트
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 설명
+
+리조트 수영장 옆 라운지 의자에 앉아 있는 아름다운 젊은 한국 여성의 미디엄 샷을 생성하는 사실적인 프롬프트. K-POP 아이돌 미학이 가미된 솔직한 인스타그램 인플루언서 사진 스타일.
+
+#### 📝 프롬프트
+
+```
+리조트 수영장 옆 흰색 라운지 의자에 앉아 있는 아름다운 젊은 한국 여성의 포토리얼리스틱 미디엄 샷. 그녀는 길고 웨이브진 검은 머리에 선글라스를 머리 위에 얹고 있다. 검은색 컷아웃 비키니 상의와 검은색 스커트를 입고 있으며, 은색 목걸이를 착용하고 있다. 부드럽고 매혹적인 표정으로 카메라를 정면으로 응시하고 있다. 배경에는 흐릿한 소나무와 파란색 파티오 우산이 보인다. 자연스러운 부드러운 조명, 낮 시간, 고해상도, 8k, 35mm 렌즈로 촬영, 솔직한 인스타그램 인플루언서 스타일, K-pop 아이돌 미학. --ar 3:4
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122646749_rrotv0_G7fYZK7WgAArTzl.jpg" width="600" alt="한국 여성 풀사이드 리조트 촬영 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [kiren yi](https://x.com/Kirenyi16)
+- **출처:** [Twitter Post](https://x.com/Kirenyi16/status/1997303114236403965)
+- **게시일:** 2025년 12월 6일
+- **언어:** zh
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EB%A6%AC%EC%A1%B0%ED%8A%B8%20%EC%88%98%EC%98%81%EC%9E%A5%20%EC%98%86%20%ED%9D%B0%EC%83%89%20%EB%9D%BC%EC%9A%B4%EC%A7%80%20%EC%9D%98%EC%9E%90%EC%97%90%20%EC%95%89%EC%95%84%20%EC%9E%88%EB%8A%94%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4%20%EC%A0%8A%EC%9D%80%20%ED%95%9C%EA%B5%AD%20%EC%97%AC%EC%84%B1%EC%9D%98%20%ED%8F%AC%ED%86%A0%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%8A%A4%ED%8B%B1%20%EB%AF%B8%EB%94%94%EC%97%84%20%EC%83%B7.%20%EA%B7%B8%EB%85%80%EB%8A%94%20%EA%B8%B8%EA%B3%A0%20%EC%9B%A8%EC%9D%B4%EB%B8%8C%EC%A7%84%20%EA%B2%80%EC%9D%80%20%EB%A8%B8%EB%A6%AC%EC%97%90%20%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%A5%BC%20%EB%A8%B8%EB%A6%AC%20%EC%9C%84%EC%97%90%20%EC%96%B9%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%BB%B7%EC%95%84%EC%9B%83%20%EB%B9%84%ED%82%A4%EB%8B%88%20%EC%83%81%EC%9D%98%EC%99%80%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%8A%A4%EC%BB%A4%ED%8A%B8%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%9D%80%EC%83%89%20%EB%AA%A9%EA%B1%B8%EC%9D%B4%EB%A5%BC%20%EC%B0%A9%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EB%A7%A4%ED%98%B9%EC%A0%81%EC%9D%B8%20%ED%91%9C%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%A0%95%EB%A9%B4%EC%9C%BC%EB%A1%9C%20%EC%9D%91%EC%8B%9C%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%ED%9D%90%EB%A6%BF%ED%95%9C%20%EC%86%8C%EB%82%98%EB%AC%B4%EC%99%80%20%ED%8C%8C%EB%9E%80%EC%83%89%20%ED%8C%8C%ED%8B%B0%EC%98%A4%20%EC%9A%B0%EC%82%B0%EC%9D%B4%20%EB%B3%B4%EC%9D%B8%EB%8B%A4.%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%A1%B0%EB%AA%85%2C%20%EB%82%AE%20%EC%8B%9C%EA%B0%84%2C%20%EA%B3%A0%ED%95%B4%EC%83%81%EB%8F%84%2C%208k%2C%2035mm%20%EB%A0%8C%EC%A6%88%EB%A1%9C%20%EC%B4%AC%EC%98%81%2C%20%EC%86%94%EC%A7%81%ED%95%9C%20%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20K-pop%20%EC%95%84%EC%9D%B4%EB%8F%8C%20%EB%AF%B8%ED%95%99.%20--ar%203%3A4)**
+
+---
+
+### No. 17: 우키요에 찻잔 머리 인포그래픽 프롬프트
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+Nano Banana Pro가 특정하고 고도로 양식화된 미학을 사용하여 인포그래픽을 생성하기 위한 간단하고 효과적인 프롬프트: 우키요에(일본 목판화)와 '찻잔 머리' 캐릭터 스타일의 조합.
+
+#### 📝 프롬프트
+
+```
+다음 콘텐츠에 대해 {argument name="style" default="Ukiyo-e"} + {argument name="character" default="Teacup Head"} 스타일의 인포그래픽을 생성해 주세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122656513_xz2xmj_G7fGhM4bcAAESJU.jpg" width="600" alt="우키요에 찻잔 머리 인포그래픽 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [歸藏(guizang.ai)](https://x.com/op7418)
+- **출처:** [Twitter Post](https://x.com/op7418/status/1997283261064925190)
+- **게시일:** 2025년 12월 6일
+- **언어:** zh
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EB%8B%A4%EC%9D%8C%20%EC%BD%98%ED%85%90%EC%B8%A0%EC%97%90%20%EB%8C%80%ED%95%B4%20%7Bargument%20name%3D%22style%22%20default%3D%22Ukiyo-e%22%7D%20%2B%20%7Bargument%20name%3D%22character%22%20default%3D%22Teacup%20Head%22%7D%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD%EC%9D%84%20%EC%83%9D%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
+
+---
+
+### No. 18: 몽환적인 시네마틱 하이랜드 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+황야 목초지에서 꿈결 같고 신비로운 분위기의 갈색 머리 여성 쿼터 인물 사진을 생성하기 위한 상세한 JSON 프롬프트. 부드러운 골든 아워 조명, 하늘거리는 빈티지 의상, 야생화와 구름 같은 특정 요소를 강조합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "prompt": "갈색 곱슬머리가 흐트러지고 머리카락에 야생화가 엮인 갈색 머리 여성이 고원 목초지에 옆으로 서 있는 쿼터뷰 초상화. 빈티지풍의 베이지색 꽃무늬 드레스를 입고 있으며, 소매는 반투명하고 드레스는 바람에 나부낀다. 고요하고 사색적인 표정으로 카메라를 향해 살짝 고개를 돌리고 있다. 배경에는 구름이 떠다니고 그녀 주위에는 황금빛 야생화가 흔들린다. 부드러운 골든 아워 조명이 신비롭고 마법 같은 분위기를 더하며, 바람 부는 고원 풍경 속 찰나의 순간을 포착한다.",
+  "style": "몽환적인 시네마틱 고원 초상화",
+  "lighting": "부드러운 골든 아워 빛",
+  "background": "구름과 바람에 흔들리는 황금빛 야생화",
+  "focus": "머리카락 질감, 야생화, 나부끼는 드레스, 고요한 표정",
+  "shot_type": "쿼터뷰 초상화",
+  "mood": "마법 같은, 고요한, 신비로운",
+  "aspect_ratio": "3:4"
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122634904_ur5wc5_G7e9yDfbsAAUwGL.jpg" width="600" alt="몽환적인 시네마틱 하이랜드 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Aleena Amir](https://x.com/aleenaamiir)
+- **출처:** [Twitter Post](https://x.com/aleenaamiir/status/1997273663234851239)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22prompt%22%3A%20%22%EA%B0%88%EC%83%89%20%EA%B3%B1%EC%8A%AC%EB%A8%B8%EB%A6%AC%EA%B0%80%20%ED%9D%90%ED%8A%B8%EB%9F%AC%EC%A7%80%EA%B3%A0%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EC%97%90%20%EC%95%BC%EC%83%9D%ED%99%94%EA%B0%80%20%EC%97%AE%EC%9D%B8%20%EA%B0%88%EC%83%89%20%EB%A8%B8%EB%A6%AC%20%EC%97%AC%EC%84%B1%EC%9D%B4%20%EA%B3%A0%EC%9B%90%20%EB%AA%A9%EC%B4%88%EC%A7%80%EC%97%90%20%EC%98%86%EC%9C%BC%EB%A1%9C%20%EC%84%9C%20%EC%9E%88%EB%8A%94%20%EC%BF%BC%ED%84%B0%EB%B7%B0%20%EC%B4%88%EC%83%81%ED%99%94.%20%EB%B9%88%ED%8B%B0%EC%A7%80%ED%92%8D%EC%9D%98%20%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%83%89%20%EA%BD%83%EB%AC%B4%EB%8A%AC%20%EB%93%9C%EB%A0%88%EC%8A%A4%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%86%8C%EB%A7%A4%EB%8A%94%20%EB%B0%98%ED%88%AC%EB%AA%85%ED%95%98%EA%B3%A0%20%EB%93%9C%EB%A0%88%EC%8A%A4%EB%8A%94%20%EB%B0%94%EB%9E%8C%EC%97%90%20%EB%82%98%EB%B6%80%EB%82%80%EB%8B%A4.%20%EA%B3%A0%EC%9A%94%ED%95%98%EA%B3%A0%20%EC%82%AC%EC%83%89%EC%A0%81%EC%9D%B8%20%ED%91%9C%EC%A0%95%EC%9C%BC%EB%A1%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%ED%96%A5%ED%95%B4%20%EC%82%B4%EC%A7%9D%20%EA%B3%A0%EA%B0%9C%EB%A5%BC%20%EB%8F%8C%EB%A6%AC%EA%B3%A0%20%EC%9E%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EA%B5%AC%EB%A6%84%EC%9D%B4%20%EB%96%A0%EB%8B%A4%EB%8B%88%EA%B3%A0%20%EA%B7%B8%EB%85%80%20%EC%A3%BC%EC%9C%84%EC%97%90%EB%8A%94%20%ED%99%A9%EA%B8%88%EB%B9%9B%20%EC%95%BC%EC%83%9D%ED%99%94%EA%B0%80%20%ED%9D%94%EB%93%A4%EB%A6%B0%EB%8B%A4.%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EA%B3%A8%EB%93%A0%20%EC%95%84%EC%9B%8C%20%EC%A1%B0%EB%AA%85%EC%9D%B4%20%EC%8B%A0%EB%B9%84%EB%A1%AD%EA%B3%A0%20%EB%A7%88%EB%B2%95%20%EA%B0%99%EC%9D%80%20%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC%20%EB%8D%94%ED%95%98%EB%A9%B0%2C%20%EB%B0%94%EB%9E%8C%20%EB%B6%80%EB%8A%94%20%EA%B3%A0%EC%9B%90%20%ED%92%8D%EA%B2%BD%20%EC%86%8D%20%EC%B0%B0%EB%82%98%EC%9D%98%20%EC%88%9C%EA%B0%84%EC%9D%84%20%ED%8F%AC%EC%B0%A9%ED%95%9C%EB%8B%A4.%22%2C%0A%20%20%22style%22%3A%20%22%EB%AA%BD%ED%99%98%EC%A0%81%EC%9D%B8%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%20%EA%B3%A0%EC%9B%90%20%EC%B4%88%EC%83%81%ED%99%94%22%2C%0A%20%20%22lighting%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EA%B3%A8%EB%93%A0%20%EC%95%84%EC%9B%8C%20%EB%B9%9B%22%2C%0A%20%20%22background%22%3A%20%22%EA%B5%AC%EB%A6%84%EA%B3%BC%20%EB%B0%94%EB%9E%8C%EC%97%90%20%ED%9D%94%EB%93%A4%EB%A6%AC%EB%8A%94%20%ED%99%A9%EA%B8%88%EB%B9%9B%20%EC%95%BC%EC%83%9D%ED%99%94%22%2C%0A%20%20%22focus%22%3A%20%22%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%20%EC%A7%88%EA%B0%90%2C%20%EC%95%BC%EC%83%9D%ED%99%94%2C%20%EB%82%98%EB%B6%80%EB%81%BC%EB%8A%94%20%EB%93%9C%EB%A0%88%EC%8A%A4%2C%20%EA%B3%A0%EC%9A%94%ED%95%9C%20%ED%91%9C%EC%A0%95%22%2C%0A%20%20%22shot_type%22%3A%20%22%EC%BF%BC%ED%84%B0%EB%B7%B0%20%EC%B4%88%EC%83%81%ED%99%94%22%2C%0A%20%20%22mood%22%3A%20%22%EB%A7%88%EB%B2%95%20%EA%B0%99%EC%9D%80%2C%20%EA%B3%A0%EC%9A%94%ED%95%9C%2C%20%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4%22%2C%0A%20%20%22aspect_ratio%22%3A%20%223%3A4%22%0A%7D)**
+
+---
+
+### No. 19: 얼굴 보존 프롬프트로 거울 셀카 찍기
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+업로드된 이미지를 기반으로 얼굴 비율과 자연스러운 피부 질감까지 100% 동일한 얼굴 보존을 특별히 요구하는, 현대적인 아파트에서 젊은 여성의 거울 셀카를 생성하기 위한 매우 상세한 JSON 프롬프트.
+
+#### 📝 프롬프트
+
+```
+{
+  "image_generation": {
+    "subject": {
+      "face": "업로드된 이미지와 동일",
+      "description": "현대적인 거실에서 거울 셀카를 찍는 젊은 여성.",
+      "face_preservation": {
+        "preserve_original": true,
+        "accuracy_level": "참조 이미지와 100% 동일",
+        "details": [
+          "실제 얼굴 비율",
+          "자연스러운 피부 질감",
+          "원래 눈 모양과 눈썹",
+          "부드러운 장밋빛 입술",
+          "가벼운 내추럴 메이크업"
+        ]
+      },
+      "expression": "편안한 눈빛과 함께 부드럽고 살짝 뾰로통한 표정",
+      "hair": {
+        "style": "부드러운 볼륨이 있는 반묶음 스타일의 긴 웨이브 헤어",
+        "color": "짙은 갈색"
+      },
+      "pose": {
+        "type": "거울 셀카",
+        "description": "소파에 옆으로 앉아 상체를 거울 쪽으로 살짝 돌리고, 한 손으로는 휴대폰을 들고 다른 손은 다리에 얹은 자세",
+        "camera_angle": "눈높이, 거울에 반사된 모습"
+      },
+      "clothing": {
+        "main_outfit": "핑크와 보라색 꽃무늬 미니 드레스, 긴 시스루 소매",
+        "fit": "몸에 밀착되는 셔링 디테일",
+        "accessories": [
+          "골드 링 귀걸이",
+          "섬세한 골드 팔찌",
+          "심플한 반지"
+        ]
+      },
+      "hands": {
+        "details": "꽃무늬 케이스가 있는 녹색 휴대폰을 들고 있으며, 손톱은 깔끔하게 매니큐어 처리됨"
+      }
+    },
+    "environment": {
+      "setting": "밝고 현대적인 아파트 내부",
+      "elements": [
+        "장식적인 서리 내린 꽃무늬 거울 패턴",
+        "넓은 거실 공간",
+        "하얀색 섹션형 소파",
+        "배경에 보이는 주방",
+        "부드러운 카펫, 장식품이 놓인 커피 테이블"
+      ],
+      "lighting": {
+        "type": "부드러운 자연광",
+        "source": "왼쪽의 큰 창문",
+        "effect": "자연스러운 피부 광채와 함께 부드럽고 고른 조명"
+      }
+    },
+    "composition": {
+      "frame": "상체와 앉은 자세의 일부를 담는 미드샷",
+      "style": "자연스러운 라이프스타일 사진",
+      "focus": "피사체의 얼굴과 의상에 선명하게 초점, 배경은 살짝 부드럽게"
+    },
+    "camera": {
+      "type": "iPhone 거울 셀카",
+      "aspect_ratio": "9:16 세로",
+      "quality": "사실적인 고해상도 스마트폰 촬영"
+    },
+    "aesthetic": {
+      "mood": "부드럽고 여성스러우며 차분함",
+      "color_palette": "핑크, 보라색, 뉴트럴 베이지 및 흰색",
+      "details": [
+        "은은한 보케",
+        "깔끔하고 현대적인 실내 분위기"
+      ]
+    }
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122635868_buh4fs_G7e3MvkbYAAS5G6.jpg" width="600" alt="얼굴 보존 프롬프트로 거울 셀카 찍기 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [毎日の活力⚡](https://x.com/_dailyboost)
+- **출처:** [Twitter Post](https://x.com/_dailyboost/status/1997266594741747778)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_generation%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22face%22%3A%20%22%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EB%8F%99%EC%9D%BC%22%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EA%B1%B0%EC%8B%A4%EC%97%90%EC%84%9C%20%EA%B1%B0%EC%9A%B8%20%EC%85%80%EC%B9%B4%EB%A5%BC%20%EC%B0%8D%EB%8A%94%20%EC%A0%8A%EC%9D%80%20%EC%97%AC%EC%84%B1.%22%2C%0A%20%20%20%20%20%20%22face_preservation%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%22accuracy_level%22%3A%20%22%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20100%25%20%EB%8F%99%EC%9D%BC%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22%EC%8B%A4%EC%A0%9C%20%EC%96%BC%EA%B5%B4%20%EB%B9%84%EC%9C%A8%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%20%EC%A7%88%EA%B0%90%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%EC%9B%90%EB%9E%98%20%EB%88%88%20%EB%AA%A8%EC%96%91%EA%B3%BC%20%EB%88%88%EC%8D%B9%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%9E%A5%EB%B0%8B%EB%B9%9B%20%EC%9E%85%EC%88%A0%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%EA%B0%80%EB%B2%BC%EC%9A%B4%20%EB%82%B4%EC%B6%94%EB%9F%B4%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%22%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22%ED%8E%B8%EC%95%88%ED%95%9C%20%EB%88%88%EB%B9%9B%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%82%B4%EC%A7%9D%20%EB%BE%B0%EB%A1%9C%ED%86%B5%ED%95%9C%20%ED%91%9C%EC%A0%95%22%2C%0A%20%20%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22style%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%B3%BC%EB%A5%A8%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%B0%98%EB%AC%B6%EC%9D%8C%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%EA%B8%B4%20%EC%9B%A8%EC%9D%B4%EB%B8%8C%20%ED%97%A4%EC%96%B4%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%EC%A7%99%EC%9D%80%20%EA%B0%88%EC%83%89%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22pose%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EA%B1%B0%EC%9A%B8%20%EC%85%80%EC%B9%B4%22%2C%0A%20%20%20%20%20%20%20%20%22description%22%3A%20%22%EC%86%8C%ED%8C%8C%EC%97%90%20%EC%98%86%EC%9C%BC%EB%A1%9C%20%EC%95%89%EC%95%84%20%EC%83%81%EC%B2%B4%EB%A5%BC%20%EA%B1%B0%EC%9A%B8%20%EC%AA%BD%EC%9C%BC%EB%A1%9C%20%EC%82%B4%EC%A7%9D%20%EB%8F%8C%EB%A6%AC%EA%B3%A0%2C%20%ED%95%9C%20%EC%86%90%EC%9C%BC%EB%A1%9C%EB%8A%94%20%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9D%84%20%EB%93%A4%EA%B3%A0%20%EB%8B%A4%EB%A5%B8%20%EC%86%90%EC%9D%80%20%EB%8B%A4%EB%A6%AC%EC%97%90%20%EC%96%B9%EC%9D%80%20%EC%9E%90%EC%84%B8%22%2C%0A%20%20%20%20%20%20%20%20%22camera_angle%22%3A%20%22%EB%88%88%EB%86%92%EC%9D%B4%2C%20%EA%B1%B0%EC%9A%B8%EC%97%90%20%EB%B0%98%EC%82%AC%EB%90%9C%20%EB%AA%A8%EC%8A%B5%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22main_outfit%22%3A%20%22%ED%95%91%ED%81%AC%EC%99%80%20%EB%B3%B4%EB%9D%BC%EC%83%89%20%EA%BD%83%EB%AC%B4%EB%8A%AC%20%EB%AF%B8%EB%8B%88%20%EB%93%9C%EB%A0%88%EC%8A%A4%2C%20%EA%B8%B4%20%EC%8B%9C%EC%8A%A4%EB%A3%A8%20%EC%86%8C%EB%A7%A4%22%2C%0A%20%20%20%20%20%20%20%20%22fit%22%3A%20%22%EB%AA%B8%EC%97%90%20%EB%B0%80%EC%B0%A9%EB%90%98%EB%8A%94%20%EC%85%94%EB%A7%81%20%EB%94%94%ED%85%8C%EC%9D%BC%22%2C%0A%20%20%20%20%20%20%20%20%22accessories%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%22%EA%B3%A8%EB%93%9C%20%EB%A7%81%20%EA%B7%80%EA%B1%B8%EC%9D%B4%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%EC%84%AC%EC%84%B8%ED%95%9C%20%EA%B3%A8%EB%93%9C%20%ED%8C%94%EC%B0%8C%22%2C%0A%20%20%20%20%20%20%20%20%20%20%22%EC%8B%AC%ED%94%8C%ED%95%9C%20%EB%B0%98%EC%A7%80%22%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%EA%BD%83%EB%AC%B4%EB%8A%AC%20%EC%BC%80%EC%9D%B4%EC%8A%A4%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EB%85%B9%EC%83%89%20%ED%9C%B4%EB%8C%80%ED%8F%B0%EC%9D%84%20%EB%93%A4%EA%B3%A0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EC%86%90%ED%86%B1%EC%9D%80%20%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C%20%EB%A7%A4%EB%8B%88%ED%81%90%EC%96%B4%20%EC%B2%98%EB%A6%AC%EB%90%A8%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22setting%22%3A%20%22%EB%B0%9D%EA%B3%A0%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EC%95%84%ED%8C%8C%ED%8A%B8%20%EB%82%B4%EB%B6%80%22%2C%0A%20%20%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%EC%9E%A5%EC%8B%9D%EC%A0%81%EC%9D%B8%20%EC%84%9C%EB%A6%AC%20%EB%82%B4%EB%A6%B0%20%EA%BD%83%EB%AC%B4%EB%8A%AC%20%EA%B1%B0%EC%9A%B8%20%ED%8C%A8%ED%84%B4%22%2C%0A%20%20%20%20%20%20%20%20%22%EB%84%93%EC%9D%80%20%EA%B1%B0%EC%8B%A4%20%EA%B3%B5%EA%B0%84%22%2C%0A%20%20%20%20%20%20%20%20%22%ED%95%98%EC%96%80%EC%83%89%20%EC%84%B9%EC%85%98%ED%98%95%20%EC%86%8C%ED%8C%8C%22%2C%0A%20%20%20%20%20%20%20%20%22%EB%B0%B0%EA%B2%BD%EC%97%90%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EC%A3%BC%EB%B0%A9%22%2C%0A%20%20%20%20%20%20%20%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%B9%B4%ED%8E%AB%2C%20%EC%9E%A5%EC%8B%9D%ED%92%88%EC%9D%B4%20%EB%86%93%EC%9D%B8%20%EC%BB%A4%ED%94%BC%20%ED%85%8C%EC%9D%B4%EB%B8%94%22%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%9E%90%EC%97%B0%EA%B4%91%22%2C%0A%20%20%20%20%20%20%20%20%22source%22%3A%20%22%EC%99%BC%EC%AA%BD%EC%9D%98%20%ED%81%B0%20%EC%B0%BD%EB%AC%B8%22%2C%0A%20%20%20%20%20%20%20%20%22effect%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%20%EA%B4%91%EC%B1%84%EC%99%80%20%ED%95%A8%EA%BB%98%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EA%B3%A0%EB%A5%B8%20%EC%A1%B0%EB%AA%85%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22composition%22%3A%20%7B%0A%20%20%20%20%20%20%22frame%22%3A%20%22%EC%83%81%EC%B2%B4%EC%99%80%20%EC%95%89%EC%9D%80%20%EC%9E%90%EC%84%B8%EC%9D%98%20%EC%9D%BC%EB%B6%80%EB%A5%BC%20%EB%8B%B4%EB%8A%94%20%EB%AF%B8%EB%93%9C%EC%83%B7%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EB%9D%BC%EC%9D%B4%ED%94%84%EC%8A%A4%ED%83%80%EC%9D%BC%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%20%20%20%20%22focus%22%3A%20%22%ED%94%BC%EC%82%AC%EC%B2%B4%EC%9D%98%20%EC%96%BC%EA%B5%B4%EA%B3%BC%20%EC%9D%98%EC%83%81%EC%97%90%20%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C%20%EC%B4%88%EC%A0%90%2C%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EC%82%B4%EC%A7%9D%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22iPhone%20%EA%B1%B0%EC%9A%B8%20%EC%85%80%EC%B9%B4%22%2C%0A%20%20%20%20%20%20%22aspect_ratio%22%3A%20%229%3A16%20%EC%84%B8%EB%A1%9C%22%2C%0A%20%20%20%20%20%20%22quality%22%3A%20%22%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EA%B3%A0%ED%95%B4%EC%83%81%EB%8F%84%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EC%B4%AC%EC%98%81%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22aesthetic%22%3A%20%7B%0A%20%20%20%20%20%20%22mood%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%97%AC%EC%84%B1%EC%8A%A4%EB%9F%AC%EC%9A%B0%EB%A9%B0%20%EC%B0%A8%EB%B6%84%ED%95%A8%22%2C%0A%20%20%20%20%20%20%22color_palette%22%3A%20%22%ED%95%91%ED%81%AC%2C%20%EB%B3%B4%EB%9D%BC%EC%83%89%2C%20%EB%89%B4%ED%8A%B8%EB%9F%B4%20%EB%B2%A0%EC%9D%B4%EC%A7%80%20%EB%B0%8F%20%ED%9D%B0%EC%83%89%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22%EC%9D%80%EC%9D%80%ED%95%9C%20%EB%B3%B4%EC%BC%80%22%2C%0A%20%20%20%20%20%20%20%20%22%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EC%8B%A4%EB%82%B4%20%EB%B6%84%EC%9C%84%EA%B8%B0%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 20: 동굴 입구 모양 프롬프트 템플릿
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+지정된 윤곽선과 정확히 일치하는 동굴 입구가 있는 풍경 이미지를 생성하기 위한 템플릿 프롬프트입니다. 동굴의 형태는 단순하고 명확해야 하며, 주변 세부 사항이 동굴의 독특한 형태에서 주의를 분산시키지 않도록 합니다.
+
+#### 📝 프롬프트
+
+```
+{argument name="type" default="[TYPE]"} 풍경 이미지. 동굴 입구가 {argument name="shape" default="[SHAPE]"} 윤곽과 정확히 같은 모양으로 되어 있습니다. 동굴은 산의 험준한 지형에 자연스럽게 어우러져야 하며, 입구는 명확하고 틀림없는 {argument name="shape" default="[SHAPE]"} 모양을 이루어야 합니다. 이 {argument name="shape" default="[SHAPE]"} 모양은 복잡한 세부 사항 없이 단순하고 명확해야 하며, 전체적인 {argument name="shape" default="[SHAPE]"} 윤곽을 강조해야 합니다. 주변 환경에는 {argument name="details" default="[DETAILS]"}가 포함되어야 하지만, 이러한 요소들이 동굴의 {argument name="shape" default="[SHAPE]"} 모양 입구에서 주의를 분산시키지 않아야 합니다. 장면의 조명은 {argument name="shape" default="[SHAPE]"} 모양 동굴 입구의 가시성과 독특함을 향상시켜야 합니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122634246_zmcgb3_G7e2PCqa8AA-i5h.jpg" width="600" alt="동굴 입구 모양 프롬프트 템플릿 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122634373_0pv0li_G7e2PAoagAAmoLH.jpg" width="600" alt="동굴 입구 모양 프롬프트 템플릿 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122637311_xduwmx_G7e2PJXbgAAZiU9.jpg" width="600" alt="동굴 입구 모양 프롬프트 템플릿 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122638358_8fgjux_G7e2PKyb0AA-QS8.jpg" width="600" alt="동굴 입구 모양 프롬프트 템플릿 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Umesh](https://x.com/umesh_ai)
+- **출처:** [Twitter Post](https://x.com/umesh_ai/status/1997265335494595040)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22type%22%20default%3D%22%5BTYPE%5D%22%7D%20%ED%92%8D%EA%B2%BD%20%EC%9D%B4%EB%AF%B8%EC%A7%80.%20%EB%8F%99%EA%B5%B4%20%EC%9E%85%EA%B5%AC%EA%B0%80%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D%20%EC%9C%A4%EA%B3%BD%EA%B3%BC%20%EC%A0%95%ED%99%95%ED%9E%88%20%EA%B0%99%EC%9D%80%20%EB%AA%A8%EC%96%91%EC%9C%BC%EB%A1%9C%20%EB%90%98%EC%96%B4%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20%EB%8F%99%EA%B5%B4%EC%9D%80%20%EC%82%B0%EC%9D%98%20%ED%97%98%EC%A4%80%ED%95%9C%20%EC%A7%80%ED%98%95%EC%97%90%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%EC%96%B4%EC%9A%B0%EB%9F%AC%EC%A0%B8%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EC%9E%85%EA%B5%AC%EB%8A%94%20%EB%AA%85%ED%99%95%ED%95%98%EA%B3%A0%20%ED%8B%80%EB%A6%BC%EC%97%86%EB%8A%94%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D%20%EB%AA%A8%EC%96%91%EC%9D%84%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9D%B4%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D%20%EB%AA%A8%EC%96%91%EC%9D%80%20%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EC%84%B8%EB%B6%80%20%EC%82%AC%ED%95%AD%20%EC%97%86%EC%9D%B4%20%EB%8B%A8%EC%88%9C%ED%95%98%EA%B3%A0%20%EB%AA%85%ED%99%95%ED%95%B4%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D%20%EC%9C%A4%EA%B3%BD%EC%9D%84%20%EA%B0%95%EC%A1%B0%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%A3%BC%EB%B3%80%20%ED%99%98%EA%B2%BD%EC%97%90%EB%8A%94%20%7Bargument%20name%3D%22details%22%20default%3D%22%5BDETAILS%5D%22%7D%EA%B0%80%20%ED%8F%AC%ED%95%A8%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%98%EC%A7%80%EB%A7%8C%2C%20%EC%9D%B4%EB%9F%AC%ED%95%9C%20%EC%9A%94%EC%86%8C%EB%93%A4%EC%9D%B4%20%EB%8F%99%EA%B5%B4%EC%9D%98%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D%20%EB%AA%A8%EC%96%91%20%EC%9E%85%EA%B5%AC%EC%97%90%EC%84%9C%20%EC%A3%BC%EC%9D%98%EB%A5%BC%20%EB%B6%84%EC%82%B0%EC%8B%9C%ED%82%A4%EC%A7%80%20%EC%95%8A%EC%95%84%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9E%A5%EB%A9%B4%EC%9D%98%20%EC%A1%B0%EB%AA%85%EC%9D%80%20%7Bargument%20name%3D%22shape%22%20default%3D%22%5BSHAPE%5D%22%7D%20%EB%AA%A8%EC%96%91%20%EB%8F%99%EA%B5%B4%20%EC%9E%85%EA%B5%AC%EC%9D%98%20%EA%B0%80%EC%8B%9C%EC%84%B1%EA%B3%BC%20%EB%8F%85%ED%8A%B9%ED%95%A8%EC%9D%84%20%ED%96%A5%EC%83%81%EC%8B%9C%EC%BC%9C%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
+
+---
+
+### No. 21: 정확한 학술 다이어그램 생성 프롬프트
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 설명
+
+연구 논문의 복잡한 학술 원리를 다이어그램이나 그림으로 정확하게 시각화하도록 설계된 Nano Banana Pro용 프롬프트입니다. 모든 레이블에 일본어 텍스트를 사용하고 전문 용어 번역 시 정확성과 학술적 언어를 우선시하는 점을 강조합니다.
+
+#### 📝 프롬프트
+
+```
+논문의 쉬운 이해를 돕기 위해 Nano Banana Pro를 사용하여 논문을 기반으로 다이어그램을 생성하세요. 다이어그램은 설명 문서 내 적절한 위치에 배치해야 합니다. 다이어그램 내의 모든 텍스트는 일본어로 작성되어야 합니다. 전문 용어 번역 시에는 정확성을 최우선으로 하고 학술적인 언어를 사용해야 합니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122662552_yzznox_G7eZg22aUAAbcf1.jpg" width="600" alt="정확한 학술 다이어그램 생성 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Manus 公式（マナス）](https://x.com/ManusAI_JP)
+- **출처:** [Twitter Post](https://x.com/ManusAI_JP/status/1997233752611885063)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EB%85%BC%EB%AC%B8%EC%9D%98%20%EC%89%AC%EC%9A%B4%20%EC%9D%B4%ED%95%B4%EB%A5%BC%20%EB%8F%95%EA%B8%B0%20%EC%9C%84%ED%95%B4%20Nano%20Banana%20Pro%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%85%BC%EB%AC%B8%EC%9D%84%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EC%83%9D%EC%84%B1%ED%95%98%EC%84%B8%EC%9A%94.%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8%EC%9D%80%20%EC%84%A4%EB%AA%85%20%EB%AC%B8%EC%84%9C%20%EB%82%B4%20%EC%A0%81%EC%A0%88%ED%95%9C%20%EC%9C%84%EC%B9%98%EC%97%90%20%EB%B0%B0%EC%B9%98%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8%20%EB%82%B4%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8A%94%20%EC%9D%BC%EB%B3%B8%EC%96%B4%EB%A1%9C%20%EC%9E%91%EC%84%B1%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%A0%84%EB%AC%B8%20%EC%9A%A9%EC%96%B4%20%EB%B2%88%EC%97%AD%20%EC%8B%9C%EC%97%90%EB%8A%94%20%EC%A0%95%ED%99%95%EC%84%B1%EC%9D%84%20%EC%B5%9C%EC%9A%B0%EC%84%A0%EC%9C%BC%EB%A1%9C%20%ED%95%98%EA%B3%A0%20%ED%95%99%EC%88%A0%EC%A0%81%EC%9D%B8%20%EC%96%B8%EC%96%B4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
+
+---
+
+### No. 22: 네온 도시 야간 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+분주한 아시아 스타일의 도시 밤거리에서 극적인 조명, 네온 반사, 얕은 피사계 심도에 초점을 맞춰 고해상도의 시네마틱한 사실적인 여성 수직 초상화를 생성하기 위한 상세한 JSON 프롬프트.
+
+#### 📝 프롬프트
+
+```
+{
+    "positive": "고해상도 수직 인물 사진, 4K 화질. 살짝 젖은 물결 모양의 검은 머리카락을 가진 여성. 꿈꾸는 듯 부드러운 시선으로 카메라를 올려다보고 있음. 오버사이즈 슬레이트 그레이/틸색 후드티 착용. 지저분한 포스터, 전단지, 스티커로 뒤덮인 벽에 기대어 있음. 밤의 번화한 도시 거리 (도쿄/서울/홍콩 스타일). 공중에 물방울이 보이는 가벼운 이슬비. 젖어 반사되는 거리 표면. 붉은 네온 반사와 밝은 자동차 브레이크 등이 보도를 지배함. 배경에는 노란색과 붉은색 네온 상점 간판. 따뜻한 네온 레드/옐로우와 차가운 블루/그레이 주변 톤 사이의 높은 대비를 가진 강렬하고 극적인 조명. 얕은 피사계 심도, 보케 배경. 시네마틱, 포토리얼리스틱.",
+    "negative": "흐릿한 얼굴, 왜곡된 해부학, 추가 팔다리, 추가 손가락, 워터마크, 텍스트, 과다 노출된 빛, 노출 부족 그림자, 만화 스타일, 저해상도, 거친 질감, 비현실적인 피부, 중복된 얼굴 특징"
+  },
+  "parameters": {
+    "style": "포토리얼리스틱",
+    "resolution": "4K",
+    "ratio": "3:4",
+    "camera": {
+      "lens": "인물용 렌즈 (50mm–85mm)",
+      "depth_of_field": "얕음",
+      "focus": "피사체에 선명한 초점"
+    },
+    "lighting": {
+      "type": "네온 도시 조명",
+      "contrast": "높음",
+      "color_palette": ["붉은 네온", "노란 네온", "차가운 블루/그레이 그림자"]
+    }
+  },
+  "environment_details": {
+    "weather": "가벼운 비 / 이슬비",
+    "city_style": ["도쿄", "서울", "홍콩"],
+    "foreground": "포스터로 뒤덮인 벽",
+    "background": {
+      "elements": ["젖어 반사되는 거리", "붉은 브레이크 등이 켜진 자동차", "네온 상점 간판"],
+      "depth": "흐릿한 보케"
+    }
+  },
+  "subject": {
+    "gender": "여성",
+    "expression": "꿈꾸는 듯, 부드럽게 위를 올려다보는 시선",
+    "hair": "물결 모양의 검은색, 살짝 젖음",
+    "clothing": "오버사이즈 슬레이트 그레이/틸색 후드티"
+  }
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122646172_scp97m_G7eKwm3b0AMVUXK.jpg" width="600" alt="네온 도시 야간 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Dr.duet](https://x.com/Sheldon056)
+- **출처:** [Twitter Post](https://x.com/Sheldon056/status/1997217542742675775)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%20%20%22positive%22%3A%20%22%EA%B3%A0%ED%95%B4%EC%83%81%EB%8F%84%20%EC%88%98%EC%A7%81%20%EC%9D%B8%EB%AC%BC%20%EC%82%AC%EC%A7%84%2C%204K%20%ED%99%94%EC%A7%88.%20%EC%82%B4%EC%A7%9D%20%EC%A0%96%EC%9D%80%20%EB%AC%BC%EA%B2%B0%20%EB%AA%A8%EC%96%91%EC%9D%98%20%EA%B2%80%EC%9D%80%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EC%9D%84%20%EA%B0%80%EC%A7%84%20%EC%97%AC%EC%84%B1.%20%EA%BF%88%EA%BE%B8%EB%8A%94%20%EB%93%AF%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%8B%9C%EC%84%A0%EC%9C%BC%EB%A1%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%98%AC%EB%A0%A4%EB%8B%A4%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EC%9D%8C.%20%EC%98%A4%EB%B2%84%EC%82%AC%EC%9D%B4%EC%A6%88%20%EC%8A%AC%EB%A0%88%EC%9D%B4%ED%8A%B8%20%EA%B7%B8%EB%A0%88%EC%9D%B4%2F%ED%8B%B8%EC%83%89%20%ED%9B%84%EB%93%9C%ED%8B%B0%20%EC%B0%A9%EC%9A%A9.%20%EC%A7%80%EC%A0%80%EB%B6%84%ED%95%9C%20%ED%8F%AC%EC%8A%A4%ED%84%B0%2C%20%EC%A0%84%EB%8B%A8%EC%A7%80%2C%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%EB%A1%9C%20%EB%92%A4%EB%8D%AE%EC%9D%B8%20%EB%B2%BD%EC%97%90%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EC%9E%88%EC%9D%8C.%20%EB%B0%A4%EC%9D%98%20%EB%B2%88%ED%99%94%ED%95%9C%20%EB%8F%84%EC%8B%9C%20%EA%B1%B0%EB%A6%AC%20(%EB%8F%84%EC%BF%84%2F%EC%84%9C%EC%9A%B8%2F%ED%99%8D%EC%BD%A9%20%EC%8A%A4%ED%83%80%EC%9D%BC).%20%EA%B3%B5%EC%A4%91%EC%97%90%20%EB%AC%BC%EB%B0%A9%EC%9A%B8%EC%9D%B4%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EA%B0%80%EB%B2%BC%EC%9A%B4%20%EC%9D%B4%EC%8A%AC%EB%B9%84.%20%EC%A0%96%EC%96%B4%20%EB%B0%98%EC%82%AC%EB%90%98%EB%8A%94%20%EA%B1%B0%EB%A6%AC%20%ED%91%9C%EB%A9%B4.%20%EB%B6%89%EC%9D%80%20%EB%84%A4%EC%98%A8%20%EB%B0%98%EC%82%AC%EC%99%80%20%EB%B0%9D%EC%9D%80%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC%20%EB%93%B1%EC%9D%B4%20%EB%B3%B4%EB%8F%84%EB%A5%BC%20%EC%A7%80%EB%B0%B0%ED%95%A8.%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EB%85%B8%EB%9E%80%EC%83%89%EA%B3%BC%20%EB%B6%89%EC%9D%80%EC%83%89%20%EB%84%A4%EC%98%A8%20%EC%83%81%EC%A0%90%20%EA%B0%84%ED%8C%90.%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EB%84%A4%EC%98%A8%20%EB%A0%88%EB%93%9C%2F%EC%98%90%EB%A1%9C%EC%9A%B0%EC%99%80%20%EC%B0%A8%EA%B0%80%EC%9A%B4%20%EB%B8%94%EB%A3%A8%2F%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EC%A3%BC%EB%B3%80%20%ED%86%A4%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EB%86%92%EC%9D%80%20%EB%8C%80%EB%B9%84%EB%A5%BC%20%EA%B0%80%EC%A7%84%20%EA%B0%95%EB%A0%AC%ED%95%98%EA%B3%A0%20%EA%B7%B9%EC%A0%81%EC%9D%B8%20%EC%A1%B0%EB%AA%85.%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%2C%20%EB%B3%B4%EC%BC%80%20%EB%B0%B0%EA%B2%BD.%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%2C%20%ED%8F%AC%ED%86%A0%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%8A%A4%ED%8B%B1.%22%2C%0A%20%20%20%20%22negative%22%3A%20%22%ED%9D%90%EB%A6%BF%ED%95%9C%20%EC%96%BC%EA%B5%B4%2C%20%EC%99%9C%EA%B3%A1%EB%90%9C%20%ED%95%B4%EB%B6%80%ED%95%99%2C%20%EC%B6%94%EA%B0%80%20%ED%8C%94%EB%8B%A4%EB%A6%AC%2C%20%EC%B6%94%EA%B0%80%20%EC%86%90%EA%B0%80%EB%9D%BD%2C%20%EC%9B%8C%ED%84%B0%EB%A7%88%ED%81%AC%2C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%2C%20%EA%B3%BC%EB%8B%A4%20%EB%85%B8%EC%B6%9C%EB%90%9C%20%EB%B9%9B%2C%20%EB%85%B8%EC%B6%9C%20%EB%B6%80%EC%A1%B1%20%EA%B7%B8%EB%A6%BC%EC%9E%90%2C%20%EB%A7%8C%ED%99%94%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%A0%80%ED%95%B4%EC%83%81%EB%8F%84%2C%20%EA%B1%B0%EC%B9%9C%20%EC%A7%88%EA%B0%90%2C%20%EB%B9%84%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%B8%20%ED%94%BC%EB%B6%80%2C%20%EC%A4%91%EB%B3%B5%EB%90%9C%20%EC%96%BC%EA%B5%B4%20%ED%8A%B9%EC%A7%95%22%0A%20%20%7D%2C%0A%20%20%22parameters%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%ED%8F%AC%ED%86%A0%EB%A6%AC%EC%96%BC%EB%A6%AC%EC%8A%A4%ED%8B%B1%22%2C%0A%20%20%20%20%22resolution%22%3A%20%224K%22%2C%0A%20%20%20%20%22ratio%22%3A%20%223%3A4%22%2C%0A%20%20%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%20%20%22lens%22%3A%20%22%EC%9D%B8%EB%AC%BC%EC%9A%A9%20%EB%A0%8C%EC%A6%88%20(50mm%E2%80%9385mm)%22%2C%0A%20%20%20%20%20%20%22depth_of_field%22%3A%20%22%EC%96%95%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22focus%22%3A%20%22%ED%94%BC%EC%82%AC%EC%B2%B4%EC%97%90%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EC%B4%88%EC%A0%90%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lighting%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%EB%84%A4%EC%98%A8%20%EB%8F%84%EC%8B%9C%20%EC%A1%B0%EB%AA%85%22%2C%0A%20%20%20%20%20%20%22contrast%22%3A%20%22%EB%86%92%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22color_palette%22%3A%20%5B%22%EB%B6%89%EC%9D%80%20%EB%84%A4%EC%98%A8%22%2C%20%22%EB%85%B8%EB%9E%80%20%EB%84%A4%EC%98%A8%22%2C%20%22%EC%B0%A8%EA%B0%80%EC%9A%B4%20%EB%B8%94%EB%A3%A8%2F%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%22%5D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment_details%22%3A%20%7B%0A%20%20%20%20%22weather%22%3A%20%22%EA%B0%80%EB%B2%BC%EC%9A%B4%20%EB%B9%84%20%2F%20%EC%9D%B4%EC%8A%AC%EB%B9%84%22%2C%0A%20%20%20%20%22city_style%22%3A%20%5B%22%EB%8F%84%EC%BF%84%22%2C%20%22%EC%84%9C%EC%9A%B8%22%2C%20%22%ED%99%8D%EC%BD%A9%22%5D%2C%0A%20%20%20%20%22foreground%22%3A%20%22%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%A1%9C%20%EB%92%A4%EB%8D%AE%EC%9D%B8%20%EB%B2%BD%22%2C%0A%20%20%20%20%22background%22%3A%20%7B%0A%20%20%20%20%20%20%22elements%22%3A%20%5B%22%EC%A0%96%EC%96%B4%20%EB%B0%98%EC%82%AC%EB%90%98%EB%8A%94%20%EA%B1%B0%EB%A6%AC%22%2C%20%22%EB%B6%89%EC%9D%80%20%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC%20%EB%93%B1%EC%9D%B4%20%EC%BC%9C%EC%A7%84%20%EC%9E%90%EB%8F%99%EC%B0%A8%22%2C%20%22%EB%84%A4%EC%98%A8%20%EC%83%81%EC%A0%90%20%EA%B0%84%ED%8C%90%22%5D%2C%0A%20%20%20%20%20%20%22depth%22%3A%20%22%ED%9D%90%EB%A6%BF%ED%95%9C%20%EB%B3%B4%EC%BC%80%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22%EC%97%AC%EC%84%B1%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%EA%BF%88%EA%BE%B8%EB%8A%94%20%EB%93%AF%2C%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%20%EC%9C%84%EB%A5%BC%20%EC%98%AC%EB%A0%A4%EB%8B%A4%EB%B3%B4%EB%8A%94%20%EC%8B%9C%EC%84%A0%22%2C%0A%20%20%20%20%22hair%22%3A%20%22%EB%AC%BC%EA%B2%B0%20%EB%AA%A8%EC%96%91%EC%9D%98%20%EA%B2%80%EC%9D%80%EC%83%89%2C%20%EC%82%B4%EC%A7%9D%20%EC%A0%96%EC%9D%8C%22%2C%0A%20%20%20%20%22clothing%22%3A%20%22%EC%98%A4%EB%B2%84%EC%82%AC%EC%9D%B4%EC%A6%88%20%EC%8A%AC%EB%A0%88%EC%9D%B4%ED%8A%B8%20%EA%B7%B8%EB%A0%88%EC%9D%B4%2F%ED%8B%B8%EC%83%89%20%ED%9B%84%EB%93%9C%ED%8B%B0%22%0A%20%20%7D)**
+
+---
+
+### No. 23: 16비트 레트로 게임 캐릭터 변환 프롬프트
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+업로드된 오리지널 캐릭터를 Nano Banana Pro를 사용하여 다양한 16비트 레트로 비디오 게임 스타일로 변환하도록 설계된 3가지 이미지 생성 프롬프트 세트입니다. 이 스타일에는 횡스크롤 액션 게임, 횡형 RPG 전투 화면, 어드벤처 게임 대화 장면이 포함되어 있어 사용자가 캐릭터와 장면 세부 정보를 쉽게 커스터마이징할 수 있습니다.
+
+#### 📝 프롬프트
+
+```
+프롬프트 (횡스크롤 액션 스타일):
+[{argument name="character description" default="망토를 두른 소녀"}]를 16비트 비디오 게임 캐릭터로 재현하고, 2D 16비트 플랫폼 비디오 게임에 배치해 주세요.
+게임 화면 구성: 횡스크롤 액션, 도넛을 모으면서 앞으로 나아가기, 도넛 획득 시 100점, 어두운 성 내부 스테이지
+
+프롬프트 (수평 RPG 전투 스타일):
+[{argument name="character description" default="망토를 두른 소녀"}]를 16비트 비디오 게임 캐릭터로 재현하고, 2D 16비트 플랫폼 비디오 게임에 배치해 주세요.
+게임 화면 구성:
+수평 RPG 전투 화면
+도넛 몬스터와 싸우기, 검으로 공격, 배경은 호숫가, 캐릭터 이름은 "{argument name="character name" default="츠노치안"}", 화면 하단에 캐릭터 이름, HP, 커맨드 메뉴, 데미지 및 그럴듯한 HP 수치 표시
+
+프롬프트 (어드벤처 게임 스타일):
+[{argument name="character description" default="망토를 두른 소녀"}]를 16비트 비디오 게임 캐릭터로 재현하고, 2D 16비트 플랫폼 비디오 게임에 배치해 주세요.
+게임 화면 구성: 어드벤처 게임 대화 화면, 중앙에 캐릭터의 상반신, 우측 상단에 날짜와 날씨, 좌측 상단에 장소 이름, 화면 하단에 커맨드 메뉴와 대화창, 대화 "{argument name="character name" default="츠노치안"} '{argument name="dialogue" default="아직 간식 시간 아니야?"}'", 배경은 거실
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122662845_x5zou8_G7cwFxOawAAP0cm.jpg" width="600" alt="16비트 레트로 게임 캐릭터 변환 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122665230_fde4bm_G7cwHJHb0AAgwsR.jpg" width="600" alt="16비트 레트로 게임 캐릭터 변환 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122665826_7gdiyk_G7cwHuBbwAAK-sH.jpg" width="600" alt="16비트 레트로 게임 캐릭터 변환 프롬프트 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122666911_nymai3_G7cwGsVb0AETgeC.jpg" width="600" alt="16비트 레트로 게임 캐릭터 변환 프롬프트 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [シュナプーン](https://x.com/schnapoon)
+- **출처:** [Twitter Post](https://x.com/schnapoon/status/1997199328587534729)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20(%ED%9A%A1%EC%8A%A4%ED%81%AC%EB%A1%A4%20%EC%95%A1%EC%85%98%20%EC%8A%A4%ED%83%80%EC%9D%BC)%3A%0A%5B%7Bargument%20name%3D%22character%20description%22%20default%3D%22%EB%A7%9D%ED%86%A0%EB%A5%BC%20%EB%91%90%EB%A5%B8%20%EC%86%8C%EB%85%80%22%7D%5D%EB%A5%BC%2016%EB%B9%84%ED%8A%B8%20%EB%B9%84%EB%94%94%EC%98%A4%20%EA%B2%8C%EC%9E%84%20%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A1%9C%20%EC%9E%AC%ED%98%84%ED%95%98%EA%B3%A0%2C%202D%2016%EB%B9%84%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EB%B9%84%EB%94%94%EC%98%A4%20%EA%B2%8C%EC%9E%84%EC%97%90%20%EB%B0%B0%EC%B9%98%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EA%B2%8C%EC%9E%84%20%ED%99%94%EB%A9%B4%20%EA%B5%AC%EC%84%B1%3A%20%ED%9A%A1%EC%8A%A4%ED%81%AC%EB%A1%A4%20%EC%95%A1%EC%85%98%2C%20%EB%8F%84%EB%84%9B%EC%9D%84%20%EB%AA%A8%EC%9C%BC%EB%A9%B4%EC%84%9C%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EB%82%98%EC%95%84%EA%B0%80%EA%B8%B0%2C%20%EB%8F%84%EB%84%9B%20%ED%9A%8D%EB%93%9D%20%EC%8B%9C%20100%EC%A0%90%2C%20%EC%96%B4%EB%91%90%EC%9A%B4%20%EC%84%B1%20%EB%82%B4%EB%B6%80%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%0A%0A%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20(%EC%88%98%ED%8F%89%20RPG%20%EC%A0%84%ED%88%AC%20%EC%8A%A4%ED%83%80%EC%9D%BC)%3A%0A%5B%7Bargument%20name%3D%22character%20description%22%20default%3D%22%EB%A7%9D%ED%86%A0%EB%A5%BC%20%EB%91%90%EB%A5%B8%20%EC%86%8C%EB%85%80%22%7D%5D%EB%A5%BC%2016%EB%B9%84%ED%8A%B8%20%EB%B9%84%EB%94%94%EC%98%A4%20%EA%B2%8C%EC%9E%84%20%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A1%9C%20%EC%9E%AC%ED%98%84%ED%95%98%EA%B3%A0%2C%202D%2016%EB%B9%84%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EB%B9%84%EB%94%94%EC%98%A4%20%EA%B2%8C%EC%9E%84%EC%97%90%20%EB%B0%B0%EC%B9%98%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EA%B2%8C%EC%9E%84%20%ED%99%94%EB%A9%B4%20%EA%B5%AC%EC%84%B1%3A%0A%EC%88%98%ED%8F%89%20RPG%20%EC%A0%84%ED%88%AC%20%ED%99%94%EB%A9%B4%0A%EB%8F%84%EB%84%9B%20%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%99%80%20%EC%8B%B8%EC%9A%B0%EA%B8%B0%2C%20%EA%B2%80%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EA%B2%A9%2C%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%ED%98%B8%EC%88%AB%EA%B0%80%2C%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%22%7Bargument%20name%3D%22character%20name%22%20default%3D%22%EC%B8%A0%EB%85%B8%EC%B9%98%EC%95%88%22%7D%22%2C%20%ED%99%94%EB%A9%B4%20%ED%95%98%EB%8B%A8%EC%97%90%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%9D%B4%EB%A6%84%2C%20HP%2C%20%EC%BB%A4%EB%A7%A8%EB%93%9C%20%EB%A9%94%EB%89%B4%2C%20%EB%8D%B0%EB%AF%B8%EC%A7%80%20%EB%B0%8F%20%EA%B7%B8%EB%9F%B4%EB%93%AF%ED%95%9C%20HP%20%EC%88%98%EC%B9%98%20%ED%91%9C%EC%8B%9C%0A%0A%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20(%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98%20%EA%B2%8C%EC%9E%84%20%EC%8A%A4%ED%83%80%EC%9D%BC)%3A%0A%5B%7Bargument%20name%3D%22character%20description%22%20default%3D%22%EB%A7%9D%ED%86%A0%EB%A5%BC%20%EB%91%90%EB%A5%B8%20%EC%86%8C%EB%85%80%22%7D%5D%EB%A5%BC%2016%EB%B9%84%ED%8A%B8%20%EB%B9%84%EB%94%94%EC%98%A4%20%EA%B2%8C%EC%9E%84%20%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A1%9C%20%EC%9E%AC%ED%98%84%ED%95%98%EA%B3%A0%2C%202D%2016%EB%B9%84%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EB%B9%84%EB%94%94%EC%98%A4%20%EA%B2%8C%EC%9E%84%EC%97%90%20%EB%B0%B0%EC%B9%98%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EA%B2%8C%EC%9E%84%20%ED%99%94%EB%A9%B4%20%EA%B5%AC%EC%84%B1%3A%20%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98%20%EA%B2%8C%EC%9E%84%20%EB%8C%80%ED%99%94%20%ED%99%94%EB%A9%B4%2C%20%EC%A4%91%EC%95%99%EC%97%90%20%EC%BA%90%EB%A6%AD%ED%84%B0%EC%9D%98%20%EC%83%81%EB%B0%98%EC%8B%A0%2C%20%EC%9A%B0%EC%B8%A1%20%EC%83%81%EB%8B%A8%EC%97%90%20%EB%82%A0%EC%A7%9C%EC%99%80%20%EB%82%A0%EC%94%A8%2C%20%EC%A2%8C%EC%B8%A1%20%EC%83%81%EB%8B%A8%EC%97%90%20%EC%9E%A5%EC%86%8C%20%EC%9D%B4%EB%A6%84%2C%20%ED%99%94%EB%A9%B4%20%ED%95%98%EB%8B%A8%EC%97%90%20%EC%BB%A4%EB%A7%A8%EB%93%9C%20%EB%A9%94%EB%89%B4%EC%99%80%20%EB%8C%80%ED%99%94%EC%B0%BD%2C%20%EB%8C%80%ED%99%94%20%22%7Bargument%20name%3D%22character%20name%22%20default%3D%22%EC%B8%A0%EB%85%B8%EC%B9%98%EC%95%88%22%7D%20'%7Bargument%20name%3D%22dialogue%22%20default%3D%22%EC%95%84%EC%A7%81%20%EA%B0%84%EC%8B%9D%20%EC%8B%9C%EA%B0%84%20%EC%95%84%EB%8B%88%EC%95%BC%3F%22%7D'%22%2C%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EA%B1%B0%EC%8B%A4)**
+
+---
+
+### No. 24: 비즈니스 클래스 항공편 셀카 인물 사진 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+현대적인 비즈니스 클래스 비행기 객실에서 젊은 여성이 초고화질의 광각 셀카 인물 사진을 찍는 모습을 담은 상세한 JSON 프롬프트. 조명, 포즈, 의상 디테일(두툼한 스니커즈 포함), 카메라 설정이 명시되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "scene": {
+    "environment": "현대적인 비행기 비즈니스 클래스 객실",
+    "aircraft_details": "넓고 굽은 창문, 부드러운 천장 조명, 매끄러운 회색 내부 패널",
+    "seat_layout": "개인 스크린, 측면 콘솔, 수납공간이 있는 프리미엄 포드 좌석",
+    "props": {
+      "bag": "옆 테이블에 놓인 고급 모노그램 토트백",
+      "book": "좌석에 놓인 크고 화려한 책",
+      "monitor": "비행 인터페이스가 표시된 항공사 엔터테인먼트 스크린"
+    },
+    "lighting": "비행기 창문에서 들어오는 부드러운 확산된 자연광",
+    "mood": "차분하고 솔직하며 편안한 비행 중 순간"
+  },
+  "camera": {
+    "angle": "광각 셀카 시점",
+    "position": "피사체보다 약간 위쪽, 왼쪽, 팔을 뻗은 시점",
+    "lens": "24mm 광각 렌즈",
+    "framing": "좌석 중앙에 피사체, 다리는 뻗어 있고 뒤쪽으로 객실이 보임",
+    "depth_of_field": "중간, 피사체와 좌석에 선명한 초점"
+  },
+  "subject": {
+    "gender": "여성",
+    "age": "젊은 성인",
+    "pose": "편안하게 좌석에 기대어 앉아 한 손은 얼굴 가까이, 발은 오토만에 올림",
+    "expression": "차분하고 약간 장난기 있으며 자연스러운 표정",
+    "clothing": {
+      "hoodie": {
+        "type": "오버사이즈 후드티",
+        "color": "짙은 숲 녹색",
+        "material": "부드러운 면 플리스"
+      },
+      "shorts": {
+        "type": "넉넉한 카고 반바지",
+        "color": "네이비 블루",
+        "texture": "무광 면"
+      },
+      "socks": {
+        "color": "회색"
+      },
+      "shoes": {
+        "type": "청키 스니커즈",
+        "colorway": "흰색 바탕에 노란색-검은색 대신 청록색과 네온 오렌지색 악센트",
+        "material": "반사 스트립이 있는 메시 및 고무"
+      }
+    },
+    "skin_details": "매우 사실적인 자연스러운 피부 질감, 부드러운 하이라이트, 은은한 메이크업"
+  },
+  "effects": {
+    "realism": "초현실적인 사진",
+    "color_grading": "중성적인 자연광 톤, 부드러운 대비",
+    "noise": "최소",
+    "sharpness": "직물과 객실 표면에 높은 미세 디테일"
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122644412_4m911h_G7duikbaoAAGgLn.jpg" width="600" alt="비즈니스 클래스 항공편 셀카 인물 사진 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Shreya Yadav](https://x.com/ShreyaYadav___)
+- **출처:** [Twitter Post](https://x.com/ShreyaYadav___/status/1997186517853454700)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22scene%22%3A%20%7B%0A%20%20%20%20%22environment%22%3A%20%22%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EB%B9%84%ED%96%89%EA%B8%B0%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B0%9D%EC%8B%A4%22%2C%0A%20%20%20%20%22aircraft_details%22%3A%20%22%EB%84%93%EA%B3%A0%20%EA%B5%BD%EC%9D%80%20%EC%B0%BD%EB%AC%B8%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%B2%9C%EC%9E%A5%20%EC%A1%B0%EB%AA%85%2C%20%EB%A7%A4%EB%81%84%EB%9F%AC%EC%9A%B4%20%ED%9A%8C%EC%83%89%20%EB%82%B4%EB%B6%80%20%ED%8C%A8%EB%84%90%22%2C%0A%20%20%20%20%22seat_layout%22%3A%20%22%EA%B0%9C%EC%9D%B8%20%EC%8A%A4%ED%81%AC%EB%A6%B0%2C%20%EC%B8%A1%EB%A9%B4%20%EC%BD%98%EC%86%94%2C%20%EC%88%98%EB%82%A9%EA%B3%B5%EA%B0%84%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%ED%8F%AC%EB%93%9C%20%EC%A2%8C%EC%84%9D%22%2C%0A%20%20%20%20%22props%22%3A%20%7B%0A%20%20%20%20%20%20%22bag%22%3A%20%22%EC%98%86%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%20%EB%86%93%EC%9D%B8%20%EA%B3%A0%EA%B8%89%20%EB%AA%A8%EB%85%B8%EA%B7%B8%EB%9E%A8%20%ED%86%A0%ED%8A%B8%EB%B0%B1%22%2C%0A%20%20%20%20%20%20%22book%22%3A%20%22%EC%A2%8C%EC%84%9D%EC%97%90%20%EB%86%93%EC%9D%B8%20%ED%81%AC%EA%B3%A0%20%ED%99%94%EB%A0%A4%ED%95%9C%20%EC%B1%85%22%2C%0A%20%20%20%20%20%20%22monitor%22%3A%20%22%EB%B9%84%ED%96%89%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EA%B0%80%20%ED%91%9C%EC%8B%9C%EB%90%9C%20%ED%95%AD%EA%B3%B5%EC%82%AC%20%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8%20%EC%8A%A4%ED%81%AC%EB%A6%B0%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22lighting%22%3A%20%22%EB%B9%84%ED%96%89%EA%B8%B0%20%EC%B0%BD%EB%AC%B8%EC%97%90%EC%84%9C%20%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%ED%99%95%EC%82%B0%EB%90%9C%20%EC%9E%90%EC%97%B0%EA%B4%91%22%2C%0A%20%20%20%20%22mood%22%3A%20%22%EC%B0%A8%EB%B6%84%ED%95%98%EA%B3%A0%20%EC%86%94%EC%A7%81%ED%95%98%EB%A9%B0%20%ED%8E%B8%EC%95%88%ED%95%9C%20%EB%B9%84%ED%96%89%20%EC%A4%91%20%EC%88%9C%EA%B0%84%22%0A%20%20%7D%2C%0A%20%20%22camera%22%3A%20%7B%0A%20%20%20%20%22angle%22%3A%20%22%EA%B4%91%EA%B0%81%20%EC%85%80%EC%B9%B4%20%EC%8B%9C%EC%A0%90%22%2C%0A%20%20%20%20%22position%22%3A%20%22%ED%94%BC%EC%82%AC%EC%B2%B4%EB%B3%B4%EB%8B%A4%20%EC%95%BD%EA%B0%84%20%EC%9C%84%EC%AA%BD%2C%20%EC%99%BC%EC%AA%BD%2C%20%ED%8C%94%EC%9D%84%20%EB%BB%97%EC%9D%80%20%EC%8B%9C%EC%A0%90%22%2C%0A%20%20%20%20%22lens%22%3A%20%2224mm%20%EA%B4%91%EA%B0%81%20%EB%A0%8C%EC%A6%88%22%2C%0A%20%20%20%20%22framing%22%3A%20%22%EC%A2%8C%EC%84%9D%20%EC%A4%91%EC%95%99%EC%97%90%20%ED%94%BC%EC%82%AC%EC%B2%B4%2C%20%EB%8B%A4%EB%A6%AC%EB%8A%94%20%EB%BB%97%EC%96%B4%20%EC%9E%88%EA%B3%A0%20%EB%92%A4%EC%AA%BD%EC%9C%BC%EB%A1%9C%20%EA%B0%9D%EC%8B%A4%EC%9D%B4%20%EB%B3%B4%EC%9E%84%22%2C%0A%20%20%20%20%22depth_of_field%22%3A%20%22%EC%A4%91%EA%B0%84%2C%20%ED%94%BC%EC%82%AC%EC%B2%B4%EC%99%80%20%EC%A2%8C%EC%84%9D%EC%97%90%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EC%B4%88%EC%A0%90%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22gender%22%3A%20%22%EC%97%AC%EC%84%B1%22%2C%0A%20%20%20%20%22age%22%3A%20%22%EC%A0%8A%EC%9D%80%20%EC%84%B1%EC%9D%B8%22%2C%0A%20%20%20%20%22pose%22%3A%20%22%ED%8E%B8%EC%95%88%ED%95%98%EA%B2%8C%20%EC%A2%8C%EC%84%9D%EC%97%90%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EC%95%89%EC%95%84%20%ED%95%9C%20%EC%86%90%EC%9D%80%20%EC%96%BC%EA%B5%B4%20%EA%B0%80%EA%B9%8C%EC%9D%B4%2C%20%EB%B0%9C%EC%9D%80%20%EC%98%A4%ED%86%A0%EB%A7%8C%EC%97%90%20%EC%98%AC%EB%A6%BC%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%EC%B0%A8%EB%B6%84%ED%95%98%EA%B3%A0%20%EC%95%BD%EA%B0%84%20%EC%9E%A5%EB%82%9C%EA%B8%B0%20%EC%9E%88%EC%9C%BC%EB%A9%B0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%91%9C%EC%A0%95%22%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22hoodie%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EC%98%A4%EB%B2%84%EC%82%AC%EC%9D%B4%EC%A6%88%20%ED%9B%84%EB%93%9C%ED%8B%B0%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%EC%A7%99%EC%9D%80%20%EC%88%B2%20%EB%85%B9%EC%83%89%22%2C%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%A9%B4%20%ED%94%8C%EB%A6%AC%EC%8A%A4%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shorts%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EB%84%89%EB%84%89%ED%95%9C%20%EC%B9%B4%EA%B3%A0%20%EB%B0%98%EB%B0%94%EC%A7%80%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%EB%84%A4%EC%9D%B4%EB%B9%84%20%EB%B8%94%EB%A3%A8%22%2C%0A%20%20%20%20%20%20%20%20%22texture%22%3A%20%22%EB%AC%B4%EA%B4%91%20%EB%A9%B4%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22socks%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%ED%9A%8C%EC%83%89%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22shoes%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EC%B2%AD%ED%82%A4%20%EC%8A%A4%EB%8B%88%EC%BB%A4%EC%A6%88%22%2C%0A%20%20%20%20%20%20%20%20%22colorway%22%3A%20%22%ED%9D%B0%EC%83%89%20%EB%B0%94%ED%83%95%EC%97%90%20%EB%85%B8%EB%9E%80%EC%83%89-%EA%B2%80%EC%9D%80%EC%83%89%20%EB%8C%80%EC%8B%A0%20%EC%B2%AD%EB%A1%9D%EC%83%89%EA%B3%BC%20%EB%84%A4%EC%98%A8%20%EC%98%A4%EB%A0%8C%EC%A7%80%EC%83%89%20%EC%95%85%EC%84%BC%ED%8A%B8%22%2C%0A%20%20%20%20%20%20%20%20%22material%22%3A%20%22%EB%B0%98%EC%82%AC%20%EC%8A%A4%ED%8A%B8%EB%A6%BD%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%A9%94%EC%8B%9C%20%EB%B0%8F%20%EA%B3%A0%EB%AC%B4%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22skin_details%22%3A%20%22%EB%A7%A4%EC%9A%B0%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%94%BC%EB%B6%80%20%EC%A7%88%EA%B0%90%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%2C%20%EC%9D%80%EC%9D%80%ED%95%9C%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%22%0A%20%20%7D%2C%0A%20%20%22effects%22%3A%20%7B%0A%20%20%20%20%22realism%22%3A%20%22%EC%B4%88%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%20%20%22color_grading%22%3A%20%22%EC%A4%91%EC%84%B1%EC%A0%81%EC%9D%B8%20%EC%9E%90%EC%97%B0%EA%B4%91%20%ED%86%A4%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%8C%80%EB%B9%84%22%2C%0A%20%20%20%20%22noise%22%3A%20%22%EC%B5%9C%EC%86%8C%22%2C%0A%20%20%20%20%22sharpness%22%3A%20%22%EC%A7%81%EB%AC%BC%EA%B3%BC%20%EA%B0%9D%EC%8B%A4%20%ED%91%9C%EB%A9%B4%EC%97%90%20%EB%86%92%EC%9D%80%20%EB%AF%B8%EC%84%B8%20%EB%94%94%ED%85%8C%EC%9D%BC%22%0A%20%20%7D%0A%7D)**
+
+---
+
+### No. 25: 다이컷 스티커 일러스트 프롬프트 (일본어 텍스트 포함)
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+업로드된 이미지를 다이컷 스티커 일러스트로 변환하기 위한 Nano Banana Pro용 상세 프롬프트입니다. 두꺼운 검은색 윤곽선과 평평하고 생생한 색상을 특징으로 하는 치비 변형 스타일입니다. 특히, 세 블록의 세로 일본어 텍스트(오른쪽, 왼쪽, 하단) 배치를 지정하고, 전체 일러스트레이션과 모든 텍스트 블록을 아우르는 단일하고 연속적인 흰색 테두리를 요구하여 통일된 스티커 모양을 만듭니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 이미지를 기반으로 한 다이컷 스티커 일러스트입니다. 두꺼운 검은색 윤곽선, 평면적이고 생생한 색상, 만화 같은 포즈가 특징인 꼬마 캐릭터(chibi deformed) 일러스트 스타일로 변형된 피사체입니다. 오른쪽에는 세로로 된 큰 일본어 텍스트 "{argument name="right side comment" default="right side comment"}"가 있고, 왼쪽에는 세로 일본어 텍스트 "{argument name="left side comment" default="left side comment"}"가 있으며, 하단 가장자리에는 텍스트 "{argument name="bottom comment" default="bottom comment"}"가 있습니다. **가장 중요한 것은, 일러스트와 모든 텍스트 블록을 함께 둘러싸는 하나의 크고 연속적인 흰색 다이컷 테두리가 모든 요소를 완전히 감싸야 한다는 것입니다. 이는 단색 흰색 배경에 대해 통일되고 자르기 쉬운 스티커 모양을 만들기 위함입니다.**
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122651472_5g1m6q_G7dLSUEb0AQPTN2.jpg" width="600" alt="다이컷 스티커 일러스트 프롬프트 (일본어 텍스트 포함) - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122654946_ix7tbr_G7dLM68bIAAEKt7.jpg" width="600" alt="다이컷 스티커 일러스트 프롬프트 (일본어 텍스트 포함) - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [清水勇人｜DMM .com 亀ちょく本部長 / DMMホールディングス 代表取締役](https://x.com/HAYXtqsWTN58832)
+- **출처:** [Twitter Post](https://x.com/HAYXtqsWTN58832/status/1997147760093511730)
+- **게시일:** 2025년 12월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%ED%95%9C%20%EB%8B%A4%EC%9D%B4%EC%BB%B7%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%9C%A4%EA%B3%BD%EC%84%A0%2C%20%ED%8F%89%EB%A9%B4%EC%A0%81%EC%9D%B4%EA%B3%A0%20%EC%83%9D%EC%83%9D%ED%95%9C%20%EC%83%89%EC%83%81%2C%20%EB%A7%8C%ED%99%94%20%EA%B0%99%EC%9D%80%20%ED%8F%AC%EC%A6%88%EA%B0%80%20%ED%8A%B9%EC%A7%95%EC%9D%B8%20%EA%BC%AC%EB%A7%88%20%EC%BA%90%EB%A6%AD%ED%84%B0(chibi%20deformed)%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EB%B3%80%ED%98%95%EB%90%9C%20%ED%94%BC%EC%82%AC%EC%B2%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EB%8A%94%20%EC%84%B8%EB%A1%9C%EB%A1%9C%20%EB%90%9C%20%ED%81%B0%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%22%7Bargument%20name%3D%22right%20side%20comment%22%20default%3D%22right%20side%20comment%22%7D%22%EA%B0%80%20%EC%9E%88%EA%B3%A0%2C%20%EC%99%BC%EC%AA%BD%EC%97%90%EB%8A%94%20%EC%84%B8%EB%A1%9C%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%22%7Bargument%20name%3D%22left%20side%20comment%22%20default%3D%22left%20side%20comment%22%7D%22%EA%B0%80%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%ED%95%98%EB%8B%A8%20%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC%EC%97%90%EB%8A%94%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%22%7Bargument%20name%3D%22bottom%20comment%22%20default%3D%22bottom%20comment%22%7D%22%EA%B0%80%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%20**%EA%B0%80%EC%9E%A5%20%EC%A4%91%EC%9A%94%ED%95%9C%20%EA%B2%83%EC%9D%80%2C%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%AA%A8%EB%93%A0%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%B8%94%EB%A1%9D%EC%9D%84%20%ED%95%A8%EA%BB%98%20%EB%91%98%EB%9F%AC%EC%8B%B8%EB%8A%94%20%ED%95%98%EB%82%98%EC%9D%98%20%ED%81%AC%EA%B3%A0%20%EC%97%B0%EC%86%8D%EC%A0%81%EC%9D%B8%20%ED%9D%B0%EC%83%89%20%EB%8B%A4%EC%9D%B4%EC%BB%B7%20%ED%85%8C%EB%91%90%EB%A6%AC%EA%B0%80%20%EB%AA%A8%EB%93%A0%20%EC%9A%94%EC%86%8C%EB%A5%BC%20%EC%99%84%EC%A0%84%ED%9E%88%20%EA%B0%90%EC%8B%B8%EC%95%BC%20%ED%95%9C%EB%8B%A4%EB%8A%94%20%EA%B2%83%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%9D%B4%EB%8A%94%20%EB%8B%A8%EC%83%89%20%ED%9D%B0%EC%83%89%20%EB%B0%B0%EA%B2%BD%EC%97%90%20%EB%8C%80%ED%95%B4%20%ED%86%B5%EC%9D%BC%EB%90%98%EA%B3%A0%20%EC%9E%90%EB%A5%B4%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%20%EB%AA%A8%EC%96%91%EC%9D%84%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EC%9C%84%ED%95%A8%EC%9E%85%EB%8B%88%EB%8B%A4.**)**
+
+---
+
+### No. 26: 시네마틱 스토리보드 생성 프롬프트
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+업로드된 이미지와 장면 설명을 기반으로 영화 같은 스토리보드(E-Konte)를 생성하도록 Nano Banana Pro를 위해 설계된 프롬프트입니다. 이 프롬프트는 AI에게 장면을 분석하고, 영화 같은 카메라 워크와 앵글을 제안하며, 주요 순간과 전환을 강조하면서 결과 비주얼을 오른쪽 상단에서 왼쪽 하단으로 흐르는 만화 패널 레이아웃으로 배열하도록 지시합니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 이미지의 장면에 맞춰 최적의 스토리보드(E-콘티)를 제작해 주세요. 영화적 앵글, 카메라 워크, 구도를 활용하여 중요한 순간과 장면 전환을 강조하고, 이야기의 분위기와 흐름을 담아내야 합니다.
+장면의 시각적 요소는 만화 패널 레이아웃으로 구성되어야 하며, 오른쪽 상단에서 왼쪽 하단으로 흐르도록 전개되어야 합니다.
+
+장면: {argument name="scene" default="화면 속 소녀에게 비둘기가 내려앉는다"}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122651131_hh83hi_G7cuqa1bgAAj2RT.jpg" width="600" alt="시네마틱 스토리보드 생성 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122656319_7l770w_G7cusvub0AE3XZR.jpg" width="600" alt="시네마틱 스토리보드 생성 프롬프트 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [シュナプーン](https://x.com/schnapoon)
+- **출처:** [Twitter Post](https://x.com/schnapoon/status/1997138942424907884)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EC%9E%A5%EB%A9%B4%EC%97%90%20%EB%A7%9E%EC%B6%B0%20%EC%B5%9C%EC%A0%81%EC%9D%98%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C(E-%EC%BD%98%ED%8B%B0)%EB%A5%BC%20%EC%A0%9C%EC%9E%91%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%98%81%ED%99%94%EC%A0%81%20%EC%95%B5%EA%B8%80%2C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%9B%8C%ED%81%AC%2C%20%EA%B5%AC%EB%8F%84%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%A4%91%EC%9A%94%ED%95%9C%20%EC%88%9C%EA%B0%84%EA%B3%BC%20%EC%9E%A5%EB%A9%B4%20%EC%A0%84%ED%99%98%EC%9D%84%20%EA%B0%95%EC%A1%B0%ED%95%98%EA%B3%A0%2C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98%20%EB%B6%84%EC%9C%84%EA%B8%B0%EC%99%80%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EB%8B%B4%EC%95%84%EB%82%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%EC%9E%A5%EB%A9%B4%EC%9D%98%20%EC%8B%9C%EA%B0%81%EC%A0%81%20%EC%9A%94%EC%86%8C%EB%8A%94%20%EB%A7%8C%ED%99%94%20%ED%8C%A8%EB%84%90%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9C%BC%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EC%98%A4%EB%A5%B8%EC%AA%BD%20%EC%83%81%EB%8B%A8%EC%97%90%EC%84%9C%20%EC%99%BC%EC%AA%BD%20%ED%95%98%EB%8B%A8%EC%9C%BC%EB%A1%9C%20%ED%9D%90%EB%A5%B4%EB%8F%84%EB%A1%9D%20%EC%A0%84%EA%B0%9C%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A%EC%9E%A5%EB%A9%B4%3A%20%7Bargument%20name%3D%22scene%22%20default%3D%22%ED%99%94%EB%A9%B4%20%EC%86%8D%20%EC%86%8C%EB%85%80%EC%97%90%EA%B2%8C%20%EB%B9%84%EB%91%98%EA%B8%B0%EA%B0%80%20%EB%82%B4%EB%A0%A4%EC%95%89%EB%8A%94%EB%8B%A4%22%7D)**
+
+---
+
+### No. 27: 일본화 스타일 여성 프롬프트
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 설명
+
+짧은 검은 머리를 가진 여성을 일본 전통 회화 스타일(니혼가)로 렌더링해 달라는 Nano Banana Pro용 간단한 프롬프트.
+
+#### 📝 프롬프트
+
+```
+일본화(니혼가) 스타일의 짧은 검은 머리 여성
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122664807_1zr77e_G7c1nxqb0AAiFa5.jpg" width="600" alt="일본화 스타일 여성 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [うみつる](https://x.com/umitsuru_fire)
+- **출처:** [Twitter Post](https://x.com/umitsuru_fire/status/1997123949675925529)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9D%BC%EB%B3%B8%ED%99%94(%EB%8B%88%ED%98%BC%EA%B0%80)%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%EC%A7%A7%EC%9D%80%20%EA%B2%80%EC%9D%80%20%EB%A8%B8%EB%A6%AC%20%EC%97%AC%EC%84%B1)**
+
+---
+
+### No. 28: 신주쿠를 엿보는 거인 프롬프트
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 설명
+
+도쿄 신주쿠의 고층 빌딩 사이에서 사용자의 거대한 모습이 내려다보는 초현실적인 이미지를 생성하도록 Nano Banana Pro에 지시하는 창의적인 프롬프트.
+
+#### 📝 프롬프트
+
+```
+신주쿠 고층 빌딩 사이에서 내려다보는 거대한 나 자신
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1765122695221_afj9zi_G7Xht8EasAARHnd.jpg" width="600" alt="신주쿠를 엿보는 거인 프롬프트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [岡田泰彦｜光邦｜巻き込まれ型AIエヴァンジェリスト](https://x.com/KohoOkada)
+- **출처:** [Twitter Post](https://x.com/KohoOkada/status/1997109736723173814)
+- **게시일:** 2025년 12월 6일
+- **언어:** ja
+
+**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%8B%A0%EC%A3%BC%EC%BF%A0%20%EA%B3%A0%EC%B8%B5%20%EB%B9%8C%EB%94%A9%20%EC%82%AC%EC%9D%B4%EC%97%90%EC%84%9C%20%EB%82%B4%EB%A0%A4%EB%8B%A4%EB%B3%B4%EB%8A%94%20%EA%B1%B0%EB%8C%80%ED%95%9C%20%EB%82%98%20%EC%9E%90%EC%8B%A0)**
+
+---
+
+### No. 29: 안드로이드 로봇의 고대비 열 X-레이 렌더링
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -856,7 +2204,7 @@ Google Android 로봇의 고대비 과학 스튜디오 렌더링을 생성하기
 
 ---
 
-### No. 3: 다단계 이미지 및 비디오 생성 프롬프트 (Grok Imagine, Seedream, Nano Banana Pro)
+### No. 30: 다단계 이미지 및 비디오 생성 프롬프트 (Grok Imagine, Seedream, Nano Banana Pro)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -889,7 +2237,7 @@ Google Android 로봇의 고대비 과학 스튜디오 렌더링을 생성하기
 
 ---
 
-### No. 4: Nano Banana Pro용 등각 투영 픽토그램 다이어그램 프롬프트
+### No. 31: Nano Banana Pro용 등각 투영 픽토그램 다이어그램 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -923,7 +2271,7 @@ Nano Banana Pro용 프롬프트로, 등각 투영(위에서 비스듬히 본 각
 
 ---
 
-### No. 5: 커피 샷 시네마틱 재난 워크플로우 프롬프트
+### No. 32: 커피 샷 시네마틱 재난 워크플로우 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -956,7 +2304,7 @@ Nano Banana Pro용 프롬프트로, 등각 투영(위에서 비스듬히 본 각
 
 ---
 
-### No. 6: 이미지 일관성 및 스타일 전송 프롬프트
+### No. 33: 이미지 일관성 및 스타일 전송 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -995,7 +2343,7 @@ Nano Banana Pro용 프롬프트로, 등각 투영(위에서 비스듬히 본 각
 
 ---
 
-### No. 7: 키아로스쿠로 창문 인물 사진 프롬프트
+### No. 34: 키아로스쿠로 창문 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1050,7 +2398,7 @@ Nano Banana Pro용 프롬프트로, 등각 투영(위에서 비스듬히 본 각
 
 ---
 
-### No. 8: 동영상 썸네일 해석 프롬프트
+### No. 35: 동영상 썸네일 해석 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1091,7 +2439,7 @@ Nano Banana Pro용 프롬프트로, 등각 투영(위에서 비스듬히 본 각
 
 ---
 
-### No. 9: 가상의 사업 아이디어를 위한 Nano Banana Pro 프롬프트
+### No. 36: 가상의 사업 아이디어를 위한 Nano Banana Pro 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1124,7 +2472,7 @@ Nano Banana Pro용 프롬프트로, 등각 투영(위에서 비스듬히 본 각
 
 ---
 
-### No. 10: 해체된 Apple Vision Pro 비교 사진
+### No. 37: 해체된 Apple Vision Pro 비교 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1160,7 +2508,7 @@ Apple Vision Pro의 분할 레이아웃, 해체된 비교 사진을 생성하기
 
 ---
 
-### No. 11: 바이럴 게이머 걸 거울 셀카 프롬프트
+### No. 38: 바이럴 게이머 걸 거울 셀카 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1272,7 +2620,7 @@ Nano Banana Pro를 사용하여 게이머 룸을 배경으로 젊은 여성의 '
 
 ---
 
-### No. 12: 고해상도 AI 아트용 템플릿 프롬프트
+### No. 39: 고해상도 AI 아트용 템플릿 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1311,7 +2659,7 @@ Nano Banana Pro의 해상도와 종횡비 정의의 중요성을 강조하는 �
 
 ---
 
-### No. 13: 전문 사진 편집기 HUD 프롬프트
+### No. 40: 전문 사진 편집기 HUD 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1392,7 +2740,7 @@ Nano Banana Pro의 해상도와 종횡비 정의의 중요성을 강조하는 �
 
 ---
 
-### No. 14: 화려한 미니멀리스트 벡터 아트 스타일 트랜스퍼 프롬프트
+### No. 41: 화려한 미니멀리스트 벡터 아트 스타일 트랜스퍼 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1443,7 +2791,7 @@ Nano Banana Pro 모델을 사용하여 사진을 다채롭고 미니멀한 벡�
 
 ---
 
-### No. 15: 커플을 위한 레트로 포토 부스 스트립 프롬프트
+### No. 42: 커플을 위한 레트로 포토 부스 스트립 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1521,7 +2869,7 @@ Nano Banana Pro 모델을 사용하여 사진을 다채롭고 미니멀한 벡�
 
 ---
 
-### No. 16: 간단한 YouTube 썸네일 생성 프롬프트
+### No. 43: 간단한 YouTube 썸네일 생성 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1563,7 +2911,7 @@ Nano Banana Pro를 사용하여 YouTube 썸네일을 생성하는 데 사용된 
 
 ---
 
-### No. 17: 박스 머리 커플 거울 셀카 프롬프트
+### No. 44: 박스 머리 커플 거울 셀카 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1690,7 +3038,7 @@ Nano Banana Pro를 사용하여 YouTube 썸네일을 생성하는 데 사용된 
 
 ---
 
-### No. 18: Nano Banana Pro를 위한 시네마틱 스트리트 인물 사진 프롬프트
+### No. 45: Nano Banana Pro를 위한 시네마틱 스트리트 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1780,7 +3128,7 @@ Nano Banana Pro를 사용하여 YouTube 썸네일을 생성하는 데 사용된 
 
 ---
 
-### No. 19: 날아다니는 슈퍼히어로 AI 비디오 생성 프롬프트
+### No. 46: 날아다니는 슈퍼히어로 AI 비디오 생성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1817,7 +3165,7 @@ Nano Banana Pro를 사용하여 YouTube 썸네일을 생성하는 데 사용된 
 
 ---
 
-### No. 20: 초현실적인 기 드 부르댕 스타일의 수영장 장면
+### No. 47: 초현실적인 기 드 부르댕 스타일의 수영장 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1856,7 +3204,7 @@ Nano Banana Pro를 사용하여 YouTube 썸네일을 생성하는 데 사용된 
 
 ---
 
-### No. 21: 실시간 날씨 프롬프트가 있는 미니어처 3D 도시
+### No. 48: 실시간 날씨 프롬프트가 있는 미니어처 3D 도시
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1891,7 +3239,7 @@ Nano Banana Pro를 사용하여 YouTube 썸네일을 생성하는 데 사용된 
 
 ---
 
-### No. 22: 실시간 한국 뉴스에서 시각 자료 생성하기
+### No. 49: 실시간 한국 뉴스에서 시각 자료 생성하기
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 
@@ -1930,7 +3278,7 @@ Nano Banana Pro를 사용하여 YouTube 썸네일을 생성하는 데 사용된 
 
 ---
 
-### No. 23: Nano Banana Pro용 VFX 비교 이미지 프롬프트(전/후)
+### No. 50: Nano Banana Pro용 VFX 비교 이미지 프롬프트(전/후)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1984,7 +3332,7 @@ Nano Banana Pro를 사용하여 YouTube 썸네일을 생성하는 데 사용된 
 
 ---
 
-### No. 24: 초현실적인 수중 사무실 장면 프롬프트
+### No. 51: 초현실적인 수중 사무실 장면 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2017,7 +3365,7 @@ Nano Banana Pro를 위한 매우 상세한 프롬프트로, 깊은 바닷속에 
 
 ---
 
-### No. 25: Nano Banana Pro용 4K 업스케일 프롬프트
+### No. 52: Nano Banana Pro용 4K 업스케일 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2050,7 +3398,7 @@ Nano Banana Pro를 사용하여 업스케일링 기능을 테스트하는 데 �
 
 ---
 
-### No. 26: 올리브 오일 브랜드의 소셜 미디어 피드 생성
+### No. 53: 올리브 오일 브랜드의 소셜 미디어 피드 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2083,7 +3431,7 @@ Nano Banana Pro를 사용하여 업스케일링 기능을 테스트하는 데 �
 
 ---
 
-### No. 27: 올리브 오일 브랜드의 소셜 피드 제작
+### No. 54: 올리브 오일 브랜드의 소셜 피드 제작
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2116,7 +3464,7 @@ Nano Banana Pro를 사용하여 업스케일링 기능을 테스트하는 데 �
 
 ---
 
-### No. 28: Nano Banana Pro로 AI 만화 생성하기
+### No. 55: Nano Banana Pro로 AI 만화 생성하기
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2154,7 +3502,7 @@ Nano Banana Pro를 사용하여 업스케일링 기능을 테스트하는 데 �
 
 ---
 
-### No. 29: Nano Banana Pro: AI 같지 않은 프롬프트
+### No. 56: Nano Banana Pro: AI 같지 않은 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2187,7 +3535,7 @@ Nano Banana Pro를 사용하여 업스케일링 기능을 테스트하는 데 �
 
 ---
 
-### No. 30: 고품질 플랫 디자인 슬라이드 생성 프롬프트
+### No. 57: 고품질 플랫 디자인 슬라이드 생성 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2242,7 +3590,7 @@ Nano Banana Pro(Manus Slide 기능에서 사용됨)가 고품질 슬라이드를
 
 ---
 
-### No. 31: 향수를 불러일으키는 장면을 위한 Nano Banana Pro 프롬프트
+### No. 58: 향수를 불러일으키는 장면을 위한 Nano Banana Pro 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2287,7 +3635,7 @@ Nano Banana Pro와 함께 사용된 간단한 프롬프트로, 집, 희망, 그�
 
 ---
 
-### No. 32: 치즈 크래커 프롬프트와 함께하는 자동차 셀카
+### No. 59: 치즈 크래커 프롬프트와 함께하는 자동차 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2344,7 +3692,7 @@ Nano Banana Pro와 함께 사용된 간단한 프롬프트로, 집, 희망, 그�
 
 ---
 
-### No. 33: 이미지 편집 프롬프트: 캐릭터 뒤에 플레이하우스 추가
+### No. 60: 이미지 편집 프롬프트: 캐릭터 뒤에 플레이하우스 추가
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2383,7 +3731,7 @@ Nano Banana Pro와 함께 사용된 간단한 프롬프트로, 집, 희망, 그�
 
 ---
 
-### No. 34: Nano Banana Pro를 위한 초현실적인 인물 사진 프롬프트 상세 가이드
+### No. 61: Nano Banana Pro를 위한 초현실적인 인물 사진 프롬프트 상세 가이드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2465,7 +3813,7 @@ Nano Banana Pro를 위한 고도로 구조화되고 상세한 프롬프트로, �
 
 ---
 
-### No. 35: 90년대 만화 리얼리즘 스타일 수정자
+### No. 62: 90년대 만화 리얼리즘 스타일 수정자
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2504,7 +3852,7 @@ Nano Banana Pro 프롬프트에 'literal realism cartoon style'이라는 문구�
 
 ---
 
-### No. 36: 양식화된 3D 캐리커처를 위한 이미지 생성 프롬프트
+### No. 63: 양식화된 3D 캐리커처를 위한 이미지 생성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2543,7 +3891,7 @@ Nano Banana Pro 프롬프트에 'literal realism cartoon style'이라는 문구�
 
 ---
 
-### No. 37: Canon IXUS 미학적 인물 사진을 위한 상세 JSON 프롬프트
+### No. 64: Canon IXUS 미학적 인물 사진을 위한 상세 JSON 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2626,7 +3974,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 38: 단일 이미지에서 여러 각도 그리드 생성
+### No. 65: 단일 이미지에서 여러 각도 그리드 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2659,7 +4007,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 39: 어반 애슬레저 인물 사진을 위한 상세한 프랑스어 프롬프트
+### No. 66: 어반 애슬레저 인물 사진을 위한 상세한 프랑스어 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2692,7 +4040,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 40: 시네마틱 겨울 셀카 인물 사진을 위한 상세 JSON 프롬프트
+### No. 67: 시네마틱 겨울 셀카 인물 사진을 위한 상세 JSON 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2778,7 +4126,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 41: 어린이 친화적인 일상생활 포스터 프롬프트
+### No. 68: 어린이 친화적인 일상생활 포스터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2811,7 +4159,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 42: 시네마틱 스토리보드 생성 프롬프트
+### No. 69: 시네마틱 스토리보드 생성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2844,7 +4192,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 43: 2000년대 아날로그 필름 콘택트 시트 인물 사진 프롬프트
+### No. 70: 2000년대 아날로그 필름 콘택트 시트 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2887,7 +4235,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 44: 업로드된 이미지로 3D 캐리커처를 만드는 프롬프트
+### No. 71: 업로드된 이미지로 3D 캐리커처를 만드는 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2926,7 +4274,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 45: 자동차 셀카 인물 사진을 위한 상세 JSON 프롬프트
+### No. 72: 자동차 셀카 인물 사진을 위한 상세 JSON 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3013,7 +4361,7 @@ Canon IXUS 똑딱이 카메라 미학을 사용하여 극사실적인 인물 사
 
 ---
 
-### No. 46: YouTube 자막 기본 생성 프롬프트
+### No. 73: YouTube 자막 기본 생성 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3098,7 +4446,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 47: LINE 스티커 생성 프롬프트
+### No. 74: LINE 스티커 생성 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3163,7 +4511,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 48: 신카이 마코토 스타일의 시네마틱 하늘 배경 일러스트
+### No. 75: 신카이 마코토 스타일의 시네마틱 하늘 배경 일러스트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3211,7 +4559,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 49: 캐릭터 드로잉을 위한 아동 도서 일러스트 스타일 프롬프트
+### No. 76: 캐릭터 드로잉을 위한 아동 도서 일러스트 스타일 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3287,7 +4635,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 50: 시네마틱 2026년 달력 포스터 프롬프트
+### No. 77: 시네마틱 2026년 달력 포스터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3323,7 +4671,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 51: 셀카를 전문가용 증명사진으로 바꾸는 프롬프트
+### No. 78: 셀카를 전문가용 증명사진으로 바꾸는 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3368,7 +4716,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 52: 커스텀 중2병 캐릭터를 위한 페르소나 5 스타일 팝아트 애니메이션 포스터
+### No. 79: 커스텀 중2병 캐릭터를 위한 페르소나 5 스타일 팝아트 애니메이션 포스터
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3418,7 +4766,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 53: 만화 패널 이미지 편집 프롬프트: 카츠 카레 장면
+### No. 80: 만화 패널 이미지 편집 프롬프트: 카츠 카레 장면
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3460,7 +4808,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 54: Nano Banana Pro를 사용한 전단지 재디자인 프롬프트
+### No. 81: Nano Banana Pro를 사용한 전단지 재디자인 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3511,7 +4859,7 @@ Nano Banana Pro용으로 설계된 포괄적인 프롬프트로, 비즈니스, �
 
 ---
 
-### No. 55: 젊은 여성의 소형 디지털 카메라 화면 스냅샷
+### No. 82: 젊은 여성의 소형 디지털 카메라 화면 스냅샷
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3555,7 +4903,7 @@ ISO: 400
 
 ---
 
-### No. 56: Nano Banana Pro로 영화 캐릭터와 어안 셀카 찍기
+### No. 83: Nano Banana Pro로 영화 캐릭터와 어안 셀카 찍기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3611,7 +4959,7 @@ ISO: 400
 
 ---
 
-### No. 57: Y2K 스타일 손글씨 갸루 엽서 오버레이 프롬프트
+### No. 84: Y2K 스타일 손글씨 갸루 엽서 오버레이 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3651,7 +4999,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 58: 간단한 크리스마스 강아지 및 산타 이미지 프롬프트
+### No. 85: 간단한 크리스마스 강아지 및 산타 이미지 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3696,7 +5044,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 59: Sora 비디오 프롬프트: Macho Meal 맥도날드 광고
+### No. 86: Sora 비디오 프롬프트: Macho Meal 맥도날드 광고
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3736,7 +5084,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 60: 커플 MacBook 화면 셀카 시뮬레이션 프롬프트
+### No. 87: 커플 MacBook 화면 셀카 시뮬레이션 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3835,7 +5183,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 61: Nano Banana Pro용 일본 이자카야 입구 간판 이미지 프롬프트
+### No. 88: Nano Banana Pro용 일본 이자카야 입구 간판 이미지 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3878,7 +5226,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 62: 세 가지 포즈의 애니메이션 소녀 일관성 프롬프트
+### No. 89: 세 가지 포즈의 애니메이션 소녀 일관성 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3918,7 +5266,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 63: 캐릭터 디자인 표현 스타일 가이드 프롬프트
+### No. 90: 캐릭터 디자인 표현 스타일 가이드 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3951,7 +5299,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 64: 3D 페이퍼컷 라이트박스 일러스트레이션 프레임워크
+### No. 91: 3D 페이퍼컷 라이트박스 일러스트레이션 프레임워크
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4032,7 +5380,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 65: 말라가 거리 카페의 사실적인 아이폰 풍경
+### No. 92: 말라가 거리 카페의 사실적인 아이폰 풍경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4072,7 +5420,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 66: 녹색 눈과 니트 스웨터를 입은 시네마틱 클로즈업 인물 사진
+### No. 93: 녹색 눈과 니트 스웨터를 입은 시네마틱 클로즈업 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4105,7 +5453,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 67: GoPro 스타일 익스트림 스포츠 셀카 프롬프트
+### No. 94: GoPro 스타일 익스트림 스포츠 셀카 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4145,7 +5493,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 68: 파리 마레 지구 카페 테라스 인물 사진 프롬프트
+### No. 95: 파리 마레 지구 카페 테라스 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4184,7 +5532,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 69: 브라운 미니 드레스를 입은 우아한 여성 인물 사진 프롬프트
+### No. 96: 브라운 미니 드레스를 입은 우아한 여성 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4225,7 +5573,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 70: 골든 아워 옥상 인물 사진 프롬프트
+### No. 97: 골든 아워 옥상 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4264,7 +5612,7 @@ POSCA 마커로 쓴 듯한, 기발하고 손으로 그린 텍스트와 그림을
 
 ---
 
-### No. 71: Nano Banana Pro 찢어진 종이 스타일 전환 편집 프롬프트
+### No. 98: Nano Banana Pro 찢어진 종이 스타일 전환 편집 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4380,7 +5728,7 @@ interior_style:
 
 ---
 
-### No. 72: 나노 바나나 프로 밈 스타일 의류 컷 라인 일러스트레이션 프롬프트
+### No. 99: 나노 바나나 프로 밈 스타일 의류 컷 라인 일러스트레이션 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4450,7 +5798,7 @@ interior_style:
 
 ---
 
-### No. 73: Nano Banana Pro용 스노우 글로브 캐릭터 일러스트 프롬프트
+### No. 100: Nano Banana Pro용 스노우 글로브 캐릭터 일러스트 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -4510,7 +5858,7 @@ interior_style:
 
 ---
 
-### No. 74: Nano Banana Pro의 일반 및 깊이 맵 생성 프롬프트
+### No. 101: Nano Banana Pro의 일반 및 깊이 맵 생성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4569,7 +5917,7 @@ WebGL 또는 Three.js를 통해 3D 스타일 뷰잉에 적합하도록, 입력�
 
 ---
 
-### No. 75: 간단한 사진 업스케일링 및 복구 프롬프트
+### No. 102: 간단한 사진 업스케일링 및 복구 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4608,7 +5956,7 @@ WebGL 또는 Three.js를 통해 3D 스타일 뷰잉에 적합하도록, 입력�
 
 ---
 
-### No. 76: NotebookLM을 위한 깔끔하고 평면적인 슬라이드 디자인 스타일 가이드
+### No. 103: NotebookLM을 위한 깔끔하고 평면적인 슬라이드 디자인 스타일 가이드
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4665,7 +6013,7 @@ Nano Banana Pro를 위한 일본 스타일 프롬프트로, 특정 색상, 윤�
 
 ---
 
-### No. 77: 세련된 젊은 여성을 위한 거울 셀카 슬라이드쇼 프롬프트
+### No. 104: 세련된 젊은 여성을 위한 거울 셀카 슬라이드쇼 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4765,7 +6113,7 @@ Nano Banana Pro를 위한 일본 스타일 프롬프트로, 특정 색상, 윤�
 
 ---
 
-### No. 78: 만화 드론 스타일 Google 지도 항공 일러스트 프롬프트
+### No. 105: 만화 드론 스타일 Google 지도 항공 일러스트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4804,7 +6152,7 @@ Google 지도 또는 Google 어스 항공 스크린샷을 작은 인물과 잡�
 
 ---
 
-### No. 79: 어두운 방에 있는 젊은 여성의 로우 앵글 양식화된 초상화
+### No. 106: 어두운 방에 있는 젊은 여성의 로우 앵글 양식화된 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4899,7 +6247,7 @@ Google 지도 또는 Google 어스 항공 스크린샷을 작은 인물과 잡�
 
 ---
 
-### No. 80: 담요 위에서 몽상에 잠긴 소녀의 초현실적인 16K 셀카 보정본
+### No. 107: 담요 위에서 몽상에 잠긴 소녀의 초현실적인 16K 셀카 보정본
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4933,7 +6281,7 @@ Google 지도 또는 Google 어스 항공 스크린샷을 작은 인물과 잡�
 
 ---
 
-### No. 81: 매우 섬세한 8K 아침 정물 책상 장면 프롬프트
+### No. 108: 매우 섬세한 8K 아침 정물 책상 장면 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4978,7 +6326,7 @@ Google 지도 또는 Google 어스 항공 스크린샷을 작은 인물과 잡�
 
 ---
 
-### No. 82: 남성 인물 스튜디오 인물 사진 파라미터 스타일 프롬프트
+### No. 109: 남성 인물 스튜디오 인물 사진 파라미터 스타일 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5043,7 +6391,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 83: 도쿄 팝업 아틀라스 장면을 위한 제품 사진 프롬프트
+### No. 110: 도쿄 팝업 아틀라스 장면을 위한 제품 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5077,7 +6425,7 @@ render quality = "{argument name="render quality" default="ultra_hd"}"
 
 ---
 
-### No. 84: 초현실적인 iPhone 스타일 AI 인플루언서를 위한 시스템 JSON 프롬프트 템플릿
+### No. 111: 초현실적인 iPhone 스타일 AI 인플루언서를 위한 시스템 JSON 프롬프트 템플릿
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5185,7 +6533,7 @@ Nano Banana Pro를 사용하여 초현실적인 모바일 사진 인플루언서
 
 ---
 
-### No. 85: JSON Nano Banana Pro 스팀펑크 식물학자 작업대 프롬프트
+### No. 112: JSON Nano Banana Pro 스팀펑크 식물학자 작업대 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5235,41 +6583,7 @@ Nano Banana Pro를 사용하여 초현실적인 모바일 사진 인플루언서
 
 ---
 
-### No. 86: 채소 레터링 챌린지 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Nano Banana Pro에게 채소 질감만으로 HARVEST라는 단어를 철자하도록 요청하는 간결한 크리에이티브 챌린지 프롬프트입니다. 타이포그래피 및 재료 렌더링 테스트에 유용합니다.
-
-#### 📝 프롬프트
-
-```
-채소 질감만 사용해서 {argument name="word in English" default="HARVEST"}라는 단어의 철자를 만들어 보세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909168933_nqf49v_04S9vNQIoznRyZDI.jpg" width="600" alt="채소 레터링 챌린지 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [EyeingAI](https://x.com/EyeingAI)
-- **출처:** [Twitter Post](https://x.com/EyeingAI/status/1995861596992930026)
-- **게시일:** 2025년 12월 2일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%B1%84%EC%86%8C%20%EC%A7%88%EA%B0%90%EB%A7%8C%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20%7Bargument%20name%3D%22word%20in%20English%22%20default%3D%22HARVEST%22%7D%EB%9D%BC%EB%8A%94%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%EC%B2%A0%EC%9E%90%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%B3%B4%EC%84%B8%EC%9A%94.)**
-
----
-
-### No. 87: 젊은 여성의 세련된 스트리트웨어 인물 사진을 위한 구조화된 JSON 프롬프트
+### No. 113: 젊은 여성의 세련된 스트리트웨어 인물 사진을 위한 구조화된 JSON 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5342,7 +6656,7 @@ Nano Banana Pro에게 채소 질감만으로 HARVEST라는 단어를 철자하�
 
 ---
 
-### No. 88: 3D 치비 미니어처 여행지 콘셉트 프롬프트
+### No. 114: 3D 치비 미니어처 여행지 콘셉트 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5394,7 +6708,7 @@ Nano Banana Pro에게 채소 질감만으로 HARVEST라는 단어를 철자하�
 
 ---
 
-### No. 89: 3D 치비 컨셉 스토어 브랜드 프롬프트
+### No. 115: 3D 치비 컨셉 스토어 브랜드 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5427,7 +6741,7 @@ Nano Banana Pro에게 채소 질감만으로 HARVEST라는 단어를 철자하�
 
 ---
 
-### No. 90: 참고 이미지를 사실적인 크리스마스 케이크로 바꾸기
+### No. 116: 참고 이미지를 사실적인 크리스마스 케이크로 바꾸기
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5472,7 +6786,7 @@ Nano Banana Pro를 위한 간단한 이미지-투-이미지 프롬프트입니�
 
 ---
 
-### No. 91: 우주 물체 테마의 영화 같은 호숫가 흔들의자 콘셉트 프롬프트
+### No. 117: 우주 물체 테마의 영화 같은 호숫가 흔들의자 콘셉트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5524,7 +6838,7 @@ Nano Banana Pro를 위한 간단한 이미지-투-이미지 프롬프트입니�
 
 ---
 
-### No. 92: 자연스러운 인스타그램 스타일의 자동차 셀카 프롬프트
+### No. 118: 자연스러운 인스타그램 스타일의 자동차 셀카 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5572,7 +6886,7 @@ Nano Banana Pro를 위한 간단한 이미지-투-이미지 프롬프트입니�
 
 ---
 
-### No. 93: 새벽의 거대한 전함 일러스트 프롬프트
+### No. 119: 새벽의 거대한 전함 일러스트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5605,7 +6919,7 @@ Nano Banana Pro를 위한 간단한 이미지-투-이미지 프롬프트입니�
 
 ---
 
-### No. 94: 단색 배경에 3D 엠보싱 브랜드 로고
+### No. 120: 단색 배경에 3D 엠보싱 브랜드 로고
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5647,7 +6961,7 @@ Nano Banana Pro를 위한 간단한 이미지-투-이미지 프롬프트입니�
 
 ---
 
-### No. 95: 실사 얼굴을 위한 JSON 스타일 Nano Banana Pro 프롬프트
+### No. 121: 실사 얼굴을 위한 JSON 스타일 Nano Banana Pro 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5715,7 +7029,7 @@ Nano Banana Pro를 위한 간단한 이미지-투-이미지 프롬프트입니�
 
 ---
 
-### No. 96: 바구니에 담긴 포도 이미지 프롬프트
+### No. 122: 바구니에 담긴 포도 이미지 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5755,41 +7069,7 @@ Nano Banana Pro를 위한 간단한 이미지-투-이미지 프롬프트입니�
 
 ---
 
-### No. 97: 올리브 오일 소셜 미디어 피드 생성 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Nano Banana Pro가 초현실적인 제품 사진과 라벨을 만드는 데 사용한, 소규모 올리브 오일 브랜드의 전체 소셜 미디어 피드를 생성하기 위한 텍스트 프롬프트.
-
-#### 📝 프롬프트
-
-```
-이 {argument name="brand type in English" default="소규모 올리브 오일 브랜드"}를 위한 소셜 미디어 피드를 만들어 주세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909178669_ywr3is_gkAfLJuI96xTwChD.jpg" width="600" alt="올리브 오일 소셜 미디어 피드 생성 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Aakash Verma](https://x.com/VermaAakash3)
-- **출처:** [Twitter Post](https://x.com/VermaAakash3/status/1995730717758947616)
-- **게시일:** 2025년 12월 2일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9D%B4%20%7Bargument%20name%3D%22brand%20type%20in%20English%22%20default%3D%22%EC%86%8C%EA%B7%9C%EB%AA%A8%20%EC%98%AC%EB%A6%AC%EB%B8%8C%20%EC%98%A4%EC%9D%BC%20%EB%B8%8C%EB%9E%9C%EB%93%9C%22%7D%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%86%8C%EC%85%9C%20%EB%AF%B8%EB%94%94%EC%96%B4%20%ED%94%BC%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.)**
-
----
-
-### No. 98: 3D 치비 미니어처 브랜드 콘셉트 스토어 프롬프트
+### No. 123: 3D 치비 미니어처 브랜드 콘셉트 스토어 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5841,7 +7121,7 @@ Nano Banana Pro가 초현실적인 제품 사진과 라벨을 만드는 데 사�
 
 ---
 
-### No. 99: Nano Banana Pro용 광고 교체 및 브랜드 적용 프롬프트
+### No. 124: Nano Banana Pro용 광고 교체 및 브랜드 적용 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5899,7 +7179,7 @@ Nano Banana Pro가 초현실적인 제품 사진과 라벨을 만드는 데 사�
 
 ---
 
-### No. 100: Nano Banana Pro에서 참조 얼굴을 사용하여 영화 캐릭터와 셀카 찍기
+### No. 125: Nano Banana Pro에서 참조 얼굴을 사용하여 영화 캐릭터와 셀카 찍기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5953,7 +7233,7 @@ Nano Banana Pro가 초현실적인 제품 사진과 라벨을 만드는 데 사�
 
 ---
 
-### No. 101: Nano Banana Pro용 컬러링북 라인 아트 프롬프트
+### No. 126: Nano Banana Pro용 컬러링북 라인 아트 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6005,7 +7285,7 @@ Nano Banana Pro가 초현실적인 제품 사진과 라벨을 만드는 데 사�
 
 ---
 
-### No. 102: 콜롬비아 페레이라를 배경으로 한 옛 책 속 중세 겨울 풍경
+### No. 127: 콜롬비아 페레이라를 배경으로 한 옛 책 속 중세 겨울 풍경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6041,7 +7321,7 @@ Nano Banana Pro가 초현실적인 제품 사진과 라벨을 만드는 데 사�
 
 ---
 
-### No. 103: Rorona 스타일의 Nano Banana Pro / Gemini 고정 캐릭터 프롬프트
+### No. 128: Rorona 스타일의 Nano Banana Pro / Gemini 고정 캐릭터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6085,7 +7365,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 104: 도시에서 가장 높은 건물 3D 만화 쇼케이스 프롬프트
+### No. 129: 도시에서 가장 높은 건물 3D 만화 쇼케이스 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6134,7 +7414,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 105: 20세기 중반 전쟁 보도사진 스타일 프레임워크
+### No. 130: 20세기 중반 전쟁 보도사진 스타일 프레임워크
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6191,7 +7471,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 106: 역사적 유명인 셀카 장면 프롬프트 (마이클 잭슨과 조지 W. 부시)
+### No. 131: 역사적 유명인 셀카 장면 프롬프트 (마이클 잭슨과 조지 W. 부시)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6224,7 +7504,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 107: Nano Banana Pro를 위한 9분할 인스타그램 세로형 변형 프롬프트
+### No. 132: Nano Banana Pro를 위한 9분할 인스타그램 세로형 변형 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6264,7 +7544,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 108: Nano Banana Pro용 침대 위 셀카 JSON 프롬프트
+### No. 133: Nano Banana Pro용 침대 위 셀카 JSON 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6355,7 +7635,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 109: 바이럴 썸네일: 신나게 가리키는 모습, 아보카도 토스트, "3분 만에 완성!"
+### No. 134: 바이럴 썸네일: 신나게 가리키는 모습, 아보카도 토스트, "3분 만에 완성!"
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6401,7 +7681,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 110: Nano Banana Pro를 위한 카페 데이트 POV 프로필 사진 프롬프트
+### No. 135: Nano Banana Pro를 위한 카페 데이트 POV 프로필 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6495,7 +7775,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 111: Nano Banana Pro용 JSON 차량 내 셀카 미러 프롬프트
+### No. 136: Nano Banana Pro용 JSON 차량 내 셀카 미러 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6563,7 +7843,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 112: Nano Banana Pro를 위한 미니멀리즘 사색 부두 장면 프롬프트
+### No. 137: Nano Banana Pro를 위한 미니멀리즘 사색 부두 장면 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6597,7 +7877,7 @@ Nano Banana Pro 또는 Gemini에서 프레임 전반에 걸쳐 일관되게 사�
 
 ---
 
-### No. 113: Nano Banana Pro용 성자와 악마 이중 캐릭터 프롬프트
+### No. 138: Nano Banana Pro용 성자와 악마 이중 캐릭터 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6647,7 +7927,7 @@ Nano Banana Pro의 캐릭터-Gem 실험을 위해 성인과 악마라는 두 가
 
 ---
 
-### No. 114: Nano Banana Pro용 계절 숲 콜라주 캐릭터 프롬프트
+### No. 139: Nano Banana Pro용 계절 숲 콜라주 캐릭터 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6681,7 +7961,7 @@ Nano Banana Pro의 캐릭터-Gem 실험을 위해 성인과 악마라는 두 가
 
 ---
 
-### No. 115: Nano Banana Pro용 9분할 일본식 포토북 레이아웃 프롬프트
+### No. 140: Nano Banana Pro용 9분할 일본식 포토북 레이아웃 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6733,7 +8013,7 @@ Nano Banana Pro의 캐릭터-Gem 실험을 위해 성인과 악마라는 두 가
 
 ---
 
-### No. 116: Nano Banana Pro를 사용하여 3x3 이미지 그리드에서 단일 패널 추출
+### No. 141: Nano Banana Pro를 사용하여 3x3 이미지 그리드에서 단일 패널 추출
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6779,7 +8059,7 @@ Nano Banana Pro의 캐릭터-Gem 실험을 위해 성인과 악마라는 두 가
 
 ---
 
-### No. 117: 다이렉트 플래시 게이머 걸 Nano Banana Pro JSON 태그 프롬프트
+### No. 142: 다이렉트 플래시 게이머 걸 Nano Banana Pro JSON 태그 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6831,7 +8111,7 @@ Nano Banana Pro의 캐릭터-Gem 실험을 위해 성인과 악마라는 두 가
 
 ---
 
-### No. 118: 2단계 Nano Banana Pro 이미지 개선 프롬프트
+### No. 143: 2단계 Nano Banana Pro 이미지 개선 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6873,7 +8153,7 @@ Nano Banana Pro를 위한 간단한 2단계 워크플로우 프롬프트: 먼저
 
 ---
 
-### No. 119: 12개 이미지로 구성된 인스타그램 피드 캐릭터 미학 프롬프트
+### No. 144: 12개 이미지로 구성된 인스타그램 피드 캐릭터 미학 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6913,7 +8193,7 @@ Nano Banana Pro를 위한 간단한 2단계 워크플로우 프롬프트: 먼저
 
 ---
 
-### No. 120: 솔직한 침실 인물 사진 프롬프트 구조
+### No. 145: 솔직한 침실 인물 사진 프롬프트 구조
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6946,7 +8226,7 @@ Nano Banana Pro를 위한 간단한 2단계 워크플로우 프롬프트: 먼저
 
 ---
 
-### No. 121: Nano Banana Pro를 위한 시네마틱 침실 자화상 프롬프트
+### No. 146: Nano Banana Pro를 위한 시네마틱 침실 자화상 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7006,7 +8286,7 @@ Nano Banana Pro를 위한 간단한 2단계 워크플로우 프롬프트: 먼저
 
 ---
 
-### No. 122: Nano Banana Pro용 펠트 장난감 캐릭터 프롬프트
+### No. 147: Nano Banana Pro용 펠트 장난감 캐릭터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7060,7 +8340,7 @@ Nano Banana Pro를 위한 간단한 2단계 워크플로우 프롬프트: 먼저
 
 ---
 
-### No. 123: Nano Banana Pro용 수묵화 외로운 배 프롬프트
+### No. 148: Nano Banana Pro용 수묵화 외로운 배 프롬프트
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -7096,7 +8376,7 @@ Simplified text (Korean (한국어) only, no explanation):
 
 ---
 
-### No. 124: 중학생, 역사 교과서 페이지에 낙서
+### No. 149: 중학생, 역사 교과서 페이지에 낙서
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -7147,7 +8427,7 @@ Simplified text (Korean (한국어) only, no explanation):
 
 ---
 
-### No. 125: 영화 같은 비 내리는 도시 장면 JSON 프롬프트
+### No. 150: 영화 같은 비 내리는 도시 장면 JSON 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -7186,1409 +8466,13 @@ Simplified text (Korean (한국어) only, no explanation):
 
 ---
 
-### No. 126: 하나의 입력 이미지로 만든 3×3 시네마틱 스토리보드 콘택트 시트
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 설명
-
-동일한 피사체의 레퍼런스 이미지 하나를 분석하여, 동일한 인물, 의상, 조명을 유지하면서 다양한 샷 타입으로 구성된 일관성 있는 3x3 시네마틱 콘택트 시트를 생성하는 상세한 Nano Banana Pro 지시 프롬프트.
-
-#### 📝 프롬프트
-
-```
-입력 이미지의 전체 구성을 분석합니다. 존재하는 모든 주요 피사체(단일 인물, 그룹/커플, 차량 또는 특정 사물)와 공간적 관계/상호 작용을 식별합니다.
-동일한 환경 내에서 정확히 이 피사체들의 9가지 다른 샷을 보여주는 일관된 3×3 "콘택트 시트" 그리드를 생성합니다.
-콘텐츠에 맞게 표준 영화 촬영 샷 유형을 조정해야 합니다(예: 그룹인 경우 그룹을 함께 유지, 사물인 경우 전체 사물을 프레임에 담기).
-1행 (환경 설정):
-1. 익스트림 롱 샷 (ELS): 광활한 환경 내에서 피사체가 작게 나타납니다.
-2. 롱 샷 (LS): 피사체 또는 그룹 전체가 위에서 아래까지(머리부터 발끝까지 / 바퀴부터 지붕까지) 보입니다.
-3. 미디엄 롱 샷 (아메리칸 샷 / 쓰리쿼터): 무릎 위(인물) 또는 3/4 뷰(사물)로 프레임이 잡힙니다.
-2행 (핵심 범위):
-4. 미디엄 샷 (MS): 허리 위로 프레임이 잡힙니다(또는 사물의 중심부). 상호 작용/액션에 초점을 맞춥니다.
-5. 미디엄 클로즈업 (MCU): 가슴 위로 프레임이 잡힙니다. 주요 피사체를 친밀하게 프레임에 담습니다.
-6. 클로즈업 (CU): 얼굴 또는 사물의 "앞면"에 타이트하게 프레임이 잡힙니다.
-3행 (세부 사항 및 각도):
-7. 익스트림 클로즈업 (ECU): 매크로와 같은 디테일로 주요 특징(눈, 손, 표지판, 질감)에 강렬하게 초점을 맞춥니다.
-8. 로우 앵글 샷 (웜즈 아이): 지면에서 피사체를 올려다봅니다(웅장하고 영웅적인 느낌).
-9. 하이 앵글 샷 (버즈 아이): 위에서 피사체를 내려다봅니다.
-엄격한 일관성을 유지해야 합니다. 동일한 인물/사물, 동일한 의상, 동일한 조명이 9개 패널 모두에 나타나야 합니다. 피사계 심도는 현실적으로 다양하게 적용되어야 합니다(클로즈업 샷에서는 배경 흐림 효과 포함).
-
-9개 패널로 구성된 전문적인 3×3 영화 촬영 스토리보드 그리드를 만듭니다.
-그리드는 입력 이미지의 특정 피사체/장면을 전체 초점 거리 범위에 걸쳐 제시해야 합니다.
-맨 위 행: 넓은 환경 샷, 전신 뷰, 3/4 크롭(무릎 위).
-중간 행: 허리 위 뷰, 가슴 위 뷰, 얼굴/앞면 클로즈업.
-맨 아래 행: 매크로 디테일, 로우 앵글, 하이 앵글.
-모든 프레임은 사진처럼 사실적인 질감, 일관된 영화적 색 보정, 그리고 분석되는 피사체 또는 사물의 수와 유형에 맞춰 조정된 정확한 프레이밍을 가져야 합니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg" width="600" alt="하나의 입력 이미지로 만든 3×3 시네마틱 스토리보드 콘택트 시트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg" width="600" alt="하나의 입력 이미지로 만든 3×3 시네마틱 스토리보드 콘택트 시트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg" width="600" alt="하나의 입력 이미지로 만든 3×3 시네마틱 스토리보드 콘택트 시트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg" width="600" alt="하나의 입력 이미지로 만든 3×3 시네마틱 스토리보드 콘택트 시트 - Image 4">
-</div>
-
-##### Image 5
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg" width="600" alt="하나의 입력 이미지로 만든 3×3 시네마틱 스토리보드 콘택트 시트 - Image 5">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [松果先森](https://x.com/songguoxiansen)
-- **출처:** [Twitter Post](https://x.com/songguoxiansen/status/1994783047825473774)
-- **게시일:** 2025년 11월 29일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9E%85%EB%A0%A5%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EC%A0%84%EC%B2%B4%20%EA%B5%AC%EC%84%B1%EC%9D%84%20%EB%B6%84%EC%84%9D%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%A1%B4%EC%9E%AC%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%A0%20%EC%A3%BC%EC%9A%94%20%ED%94%BC%EC%82%AC%EC%B2%B4(%EB%8B%A8%EC%9D%BC%20%EC%9D%B8%EB%AC%BC%2C%20%EA%B7%B8%EB%A3%B9%2F%EC%BB%A4%ED%94%8C%2C%20%EC%B0%A8%EB%9F%89%20%EB%98%90%EB%8A%94%20%ED%8A%B9%EC%A0%95%20%EC%82%AC%EB%AC%BC)%EC%99%80%20%EA%B3%B5%EA%B0%84%EC%A0%81%20%EA%B4%80%EA%B3%84%2F%EC%83%81%ED%98%B8%20%EC%9E%91%EC%9A%A9%EC%9D%84%20%EC%8B%9D%EB%B3%84%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%EB%8F%99%EC%9D%BC%ED%95%9C%20%ED%99%98%EA%B2%BD%20%EB%82%B4%EC%97%90%EC%84%9C%20%EC%A0%95%ED%99%95%ED%9E%88%20%EC%9D%B4%20%ED%94%BC%EC%82%AC%EC%B2%B4%EB%93%A4%EC%9D%98%209%EA%B0%80%EC%A7%80%20%EB%8B%A4%EB%A5%B8%20%EC%83%B7%EC%9D%84%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EC%9D%BC%EA%B4%80%EB%90%9C%203%C3%973%20%22%EC%BD%98%ED%83%9D%ED%8A%B8%20%EC%8B%9C%ED%8A%B8%22%20%EA%B7%B8%EB%A6%AC%EB%93%9C%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%EC%BD%98%ED%85%90%EC%B8%A0%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%ED%91%9C%EC%A4%80%20%EC%98%81%ED%99%94%20%EC%B4%AC%EC%98%81%20%EC%83%B7%20%EC%9C%A0%ED%98%95%EC%9D%84%20%EC%A1%B0%EC%A0%95%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4(%EC%98%88%3A%20%EA%B7%B8%EB%A3%B9%EC%9D%B8%20%EA%B2%BD%EC%9A%B0%20%EA%B7%B8%EB%A3%B9%EC%9D%84%20%ED%95%A8%EA%BB%98%20%EC%9C%A0%EC%A7%80%2C%20%EC%82%AC%EB%AC%BC%EC%9D%B8%20%EA%B2%BD%EC%9A%B0%20%EC%A0%84%EC%B2%B4%20%EC%82%AC%EB%AC%BC%EC%9D%84%20%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90%20%EB%8B%B4%EA%B8%B0).%0A1%ED%96%89%20(%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95)%3A%0A1.%20%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EB%A1%B1%20%EC%83%B7%20(ELS)%3A%20%EA%B4%91%ED%99%9C%ED%95%9C%20%ED%99%98%EA%B2%BD%20%EB%82%B4%EC%97%90%EC%84%9C%20%ED%94%BC%EC%82%AC%EC%B2%B4%EA%B0%80%20%EC%9E%91%EA%B2%8C%20%EB%82%98%ED%83%80%EB%82%A9%EB%8B%88%EB%8B%A4.%0A2.%20%EB%A1%B1%20%EC%83%B7%20(LS)%3A%20%ED%94%BC%EC%82%AC%EC%B2%B4%20%EB%98%90%EB%8A%94%20%EA%B7%B8%EB%A3%B9%20%EC%A0%84%EC%B2%B4%EA%B0%80%20%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EA%B9%8C%EC%A7%80(%EB%A8%B8%EB%A6%AC%EB%B6%80%ED%84%B0%20%EB%B0%9C%EB%81%9D%EA%B9%8C%EC%A7%80%20%2F%20%EB%B0%94%ED%80%B4%EB%B6%80%ED%84%B0%20%EC%A7%80%EB%B6%95%EA%B9%8C%EC%A7%80)%20%EB%B3%B4%EC%9E%85%EB%8B%88%EB%8B%A4.%0A3.%20%EB%AF%B8%EB%94%94%EC%97%84%20%EB%A1%B1%20%EC%83%B7%20(%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%20%EC%83%B7%20%2F%20%EC%93%B0%EB%A6%AC%EC%BF%BC%ED%84%B0)%3A%20%EB%AC%B4%EB%A6%8E%20%EC%9C%84(%EC%9D%B8%EB%AC%BC)%20%EB%98%90%EB%8A%94%203%2F4%20%EB%B7%B0(%EC%82%AC%EB%AC%BC)%EB%A1%9C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%B4%20%EC%9E%A1%ED%9E%99%EB%8B%88%EB%8B%A4.%0A2%ED%96%89%20(%ED%95%B5%EC%8B%AC%20%EB%B2%94%EC%9C%84)%3A%0A4.%20%EB%AF%B8%EB%94%94%EC%97%84%20%EC%83%B7%20(MS)%3A%20%ED%97%88%EB%A6%AC%20%EC%9C%84%EB%A1%9C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%B4%20%EC%9E%A1%ED%9E%99%EB%8B%88%EB%8B%A4(%EB%98%90%EB%8A%94%20%EC%82%AC%EB%AC%BC%EC%9D%98%20%EC%A4%91%EC%8B%AC%EB%B6%80).%20%EC%83%81%ED%98%B8%20%EC%9E%91%EC%9A%A9%2F%EC%95%A1%EC%85%98%EC%97%90%20%EC%B4%88%EC%A0%90%EC%9D%84%20%EB%A7%9E%EC%B6%A5%EB%8B%88%EB%8B%A4.%0A5.%20%EB%AF%B8%EB%94%94%EC%97%84%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20(MCU)%3A%20%EA%B0%80%EC%8A%B4%20%EC%9C%84%EB%A1%9C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%B4%20%EC%9E%A1%ED%9E%99%EB%8B%88%EB%8B%A4.%20%EC%A3%BC%EC%9A%94%20%ED%94%BC%EC%82%AC%EC%B2%B4%EB%A5%BC%20%EC%B9%9C%EB%B0%80%ED%95%98%EA%B2%8C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90%20%EB%8B%B4%EC%8A%B5%EB%8B%88%EB%8B%A4.%0A6.%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20(CU)%3A%20%EC%96%BC%EA%B5%B4%20%EB%98%90%EB%8A%94%20%EC%82%AC%EB%AC%BC%EC%9D%98%20%22%EC%95%9E%EB%A9%B4%22%EC%97%90%20%ED%83%80%EC%9D%B4%ED%8A%B8%ED%95%98%EA%B2%8C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%B4%20%EC%9E%A1%ED%9E%99%EB%8B%88%EB%8B%A4.%0A3%ED%96%89%20(%EC%84%B8%EB%B6%80%20%EC%82%AC%ED%95%AD%20%EB%B0%8F%20%EA%B0%81%EB%8F%84)%3A%0A7.%20%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20(ECU)%3A%20%EB%A7%A4%ED%81%AC%EB%A1%9C%EC%99%80%20%EA%B0%99%EC%9D%80%20%EB%94%94%ED%85%8C%EC%9D%BC%EB%A1%9C%20%EC%A3%BC%EC%9A%94%20%ED%8A%B9%EC%A7%95(%EB%88%88%2C%20%EC%86%90%2C%20%ED%91%9C%EC%A7%80%ED%8C%90%2C%20%EC%A7%88%EA%B0%90)%EC%97%90%20%EA%B0%95%EB%A0%AC%ED%95%98%EA%B2%8C%20%EC%B4%88%EC%A0%90%EC%9D%84%20%EB%A7%9E%EC%B6%A5%EB%8B%88%EB%8B%A4.%0A8.%20%EB%A1%9C%EC%9A%B0%20%EC%95%B5%EA%B8%80%20%EC%83%B7%20(%EC%9B%9C%EC%A6%88%20%EC%95%84%EC%9D%B4)%3A%20%EC%A7%80%EB%A9%B4%EC%97%90%EC%84%9C%20%ED%94%BC%EC%82%AC%EC%B2%B4%EB%A5%BC%20%EC%98%AC%EB%A0%A4%EB%8B%A4%EB%B4%85%EB%8B%88%EB%8B%A4(%EC%9B%85%EC%9E%A5%ED%95%98%EA%B3%A0%20%EC%98%81%EC%9B%85%EC%A0%81%EC%9D%B8%20%EB%8A%90%EB%82%8C).%0A9.%20%ED%95%98%EC%9D%B4%20%EC%95%B5%EA%B8%80%20%EC%83%B7%20(%EB%B2%84%EC%A6%88%20%EC%95%84%EC%9D%B4)%3A%20%EC%9C%84%EC%97%90%EC%84%9C%20%ED%94%BC%EC%82%AC%EC%B2%B4%EB%A5%BC%20%EB%82%B4%EB%A0%A4%EB%8B%A4%EB%B4%85%EB%8B%88%EB%8B%A4.%0A%EC%97%84%EA%B2%A9%ED%95%9C%20%EC%9D%BC%EA%B4%80%EC%84%B1%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EB%8F%99%EC%9D%BC%ED%95%9C%20%EC%9D%B8%EB%AC%BC%2F%EC%82%AC%EB%AC%BC%2C%20%EB%8F%99%EC%9D%BC%ED%95%9C%20%EC%9D%98%EC%83%81%2C%20%EB%8F%99%EC%9D%BC%ED%95%9C%20%EC%A1%B0%EB%AA%85%EC%9D%B4%209%EA%B0%9C%20%ED%8C%A8%EB%84%90%20%EB%AA%A8%EB%91%90%EC%97%90%20%EB%82%98%ED%83%80%EB%82%98%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%EB%8A%94%20%ED%98%84%EC%8B%A4%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8B%A4%EC%96%91%ED%95%98%EA%B2%8C%20%EC%A0%81%EC%9A%A9%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4(%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20%EC%83%B7%EC%97%90%EC%84%9C%EB%8A%94%20%EB%B0%B0%EA%B2%BD%20%ED%9D%90%EB%A6%BC%20%ED%9A%A8%EA%B3%BC%20%ED%8F%AC%ED%95%A8).%0A%0A9%EA%B0%9C%20%ED%8C%A8%EB%84%90%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%20%EC%A0%84%EB%AC%B8%EC%A0%81%EC%9D%B8%203%C3%973%20%EC%98%81%ED%99%94%20%EC%B4%AC%EC%98%81%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C%20%EA%B7%B8%EB%A6%AC%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.%0A%EA%B7%B8%EB%A6%AC%EB%93%9C%EB%8A%94%20%EC%9E%85%EB%A0%A5%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%ED%8A%B9%EC%A0%95%20%ED%94%BC%EC%82%AC%EC%B2%B4%2F%EC%9E%A5%EB%A9%B4%EC%9D%84%20%EC%A0%84%EC%B2%B4%20%EC%B4%88%EC%A0%90%20%EA%B1%B0%EB%A6%AC%20%EB%B2%94%EC%9C%84%EC%97%90%20%EA%B1%B8%EC%B3%90%20%EC%A0%9C%EC%8B%9C%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%EB%A7%A8%20%EC%9C%84%20%ED%96%89%3A%20%EB%84%93%EC%9D%80%20%ED%99%98%EA%B2%BD%20%EC%83%B7%2C%20%EC%A0%84%EC%8B%A0%20%EB%B7%B0%2C%203%2F4%20%ED%81%AC%EB%A1%AD(%EB%AC%B4%EB%A6%8E%20%EC%9C%84).%0A%EC%A4%91%EA%B0%84%20%ED%96%89%3A%20%ED%97%88%EB%A6%AC%20%EC%9C%84%20%EB%B7%B0%2C%20%EA%B0%80%EC%8A%B4%20%EC%9C%84%20%EB%B7%B0%2C%20%EC%96%BC%EA%B5%B4%2F%EC%95%9E%EB%A9%B4%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.%0A%EB%A7%A8%20%EC%95%84%EB%9E%98%20%ED%96%89%3A%20%EB%A7%A4%ED%81%AC%EB%A1%9C%20%EB%94%94%ED%85%8C%EC%9D%BC%2C%20%EB%A1%9C%EC%9A%B0%20%EC%95%B5%EA%B8%80%2C%20%ED%95%98%EC%9D%B4%20%EC%95%B5%EA%B8%80.%0A%EB%AA%A8%EB%93%A0%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%80%20%EC%82%AC%EC%A7%84%EC%B2%98%EB%9F%BC%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EC%A7%88%EA%B0%90%2C%20%EC%9D%BC%EA%B4%80%EB%90%9C%20%EC%98%81%ED%99%94%EC%A0%81%20%EC%83%89%20%EB%B3%B4%EC%A0%95%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%B6%84%EC%84%9D%EB%90%98%EB%8A%94%20%ED%94%BC%EC%82%AC%EC%B2%B4%20%EB%98%90%EB%8A%94%20%EC%82%AC%EB%AC%BC%EC%9D%98%20%EC%88%98%EC%99%80%20%EC%9C%A0%ED%98%95%EC%97%90%20%EB%A7%9E%EC%B6%B0%20%EC%A1%B0%EC%A0%95%EB%90%9C%20%EC%A0%95%ED%99%95%ED%95%9C%20%ED%94%84%EB%A0%88%EC%9D%B4%EB%B0%8D%EC%9D%84%20%EA%B0%80%EC%A0%B8%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
-
----
-
-### No. 127: Nano Banana Pro를 위한 전문 프로필 사진 프롬프트
-
-![Language-KO](https://img.shields.io/badge/Language-KO-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-입력 이미지에서 Nano Banana Pro를 사용하여 전문적인 고품질 프로필 사진을 생성하기 위한 상세 한국어 프롬프트 템플릿 (프레임, 의상, 배경색, 조명, 렌즈 및 분위기 제어 포함).
-
-#### 📝 프롬프트
-
-```
-입력 이미지 속 인물의 정확한 얼굴 구조, 신원, 주요 특징을 그대로 유지하는 고해상도 전문가 프로필 사진. 인물은 가슴 위까지 프레임에 담고 머리 위 공간(headroom)을 충분히 확보합니다. 인물은 카메라를 정면으로 응시합니다. 은은한 차콜 그레이 색상의 고급스러운 스마트 캐주얼 블레이저를 입히고, 전문 사진 스튜디오 촬영처럼 스타일링합니다. 배경은 "{argument name="background color" default="#562226"}" 색상의 단색 중립 스튜디오 배경입니다. 높은 각도에서 촬영하고, 밝고 통풍이 잘 되는 부드러운 확산 스튜디오 조명을 사용하여 얼굴을 부드럽게 비추고 눈에 미묘한 캐치라이트를 만들어 선명함을 전달합니다. 얕은 피사계 심도를 가진 85mm f/1.8 렌즈를 사용하여 눈에 완벽하게 초점을 맞추고 아름답고 부드러운 보케를 연출합니다. 블레이저의 원단 질감, 머리카락 한 올 한 올, 자연스럽고 사실적인 피부 질감의 선명한 디테일을 포착합니다. 자신감, 전문성, 친근함이 느껴지는 분위기를 연출합니다. 은은한 따뜻함과 균형 잡힌 톤으로 깨끗하고 밝은 시네마틱 색 보정을 적용하여 세련되고 현대적인 느낌을 보장합니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909196159_r2hp0o_G67ej0KbkAAWzN0.jpg" width="600" alt="Nano Banana Pro를 위한 전문 프로필 사진 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909198332_lb4go4_G67ej0JaQAAm4tR.jpg" width="600" alt="Nano Banana Pro를 위한 전문 프로필 사진 프롬프트 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [lucas](https://x.com/lucas_flatwhite)
-- **출처:** [Twitter Post](https://x.com/lucas_flatwhite/status/1994776765349364059)
-- **게시일:** 2025년 11월 29일
-- **언어:** ko
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9E%85%EB%A0%A5%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%86%8D%20%EC%9D%B8%EB%AC%BC%EC%9D%98%20%EC%A0%95%ED%99%95%ED%95%9C%20%EC%96%BC%EA%B5%B4%20%EA%B5%AC%EC%A1%B0%2C%20%EC%8B%A0%EC%9B%90%2C%20%EC%A3%BC%EC%9A%94%20%ED%8A%B9%EC%A7%95%EC%9D%84%20%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94%20%EA%B3%A0%ED%95%B4%EC%83%81%EB%8F%84%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%82%AC%EC%A7%84.%20%EC%9D%B8%EB%AC%BC%EC%9D%80%20%EA%B0%80%EC%8A%B4%20%EC%9C%84%EA%B9%8C%EC%A7%80%20%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90%20%EB%8B%B4%EA%B3%A0%20%EB%A8%B8%EB%A6%AC%20%EC%9C%84%20%EA%B3%B5%EA%B0%84(headroom)%EC%9D%84%20%EC%B6%A9%EB%B6%84%ED%9E%88%20%ED%99%95%EB%B3%B4%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9D%B8%EB%AC%BC%EC%9D%80%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%A0%95%EB%A9%B4%EC%9C%BC%EB%A1%9C%20%EC%9D%91%EC%8B%9C%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9D%80%EC%9D%80%ED%95%9C%20%EC%B0%A8%EC%BD%9C%20%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EC%83%89%EC%83%81%EC%9D%98%20%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%BA%90%EC%A3%BC%EC%96%BC%20%EB%B8%94%EB%A0%88%EC%9D%B4%EC%A0%80%EB%A5%BC%20%EC%9E%85%ED%9E%88%EA%B3%A0%2C%20%EC%A0%84%EB%AC%B8%20%EC%82%AC%EC%A7%84%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%B4%AC%EC%98%81%EC%B2%98%EB%9F%BC%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%22%7Bargument%20name%3D%22background%20color%22%20default%3D%22%23562226%22%7D%22%20%EC%83%89%EC%83%81%EC%9D%98%20%EB%8B%A8%EC%83%89%20%EC%A4%91%EB%A6%BD%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EB%B0%B0%EA%B2%BD%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EB%86%92%EC%9D%80%20%EA%B0%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%B4%AC%EC%98%81%ED%95%98%EA%B3%A0%2C%20%EB%B0%9D%EA%B3%A0%20%ED%86%B5%ED%92%8D%EC%9D%B4%20%EC%9E%98%20%EB%90%98%EB%8A%94%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%ED%99%95%EC%82%B0%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A1%B0%EB%AA%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%96%BC%EA%B5%B4%EC%9D%84%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%20%EB%B9%84%EC%B6%94%EA%B3%A0%20%EB%88%88%EC%97%90%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EC%BA%90%EC%B9%98%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%84%A0%EB%AA%85%ED%95%A8%EC%9D%84%20%EC%A0%84%EB%8B%AC%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%EB%A5%BC%20%EA%B0%80%EC%A7%84%2085mm%20f%2F1.8%20%EB%A0%8C%EC%A6%88%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%88%88%EC%97%90%20%EC%99%84%EB%B2%BD%ED%95%98%EA%B2%8C%20%EC%B4%88%EC%A0%90%EC%9D%84%20%EB%A7%9E%EC%B6%94%EA%B3%A0%20%EC%95%84%EB%A6%84%EB%8B%B5%EA%B3%A0%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%B3%B4%EC%BC%80%EB%A5%BC%20%EC%97%B0%EC%B6%9C%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EB%B8%94%EB%A0%88%EC%9D%B4%EC%A0%80%EC%9D%98%20%EC%9B%90%EB%8B%A8%20%EC%A7%88%EA%B0%90%2C%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%20%ED%95%9C%20%EC%98%AC%20%ED%95%9C%20%EC%98%AC%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B3%A0%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%ED%94%BC%EB%B6%80%20%EC%A7%88%EA%B0%90%EC%9D%98%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EB%94%94%ED%85%8C%EC%9D%BC%EC%9D%84%20%ED%8F%AC%EC%B0%A9%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9E%90%EC%8B%A0%EA%B0%90%2C%20%EC%A0%84%EB%AC%B8%EC%84%B1%2C%20%EC%B9%9C%EA%B7%BC%ED%95%A8%EC%9D%B4%20%EB%8A%90%EA%BB%B4%EC%A7%80%EB%8A%94%20%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC%20%EC%97%B0%EC%B6%9C%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9D%80%EC%9D%80%ED%95%9C%20%EB%94%B0%EB%9C%BB%ED%95%A8%EA%B3%BC%20%EA%B7%A0%ED%98%95%20%EC%9E%A1%ED%9E%8C%20%ED%86%A4%EC%9C%BC%EB%A1%9C%20%EA%B9%A8%EB%81%97%ED%95%98%EA%B3%A0%20%EB%B0%9D%EC%9D%80%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%20%EC%83%89%20%EB%B3%B4%EC%A0%95%EC%9D%84%20%EC%A0%81%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%84%B8%EB%A0%A8%EB%90%98%EA%B3%A0%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EB%B3%B4%EC%9E%A5%ED%95%A9%EB%8B%88%EB%8B%A4.)**
-
----
-
-### No. 128: 이미지 및 다이어그램을 위한 YAML 프롬프트 변환
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-주어진 이미지, 사진 또는 다이어그램을 크기 및 세부 정보를 포함한 구조화된 YAML 프롬프트로 변환하여 코드 블록으로 출력하도록 모델에 지시하는 Nano Banana Pro 지침 프롬프트.
-
-#### 📝 프롬프트
-
-```
-- text: "Convert this into a YAML prompt, including the image size and all visual details, and output it inside a code box."
-  language: "en"
-- text: "이것을 이미지 크기와 모든 시각적 세부 사항을 포함하는 YAML 프롬프트로 변환하고, 코드 상자 안에 출력하세요."
-  language: "ko"
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577566138_041vou_G67R84uaoAAb33m.jpg" width="600" alt="이미지 및 다이어그램을 위한 YAML 프롬프트 변환 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [テツメモ｜AI図解×検証｜Newsletter](https://x.com/tetumemo)
-- **출처:** [Twitter Post](https://x.com/tetumemo/status/1994765066198290751)
-- **게시일:** 2025년 11월 29일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=-%20text%3A%20%22Convert%20this%20into%20a%20YAML%20prompt%2C%20including%20the%20image%20size%20and%20all%20visual%20details%2C%20and%20output%20it%20inside%20a%20code%20box.%22%0A%20%20language%3A%20%22en%22%0A-%20text%3A%20%22%EC%9D%B4%EA%B2%83%EC%9D%84%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%AC%EA%B8%B0%EC%99%80%20%EB%AA%A8%EB%93%A0%20%EC%8B%9C%EA%B0%81%EC%A0%81%20%EC%84%B8%EB%B6%80%20%EC%82%AC%ED%95%AD%EC%9D%84%20%ED%8F%AC%ED%95%A8%ED%95%98%EB%8A%94%20YAML%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B3%A0%2C%20%EC%BD%94%EB%93%9C%20%EC%83%81%EC%9E%90%20%EC%95%88%EC%97%90%20%EC%B6%9C%EB%A0%A5%ED%95%98%EC%84%B8%EC%9A%94.%22%0A%20%20language%3A%20%22ko%22)**
-
----
-
-### No. 129: 참조 일치 여성 인물 JSON 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-참조 이미지와 완벽하게 동일한 여성을 재현하는 데 중점을 둔 Nano Banana Pro JSON 스타일 프롬프트로, 100% 얼굴 특징 및 골격 일치로 그녀의 정체성을 보존합니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "image_description": {
-    "identity": {
-      "preserve_face": true,
-      "reference_match": true,
-      "description": "참조 이미지에 보이는 여성의 얼굴 특징과 골격을 100% 동일하게 정확히 재현합니다."
-    }
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577187204_54fdgj_G66s0h2bkAIW6PV.jpg" width="600" alt="참조 일치 여성 인물 JSON 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Eyisha Zyer](https://x.com/eyishazyer)
-- **출처:** [Twitter Post](https://x.com/eyishazyer/status/1994724289623593011)
-- **게시일:** 2025년 11월 29일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_description%22%3A%20%7B%0A%20%20%20%20%22identity%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_face%22%3A%20true%2C%0A%20%20%20%20%20%20%22reference_match%22%3A%20true%2C%0A%20%20%20%20%20%20%22description%22%3A%20%22%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%EC%97%AC%EC%84%B1%EC%9D%98%20%EC%96%BC%EA%B5%B4%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EA%B3%A8%EA%B2%A9%EC%9D%84%20100%25%20%EB%8F%99%EC%9D%BC%ED%95%98%EA%B2%8C%20%EC%A0%95%ED%99%95%ED%9E%88%20%EC%9E%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 130: 럭셔리 해변 호텔 테라스 인물 사진 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-럭셔리 해변 호텔 테라스에서 저녁 식사를 하는 여성의 초현실적인 초상화를 위한 복잡한 Nano Banana Pro 프롬프트로, 엄격한 레퍼런스 매칭, 액세서리, 소품, 조명, 분위기가 완벽하게 지정되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "project": "극사실주의 인물 사진",
-  "reference_settings": {
-    "use_reference_image": true,
-    "fidelity_strength": "{argument name=\"reference fidelity\" default=\"100%\"}",
-    "instruction": "얼굴과 의상은 어떠한 변경도 없이 참조 사진과 100% 일치해야 합니다."
-  },
-  "subject": {
-    "demographics": "{argument name=\"subject gender\" default=\"Woman\"}",
-    "focus_features": ["눈", "코", "입술"],
-    "expression": "미소 짓는, 귀여운, 신선한, 몽환적인, 약간 관능적인",
-    "pose": "하얀 테이블에 앉아 양손으로 턱을 괴고 살짝 몸을 돌린 자세",
-    "hair": {
-      "style": "직모, 큰 상투",
-      "accessory": "의상과 어울리는 리본",
-      "texture": "부드러운 레이어드, 얼굴에 자연스럽게 떨어지는 느슨한 머리카락",
-      "movement": "바람에 살짝 날리는"
-    },
-    "makeup": {
-      "cheeks": "볼과 코에 자연스러운 블러셔",
-      "lips": "도톰한 입술, 부드러운 핑크-피치 톤"
-    }
-  },
-  "fashion_and_accessories": {
-    "outfit": "참조 이미지와 정확히 일치",
-    "shoes": "하이힐 (참조 이미지와 일치)",
-    "bag": "참조 사진과 동일한 가방",
-    "jewelry": {
-      "necklace": "하트, 초승달, 구찌 펜던트가 번갈아 있는 얇은 금 목걸이",
-      "bracelet": "참이 달린 섬세한 구찌 팔찌",
-      "rings": "금반지",
-      "watch": "스틸 밴드 파텍 필립 시계",
-      "earrings": "작은 금색 구찌 귀걸이"
-    }
-  },
-  "environment": {
-    "location": "럭셔리 호텔 테라스 / 해변",
-    "time_of_day_options": [
-      "옵션 A: 깊고 푸른 저녁 하늘, 별, 별똥별, 달빛",
-      "옵션 B: 이른 일출, 주황-노랑색 하늘 톤"
-    ],
-    "background_elements": [
-      "럭셔리 호텔의 따뜻한 반사광",
-      "잔잔한 바다 풍경"
-    ]
-  },
-  "props": {
-    "table_setting": "하얀 테이블",
-    "items": [
-      "하얀 장미 한 송이가 꽂힌 유리잔",
-      "와인잔",
-      "와인병",
-      "나이프와 포크가 놓인 접시 세트",
-      "중앙에 놓인 큰 티본 스테이크",
-      "캔들 글라스 (따뜻한 하이라이트 추가)"
-    ]
-  },
-  "photography_style": {
-    "aesthetic": "2000년대 디지털 카메라 플래시 스타일",
-    "lighting": "사실적인 플래시 밝기, 따뜻한 톤, 피부에 약간의 광택",
-    "mood": "편안한, 따뜻한, 향수를 불러일으키는, 세련된, 우아한, 약간 섹시한",
-    "shot_type": "클로즈업 인물 사진"
-  },
-  "technical_parameters": {
-    "aspect_ratio": "{argument name=\"aspect ratio\" default=\"3:4\"}",
-    "detail_level": "{argument name=\"detail level\" default=\"8k\"}",
-    "style_tags": ["사진", "사실적인", "플래시 사진"]
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg" width="600" alt="럭셔리 해변 호텔 테라스 인물 사진 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Alejo](https://x.com/ecommartinez)
-- **출처:** [Twitter Post](https://x.com/ecommartinez/status/1994722200394633230)
-- **게시일:** 2025년 11월 29일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project%22%3A%20%22%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A3%BC%EC%9D%98%20%EC%9D%B8%EB%AC%BC%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%22reference_settings%22%3A%20%7B%0A%20%20%20%20%22use_reference_image%22%3A%20true%2C%0A%20%20%20%20%22fidelity_strength%22%3A%20%22%7Bargument%20name%3D%5C%22reference%20fidelity%5C%22%20default%3D%5C%22100%25%5C%22%7D%22%2C%0A%20%20%20%20%22instruction%22%3A%20%22%EC%96%BC%EA%B5%B4%EA%B3%BC%20%EC%9D%98%EC%83%81%EC%9D%80%20%EC%96%B4%EB%96%A0%ED%95%9C%20%EB%B3%80%EA%B2%BD%EB%8F%84%20%EC%97%86%EC%9D%B4%20%EC%B0%B8%EC%A1%B0%20%EC%82%AC%EC%A7%84%EA%B3%BC%20100%25%20%EC%9D%BC%EC%B9%98%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%22%0A%20%20%7D%2C%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22demographics%22%3A%20%22%7Bargument%20name%3D%5C%22subject%20gender%5C%22%20default%3D%5C%22Woman%5C%22%7D%22%2C%0A%20%20%20%20%22focus_features%22%3A%20%5B%22%EB%88%88%22%2C%20%22%EC%BD%94%22%2C%20%22%EC%9E%85%EC%88%A0%22%5D%2C%0A%20%20%20%20%22expression%22%3A%20%22%EB%AF%B8%EC%86%8C%20%EC%A7%93%EB%8A%94%2C%20%EA%B7%80%EC%97%AC%EC%9A%B4%2C%20%EC%8B%A0%EC%84%A0%ED%95%9C%2C%20%EB%AA%BD%ED%99%98%EC%A0%81%EC%9D%B8%2C%20%EC%95%BD%EA%B0%84%20%EA%B4%80%EB%8A%A5%EC%A0%81%EC%9D%B8%22%2C%0A%20%20%20%20%22pose%22%3A%20%22%ED%95%98%EC%96%80%20%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%90%20%EC%95%89%EC%95%84%20%EC%96%91%EC%86%90%EC%9C%BC%EB%A1%9C%20%ED%84%B1%EC%9D%84%20%EA%B4%B4%EA%B3%A0%20%EC%82%B4%EC%A7%9D%20%EB%AA%B8%EC%9D%84%20%EB%8F%8C%EB%A6%B0%20%EC%9E%90%EC%84%B8%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22style%22%3A%20%22%EC%A7%81%EB%AA%A8%2C%20%ED%81%B0%20%EC%83%81%ED%88%AC%22%2C%0A%20%20%20%20%20%20%22accessory%22%3A%20%22%EC%9D%98%EC%83%81%EA%B3%BC%20%EC%96%B4%EC%9A%B8%EB%A6%AC%EB%8A%94%20%EB%A6%AC%EB%B3%B8%22%2C%0A%20%20%20%20%20%20%22texture%22%3A%20%22%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C%2C%20%EC%96%BC%EA%B5%B4%EC%97%90%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EB%8A%90%EC%8A%A8%ED%95%9C%20%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%22%2C%0A%20%20%20%20%20%20%22movement%22%3A%20%22%EB%B0%94%EB%9E%8C%EC%97%90%20%EC%82%B4%EC%A7%9D%20%EB%82%A0%EB%A6%AC%EB%8A%94%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22makeup%22%3A%20%7B%0A%20%20%20%20%20%20%22cheeks%22%3A%20%22%EB%B3%BC%EA%B3%BC%20%EC%BD%94%EC%97%90%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EB%B8%94%EB%9F%AC%EC%85%94%22%2C%0A%20%20%20%20%20%20%22lips%22%3A%20%22%EB%8F%84%ED%86%B0%ED%95%9C%20%EC%9E%85%EC%88%A0%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%ED%95%91%ED%81%AC-%ED%94%BC%EC%B9%98%20%ED%86%A4%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22fashion_and_accessories%22%3A%20%7B%0A%20%20%20%20%22outfit%22%3A%20%22%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EC%A0%95%ED%99%95%ED%9E%88%20%EC%9D%BC%EC%B9%98%22%2C%0A%20%20%20%20%22shoes%22%3A%20%22%ED%95%98%EC%9D%B4%ED%9E%90%20(%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80%20%EC%9D%BC%EC%B9%98)%22%2C%0A%20%20%20%20%22bag%22%3A%20%22%EC%B0%B8%EC%A1%B0%20%EC%82%AC%EC%A7%84%EA%B3%BC%20%EB%8F%99%EC%9D%BC%ED%95%9C%20%EA%B0%80%EB%B0%A9%22%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22necklace%22%3A%20%22%ED%95%98%ED%8A%B8%2C%20%EC%B4%88%EC%8A%B9%EB%8B%AC%2C%20%EA%B5%AC%EC%B0%8C%20%ED%8E%9C%EB%8D%98%ED%8A%B8%EA%B0%80%20%EB%B2%88%EA%B0%88%EC%95%84%20%EC%9E%88%EB%8A%94%20%EC%96%87%EC%9D%80%20%EA%B8%88%20%EB%AA%A9%EA%B1%B8%EC%9D%B4%22%2C%0A%20%20%20%20%20%20%22bracelet%22%3A%20%22%EC%B0%B8%EC%9D%B4%20%EB%8B%AC%EB%A6%B0%20%EC%84%AC%EC%84%B8%ED%95%9C%20%EA%B5%AC%EC%B0%8C%20%ED%8C%94%EC%B0%8C%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22%EA%B8%88%EB%B0%98%EC%A7%80%22%2C%0A%20%20%20%20%20%20%22watch%22%3A%20%22%EC%8A%A4%ED%8B%B8%20%EB%B0%B4%EB%93%9C%20%ED%8C%8C%ED%85%8D%20%ED%95%84%EB%A6%BD%20%EC%8B%9C%EA%B3%84%22%2C%0A%20%20%20%20%20%20%22earrings%22%3A%20%22%EC%9E%91%EC%9D%80%20%EA%B8%88%EC%83%89%20%EA%B5%AC%EC%B0%8C%20%EA%B7%80%EA%B1%B8%EC%9D%B4%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%22location%22%3A%20%22%EB%9F%AD%EC%85%94%EB%A6%AC%20%ED%98%B8%ED%85%94%20%ED%85%8C%EB%9D%BC%EC%8A%A4%20%2F%20%ED%95%B4%EB%B3%80%22%2C%0A%20%20%20%20%22time_of_day_options%22%3A%20%5B%0A%20%20%20%20%20%20%22%EC%98%B5%EC%85%98%20A%3A%20%EA%B9%8A%EA%B3%A0%20%ED%91%B8%EB%A5%B8%20%EC%A0%80%EB%85%81%20%ED%95%98%EB%8A%98%2C%20%EB%B3%84%2C%20%EB%B3%84%EB%98%A5%EB%B3%84%2C%20%EB%8B%AC%EB%B9%9B%22%2C%0A%20%20%20%20%20%20%22%EC%98%B5%EC%85%98%20B%3A%20%EC%9D%B4%EB%A5%B8%20%EC%9D%BC%EC%B6%9C%2C%20%EC%A3%BC%ED%99%A9-%EB%85%B8%EB%9E%91%EC%83%89%20%ED%95%98%EB%8A%98%20%ED%86%A4%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22background_elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%EB%9F%AD%EC%85%94%EB%A6%AC%20%ED%98%B8%ED%85%94%EC%9D%98%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EB%B0%98%EC%82%AC%EA%B4%91%22%2C%0A%20%20%20%20%20%20%22%EC%9E%94%EC%9E%94%ED%95%9C%20%EB%B0%94%EB%8B%A4%20%ED%92%8D%EA%B2%BD%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22props%22%3A%20%7B%0A%20%20%20%20%22table_setting%22%3A%20%22%ED%95%98%EC%96%80%20%ED%85%8C%EC%9D%B4%EB%B8%94%22%2C%0A%20%20%20%20%22items%22%3A%20%5B%0A%20%20%20%20%20%20%22%ED%95%98%EC%96%80%20%EC%9E%A5%EB%AF%B8%20%ED%95%9C%20%EC%86%A1%EC%9D%B4%EA%B0%80%20%EA%BD%82%ED%9E%8C%20%EC%9C%A0%EB%A6%AC%EC%9E%94%22%2C%0A%20%20%20%20%20%20%22%EC%99%80%EC%9D%B8%EC%9E%94%22%2C%0A%20%20%20%20%20%20%22%EC%99%80%EC%9D%B8%EB%B3%91%22%2C%0A%20%20%20%20%20%20%22%EB%82%98%EC%9D%B4%ED%94%84%EC%99%80%20%ED%8F%AC%ED%81%AC%EA%B0%80%20%EB%86%93%EC%9D%B8%20%EC%A0%91%EC%8B%9C%20%EC%84%B8%ED%8A%B8%22%2C%0A%20%20%20%20%20%20%22%EC%A4%91%EC%95%99%EC%97%90%20%EB%86%93%EC%9D%B8%20%ED%81%B0%20%ED%8B%B0%EB%B3%B8%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%22%2C%0A%20%20%20%20%20%20%22%EC%BA%94%EB%93%A4%20%EA%B8%80%EB%9D%BC%EC%8A%A4%20(%EB%94%B0%EB%9C%BB%ED%95%9C%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%20%EC%B6%94%EA%B0%80)%22%0A%20%20%20%20%5D%0A%20%20%7D%2C%0A%20%20%22photography_style%22%3A%20%7B%0A%20%20%20%20%22aesthetic%22%3A%20%222000%EB%85%84%EB%8C%80%20%EB%94%94%EC%A7%80%ED%84%B8%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%ED%94%8C%EB%9E%98%EC%8B%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%ED%94%8C%EB%9E%98%EC%8B%9C%20%EB%B0%9D%EA%B8%B0%2C%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%ED%86%A4%2C%20%ED%94%BC%EB%B6%80%EC%97%90%20%EC%95%BD%EA%B0%84%EC%9D%98%20%EA%B4%91%ED%83%9D%22%2C%0A%20%20%20%20%22mood%22%3A%20%22%ED%8E%B8%EC%95%88%ED%95%9C%2C%20%EB%94%B0%EB%9C%BB%ED%95%9C%2C%20%ED%96%A5%EC%88%98%EB%A5%BC%20%EB%B6%88%EB%9F%AC%EC%9D%BC%EC%9C%BC%ED%82%A4%EB%8A%94%2C%20%EC%84%B8%EB%A0%A8%EB%90%9C%2C%20%EC%9A%B0%EC%95%84%ED%95%9C%2C%20%EC%95%BD%EA%B0%84%20%EC%84%B9%EC%8B%9C%ED%95%9C%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20%EC%9D%B8%EB%AC%BC%20%EC%82%AC%EC%A7%84%22%0A%20%20%7D%2C%0A%20%20%22technical_parameters%22%3A%20%7B%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%5C%22aspect%20ratio%5C%22%20default%3D%5C%223%3A4%5C%22%7D%22%2C%0A%20%20%20%20%22detail_level%22%3A%20%22%7Bargument%20name%3D%5C%22detail%20level%5C%22%20default%3D%5C%228k%5C%22%7D%22%2C%0A%20%20%20%20%22style_tags%22%3A%20%5B%22%EC%82%AC%EC%A7%84%22%2C%20%22%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%22%2C%20%22%ED%94%8C%EB%9E%98%EC%8B%9C%20%EC%82%AC%EC%A7%84%22%5D%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 131: 오래된 사진 복원을 통해 현대적인 디지털 인물 사진으로
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-피사체의 포즈와 표정을 유지하면서 오래된 사진을 현대적인 고품질 인물 사진으로 바꿔주는 이중 언어 Nano Banana Pro 프롬프트.
-
-#### 📝 프롬프트
-
-```
-입력된 이미지를 생생하게 업데이트된 색상, 부드럽고 사실적인 피부 질감, 자연스러운 조명을 갖춘 현대적인 고품질 디지털 초상화로 변환합니다. 원래 포즈와 표정의 진정성을 유지하면서 의상과 배경을 깔끔하고 현대적인 미학으로 업그레이드합니다.
-
-생생한 색상, 섬세하고 사실적인 피부 질감, 자연스러운 조명을 사용하여 현대적인 고품질 디지털 초상화로 변환합니다. 원래 사진의 포즈와 표정의 진정성을 유지하면서 의상과 배경은 단순하고 현대적인 스타일로 업그레이드되어야 합니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg" width="600" alt="오래된 사진 복원을 통해 현대적인 디지털 인물 사진으로 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg" width="600" alt="오래된 사진 복원을 통해 현대적인 디지털 인물 사진으로 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg" width="600" alt="오래된 사진 복원을 통해 현대적인 디지털 인물 사진으로 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg" width="600" alt="오래된 사진 복원을 통해 현대적인 디지털 인물 사진으로 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [苍何](https://x.com/canghecode)
-- **출처:** [Twitter Post](https://x.com/canghecode/status/1994693495421112739)
-- **게시일:** 2025년 11월 29일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9E%85%EB%A0%A5%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%83%9D%EC%83%9D%ED%95%98%EA%B2%8C%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%90%9C%20%EC%83%89%EC%83%81%2C%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%ED%94%BC%EB%B6%80%20%EC%A7%88%EA%B0%90%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%A1%B0%EB%AA%85%EC%9D%84%20%EA%B0%96%EC%B6%98%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EA%B3%A0%ED%92%88%EC%A7%88%20%EB%94%94%EC%A7%80%ED%84%B8%20%EC%B4%88%EC%83%81%ED%99%94%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9B%90%EB%9E%98%20%ED%8F%AC%EC%A6%88%EC%99%80%20%ED%91%9C%EC%A0%95%EC%9D%98%20%EC%A7%84%EC%A0%95%EC%84%B1%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EB%A9%B4%EC%84%9C%20%EC%9D%98%EC%83%81%EA%B3%BC%20%EB%B0%B0%EA%B2%BD%EC%9D%84%20%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EB%AF%B8%ED%95%99%EC%9C%BC%EB%A1%9C%20%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A%EC%83%9D%EC%83%9D%ED%95%9C%20%EC%83%89%EC%83%81%2C%20%EC%84%AC%EC%84%B8%ED%95%98%EA%B3%A0%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%ED%94%BC%EB%B6%80%20%EC%A7%88%EA%B0%90%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%A1%B0%EB%AA%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EA%B3%A0%ED%92%88%EC%A7%88%20%EB%94%94%EC%A7%80%ED%84%B8%20%EC%B4%88%EC%83%81%ED%99%94%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9B%90%EB%9E%98%20%EC%82%AC%EC%A7%84%EC%9D%98%20%ED%8F%AC%EC%A6%88%EC%99%80%20%ED%91%9C%EC%A0%95%EC%9D%98%20%EC%A7%84%EC%A0%95%EC%84%B1%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EB%A9%B4%EC%84%9C%20%EC%9D%98%EC%83%81%EA%B3%BC%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%8B%A8%EC%88%9C%ED%95%98%EA%B3%A0%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A1%9C%20%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.)**
-
----
-
-### No. 132: 이미지에서 흑백 스토리보드 생성
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-업로드된 이미지를 받아 스토리의 감정적 핵심과 긴장감을 약 4개의 패널에 담아 흑백 스토리보드 프레임 시퀀스를 생성하는 Nano Banana Pro 프롬프트.
-
-#### 📝 프롬프트
-
-```
-업로드된 이미지를 바탕으로 이야기의 핵심 장면을 묘사하는 흑백 스토리보드 프레임을 순서대로 만드세요.
-각 프레임에서 이야기의 감정 흐름과 긴장감을 표현하기 위해 다음 요소를 자세히 설명하세요.
-총 4개의 패널로 구성됩니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577554408_2kooiv_G61QpVVbMAAB7Jl.jpg" width="600" alt="이미지에서 흑백 스토리보드 생성 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577557466_nw8fne_G61QqlsbcAAbOMW.jpg" width="600" alt="이미지에서 흑백 스토리보드 생성 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Wondershare UniConverter｜動画変換・圧縮・補正オールインワンソフト](https://x.com/UniConverterJP)
-- **출처:** [Twitter Post](https://x.com/UniConverterJP/status/1994666889491222818)
-- **게시일:** 2025년 11월 29일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EB%B0%94%ED%83%95%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98%20%ED%95%B5%EC%8B%AC%20%EC%9E%A5%EB%A9%B4%EC%9D%84%20%EB%AC%98%EC%82%AC%ED%95%98%EB%8A%94%20%ED%9D%91%EB%B0%B1%20%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%B3%B4%EB%93%9C%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9D%84%20%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.%0A%EA%B0%81%20%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90%EC%84%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%9D%98%20%EA%B0%90%EC%A0%95%20%ED%9D%90%EB%A6%84%EA%B3%BC%20%EA%B8%B4%EC%9E%A5%EA%B0%90%EC%9D%84%20%ED%91%9C%ED%98%84%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EB%8B%A4%EC%9D%8C%20%EC%9A%94%EC%86%8C%EB%A5%BC%20%EC%9E%90%EC%84%B8%ED%9E%88%20%EC%84%A4%EB%AA%85%ED%95%98%EC%84%B8%EC%9A%94.%0A%EC%B4%9D%204%EA%B0%9C%EC%9D%98%20%ED%8C%A8%EB%84%90%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%A9%EB%8B%88%EB%8B%A4.)**
-
----
-
-### No. 133: 레퍼런스 인물을 활용한 즉석 카메라 스타일 아이돌 사진 프롬프트
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-제공된 인물 이미지 기반으로 아이돌 스타일의 즉석 사진(cheki)을 생성하는 Nano Banana Pro 프롬프트입니다. 템플릿에 피사체의 이름을 삽입하세요.
-
-#### 📝 프롬프트
-
-```
-첨부된 이미지에 있는 사람을 사용해 주세요. 이름은 {argument name="name" default="[your name]"}입니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577574244_ebjxyq_G6520uubcAAaYhr.jpg" width="600" alt="레퍼런스 인물을 활용한 즉석 카메라 스타일 아이돌 사진 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577577700_hnylyz_G6520vVbkAIuuyN.jpg" width="600" alt="레퍼런스 인물을 활용한 즉석 카메라 스타일 아이돌 사진 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577580224_8yiwvi_G6520yzacAArjn8.jpg" width="600" alt="레퍼런스 인물을 활용한 즉석 카메라 스타일 아이돌 사진 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577582701_dm8cld_G65204EbkAAiP6E.jpg" width="600" alt="레퍼런스 인물을 활용한 즉석 카메라 스타일 아이돌 사진 프롬프트 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Shi-on🎀AI沼](https://x.com/cheese_ai07)
-- **출처:** [Twitter Post](https://x.com/cheese_ai07/status/1994662338608161086)
-- **게시일:** 2025년 11월 29일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%B2%A8%EB%B6%80%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%9D%B4%EB%A6%84%EC%9D%80%20%7Bargument%20name%3D%22name%22%20default%3D%22%5Byour%20name%5D%22%7D%EC%9E%85%EB%8B%88%EB%8B%A4.)**
-
----
-
-### No. 134: Nano Banana Pro를 위한 글래스모피즘 SaaS 스타일 PPT 디자인 프롬프트
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 설명
-
-미래 지향적인 유리 카드 스타일로 16:9 슬라이드를 생성하는 포괄적인 UI/UX 프레젠테이션 디자인 프롬프트입니다. Apple Keynote의 미니멀리즘과 최신 SaaS 미학을 결합했습니다.
-
-#### 📝 프롬프트
-
-```
-당신은 전문가 수준의 UI/UX 프레젠테이션 디자이너입니다. 고품질의 미래 지향적인 16:9 프레젠테이션 슬라이드를 생성해 주세요. 시각적 균형 미학을 기반으로, 표지, 그리드 레이아웃 또는 데이터 시각화 중에서 가장 완벽한 구성을 자동으로 선택해 주세요.
-
-글로벌 시각 언어를 위해, 스타일은 Apple Keynote의 미니멀리즘, 최신 SaaS 제품 디자인, 글래스모피즘이 매끄럽게 조화되어야 합니다. 전반적인 분위기는 고급스럽고, 몰입감 있으며, 깔끔하고, 시원한 느낌을 주어야 합니다. 시네마틱 볼류메트릭 조명, 부드러운 레이 트레이싱 반사, 앰비언트 오클루전을 사용해 주세요. 색상 구성표는 딥 보이드 블랙 또는 퓨어 세라믹 화이트를 기본으로 선택하고, 배경과 UI 하이라이트에는 네온 퍼플, 일렉트릭 블루, 소프트 코랄 오렌지, 시안과 같은 흐르는 듯한 오로라 그라데이션으로 포인트를 주세요.
-
-각 슬라이드의 콘텐츠 모듈에는 다음 요소를 지능적으로 통합해 주세요.
-
-1. 벤토 그리드 시스템을 레이아웃 엔진으로 사용하여, 모듈식 둥근 사각형 컨테이너 안에 콘텐츠를 구성해 주세요. 컨테이너는 블러 처리된 프로스트 글라스여야 하며, 섬세한 흰색 테두리와 부드러운 그림자를 특징으로 하고, 혼잡함을 피하기 위해 넉넉한 내부 여백을 엄격하게 유지해야 합니다.
-
-2. 선물 같은 3D 객체를 삽입하여, 독특하고 고급스러운 추상적인 3D 아티팩트를 시각적 앵커로 렌더링해 주세요. 광택 처리된 금속, 무지개 빛깔의 아크릴, 투명 유리 또는 부드러운 실리콘과 같은 재료와 떠다니는 캡슐, 구체, 방패, 뫼비우스 띠 또는 유동적인 파도와 같은 모양으로 만질 수 있고 값비싼 선물이나 수집품처럼 보여야 합니다.
-
-3. 타이포그래피와 데이터에는 대비가 높은 깔끔한 산세리프 글꼴을 사용해 주세요. 차트가 있다면, 빛나는 3D 도넛 차트, 캡슐 모양의 진행률 표시줄 또는 떠다니는 숫자를 사용해 주세요. 차트는 빛나는 네온 장난감처럼 보여야 합니다.
-
-구성 논리 참조: 표지를 생성하는 경우, 중앙에 거대하고 복잡한 3D 유리 객체를 배치하고 그 위에 굵고 큰 텍스트를, 배경에는 오로라 파동이 펼쳐지도록 합니다. 콘텐츠 슬라이드를 생성하는 경우, 벤토 그리드 레이아웃을 사용하고 작은 카드에는 3D 아이콘을, 큰 카드에는 텍스트를 배치합니다. 데이터 슬라이드를 생성하는 경우, 분할 화면 디자인을 사용합니다. 왼쪽에는 타이포그래피를, 오른쪽에는 크고 빛나는 3D 데이터 시각화 차트를 띄웁니다.
-
-렌더링 품질 요구 사항: Unreal Engine 5 렌더링, 8K 해상도, 초고화질 텍스처, 강력한 UI 디자인 감각, UX 인터페이스, Dribbble 트렌딩 스타일, 수상 경력에 빛나는 디자인 품질.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg" width="600" alt="Nano Banana Pro를 위한 글래스모피즘 SaaS 스타일 PPT 디자인 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [歸藏(guizang.ai)](https://x.com/op7418)
-- **출처:** [Twitter Post](https://x.com/op7418/status/1994640215160287637)
-- **게시일:** 2025년 11월 29일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EB%8B%B9%EC%8B%A0%EC%9D%80%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%88%98%EC%A4%80%EC%9D%98%20UI%2FUX%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%20%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EA%B3%A0%ED%92%88%EC%A7%88%EC%9D%98%20%EB%AF%B8%EB%9E%98%20%EC%A7%80%ED%96%A5%EC%A0%81%EC%9D%B8%2016%3A9%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%8B%9C%EA%B0%81%EC%A0%81%20%EA%B7%A0%ED%98%95%20%EB%AF%B8%ED%95%99%EC%9D%84%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%2C%20%ED%91%9C%EC%A7%80%2C%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20%EB%98%90%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%A4%91%EC%97%90%EC%84%9C%20%EA%B0%80%EC%9E%A5%20%EC%99%84%EB%B2%BD%ED%95%9C%20%EA%B5%AC%EC%84%B1%EC%9D%84%20%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C%20%EC%84%A0%ED%83%9D%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%0A%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EC%8B%9C%EA%B0%81%20%EC%96%B8%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%B4%2C%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20Apple%20Keynote%EC%9D%98%20%EB%AF%B8%EB%8B%88%EB%A9%80%EB%A6%AC%EC%A6%98%2C%20%EC%B5%9C%EC%8B%A0%20SaaS%20%EC%A0%9C%ED%92%88%20%EB%94%94%EC%9E%90%EC%9D%B8%2C%20%EA%B8%80%EB%9E%98%EC%8A%A4%EB%AA%A8%ED%94%BC%EC%A6%98%EC%9D%B4%20%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C%20%EC%A1%B0%ED%99%94%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%A0%84%EB%B0%98%EC%A0%81%EC%9D%B8%20%EB%B6%84%EC%9C%84%EA%B8%B0%EB%8A%94%20%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%BD%EA%B3%A0%2C%20%EB%AA%B0%EC%9E%85%EA%B0%90%20%EC%9E%88%EC%9C%BC%EB%A9%B0%2C%20%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0%2C%20%EC%8B%9C%EC%9B%90%ED%95%9C%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EC%A3%BC%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%8B%9C%EB%84%A4%EB%A7%88%ED%8B%B1%20%EB%B3%BC%EB%A5%98%EB%A9%94%ED%8A%B8%EB%A6%AD%20%EC%A1%B0%EB%AA%85%2C%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%A0%88%EC%9D%B4%20%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8B%B1%20%EB%B0%98%EC%82%AC%2C%20%EC%95%B0%EB%B9%84%EC%96%B8%ED%8A%B8%20%EC%98%A4%ED%81%B4%EB%A3%A8%EC%A0%84%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%83%89%EC%83%81%20%EA%B5%AC%EC%84%B1%ED%91%9C%EB%8A%94%20%EB%94%A5%20%EB%B3%B4%EC%9D%B4%EB%93%9C%20%EB%B8%94%EB%9E%99%20%EB%98%90%EB%8A%94%20%ED%93%A8%EC%96%B4%20%EC%84%B8%EB%9D%BC%EB%AF%B9%20%ED%99%94%EC%9D%B4%ED%8A%B8%EB%A5%BC%20%EA%B8%B0%EB%B3%B8%EC%9C%BC%EB%A1%9C%20%EC%84%A0%ED%83%9D%ED%95%98%EA%B3%A0%2C%20%EB%B0%B0%EA%B2%BD%EA%B3%BC%20UI%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%97%90%EB%8A%94%20%EB%84%A4%EC%98%A8%20%ED%8D%BC%ED%94%8C%2C%20%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AD%20%EB%B8%94%EB%A3%A8%2C%20%EC%86%8C%ED%94%84%ED%8A%B8%20%EC%BD%94%EB%9E%84%20%EC%98%A4%EB%A0%8C%EC%A7%80%2C%20%EC%8B%9C%EC%95%88%EA%B3%BC%20%EA%B0%99%EC%9D%80%20%ED%9D%90%EB%A5%B4%EB%8A%94%20%EB%93%AF%ED%95%9C%20%EC%98%A4%EB%A1%9C%EB%9D%BC%20%EA%B7%B8%EB%9D%BC%EB%8D%B0%EC%9D%B4%EC%85%98%EC%9C%BC%EB%A1%9C%20%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A5%BC%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%0A%EA%B0%81%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98%20%EC%BD%98%ED%85%90%EC%B8%A0%20%EB%AA%A8%EB%93%88%EC%97%90%EB%8A%94%20%EB%8B%A4%EC%9D%8C%20%EC%9A%94%EC%86%8C%EB%A5%BC%20%EC%A7%80%EB%8A%A5%EC%A0%81%EC%9C%BC%EB%A1%9C%20%ED%86%B5%ED%95%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%0A1.%20%EB%B2%A4%ED%86%A0%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20%EC%97%94%EC%A7%84%EC%9C%BC%EB%A1%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%2C%20%EB%AA%A8%EB%93%88%EC%8B%9D%20%EB%91%A5%EA%B7%BC%20%EC%82%AC%EA%B0%81%ED%98%95%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%95%88%EC%97%90%20%EC%BD%98%ED%85%90%EC%B8%A0%EB%A5%BC%20%EA%B5%AC%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%8A%94%20%EB%B8%94%EB%9F%AC%20%EC%B2%98%EB%A6%AC%EB%90%9C%20%ED%94%84%EB%A1%9C%EC%8A%A4%ED%8A%B8%20%EA%B8%80%EB%9D%BC%EC%8A%A4%EC%97%AC%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EC%84%AC%EC%84%B8%ED%95%9C%20%ED%9D%B0%EC%83%89%20%ED%85%8C%EB%91%90%EB%A6%AC%EC%99%80%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A5%BC%20%ED%8A%B9%EC%A7%95%EC%9C%BC%EB%A1%9C%20%ED%95%98%EA%B3%A0%2C%20%ED%98%BC%EC%9E%A1%ED%95%A8%EC%9D%84%20%ED%94%BC%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%B4%20%EB%84%89%EB%84%89%ED%95%9C%20%EB%82%B4%EB%B6%80%20%EC%97%AC%EB%B0%B1%EC%9D%84%20%EC%97%84%EA%B2%A9%ED%95%98%EA%B2%8C%20%EC%9C%A0%EC%A7%80%ED%95%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A2.%20%EC%84%A0%EB%AC%BC%20%EA%B0%99%EC%9D%80%203D%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EC%82%BD%EC%9E%85%ED%95%98%EC%97%AC%2C%20%EB%8F%85%ED%8A%B9%ED%95%98%EA%B3%A0%20%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B8%203D%20%EC%95%84%ED%8B%B0%ED%8C%A9%ED%8A%B8%EB%A5%BC%20%EC%8B%9C%EA%B0%81%EC%A0%81%20%EC%95%B5%EC%BB%A4%EB%A1%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EA%B4%91%ED%83%9D%20%EC%B2%98%EB%A6%AC%EB%90%9C%20%EA%B8%88%EC%86%8D%2C%20%EB%AC%B4%EC%A7%80%EA%B0%9C%20%EB%B9%9B%EA%B9%94%EC%9D%98%20%EC%95%84%ED%81%AC%EB%A6%B4%2C%20%ED%88%AC%EB%AA%85%20%EC%9C%A0%EB%A6%AC%20%EB%98%90%EB%8A%94%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EC%8B%A4%EB%A6%AC%EC%BD%98%EA%B3%BC%20%EA%B0%99%EC%9D%80%20%EC%9E%AC%EB%A3%8C%EC%99%80%20%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94%20%EC%BA%A1%EC%8A%90%2C%20%EA%B5%AC%EC%B2%B4%2C%20%EB%B0%A9%ED%8C%A8%2C%20%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4%20%EB%9D%A0%20%EB%98%90%EB%8A%94%20%EC%9C%A0%EB%8F%99%EC%A0%81%EC%9D%B8%20%ED%8C%8C%EB%8F%84%EC%99%80%20%EA%B0%99%EC%9D%80%20%EB%AA%A8%EC%96%91%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EC%A7%88%20%EC%88%98%20%EC%9E%88%EA%B3%A0%20%EA%B0%92%EB%B9%84%EC%8B%BC%20%EC%84%A0%EB%AC%BC%EC%9D%B4%EB%82%98%20%EC%88%98%EC%A7%91%ED%92%88%EC%B2%98%EB%9F%BC%20%EB%B3%B4%EC%97%AC%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A3.%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%EB%8A%94%20%EB%8C%80%EB%B9%84%EA%B0%80%20%EB%86%92%EC%9D%80%20%EA%B9%94%EB%81%94%ED%95%9C%20%EC%82%B0%EC%84%B8%EB%A6%AC%ED%94%84%20%EA%B8%80%EA%BC%B4%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%B0%A8%ED%8A%B8%EA%B0%80%20%EC%9E%88%EB%8B%A4%EB%A9%B4%2C%20%EB%B9%9B%EB%82%98%EB%8A%94%203D%20%EB%8F%84%EB%84%9B%20%EC%B0%A8%ED%8A%B8%2C%20%EC%BA%A1%EC%8A%90%20%EB%AA%A8%EC%96%91%EC%9D%98%20%EC%A7%84%ED%96%89%EB%A5%A0%20%ED%91%9C%EC%8B%9C%EC%A4%84%20%EB%98%90%EB%8A%94%20%EB%96%A0%EB%8B%A4%EB%8B%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%B0%A8%ED%8A%B8%EB%8A%94%20%EB%B9%9B%EB%82%98%EB%8A%94%20%EB%84%A4%EC%98%A8%20%EC%9E%A5%EB%82%9C%EA%B0%90%EC%B2%98%EB%9F%BC%20%EB%B3%B4%EC%97%AC%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0A%EA%B5%AC%EC%84%B1%20%EB%85%BC%EB%A6%AC%20%EC%B0%B8%EC%A1%B0%3A%20%ED%91%9C%EC%A7%80%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%2C%20%EC%A4%91%EC%95%99%EC%97%90%20%EA%B1%B0%EB%8C%80%ED%95%98%EA%B3%A0%20%EB%B3%B5%EC%9E%A1%ED%95%9C%203D%20%EC%9C%A0%EB%A6%AC%20%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B3%A0%20%EA%B7%B8%20%EC%9C%84%EC%97%90%20%EA%B5%B5%EA%B3%A0%20%ED%81%B0%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC%2C%20%EB%B0%B0%EA%B2%BD%EC%97%90%EB%8A%94%20%EC%98%A4%EB%A1%9C%EB%9D%BC%20%ED%8C%8C%EB%8F%99%EC%9D%B4%20%ED%8E%BC%EC%B3%90%EC%A7%80%EB%8F%84%EB%A1%9D%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%BD%98%ED%85%90%EC%B8%A0%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%2C%20%EB%B2%A4%ED%86%A0%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%20%EC%9E%91%EC%9D%80%20%EC%B9%B4%EB%93%9C%EC%97%90%EB%8A%94%203D%20%EC%95%84%EC%9D%B4%EC%BD%98%EC%9D%84%2C%20%ED%81%B0%20%EC%B9%B4%EB%93%9C%EC%97%90%EB%8A%94%20%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EB%B0%B0%EC%B9%98%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94%20%EA%B2%BD%EC%9A%B0%2C%20%EB%B6%84%ED%95%A0%20%ED%99%94%EB%A9%B4%20%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%99%BC%EC%AA%BD%EC%97%90%EB%8A%94%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%EB%A5%BC%2C%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EB%8A%94%20%ED%81%AC%EA%B3%A0%20%EB%B9%9B%EB%82%98%EB%8A%94%203D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%B0%A8%ED%8A%B8%EB%A5%BC%20%EB%9D%84%EC%9B%81%EB%8B%88%EB%8B%A4.%0A%0A%EB%A0%8C%EB%8D%94%EB%A7%81%20%ED%92%88%EC%A7%88%20%EC%9A%94%EA%B5%AC%20%EC%82%AC%ED%95%AD%3A%20Unreal%20Engine%205%20%EB%A0%8C%EB%8D%94%EB%A7%81%2C%208K%20%ED%95%B4%EC%83%81%EB%8F%84%2C%20%EC%B4%88%EA%B3%A0%ED%99%94%EC%A7%88%20%ED%85%8D%EC%8A%A4%EC%B2%98%2C%20%EA%B0%95%EB%A0%A5%ED%95%9C%20UI%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EA%B0%90%EA%B0%81%2C%20UX%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%2C%20Dribbble%20%ED%8A%B8%EB%A0%8C%EB%94%A9%20%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%88%98%EC%83%81%20%EA%B2%BD%EB%A0%A5%EC%97%90%20%EB%B9%9B%EB%82%98%EB%8A%94%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%92%88%EC%A7%88.)**
-
----
-
-### No. 135: 바람에 날리는 머리카락 물리 효과 편집 프롬프트
-
-![Language-KO](https://img.shields.io/badge/Language-KO-blue)
-
-#### 📖 설명
-
-바람에 머리카락이 흩날리는 모습을 묘사해 달라는 한국어 프롬프트 예시.
-
-#### 📝 프롬프트
-
-```
-머리카락이 바람에 흩날리게 하세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909194344_j8ahsh_G64vG0-bkAEdu0T.jpg" width="600" alt="바람에 날리는 머리카락 물리 효과 편집 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909196593_vjptzw_G64vG1TbkAEcisK.jpg" width="600" alt="바람에 날리는 머리카락 물리 효과 편집 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909199505_75vlef_G64vG03a4AAxsgy.jpg" width="600" alt="바람에 날리는 머리카락 물리 효과 편집 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909201708_d2yy9u_G64vG1AbkAQQHJ1.jpg" width="600" alt="바람에 날리는 머리카락 물리 효과 편집 프롬프트 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [lucas](https://x.com/lucas_flatwhite)
-- **출처:** [Twitter Post](https://x.com/lucas_flatwhite/status/1994583692212330538)
-- **게시일:** 2025년 11월 29일
-- **언어:** ko
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EB%A8%B8%EB%A6%AC%EC%B9%B4%EB%9D%BD%EC%9D%B4%20%EB%B0%94%EB%9E%8C%EC%97%90%20%ED%9D%A9%EB%82%A0%EB%A6%AC%EA%B2%8C%20%ED%95%98%EC%84%B8%EC%9A%94.)**
-
----
-
-### No. 136: 에너지 필드 배리어 VFX 및 자세 조정 YAML 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-캐릭터의 자세를 양팔을 앞으로 뻗는 것으로 변경하고, 손 앞에 동심의 팔각형 에너지장 방벽을 추가하며, 모든 원래 캐릭터 및 배경 디테일을 보존하는 상세한 YAML Nano Banana Pro 프롬프트.
-
-#### 📝 프롬프트
-
-```
-task: "pose-and-barrier-vfx"
-
-reference_image:
-  keep_original: true
-
-subject:
-  keep_character_design: true
-
-rules:
-  - 캐릭터의 얼굴, 표정, 헤어스타일, 신체 구조 또는 비율을 변경하지 마세요.
-  - 의상, 색상, 선화 또는 그림 스타일을 변경하지 마세요.
-  - 배경, 구도, 음영 또는 조명을 변경하지 마세요.
-  - 모든 수정은 정의된 단계를 통해서만 이루어져야 합니다.
-
-steps:
-
-  - step: "pose-adjustment"
-    action:
-      - 양팔을 앞으로 뻗어 시청자를 향하게 합니다.
-      - 양 손바닥이 카메라를 직접 향하도록 회전합니다.
-      - 손가락은 자연스럽게 펼칩니다.
-    constraints:
-      forbidden:
-        - 얼굴 표정 변경
-        - 의상 수정
-        - 소품 또는 새로운 아이템 추가
-        - 빛 또는 VFX 추가
-
-  - step: "energy-barrier-vfx"
-    vfx:
-      type: "concentric-octagonal-barrier"
-      placement: "in front of both palms"
-
-      geometry:
-        shape: "regular octagon"
-        structure: "multiple concentric octagonal surfaces"
-        alignment:
-          - 모든 표면은 동일한 중심을 공유합니다.
-          - 모든 표면은 카메라 평면에 평행합니다.
-          - 곡률 또는 구형 왜곡이 없습니다.
-        forbidden:
-          - 윤곽선만 있는 형태
-          - 속이 빈 프레임
-          - 육각형 형태
-          - 돔형 또는 휘어진 표면
-
-      surface:
-        fill: "center-to-edge radial gradient"
-        colors:
-          center: "white-yellow"
-          mid: "orange-gold"
-          edge: "transparent orange"
-        glow:
-          - 강한 중앙 광도
-          - 부드러운 블룸
-          - 굴절성 반짝임
-        opacity: "semi-transparent"
-
-      layering:
-        count: {argument name="number of barrier layers" default="8"}
-        direction: "stacked forward"
-
-  - step: "text-overlay"
-    text:
-      content: "Prompt by てんねん@ munou_ac"
-      position: "bottom-left"
-      font_color: "white"
-      font_size: "small"
-      opacity: "0.9"
-
-composition:
-  camera:
-    angle: "frontal"
-    distance: "medium shot"
-    focus: "hands and barrier surface"
-  lighting:
-    keep_original: true
-  placement:
-    barrier_position: "centered between both palms"
-    size: "large frontal barrier"
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577540773_v85176_G64gFJzbkAQpKL2.jpg" width="600" alt="에너지 필드 배리어 VFX 및 자세 조정 YAML 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577543806_hhuvsz_G64gKH-bkAQsjS9.jpg" width="600" alt="에너지 필드 배리어 VFX 및 자세 조정 YAML 프롬프트 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [てんねん](https://x.com/munou_ac)
-- **출처:** [Twitter Post](https://x.com/munou_ac/status/1994567138384994796)
-- **게시일:** 2025년 11월 29일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=task%3A%20%22pose-and-barrier-vfx%22%0A%0Areference_image%3A%0A%20%20keep_original%3A%20true%0A%0Asubject%3A%0A%20%20keep_character_design%3A%20true%0A%0Arules%3A%0A%20%20-%20%EC%BA%90%EB%A6%AD%ED%84%B0%EC%9D%98%20%EC%96%BC%EA%B5%B4%2C%20%ED%91%9C%EC%A0%95%2C%20%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%8B%A0%EC%B2%B4%20%EA%B5%AC%EC%A1%B0%20%EB%98%90%EB%8A%94%20%EB%B9%84%EC%9C%A8%EC%9D%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94.%0A%20%20-%20%EC%9D%98%EC%83%81%2C%20%EC%83%89%EC%83%81%2C%20%EC%84%A0%ED%99%94%20%EB%98%90%EB%8A%94%20%EA%B7%B8%EB%A6%BC%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94.%0A%20%20-%20%EB%B0%B0%EA%B2%BD%2C%20%EA%B5%AC%EB%8F%84%2C%20%EC%9D%8C%EC%98%81%20%EB%98%90%EB%8A%94%20%EC%A1%B0%EB%AA%85%EC%9D%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94.%0A%20%20-%20%EB%AA%A8%EB%93%A0%20%EC%88%98%EC%A0%95%EC%9D%80%20%EC%A0%95%EC%9D%98%EB%90%9C%20%EB%8B%A8%EA%B3%84%EB%A5%BC%20%ED%86%B5%ED%95%B4%EC%84%9C%EB%A7%8C%20%EC%9D%B4%EB%A3%A8%EC%96%B4%EC%A0%B8%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%0Asteps%3A%0A%0A%20%20-%20step%3A%20%22pose-adjustment%22%0A%20%20%20%20action%3A%0A%20%20%20%20%20%20-%20%EC%96%91%ED%8C%94%EC%9D%84%20%EC%95%9E%EC%9C%BC%EB%A1%9C%20%EB%BB%97%EC%96%B4%20%EC%8B%9C%EC%B2%AD%EC%9E%90%EB%A5%BC%20%ED%96%A5%ED%95%98%EA%B2%8C%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20%20%20%20-%20%EC%96%91%20%EC%86%90%EB%B0%94%EB%8B%A5%EC%9D%B4%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%A7%81%EC%A0%91%20%ED%96%A5%ED%95%98%EB%8F%84%EB%A1%9D%20%ED%9A%8C%EC%A0%84%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20%20%20%20-%20%EC%86%90%EA%B0%80%EB%9D%BD%EC%9D%80%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%ED%8E%BC%EC%B9%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20%20constraints%3A%0A%20%20%20%20%20%20forbidden%3A%0A%20%20%20%20%20%20%20%20-%20%EC%96%BC%EA%B5%B4%20%ED%91%9C%EC%A0%95%20%EB%B3%80%EA%B2%BD%0A%20%20%20%20%20%20%20%20-%20%EC%9D%98%EC%83%81%20%EC%88%98%EC%A0%95%0A%20%20%20%20%20%20%20%20-%20%EC%86%8C%ED%92%88%20%EB%98%90%EB%8A%94%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EC%B6%94%EA%B0%80%0A%20%20%20%20%20%20%20%20-%20%EB%B9%9B%20%EB%98%90%EB%8A%94%20VFX%20%EC%B6%94%EA%B0%80%0A%0A%20%20-%20step%3A%20%22energy-barrier-vfx%22%0A%20%20%20%20vfx%3A%0A%20%20%20%20%20%20type%3A%20%22concentric-octagonal-barrier%22%0A%20%20%20%20%20%20placement%3A%20%22in%20front%20of%20both%20palms%22%0A%0A%20%20%20%20%20%20geometry%3A%0A%20%20%20%20%20%20%20%20shape%3A%20%22regular%20octagon%22%0A%20%20%20%20%20%20%20%20structure%3A%20%22multiple%20concentric%20octagonal%20surfaces%22%0A%20%20%20%20%20%20%20%20alignment%3A%0A%20%20%20%20%20%20%20%20%20%20-%20%EB%AA%A8%EB%93%A0%20%ED%91%9C%EB%A9%B4%EC%9D%80%20%EB%8F%99%EC%9D%BC%ED%95%9C%20%EC%A4%91%EC%8B%AC%EC%9D%84%20%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20%20%20%20%20%20%20%20-%20%EB%AA%A8%EB%93%A0%20%ED%91%9C%EB%A9%B4%EC%9D%80%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%ED%8F%89%EB%A9%B4%EC%97%90%20%ED%8F%89%ED%96%89%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%20%20%20%20%20%20%20%20%20%20-%20%EA%B3%A1%EB%A5%A0%20%EB%98%90%EB%8A%94%20%EA%B5%AC%ED%98%95%20%EC%99%9C%EA%B3%A1%EC%9D%B4%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.%0A%20%20%20%20%20%20%20%20forbidden%3A%0A%20%20%20%20%20%20%20%20%20%20-%20%EC%9C%A4%EA%B3%BD%EC%84%A0%EB%A7%8C%20%EC%9E%88%EB%8A%94%20%ED%98%95%ED%83%9C%0A%20%20%20%20%20%20%20%20%20%20-%20%EC%86%8D%EC%9D%B4%20%EB%B9%88%20%ED%94%84%EB%A0%88%EC%9E%84%0A%20%20%20%20%20%20%20%20%20%20-%20%EC%9C%A1%EA%B0%81%ED%98%95%20%ED%98%95%ED%83%9C%0A%20%20%20%20%20%20%20%20%20%20-%20%EB%8F%94%ED%98%95%20%EB%98%90%EB%8A%94%20%ED%9C%98%EC%96%B4%EC%A7%84%20%ED%91%9C%EB%A9%B4%0A%0A%20%20%20%20%20%20surface%3A%0A%20%20%20%20%20%20%20%20fill%3A%20%22center-to-edge%20radial%20gradient%22%0A%20%20%20%20%20%20%20%20colors%3A%0A%20%20%20%20%20%20%20%20%20%20center%3A%20%22white-yellow%22%0A%20%20%20%20%20%20%20%20%20%20mid%3A%20%22orange-gold%22%0A%20%20%20%20%20%20%20%20%20%20edge%3A%20%22transparent%20orange%22%0A%20%20%20%20%20%20%20%20glow%3A%0A%20%20%20%20%20%20%20%20%20%20-%20%EA%B0%95%ED%95%9C%20%EC%A4%91%EC%95%99%20%EA%B4%91%EB%8F%84%0A%20%20%20%20%20%20%20%20%20%20-%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%B8%94%EB%A3%B8%0A%20%20%20%20%20%20%20%20%20%20-%20%EA%B5%B4%EC%A0%88%EC%84%B1%20%EB%B0%98%EC%A7%9D%EC%9E%84%0A%20%20%20%20%20%20%20%20opacity%3A%20%22semi-transparent%22%0A%0A%20%20%20%20%20%20layering%3A%0A%20%20%20%20%20%20%20%20count%3A%20%7Bargument%20name%3D%22number%20of%20barrier%20layers%22%20default%3D%228%22%7D%0A%20%20%20%20%20%20%20%20direction%3A%20%22stacked%20forward%22%0A%0A%20%20-%20step%3A%20%22text-overlay%22%0A%20%20%20%20text%3A%0A%20%20%20%20%20%20content%3A%20%22Prompt%20by%20%E3%81%A6%E3%82%93%E3%81%AD%E3%82%93%40%20munou_ac%22%0A%20%20%20%20%20%20position%3A%20%22bottom-left%22%0A%20%20%20%20%20%20font_color%3A%20%22white%22%0A%20%20%20%20%20%20font_size%3A%20%22small%22%0A%20%20%20%20%20%20opacity%3A%20%220.9%22%0A%0Acomposition%3A%0A%20%20camera%3A%0A%20%20%20%20angle%3A%20%22frontal%22%0A%20%20%20%20distance%3A%20%22medium%20shot%22%0A%20%20%20%20focus%3A%20%22hands%20and%20barrier%20surface%22%0A%20%20lighting%3A%0A%20%20%20%20keep_original%3A%20true%0A%20%20placement%3A%0A%20%20%20%20barrier_position%3A%20%22centered%20between%20both%20palms%22%0A%20%20%20%20size%3A%20%22large%20frontal%20barrier%22)**
-
----
-
-### No. 137: 제품 스케치에서 최종 렌더링 프롬프트까지
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-거친 제품 스케치를 원래 비율을 유지하면서 특정 재료와 조명을 사용하여 깔끔하고 대량 생산 스타일의 렌더링으로 바꾸는 프롬프트.
-
-#### 📝 프롬프트
-
-```
-이 스케치를 최종 양산 제품으로 렌더링하세요. 스튜디오 조명, 사출 성형된 유광 백색 플라스틱 본체, 광택 처리된 오크 손잡이, 스테인리스 스틸 물받이. 지저분한 스케치의 정확한 비율을 유지하세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577197724_4u7hm0_6uEg00so5XfBLc7c.jpg" width="600" alt="제품 스케치에서 최종 렌더링 프롬프트까지 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Gadgetify](https://x.com/Gdgtify)
-- **출처:** [Twitter Post](https://x.com/Gdgtify/status/1994487583125246021)
-- **게시일:** 2025년 11월 28일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9D%B4%20%EC%8A%A4%EC%BC%80%EC%B9%98%EB%A5%BC%20%EC%B5%9C%EC%A2%85%20%EC%96%91%EC%82%B0%20%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%20%EC%A1%B0%EB%AA%85%2C%20%EC%82%AC%EC%B6%9C%20%EC%84%B1%ED%98%95%EB%90%9C%20%EC%9C%A0%EA%B4%91%20%EB%B0%B1%EC%83%89%20%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1%20%EB%B3%B8%EC%B2%B4%2C%20%EA%B4%91%ED%83%9D%20%EC%B2%98%EB%A6%AC%EB%90%9C%20%EC%98%A4%ED%81%AC%20%EC%86%90%EC%9E%A1%EC%9D%B4%2C%20%EC%8A%A4%ED%85%8C%EC%9D%B8%EB%A6%AC%EC%8A%A4%20%EC%8A%A4%ED%8B%B8%20%EB%AC%BC%EB%B0%9B%EC%9D%B4.%20%EC%A7%80%EC%A0%80%EB%B6%84%ED%95%9C%20%EC%8A%A4%EC%BC%80%EC%B9%98%EC%9D%98%20%EC%A0%95%ED%99%95%ED%95%9C%20%EB%B9%84%EC%9C%A8%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EC%84%B8%EC%9A%94.)**
-
----
-
-### No. 138: Nano Banana Pro용 수직 초고화질 이미지 설정
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Nano Banana Pro용 JSON 구성 스타일 프롬프트로, 매우 높은 디테일의 세로형 8K 캔버스를 지정합니다. 세로 촬영을 위한 크기와 기술적 품질을 정의하는 재사용 가능한 기본 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "image_info": {
-    "width": {argument name="image width" default="4096"},
-    "height": {argument name="image height" default="8192"},
-    "aspect_ratio": "{argument name="aspect ratio" default="1:2"}",
-    "orientation": "{argument name="orientation" default="vertical"}"
-  },
-
-  "technical": {
-    "resolution": "{argument name="resolution" default="8k"}",
-    "dimensions": "{argument name="dimensions" default="4096x8192 or higher"}",
-    "quality": "{argument name="quality" default="ultra high detail"}"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577532761_diywuf_G63J0rlbYAAVOje.jpg" width="600" alt="Nano Banana Pro용 수직 초고화질 이미지 설정 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577536218_wr8uh4_G63J1XKbkAEBch2.jpg" width="600" alt="Nano Banana Pro용 수직 초고화질 이미지 설정 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [tenso](https://x.com/distributedkv)
-- **출처:** [Twitter Post](https://x.com/distributedkv/status/1994472225714647245)
-- **게시일:** 2025년 11월 28일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_info%22%3A%20%7B%0A%20%20%20%20%22width%22%3A%20%7Bargument%20name%3D%22image%20width%22%20default%3D%224096%22%7D%2C%0A%20%20%20%20%22height%22%3A%20%7Bargument%20name%3D%22image%20height%22%20default%3D%228192%22%7D%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%22%7Bargument%20name%3D%22aspect%20ratio%22%20default%3D%221%3A2%22%7D%22%2C%0A%20%20%20%20%22orientation%22%3A%20%22%7Bargument%20name%3D%22orientation%22%20default%3D%22vertical%22%7D%22%0A%20%20%7D%2C%0A%0A%20%20%22technical%22%3A%20%7B%0A%20%20%20%20%22resolution%22%3A%20%22%7Bargument%20name%3D%22resolution%22%20default%3D%228k%22%7D%22%2C%0A%20%20%20%20%22dimensions%22%3A%20%22%7Bargument%20name%3D%22dimensions%22%20default%3D%224096x8192%20or%20higher%22%7D%22%2C%0A%20%20%20%20%22quality%22%3A%20%22%7Bargument%20name%3D%22quality%22%20default%3D%22ultra%20high%20detail%22%7D%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 139: 작은 텍스트 테스트 프롬프트가 있는 패키징 목업
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-Nano Banana Pro에게 정확한 라벨과 설명이 포함된 허브티 상자 패키징 목업을 생성하도록 요청하여 작은 텍스트 렌더링과 심층 추론을 테스트하는 데 사용되는 간결한 영어 프롬프트.
-
-#### 📝 프롬프트
-
-```
-정확한 영양 성분표, 바코드, 작은 글씨의 차 끓이는 방법이 포함된 허브차 상자 포장 목업.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577541810_8jheny_G62kTkUaQAAzxY8.jpg" width="600" alt="작은 텍스트 테스트 프롬프트가 있는 패키징 목업 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Nas](https://x.com/Nas_tech_AI)
-- **출처:** [Twitter Post](https://x.com/Nas_tech_AI/status/1994430868975493199)
-- **게시일:** 2025년 11월 28일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%A0%95%ED%99%95%ED%95%9C%20%EC%98%81%EC%96%91%20%EC%84%B1%EB%B6%84%ED%91%9C%2C%20%EB%B0%94%EC%BD%94%EB%93%9C%2C%20%EC%9E%91%EC%9D%80%20%EA%B8%80%EC%94%A8%EC%9D%98%20%EC%B0%A8%20%EB%81%93%EC%9D%B4%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%B4%20%ED%8F%AC%ED%95%A8%EB%90%9C%20%ED%97%88%EB%B8%8C%EC%B0%A8%20%EC%83%81%EC%9E%90%20%ED%8F%AC%EC%9E%A5%20%EB%AA%A9%EC%97%85.)**
-
----
-
-### No. 140: 엄격한 포토리얼리즘 제약으로 Nano Banana Pro에 대한 수요 증가
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-Nano Banana Pro의 엄격한 프로젝트 제약 조건을 정의하는 JSON 프롬프트로, 순수한 포토리얼리즘, 참조 이미지의 정확한 얼굴 보존, 손의 무결성을 강제합니다. 다른 프롬프트에서 재사용할 수 있는 전역 제약 조건 블록으로 사용됩니다.
-
-#### 📝 프롬프트
-
-```
-{
-  "project_constraints": {
-    "style": "{argument name=\"style\" default=\"엄격한 사실주의만 허용, 만화, 일러스트레이션, 양식화 금지\"}",
-    "face_preservation": "{argument name=\"face preservation\" default=\"참조 이미지의 100% 원본 사람 얼굴 유지, 신원, 표정, 질감 변경 금지\"}",
-    "hand_integrity": "{argument name=\"hand integrity\" default=\"손은 해부학적으로 정확해야 하며, 손가락 수가 맞고 자연스러운 자세를 취해야 하며, 왜곡이 없어야 함\"}"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577530234_xt1e2y_G609phDaYAAwT-W.jpg" width="600" alt="엄격한 포토리얼리즘 제약으로 Nano Banana Pro에 대한 수요 증가 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577533011_80mx1g_G609phBbAAAxC4b.jpg" width="600" alt="엄격한 포토리얼리즘 제약으로 Nano Banana Pro에 대한 수요 증가 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [tenso](https://x.com/distributedkv)
-- **출처:** [Twitter Post](https://x.com/distributedkv/status/1994317999147503924)
-- **게시일:** 2025년 11월 28일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22project_constraints%22%3A%20%7B%0A%20%20%20%20%22style%22%3A%20%22%7Bargument%20name%3D%5C%22style%5C%22%20default%3D%5C%22%EC%97%84%EA%B2%A9%ED%95%9C%20%EC%82%AC%EC%8B%A4%EC%A3%BC%EC%9D%98%EB%A7%8C%20%ED%97%88%EC%9A%A9%2C%20%EB%A7%8C%ED%99%94%2C%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%2C%20%EC%96%91%EC%8B%9D%ED%99%94%20%EA%B8%88%EC%A7%80%5C%22%7D%22%2C%0A%20%20%20%20%22face_preservation%22%3A%20%22%7Bargument%20name%3D%5C%22face%20preservation%5C%22%20default%3D%5C%22%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20100%25%20%EC%9B%90%EB%B3%B8%20%EC%82%AC%EB%9E%8C%20%EC%96%BC%EA%B5%B4%20%EC%9C%A0%EC%A7%80%2C%20%EC%8B%A0%EC%9B%90%2C%20%ED%91%9C%EC%A0%95%2C%20%EC%A7%88%EA%B0%90%20%EB%B3%80%EA%B2%BD%20%EA%B8%88%EC%A7%80%5C%22%7D%22%2C%0A%20%20%20%20%22hand_integrity%22%3A%20%22%7Bargument%20name%3D%5C%22hand%20integrity%5C%22%20default%3D%5C%22%EC%86%90%EC%9D%80%20%ED%95%B4%EB%B6%80%ED%95%99%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EC%A0%95%ED%99%95%ED%95%B4%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EC%86%90%EA%B0%80%EB%9D%BD%20%EC%88%98%EA%B0%80%20%EB%A7%9E%EA%B3%A0%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%9E%90%EC%84%B8%EB%A5%BC%20%EC%B7%A8%ED%95%B4%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EC%99%9C%EA%B3%A1%EC%9D%B4%20%EC%97%86%EC%96%B4%EC%95%BC%20%ED%95%A8%5C%22%7D%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 141: 지정된 GPS 좌표로 사진을 망가뜨리세요
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-특정 위도와 경도에 따라 사진의 품질과 사실성을 의도적으로 저하시켜 흐릿한 얼굴이나 반사 같은 섬뜩한 아티팩트를 생성하는 Nano Banana Pro 이미지 프롬프트.
-
-#### 📝 프롬프트
-
-```
-위도와 경도 {argument name="latitude and longitude" default="35.31721720077321"}가 있는 장소에서 찍은, 제대로 찍히지 않은 스냅샷처럼 보이게 만드세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577559103_scnta3_G602uKHa0AM1g0_.jpg" width="600" alt="지정된 GPS 좌표로 사진을 망가뜨리세요 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577561703_3tn84b_G602yzga0AAZVnK.jpg" width="600" alt="지정된 GPS 좌표로 사진을 망가뜨리세요 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577564067_2udq7q_G602z0_a0AMFYyd.jpg" width="600" alt="지정된 GPS 좌표로 사진을 망가뜨리세요 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577567323_lh77bg_G603KzUa8AArCK0.jpg" width="600" alt="지정된 GPS 좌표로 사진을 망가뜨리세요 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [空想写真家](https://x.com/KusoPhoto)
-- **출처:** [Twitter Post](https://x.com/KusoPhoto/status/1994310947528429640)
-- **게시일:** 2025년 11월 28일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9C%84%EB%8F%84%EC%99%80%20%EA%B2%BD%EB%8F%84%20%7Bargument%20name%3D%22latitude%20and%20longitude%22%20default%3D%2235.31721720077321%22%7D%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EC%9E%A5%EC%86%8C%EC%97%90%EC%84%9C%20%EC%B0%8D%EC%9D%80%2C%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EC%B0%8D%ED%9E%88%EC%A7%80%20%EC%95%8A%EC%9D%80%20%EC%8A%A4%EB%83%85%EC%83%B7%EC%B2%98%EB%9F%BC%20%EB%B3%B4%EC%9D%B4%EA%B2%8C%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.)**
-
----
-
-### No. 142: 주어진 캐릭터와 스토리로 모에 스타일의 풀컬러 만화 제작
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-첨부된 캐릭터를 사용하여 풀컬러 모에 스타일 만화를 생성하고, 일본어의 오른쪽에서 왼쪽으로 읽는 순서, 유연한 패널 레이아웃을 적용하며, 특정 변경이나 출력을 금지하는 일본어 장문 Nano Banana Pro 프롬프트.
-
-#### 📝 프롬프트
-
-```
-첨부된 캐릭터를 사용하여 모에 스타일의 일러스트, 연출, 표정을 강조한 만화를 생성해 주세요.
-일본 만화 형식에 맞춰 오른쪽에서 왼쪽으로, 위에서 아래로 자연스럽게 읽을 수 있도록 칸을 배치해 주세요.
-칸의 배치와 모양은 자유롭게 하되, 독자의 시선 흐름은 일본어 읽기 순서를 따라야 합니다.
-획일적인 레이아웃 대신 불규칙하거나 자유롭게 배열된 칸 구조를 사용해 주세요.
-반드시 풀컬러 만화로 생성해 주세요.
-
-"Nano Banana Pro (Probanana) 출시 일주일.
-쉬지 않고 테스트하고 공유한 결과… 팔로워가 235명 늘고 노출 수가 45만 회에 도달했습니다!
-
-유용한 콘텐츠를 공유하는 경험이 많지 않아 불안했지만, '당신의 게시물 덕분에 XX를 할 수 있었어요!'와 같은 댓글을 많이 받아서 정말 힘이 났습니다.
-제가 공유한 콘텐츠를 사람들이 정리해서 새로운 방법과 예시를 만들어내는 것을 볼 때마다, 공유하길 정말 잘했다고 느낍니다.
-
-만약 과거의 저처럼 '내가 무언가를 공유하는 것에 가치가 있을까?'라고 고민하고 있다면, 단 한 걸음만 내디뎌 보세요.
-몰랐던 과거의 자신을 기쁘게 할 정보를 찾았다면, 짧은 게시물이라도 괜찮으니 공유해 주세요.
-그 한 걸음이 다른 사람에게 필요한 추진력을 줄 수도 있습니다."
-
-금지 사항:
-・왼쪽→오른쪽 또는 아래→위로 읽는 레이아웃
-・캐릭터가 다른 사람처럼 보이게 하는 배열
-・참고 캐릭터의 특징을 다른 캐릭터의 특징으로 대체하는 것
-・영어 사용 또는 말풍선에 가로쓰기
-・색상이나 의상 변경, 또는 흑백, 단색, 선화만, 톤만, 회색조로 출력
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577545414_4gnqwy_G6z874AbIAAWwhF.jpg" width="600" alt="주어진 캐릭터와 스토리로 모에 스타일의 풀컬러 만화 제작 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [🍣お寿司職人｜CNP Land開発中](https://x.com/SushiNFTart)
-- **출처:** [Twitter Post](https://x.com/SushiNFTart/status/1994249535468798390)
-- **게시일:** 2025년 11월 28일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%B2%A8%EB%B6%80%EB%90%9C%20%EC%BA%90%EB%A6%AD%ED%84%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%AA%A8%EC%97%90%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%2C%20%EC%97%B0%EC%B6%9C%2C%20%ED%91%9C%EC%A0%95%EC%9D%84%20%EA%B0%95%EC%A1%B0%ED%95%9C%20%EB%A7%8C%ED%99%94%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EC%9D%BC%EB%B3%B8%20%EB%A7%8C%ED%99%94%20%ED%98%95%EC%8B%9D%EC%97%90%20%EB%A7%9E%EC%B6%B0%20%EC%98%A4%EB%A5%B8%EC%AA%BD%EC%97%90%EC%84%9C%20%EC%99%BC%EC%AA%BD%EC%9C%BC%EB%A1%9C%2C%20%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%EC%9D%BD%EC%9D%84%20%EC%88%98%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EC%B9%B8%EC%9D%84%20%EB%B0%B0%EC%B9%98%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EC%B9%B8%EC%9D%98%20%EB%B0%B0%EC%B9%98%EC%99%80%20%EB%AA%A8%EC%96%91%EC%9D%80%20%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C%20%ED%95%98%EB%90%98%2C%20%EB%8F%85%EC%9E%90%EC%9D%98%20%EC%8B%9C%EC%84%A0%20%ED%9D%90%EB%A6%84%EC%9D%80%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EC%9D%BD%EA%B8%B0%20%EC%88%9C%EC%84%9C%EB%A5%BC%20%EB%94%B0%EB%9D%BC%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%ED%9A%8D%EC%9D%BC%EC%A0%81%EC%9D%B8%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20%EB%8C%80%EC%8B%A0%20%EB%B6%88%EA%B7%9C%EC%B9%99%ED%95%98%EA%B1%B0%EB%82%98%20%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C%20%EB%B0%B0%EC%97%B4%EB%90%9C%20%EC%B9%B8%20%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EB%B0%98%EB%93%9C%EC%8B%9C%20%ED%92%80%EC%BB%AC%EB%9F%AC%20%EB%A7%8C%ED%99%94%EB%A1%9C%20%EC%83%9D%EC%84%B1%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%0A%22Nano%20Banana%20Pro%20(Probanana)%20%EC%B6%9C%EC%8B%9C%20%EC%9D%BC%EC%A3%BC%EC%9D%BC.%0A%EC%89%AC%EC%A7%80%20%EC%95%8A%EA%B3%A0%20%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B3%A0%20%EA%B3%B5%EC%9C%A0%ED%95%9C%20%EA%B2%B0%EA%B3%BC%E2%80%A6%20%ED%8C%94%EB%A1%9C%EC%9B%8C%EA%B0%80%20235%EB%AA%85%20%EB%8A%98%EA%B3%A0%20%EB%85%B8%EC%B6%9C%20%EC%88%98%EA%B0%80%2045%EB%A7%8C%20%ED%9A%8C%EC%97%90%20%EB%8F%84%EB%8B%AC%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4!%0A%0A%EC%9C%A0%EC%9A%A9%ED%95%9C%20%EC%BD%98%ED%85%90%EC%B8%A0%EB%A5%BC%20%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94%20%EA%B2%BD%ED%97%98%EC%9D%B4%20%EB%A7%8E%EC%A7%80%20%EC%95%8A%EC%95%84%20%EB%B6%88%EC%95%88%ED%96%88%EC%A7%80%EB%A7%8C%2C%20'%EB%8B%B9%EC%8B%A0%EC%9D%98%20%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EB%8D%95%EB%B6%84%EC%97%90%20XX%EB%A5%BC%20%ED%95%A0%20%EC%88%98%20%EC%9E%88%EC%97%88%EC%96%B4%EC%9A%94!'%EC%99%80%20%EA%B0%99%EC%9D%80%20%EB%8C%93%EA%B8%80%EC%9D%84%20%EB%A7%8E%EC%9D%B4%20%EB%B0%9B%EC%95%84%EC%84%9C%20%EC%A0%95%EB%A7%90%20%ED%9E%98%EC%9D%B4%20%EB%82%AC%EC%8A%B5%EB%8B%88%EB%8B%A4.%0A%EC%A0%9C%EA%B0%80%20%EA%B3%B5%EC%9C%A0%ED%95%9C%20%EC%BD%98%ED%85%90%EC%B8%A0%EB%A5%BC%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4%20%EC%A0%95%EB%A6%AC%ED%95%B4%EC%84%9C%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%EB%B0%A9%EB%B2%95%EA%B3%BC%20%EC%98%88%EC%8B%9C%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%82%B4%EB%8A%94%20%EA%B2%83%EC%9D%84%20%EB%B3%BC%20%EB%95%8C%EB%A7%88%EB%8B%A4%2C%20%EA%B3%B5%EC%9C%A0%ED%95%98%EA%B8%B8%20%EC%A0%95%EB%A7%90%20%EC%9E%98%ED%96%88%EB%8B%A4%EA%B3%A0%20%EB%8A%90%EB%82%8D%EB%8B%88%EB%8B%A4.%0A%0A%EB%A7%8C%EC%95%BD%20%EA%B3%BC%EA%B1%B0%EC%9D%98%20%EC%A0%80%EC%B2%98%EB%9F%BC%20'%EB%82%B4%EA%B0%80%20%EB%AC%B4%EC%96%B8%EA%B0%80%EB%A5%BC%20%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94%20%EA%B2%83%EC%97%90%20%EA%B0%80%EC%B9%98%EA%B0%80%20%EC%9E%88%EC%9D%84%EA%B9%8C%3F'%EB%9D%BC%EA%B3%A0%20%EA%B3%A0%EB%AF%BC%ED%95%98%EA%B3%A0%20%EC%9E%88%EB%8B%A4%EB%A9%B4%2C%20%EB%8B%A8%20%ED%95%9C%20%EA%B1%B8%EC%9D%8C%EB%A7%8C%20%EB%82%B4%EB%94%94%EB%8E%8C%20%EB%B3%B4%EC%84%B8%EC%9A%94.%0A%EB%AA%B0%EB%9E%90%EB%8D%98%20%EA%B3%BC%EA%B1%B0%EC%9D%98%20%EC%9E%90%EC%8B%A0%EC%9D%84%20%EA%B8%B0%EC%81%98%EA%B2%8C%20%ED%95%A0%20%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EC%B0%BE%EC%95%98%EB%8B%A4%EB%A9%B4%2C%20%EC%A7%A7%EC%9D%80%20%EA%B2%8C%EC%8B%9C%EB%AC%BC%EC%9D%B4%EB%9D%BC%EB%8F%84%20%EA%B4%9C%EC%B0%AE%EC%9C%BC%EB%8B%88%20%EA%B3%B5%EC%9C%A0%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EA%B7%B8%20%ED%95%9C%20%EA%B1%B8%EC%9D%8C%EC%9D%B4%20%EB%8B%A4%EB%A5%B8%20%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%20%ED%95%84%EC%9A%94%ED%95%9C%20%EC%B6%94%EC%A7%84%EB%A0%A5%EC%9D%84%20%EC%A4%84%20%EC%88%98%EB%8F%84%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4.%22%0A%0A%EA%B8%88%EC%A7%80%20%EC%82%AC%ED%95%AD%3A%0A%E3%83%BB%EC%99%BC%EC%AA%BD%E2%86%92%EC%98%A4%EB%A5%B8%EC%AA%BD%20%EB%98%90%EB%8A%94%20%EC%95%84%EB%9E%98%E2%86%92%EC%9C%84%EB%A1%9C%20%EC%9D%BD%EB%8A%94%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%0A%E3%83%BB%EC%BA%90%EB%A6%AD%ED%84%B0%EA%B0%80%20%EB%8B%A4%EB%A5%B8%20%EC%82%AC%EB%9E%8C%EC%B2%98%EB%9F%BC%20%EB%B3%B4%EC%9D%B4%EA%B2%8C%20%ED%95%98%EB%8A%94%20%EB%B0%B0%EC%97%B4%0A%E3%83%BB%EC%B0%B8%EA%B3%A0%20%EC%BA%90%EB%A6%AD%ED%84%B0%EC%9D%98%20%ED%8A%B9%EC%A7%95%EC%9D%84%20%EB%8B%A4%EB%A5%B8%20%EC%BA%90%EB%A6%AD%ED%84%B0%EC%9D%98%20%ED%8A%B9%EC%A7%95%EC%9C%BC%EB%A1%9C%20%EB%8C%80%EC%B2%B4%ED%95%98%EB%8A%94%20%EA%B2%83%0A%E3%83%BB%EC%98%81%EC%96%B4%20%EC%82%AC%EC%9A%A9%20%EB%98%90%EB%8A%94%20%EB%A7%90%ED%92%8D%EC%84%A0%EC%97%90%20%EA%B0%80%EB%A1%9C%EC%93%B0%EA%B8%B0%0A%E3%83%BB%EC%83%89%EC%83%81%EC%9D%B4%EB%82%98%20%EC%9D%98%EC%83%81%20%EB%B3%80%EA%B2%BD%2C%20%EB%98%90%EB%8A%94%20%ED%9D%91%EB%B0%B1%2C%20%EB%8B%A8%EC%83%89%2C%20%EC%84%A0%ED%99%94%EB%A7%8C%2C%20%ED%86%A4%EB%A7%8C%2C%20%ED%9A%8C%EC%83%89%EC%A1%B0%EB%A1%9C%20%EC%B6%9C%EB%A0%A5)**
-
----
-
-### No. 143: 저품질 일회용 카메라 고등학교 스냅샷 프롬프트
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-일회용 카메라로 일본 고등학생이 찍은 오래되고 서투른 일상 스냅 사진처럼 보이게 하는 Nano Banana Pro 프롬프트로, 향수를 불러일으키거나 이모 스타일의 이미지에 적합합니다.
-
-#### 📝 프롬프트
-
-```
-저품질 일회용 카메라로 찍은 평범한 일상 사진. 일본 고등학생이 서투르게 찍은 사진.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577581428_byr0np_G6z7gUVa0AMf1-G.jpg" width="600" alt="저품질 일회용 카메라 고등학교 스냅샷 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577585883_zy2ic4_G6z7gWaa0AIUxEb.jpg" width="600" alt="저품질 일회용 카메라 고등학교 스냅샷 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577588926_xb6hd6_G6z7gW7aIAA7qHf.jpg" width="600" alt="저품질 일회용 카메라 고등학교 스냅샷 프롬프트 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577591506_28plll_G6z7gUvbMAAAYii.jpg" width="600" alt="저품질 일회용 카메라 고등학교 스냅샷 프롬프트 - Image 4">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN)
-- **출처:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/1994245271220568233)
-- **게시일:** 2025년 11월 28일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%A0%80%ED%92%88%EC%A7%88%20%EC%9D%BC%ED%9A%8C%EC%9A%A9%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C%20%EC%B0%8D%EC%9D%80%20%ED%8F%89%EB%B2%94%ED%95%9C%20%EC%9D%BC%EC%83%81%20%EC%82%AC%EC%A7%84.%20%EC%9D%BC%EB%B3%B8%20%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D%EC%9D%B4%20%EC%84%9C%ED%88%AC%EB%A5%B4%EA%B2%8C%20%EC%B0%8D%EC%9D%80%20%EC%82%AC%EC%A7%84.)**
-
----
-
-### No. 144: 부스 스케치를 투시도 드로잉으로 변환
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 설명
-
-거친 전시 부스 스케치를 프레젠테이션용으로 활용 가능한 투시도 일러스트로 바꿔주는 Nano Banana Pro 프롬프트.
-
-#### 📝 프롬프트
-
-```
-전시 부스 러프 스케치에서 투시도 그리기
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577571213_rf1k25_G6z0dknboAA-g3f.jpg" width="600" alt="부스 스케치를 투시도 드로잉으로 변환 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577573640_r1m695_G6z0dgia0AEQH-U.jpg" width="600" alt="부스 스케치를 투시도 드로잉으로 변환 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [岩尾陵佑｜株式会社ピネアル CD](https://x.com/iwaoryo)
-- **출처:** [Twitter Post](https://x.com/iwaoryo/status/1994237532888813637)
-- **게시일:** 2025년 11월 28일
-- **언어:** ja
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%A0%84%EC%8B%9C%20%EB%B6%80%EC%8A%A4%20%EB%9F%AC%ED%94%84%20%EC%8A%A4%EC%BC%80%EC%B9%98%EC%97%90%EC%84%9C%20%ED%88%AC%EC%8B%9C%EB%8F%84%20%EA%B7%B8%EB%A6%AC%EA%B8%B0)**
-
----
-
-### No. 145: 요가 매트 위 여성의 헬스장 셀카 초상화 (Nano Banana Pro)
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-운동 후 현대적인 체육관 요가 매트에 앉아 땀을 닦고 물병을 들고 있는 젊은 여성의 모습을 담은 구조화된 JSON 프롬프트. 의류, 액세서리, 배경 요소가 상세하게 묘사되어 있으며, 수직형 체육관 셀카 미학을 따른다.
-
-#### 📝 프롬프트
-
-```
-{
-  "subject": {
-    "description": "요가 매트에 앉아 수건으로 땀을 닦으며 물병을 들고 있는 젊은 여성",
-    "mirror_rules": "해당 없음 - 직접적인 헬스장 사진",
-    "age": "20대 후반",
-    "expression": "성취감, 약간의 숨 가쁨, 자신감 있는 미소",
-    "hair": {
-      "color": "하이라이트가 있는 금발",
-      "style": "높은 포니테일, 운동으로 인해 잔머리가 약간 흐트러진 상태"
-    },
-    "clothing": {
-      "top": {
-        "type": "스포츠 브라",
-        "color": "더스티 로즈 핑크",
-        "details": "중간 지지력, 스트랩 백 디테일, 땀으로 인한 습기 보임"
-      },
-      "bottom": {
-        "type": "하이웨이스트 레깅스",
-        "color": "메쉬 패널이 있는 블랙",
-        "details": "발목 길이, 종아리에 메쉬 컷아웃, 압박 핏"
-      }
-    },
-    "face": {
-      "preserve_original": true,
-      "makeup": "최소한의 메이크업, 운동으로 인한 촉촉함, 자연스럽게 붉어진 뺨, 아이 메이크업 없음"
-    }
-  },
-  "accessories": {
-    "headwear": {
-      "type": "없음",
-      "details": "스크런치로 머리를 묶음"
-    },
-    "jewelry": {
-      "earrings": "작은 다이아몬드 스터드",
-      "necklace": "없음",
-      "wrist": "로즈 골드 피트니스 트래커, 손목에 검은색 머리끈",
-      "rings": "없음"
-    },
-    "device": {
-      "type": "스마트폰",
-      "details": "덤벨에 기대어 운동 셀카를 촬영 중"
-    },
-    "prop": {
-      "type": "보온 물병",
-      "details": "무광 블랙 32oz 물병, 동기 부여 문구 스티커, 물병 표면에 맺힌 물방울 보임"
-    }
-  },
-  "photography": {
-    "camera_style": "헬스장 셀카 미학, 스마트폰 전면 카메라",
-    "angle": "눈높이보다 약간 위, 앉은 자세",
-    "shot_type": "상반신 전체와 다리를 꼬고 있는 모습, 중앙 구성",
-    "aspect_ratio": "9:16 세로",
-    "texture": "선명한 디테일, 밝은 헬스장 조명, 활기찬 느낌"
-  },
-  "background": {
-    "setting": "현대적인 헬스장 스튜디오",
-    "wall_color": "동기 부여 벽화가 있는 밝은 회색",
-    "elements": [
-      "깔려 있는 보라색 요가 매트",
-      "주변에 흩어져 있는 덤벨 세트",
-      "어깨에 걸쳐진 흰색 수건",
-      "배경에 흐릿하게 보이는 헬스장 장비",
-      "뒷벽을 비추는 큰 거울",
-      "바닥에 감겨 있는 저항 밴드"
-    ],
-    "atmosphere": "활기찬, 성취감 있는, 건강 중심의",
-    "lighting": "밝은 천장 LED 헬스장 조명, 고른 조도"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg" width="600" alt="요가 매트 위 여성의 헬스장 셀카 초상화 (Nano Banana Pro) - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [God of Prompt](https://x.com/godofprompt)
-- **출처:** [Twitter Post](https://x.com/godofprompt/status/1994226363692171267)
-- **게시일:** 2025년 11월 28일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%22description%22%3A%20%22%EC%9A%94%EA%B0%80%20%EB%A7%A4%ED%8A%B8%EC%97%90%20%EC%95%89%EC%95%84%20%EC%88%98%EA%B1%B4%EC%9C%BC%EB%A1%9C%20%EB%95%80%EC%9D%84%20%EB%8B%A6%EC%9C%BC%EB%A9%B0%20%EB%AC%BC%EB%B3%91%EC%9D%84%20%EB%93%A4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%A0%8A%EC%9D%80%20%EC%97%AC%EC%84%B1%22%2C%0A%20%20%20%20%22mirror_rules%22%3A%20%22%ED%95%B4%EB%8B%B9%20%EC%97%86%EC%9D%8C%20-%20%EC%A7%81%EC%A0%91%EC%A0%81%EC%9D%B8%20%ED%97%AC%EC%8A%A4%EC%9E%A5%20%EC%82%AC%EC%A7%84%22%2C%0A%20%20%20%20%22age%22%3A%20%2220%EB%8C%80%20%ED%9B%84%EB%B0%98%22%2C%0A%20%20%20%20%22expression%22%3A%20%22%EC%84%B1%EC%B7%A8%EA%B0%90%2C%20%EC%95%BD%EA%B0%84%EC%9D%98%20%EC%88%A8%20%EA%B0%80%EC%81%A8%2C%20%EC%9E%90%EC%8B%A0%EA%B0%90%20%EC%9E%88%EB%8A%94%20%EB%AF%B8%EC%86%8C%22%2C%0A%20%20%20%20%22hair%22%3A%20%7B%0A%20%20%20%20%20%20%22color%22%3A%20%22%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EA%B8%88%EB%B0%9C%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22%EB%86%92%EC%9D%80%20%ED%8F%AC%EB%8B%88%ED%85%8C%EC%9D%BC%2C%20%EC%9A%B4%EB%8F%99%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%ED%95%B4%20%EC%9E%94%EB%A8%B8%EB%A6%AC%EA%B0%80%20%EC%95%BD%EA%B0%84%20%ED%9D%90%ED%8A%B8%EB%9F%AC%EC%A7%84%20%EC%83%81%ED%83%9C%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22clothing%22%3A%20%7B%0A%20%20%20%20%20%20%22top%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%EB%B8%8C%EB%9D%BC%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%EB%8D%94%EC%8A%A4%ED%8B%B0%20%EB%A1%9C%EC%A6%88%20%ED%95%91%ED%81%AC%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%EC%A4%91%EA%B0%84%20%EC%A7%80%EC%A7%80%EB%A0%A5%2C%20%EC%8A%A4%ED%8A%B8%EB%9E%A9%20%EB%B0%B1%20%EB%94%94%ED%85%8C%EC%9D%BC%2C%20%EB%95%80%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%ED%95%9C%20%EC%8A%B5%EA%B8%B0%20%EB%B3%B4%EC%9E%84%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22bottom%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22type%22%3A%20%22%ED%95%98%EC%9D%B4%EC%9B%A8%EC%9D%B4%EC%8A%A4%ED%8A%B8%20%EB%A0%88%EA%B9%85%EC%8A%A4%22%2C%0A%20%20%20%20%20%20%20%20%22color%22%3A%20%22%EB%A9%94%EC%89%AC%20%ED%8C%A8%EB%84%90%EC%9D%B4%20%EC%9E%88%EB%8A%94%20%EB%B8%94%EB%9E%99%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%EB%B0%9C%EB%AA%A9%20%EA%B8%B8%EC%9D%B4%2C%20%EC%A2%85%EC%95%84%EB%A6%AC%EC%97%90%20%EB%A9%94%EC%89%AC%20%EC%BB%B7%EC%95%84%EC%9B%83%2C%20%EC%95%95%EB%B0%95%20%ED%95%8F%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22face%22%3A%20%7B%0A%20%20%20%20%20%20%22preserve_original%22%3A%20true%2C%0A%20%20%20%20%20%20%22makeup%22%3A%20%22%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%2C%20%EC%9A%B4%EB%8F%99%EC%9C%BC%EB%A1%9C%20%EC%9D%B8%ED%95%9C%20%EC%B4%89%EC%B4%89%ED%95%A8%2C%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%BD%EA%B2%8C%20%EB%B6%89%EC%96%B4%EC%A7%84%20%EB%BA%A8%2C%20%EC%95%84%EC%9D%B4%20%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85%20%EC%97%86%EC%9D%8C%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22accessories%22%3A%20%7B%0A%20%20%20%20%22headwear%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%EC%97%86%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%EC%8A%A4%ED%81%AC%EB%9F%B0%EC%B9%98%EB%A1%9C%20%EB%A8%B8%EB%A6%AC%EB%A5%BC%20%EB%AC%B6%EC%9D%8C%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22jewelry%22%3A%20%7B%0A%20%20%20%20%20%20%22earrings%22%3A%20%22%EC%9E%91%EC%9D%80%20%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C%20%EC%8A%A4%ED%84%B0%EB%93%9C%22%2C%0A%20%20%20%20%20%20%22necklace%22%3A%20%22%EC%97%86%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22wrist%22%3A%20%22%EB%A1%9C%EC%A6%88%20%EA%B3%A8%EB%93%9C%20%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4%20%ED%8A%B8%EB%9E%98%EC%BB%A4%2C%20%EC%86%90%EB%AA%A9%EC%97%90%20%EA%B2%80%EC%9D%80%EC%83%89%20%EB%A8%B8%EB%A6%AC%EB%81%88%22%2C%0A%20%20%20%20%20%20%22rings%22%3A%20%22%EC%97%86%EC%9D%8C%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22device%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%EB%8D%A4%EB%B2%A8%EC%97%90%20%EA%B8%B0%EB%8C%80%EC%96%B4%20%EC%9A%B4%EB%8F%99%20%EC%85%80%EC%B9%B4%EB%A5%BC%20%EC%B4%AC%EC%98%81%20%EC%A4%91%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22prop%22%3A%20%7B%0A%20%20%20%20%20%20%22type%22%3A%20%22%EB%B3%B4%EC%98%A8%20%EB%AC%BC%EB%B3%91%22%2C%0A%20%20%20%20%20%20%22details%22%3A%20%22%EB%AC%B4%EA%B4%91%20%EB%B8%94%EB%9E%99%2032oz%20%EB%AC%BC%EB%B3%91%2C%20%EB%8F%99%EA%B8%B0%20%EB%B6%80%EC%97%AC%20%EB%AC%B8%EA%B5%AC%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%2C%20%EB%AC%BC%EB%B3%91%20%ED%91%9C%EB%A9%B4%EC%97%90%20%EB%A7%BA%ED%9E%8C%20%EB%AC%BC%EB%B0%A9%EC%9A%B8%20%EB%B3%B4%EC%9E%84%22%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22photography%22%3A%20%7B%0A%20%20%20%20%22camera_style%22%3A%20%22%ED%97%AC%EC%8A%A4%EC%9E%A5%20%EC%85%80%EC%B9%B4%20%EB%AF%B8%ED%95%99%2C%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EC%A0%84%EB%A9%B4%20%EC%B9%B4%EB%A9%94%EB%9D%BC%22%2C%0A%20%20%20%20%22angle%22%3A%20%22%EB%88%88%EB%86%92%EC%9D%B4%EB%B3%B4%EB%8B%A4%20%EC%95%BD%EA%B0%84%20%EC%9C%84%2C%20%EC%95%89%EC%9D%80%20%EC%9E%90%EC%84%B8%22%2C%0A%20%20%20%20%22shot_type%22%3A%20%22%EC%83%81%EB%B0%98%EC%8B%A0%20%EC%A0%84%EC%B2%B4%EC%99%80%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EA%BC%AC%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EB%AA%A8%EC%8A%B5%2C%20%EC%A4%91%EC%95%99%20%EA%B5%AC%EC%84%B1%22%2C%0A%20%20%20%20%22aspect_ratio%22%3A%20%229%3A16%20%EC%84%B8%EB%A1%9C%22%2C%0A%20%20%20%20%22texture%22%3A%20%22%EC%84%A0%EB%AA%85%ED%95%9C%20%EB%94%94%ED%85%8C%EC%9D%BC%2C%20%EB%B0%9D%EC%9D%80%20%ED%97%AC%EC%8A%A4%EC%9E%A5%20%EC%A1%B0%EB%AA%85%2C%20%ED%99%9C%EA%B8%B0%EC%B0%AC%20%EB%8A%90%EB%82%8C%22%0A%20%20%7D%2C%0A%20%20%22background%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%ED%97%AC%EC%8A%A4%EC%9E%A5%20%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4%22%2C%0A%20%20%20%20%22wall_color%22%3A%20%22%EB%8F%99%EA%B8%B0%20%EB%B6%80%EC%97%AC%20%EB%B2%BD%ED%99%94%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EB%B0%9D%EC%9D%80%20%ED%9A%8C%EC%83%89%22%2C%0A%20%20%20%20%22elements%22%3A%20%5B%0A%20%20%20%20%20%20%22%EA%B9%94%EB%A0%A4%20%EC%9E%88%EB%8A%94%20%EB%B3%B4%EB%9D%BC%EC%83%89%20%EC%9A%94%EA%B0%80%20%EB%A7%A4%ED%8A%B8%22%2C%0A%20%20%20%20%20%20%22%EC%A3%BC%EB%B3%80%EC%97%90%20%ED%9D%A9%EC%96%B4%EC%A0%B8%20%EC%9E%88%EB%8A%94%20%EB%8D%A4%EB%B2%A8%20%EC%84%B8%ED%8A%B8%22%2C%0A%20%20%20%20%20%20%22%EC%96%B4%EA%B9%A8%EC%97%90%20%EA%B1%B8%EC%B3%90%EC%A7%84%20%ED%9D%B0%EC%83%89%20%EC%88%98%EA%B1%B4%22%2C%0A%20%20%20%20%20%20%22%EB%B0%B0%EA%B2%BD%EC%97%90%20%ED%9D%90%EB%A6%BF%ED%95%98%EA%B2%8C%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%ED%97%AC%EC%8A%A4%EC%9E%A5%20%EC%9E%A5%EB%B9%84%22%2C%0A%20%20%20%20%20%20%22%EB%92%B7%EB%B2%BD%EC%9D%84%20%EB%B9%84%EC%B6%94%EB%8A%94%20%ED%81%B0%20%EA%B1%B0%EC%9A%B8%22%2C%0A%20%20%20%20%20%20%22%EB%B0%94%EB%8B%A5%EC%97%90%20%EA%B0%90%EA%B2%A8%20%EC%9E%88%EB%8A%94%20%EC%A0%80%ED%95%AD%20%EB%B0%B4%EB%93%9C%22%0A%20%20%20%20%5D%2C%0A%20%20%20%20%22atmosphere%22%3A%20%22%ED%99%9C%EA%B8%B0%EC%B0%AC%2C%20%EC%84%B1%EC%B7%A8%EA%B0%90%20%EC%9E%88%EB%8A%94%2C%20%EA%B1%B4%EA%B0%95%20%EC%A4%91%EC%8B%AC%EC%9D%98%22%2C%0A%20%20%20%20%22lighting%22%3A%20%22%EB%B0%9D%EC%9D%80%20%EC%B2%9C%EC%9E%A5%20LED%20%ED%97%AC%EC%8A%A4%EC%9E%A5%20%EC%A1%B0%EB%AA%85%2C%20%EA%B3%A0%EB%A5%B8%20%EC%A1%B0%EB%8F%84%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 146: 귀사 제품 및 브랜드 미학을 활용한 광고 재제작 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-기존 광고 레이아웃을 Nano Banana Pro용 텍스트 프롬프트로 재현하여 경쟁사 브랜딩을 제거하고 구성과 분위기를 유지하면서 귀사의 제품과 브랜딩을 적용합니다.
-
-#### 📝 프롬프트
-
-```
-경쟁사 제품 대신 {argument name="your product" default="my product"}을(를) 사용하여 이 광고 콘셉트를 다시 만드세요. 동일한 분위기, 조명, 구도 및 전반적인 느낌을 유지하세요. 경쟁사 브랜딩은 모두 제거하세요.
-
-제품을 {argument name="reference image" default="my uploaded image"}의 제품으로 교체하고, 모든 배경 요소, 소품 및 주변 질감을 {argument name="your brand" default="my product’s brand"}, {argument name="flavor profile" default="my product’s flavor profile"} 및 미학과 시각적으로 관련되도록 조정하세요. 원본 브랜드와는 다르게 말이죠. 사실적인 묘사와 정확한 제품 비율을 유지하세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909317083_vg9s0c_G6s_-BpXgAA9i4k.jpg" width="600" alt="귀사 제품 및 브랜드 미학을 활용한 광고 재제작 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909320013_shh6cp_G6s__DKW4AEdcPu.jpg" width="600" alt="귀사 제품 및 브랜드 미학을 활용한 광고 재제작 프롬프트 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [J.B.](https://x.com/VibeMarketer_)
-- **출처:** [Twitter Post](https://x.com/VibeMarketer_/status/1993757724564189225)
-- **게시일:** 2025년 11월 26일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EA%B2%BD%EC%9F%81%EC%82%AC%20%EC%A0%9C%ED%92%88%20%EB%8C%80%EC%8B%A0%20%7Bargument%20name%3D%22your%20product%22%20default%3D%22my%20product%22%7D%EC%9D%84(%EB%A5%BC)%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%9D%B4%20%EA%B4%91%EA%B3%A0%20%EC%BD%98%EC%85%89%ED%8A%B8%EB%A5%BC%20%EB%8B%A4%EC%8B%9C%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.%20%EB%8F%99%EC%9D%BC%ED%95%9C%20%EB%B6%84%EC%9C%84%EA%B8%B0%2C%20%EC%A1%B0%EB%AA%85%2C%20%EA%B5%AC%EB%8F%84%20%EB%B0%8F%20%EC%A0%84%EB%B0%98%EC%A0%81%EC%9D%B8%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EC%84%B8%EC%9A%94.%20%EA%B2%BD%EC%9F%81%EC%82%AC%20%EB%B8%8C%EB%9E%9C%EB%94%A9%EC%9D%80%20%EB%AA%A8%EB%91%90%20%EC%A0%9C%EA%B1%B0%ED%95%98%EC%84%B8%EC%9A%94.%0A%0A%EC%A0%9C%ED%92%88%EC%9D%84%20%7Bargument%20name%3D%22reference%20image%22%20default%3D%22my%20uploaded%20image%22%7D%EC%9D%98%20%EC%A0%9C%ED%92%88%EC%9C%BC%EB%A1%9C%20%EA%B5%90%EC%B2%B4%ED%95%98%EA%B3%A0%2C%20%EB%AA%A8%EB%93%A0%20%EB%B0%B0%EA%B2%BD%20%EC%9A%94%EC%86%8C%2C%20%EC%86%8C%ED%92%88%20%EB%B0%8F%20%EC%A3%BC%EB%B3%80%20%EC%A7%88%EA%B0%90%EC%9D%84%20%7Bargument%20name%3D%22your%20brand%22%20default%3D%22my%20product%E2%80%99s%20brand%22%7D%2C%20%7Bargument%20name%3D%22flavor%20profile%22%20default%3D%22my%20product%E2%80%99s%20flavor%20profile%22%7D%20%EB%B0%8F%20%EB%AF%B8%ED%95%99%EA%B3%BC%20%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EA%B4%80%EB%A0%A8%EB%90%98%EB%8F%84%EB%A1%9D%20%EC%A1%B0%EC%A0%95%ED%95%98%EC%84%B8%EC%9A%94.%20%EC%9B%90%EB%B3%B8%20%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%99%80%EB%8A%94%20%EB%8B%A4%EB%A5%B4%EA%B2%8C%20%EB%A7%90%EC%9D%B4%EC%A3%A0.%20%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B8%20%EB%AC%98%EC%82%AC%EC%99%80%20%EC%A0%95%ED%99%95%ED%95%9C%20%EC%A0%9C%ED%92%88%20%EB%B9%84%EC%9C%A8%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EC%84%B8%EC%9A%94.)**
-
----
-
-### No. 147: Y2K 플래시 나이트 자동차 커플 인물 사진 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-엄격한 신원 보존, 특정 포즈, 의상, 조명 및 환경 설정을 통해 자동차에 탄 커플의 Y2K 스타일 야간 사진을 생성하기 위한 매우 상세한 JSON 스타일 프롬프트.
-
-#### 📝 프롬프트
-
-```
-{
-  "generation_constraints": {
-    "identity_preservation": "{argument name=\"identity preservation\" default=\"참조 사진의 두 피사체 모두에 대한 엄격하고 완전한 신원 잠금\"}",
-    "facial_features": "얼굴, 비율 또는 자연스러운 표정을 변경하지 마십시오.",
-    "style_reference": "로우 Y2K 야간 사진 스타일"
-  },
-  "camera_settings": {
-    "lens": "85mm 인물 사진 렌즈",
-    "focus": "얕은 피사계 심도",
-    "angle": "눈높이",
-    "framing": "미디엄 샷",
-    "technique": "강력한 직접 전면 플래시 (온카메라 플래시)"
-  },
-  "subject_details": {
-    "pose_interaction": {
-      "position": "자동차 뒷좌석에 바싹 붙어 앉아 있음",
-      "man_action": "여자의 목을 부드럽게 안고 관자놀이에 키스함",
-      "woman_action": "그에게 부드럽게 몸을 기울이고 눈을 감음",
-      "mood": "평화롭고 친밀하며 고요함"
-    },
-    "wardrobe": {
-      "woman": {
-        "garment": "우아한 검은색 긴팔 드레스",
-        "fabric": "밀도 높은 무광택 원단",
-        "details": "하이넥, 어깨 노출 없음, 클래식한 슬림핏 실루엣"
-      },
-      "man": {
-        "outfit": "검은색 정장과 바지",
-        "shirt": "안에 입은 검은색 셔츠"
-      }
-    }
-  },
-  "lighting_and_atmosphere": {
-    "primary_source": "강력한 직접 전면 플래시",
-    "ambient_light": "내부 조명 없음 (어두운 내부), 외부의 흐릿하고 따뜻한 도시 불빛",
-    "contrast": "높은 대비 가장자리, 피사체 뒤의 선명한 그림자",
-    "highlights": "피부와 젖은 유리창에 선명한 플래시 하이라이트"
-  },
-  "environment_context": {
-    "setting": "밤에 차 안",
-    "background_elements": "빗방울이 맺힌 김 서린 자동차 창문",
-    "effects": "유리에 반사되는 플래시, 차가운 밤공기로 인한 미묘한 안개",
-    "depth": "배경은 부드러운 블러와 함께 깊고 어둡게 유지됨"
-  }
-}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909329620_vd9p4w_G6lTK_eWEAEwfKD.jpg" width="600" alt="Y2K 플래시 나이트 자동차 커플 인물 사진 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Melisa♡](https://x.com/xmliisu)
-- **출처:** [Twitter Post](https://x.com/xmliisu/status/1993215769765703861)
-- **게시일:** 2025년 11월 25일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22generation_constraints%22%3A%20%7B%0A%20%20%20%20%22identity_preservation%22%3A%20%22%7Bargument%20name%3D%5C%22identity%20preservation%5C%22%20default%3D%5C%22%EC%B0%B8%EC%A1%B0%20%EC%82%AC%EC%A7%84%EC%9D%98%20%EB%91%90%20%ED%94%BC%EC%82%AC%EC%B2%B4%20%EB%AA%A8%EB%91%90%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%84%EA%B2%A9%ED%95%98%EA%B3%A0%20%EC%99%84%EC%A0%84%ED%95%9C%20%EC%8B%A0%EC%9B%90%20%EC%9E%A0%EA%B8%88%5C%22%7D%22%2C%0A%20%20%20%20%22facial_features%22%3A%20%22%EC%96%BC%EA%B5%B4%2C%20%EB%B9%84%EC%9C%A8%20%EB%98%90%EB%8A%94%20%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%ED%91%9C%EC%A0%95%EC%9D%84%20%EB%B3%80%EA%B2%BD%ED%95%98%EC%A7%80%20%EB%A7%88%EC%8B%AD%EC%8B%9C%EC%98%A4.%22%2C%0A%20%20%20%20%22style_reference%22%3A%20%22%EB%A1%9C%EC%9A%B0%20Y2K%20%EC%95%BC%EA%B0%84%20%EC%82%AC%EC%A7%84%20%EC%8A%A4%ED%83%80%EC%9D%BC%22%0A%20%20%7D%2C%0A%20%20%22camera_settings%22%3A%20%7B%0A%20%20%20%20%22lens%22%3A%20%2285mm%20%EC%9D%B8%EB%AC%BC%20%EC%82%AC%EC%A7%84%20%EB%A0%8C%EC%A6%88%22%2C%0A%20%20%20%20%22focus%22%3A%20%22%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%22%2C%0A%20%20%20%20%22angle%22%3A%20%22%EB%88%88%EB%86%92%EC%9D%B4%22%2C%0A%20%20%20%20%22framing%22%3A%20%22%EB%AF%B8%EB%94%94%EC%97%84%20%EC%83%B7%22%2C%0A%20%20%20%20%22technique%22%3A%20%22%EA%B0%95%EB%A0%A5%ED%95%9C%20%EC%A7%81%EC%A0%91%20%EC%A0%84%EB%A9%B4%20%ED%94%8C%EB%9E%98%EC%8B%9C%20(%EC%98%A8%EC%B9%B4%EB%A9%94%EB%9D%BC%20%ED%94%8C%EB%9E%98%EC%8B%9C)%22%0A%20%20%7D%2C%0A%20%20%22subject_details%22%3A%20%7B%0A%20%20%20%20%22pose_interaction%22%3A%20%7B%0A%20%20%20%20%20%20%22position%22%3A%20%22%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%92%B7%EC%A2%8C%EC%84%9D%EC%97%90%20%EB%B0%94%EC%8B%B9%20%EB%B6%99%EC%96%B4%20%EC%95%89%EC%95%84%20%EC%9E%88%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22man_action%22%3A%20%22%EC%97%AC%EC%9E%90%EC%9D%98%20%EB%AA%A9%EC%9D%84%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%20%EC%95%88%EA%B3%A0%20%EA%B4%80%EC%9E%90%EB%86%80%EC%9D%B4%EC%97%90%20%ED%82%A4%EC%8A%A4%ED%95%A8%22%2C%0A%20%20%20%20%20%20%22woman_action%22%3A%20%22%EA%B7%B8%EC%97%90%EA%B2%8C%20%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C%20%EB%AA%B8%EC%9D%84%20%EA%B8%B0%EC%9A%B8%EC%9D%B4%EA%B3%A0%20%EB%88%88%EC%9D%84%20%EA%B0%90%EC%9D%8C%22%2C%0A%20%20%20%20%20%20%22mood%22%3A%20%22%ED%8F%89%ED%99%94%EB%A1%AD%EA%B3%A0%20%EC%B9%9C%EB%B0%80%ED%95%98%EB%A9%B0%20%EA%B3%A0%EC%9A%94%ED%95%A8%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22wardrobe%22%3A%20%7B%0A%20%20%20%20%20%20%22woman%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22garment%22%3A%20%22%EC%9A%B0%EC%95%84%ED%95%9C%20%EA%B2%80%EC%9D%80%EC%83%89%20%EA%B8%B4%ED%8C%94%20%EB%93%9C%EB%A0%88%EC%8A%A4%22%2C%0A%20%20%20%20%20%20%20%20%22fabric%22%3A%20%22%EB%B0%80%EB%8F%84%20%EB%86%92%EC%9D%80%20%EB%AC%B4%EA%B4%91%ED%83%9D%20%EC%9B%90%EB%8B%A8%22%2C%0A%20%20%20%20%20%20%20%20%22details%22%3A%20%22%ED%95%98%EC%9D%B4%EB%84%A5%2C%20%EC%96%B4%EA%B9%A8%20%EB%85%B8%EC%B6%9C%20%EC%97%86%EC%9D%8C%2C%20%ED%81%B4%EB%9E%98%EC%8B%9D%ED%95%9C%20%EC%8A%AC%EB%A6%BC%ED%95%8F%20%EC%8B%A4%EB%A3%A8%EC%97%A3%22%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%22man%22%3A%20%7B%0A%20%20%20%20%20%20%20%20%22outfit%22%3A%20%22%EA%B2%80%EC%9D%80%EC%83%89%20%EC%A0%95%EC%9E%A5%EA%B3%BC%20%EB%B0%94%EC%A7%80%22%2C%0A%20%20%20%20%20%20%20%20%22shirt%22%3A%20%22%EC%95%88%EC%97%90%20%EC%9E%85%EC%9D%80%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%85%94%EC%B8%A0%22%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%2C%0A%20%20%22lighting_and_atmosphere%22%3A%20%7B%0A%20%20%20%20%22primary_source%22%3A%20%22%EA%B0%95%EB%A0%A5%ED%95%9C%20%EC%A7%81%EC%A0%91%20%EC%A0%84%EB%A9%B4%20%ED%94%8C%EB%9E%98%EC%8B%9C%22%2C%0A%20%20%20%20%22ambient_light%22%3A%20%22%EB%82%B4%EB%B6%80%20%EC%A1%B0%EB%AA%85%20%EC%97%86%EC%9D%8C%20(%EC%96%B4%EB%91%90%EC%9A%B4%20%EB%82%B4%EB%B6%80)%2C%20%EC%99%B8%EB%B6%80%EC%9D%98%20%ED%9D%90%EB%A6%BF%ED%95%98%EA%B3%A0%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EB%8F%84%EC%8B%9C%20%EB%B6%88%EB%B9%9B%22%2C%0A%20%20%20%20%22contrast%22%3A%20%22%EB%86%92%EC%9D%80%20%EB%8C%80%EB%B9%84%20%EA%B0%80%EC%9E%A5%EC%9E%90%EB%A6%AC%2C%20%ED%94%BC%EC%82%AC%EC%B2%B4%20%EB%92%A4%EC%9D%98%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EA%B7%B8%EB%A6%BC%EC%9E%90%22%2C%0A%20%20%20%20%22highlights%22%3A%20%22%ED%94%BC%EB%B6%80%EC%99%80%20%EC%A0%96%EC%9D%80%20%EC%9C%A0%EB%A6%AC%EC%B0%BD%EC%97%90%20%EC%84%A0%EB%AA%85%ED%95%9C%20%ED%94%8C%EB%9E%98%EC%8B%9C%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8%22%0A%20%20%7D%2C%0A%20%20%22environment_context%22%3A%20%7B%0A%20%20%20%20%22setting%22%3A%20%22%EB%B0%A4%EC%97%90%20%EC%B0%A8%20%EC%95%88%22%2C%0A%20%20%20%20%22background_elements%22%3A%20%22%EB%B9%97%EB%B0%A9%EC%9A%B8%EC%9D%B4%20%EB%A7%BA%ED%9E%8C%20%EA%B9%80%20%EC%84%9C%EB%A6%B0%20%EC%9E%90%EB%8F%99%EC%B0%A8%20%EC%B0%BD%EB%AC%B8%22%2C%0A%20%20%20%20%22effects%22%3A%20%22%EC%9C%A0%EB%A6%AC%EC%97%90%20%EB%B0%98%EC%82%AC%EB%90%98%EB%8A%94%20%ED%94%8C%EB%9E%98%EC%8B%9C%2C%20%EC%B0%A8%EA%B0%80%EC%9A%B4%20%EB%B0%A4%EA%B3%B5%EA%B8%B0%EB%A1%9C%20%EC%9D%B8%ED%95%9C%20%EB%AF%B8%EB%AC%98%ED%95%9C%20%EC%95%88%EA%B0%9C%22%2C%0A%20%20%20%20%22depth%22%3A%20%22%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4%20%EB%B8%94%EB%9F%AC%EC%99%80%20%ED%95%A8%EA%BB%98%20%EA%B9%8A%EA%B3%A0%20%EC%96%B4%EB%91%A1%EA%B2%8C%20%EC%9C%A0%EC%A7%80%EB%90%A8%22%0A%20%20%7D%0A%7D)**
-
----
-
-### No. 148: 하나의 이미지에서 가로로 된 세 개의 감성 패널 초상화
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-단일 레퍼런스 사진을 사용하여 동일한 캐릭터가 세 가지 감정적, 구성적 변형으로 나타나는 가로 삼면화를 만드는 Nano Banana Pro 프롬프트.
-
-#### 📝 프롬프트
-
-```
-첨부된 이미지를 기본으로 사용하세요.
-인물의 얼굴, 헤어스타일, 의상, 신체 비율은 변경하지 마세요.
-
-가로로 세 개의 패널로 구성된 그림을 생성하세요 (상단 / 중간 / 하단).
-
-상단 패널:
-
-눈과 입만 보이는 클로즈업.
-
-감정: {argument name="top panel emotion" default="눈물이 그렁그렁하고 목이 메인 듯, 살짝 울고 있는"}
-
-중간 패널:
-
-네 발로 엎드린 자세.
-
-온화한 미소.
-
-카메라를 정면으로 응시.
-
-하단 패널:
-
-얼굴 옆모습 클로즈업 (머리부터 목까지).
-
-{argument name="bottom panel expression and action" default="키스하려는 듯 입술을 내민"}
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909275493_0jdkmx_G6k2ZXibsAAzrBQ.jpg" width="600" alt="하나의 이미지에서 가로로 된 세 개의 감성 패널 초상화 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [摆烂程序媛](https://x.com/wanerfu)
-- **출처:** [Twitter Post](https://x.com/wanerfu/status/1993184128091799571)
-- **게시일:** 2025년 11월 25일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%B2%A8%EB%B6%80%EB%90%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EA%B8%B0%EB%B3%B8%EC%9C%BC%EB%A1%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%84%B8%EC%9A%94.%0A%EC%9D%B8%EB%AC%BC%EC%9D%98%20%EC%96%BC%EA%B5%B4%2C%20%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC%2C%20%EC%9D%98%EC%83%81%2C%20%EC%8B%A0%EC%B2%B4%20%EB%B9%84%EC%9C%A8%EC%9D%80%20%EB%B3%80%EA%B2%BD%ED%95%98%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94.%0A%0A%EA%B0%80%EB%A1%9C%EB%A1%9C%20%EC%84%B8%20%EA%B0%9C%EC%9D%98%20%ED%8C%A8%EB%84%90%EB%A1%9C%20%EA%B5%AC%EC%84%B1%EB%90%9C%20%EA%B7%B8%EB%A6%BC%EC%9D%84%20%EC%83%9D%EC%84%B1%ED%95%98%EC%84%B8%EC%9A%94%20(%EC%83%81%EB%8B%A8%20%2F%20%EC%A4%91%EA%B0%84%20%2F%20%ED%95%98%EB%8B%A8).%0A%0A%EC%83%81%EB%8B%A8%20%ED%8C%A8%EB%84%90%3A%0A%0A%EB%88%88%EA%B3%BC%20%EC%9E%85%EB%A7%8C%20%EB%B3%B4%EC%9D%B4%EB%8A%94%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.%0A%0A%EA%B0%90%EC%A0%95%3A%20%7Bargument%20name%3D%22top%20panel%20emotion%22%20default%3D%22%EB%88%88%EB%AC%BC%EC%9D%B4%20%EA%B7%B8%EB%A0%81%EA%B7%B8%EB%A0%81%ED%95%98%EA%B3%A0%20%EB%AA%A9%EC%9D%B4%20%EB%A9%94%EC%9D%B8%20%EB%93%AF%2C%20%EC%82%B4%EC%A7%9D%20%EC%9A%B8%EA%B3%A0%20%EC%9E%88%EB%8A%94%22%7D%0A%0A%EC%A4%91%EA%B0%84%20%ED%8C%A8%EB%84%90%3A%0A%0A%EB%84%A4%20%EB%B0%9C%EB%A1%9C%20%EC%97%8E%EB%93%9C%EB%A6%B0%20%EC%9E%90%EC%84%B8.%0A%0A%EC%98%A8%ED%99%94%ED%95%9C%20%EB%AF%B8%EC%86%8C.%0A%0A%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%A0%95%EB%A9%B4%EC%9C%BC%EB%A1%9C%20%EC%9D%91%EC%8B%9C.%0A%0A%ED%95%98%EB%8B%A8%20%ED%8C%A8%EB%84%90%3A%0A%0A%EC%96%BC%EA%B5%B4%20%EC%98%86%EB%AA%A8%EC%8A%B5%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%20(%EB%A8%B8%EB%A6%AC%EB%B6%80%ED%84%B0%20%EB%AA%A9%EA%B9%8C%EC%A7%80).%0A%0A%7Bargument%20name%3D%22bottom%20panel%20expression%20and%20action%22%20default%3D%22%ED%82%A4%EC%8A%A4%ED%95%98%EB%A0%A4%EB%8A%94%20%EB%93%AF%20%EC%9E%85%EC%88%A0%EC%9D%84%20%EB%82%B4%EB%AF%BC%22%7D)**
-
----
-
-### No. 149: Anthropic 스타일의 따뜻한 학술 PPT 워크플로우 프롬프트
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 설명
-
-Nano Banana Pro를 위한 워크플로우 스타일 프롬프트입니다. 먼저 기사에서 PPT 개요를 작성한 다음, 따뜻하고 학술적인 Anthropic/Claude 스타일 디자인으로 각 슬라이드를 생성합니다.
-
-#### 📝 프롬프트
-
-```
-다음 기사를 바탕으로 전문가 수준의 중국어 PPT를 만들어 주세요.
-먼저 PPT 개요를 작성하고 각 슬라이드의 내용을 계획해 주세요.
-그런 다음 각 슬라이드의 내용을 Nano Banana Pro에 입력하여 해당 PPT 페이지를 생성하고 일관된 스타일을 유지해 주세요.
-
-PPT 스타일은 "Anthropic/Claude 스타일"의 따뜻하고 학술적인 인문학적 디자인이어야 합니다.
-배경: 따뜻한 베이지/크림색(#F3F0E9)을 단색 기본 색상으로 사용하고, 약간 고급스러운 종이 질감을 더해 주세요.
-글꼴: 제목에는 우아한 세리프 글꼴을 사용하고 본문에는 현대적인 산세리프 글꼴을 사용해 주세요.
-색상 팔레트: 주요 색상은 테라코타 레드(#D67052)와 머스타드 옐로우(#F0B857)이며, 짙은 네이비 블루로 포인트를 줍니다. 네온 색상이나 순수한 검은색은 피해주세요.
-시각적 요소: 타이포그래피를 강조하는 그리드 레이아웃을 사용해 주세요. 일러스트레이션 스타일은 단색 테라코타 레드 블록 위에 배치된 추상적이고 유기적인 검은색 손으로 그린 선화여야 합니다. 일러스트레이션과 장식 요소는 매우 드물게 사용해야 하며, 내용에 도움이 되어야 합니다.
-차트: 데이터 비교를 강조하는 평면적이고 미니멀한 차트를 사용하고 불필요한 테두리는 제거해 주세요.
-
-텍스트와 이미지는 모두 Nano Banana Pro에서 생성됩니다. 또한, PPT를 하나의 큰 이미지로 만들지 말고, 슬라이드당 하나의 이미지로 만들어 주세요.
-
-기사 내용은 다음과 같습니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909280626_bh9j8m_G6kir-JbwAQO4LN.jpg" width="600" alt="Anthropic 스타일의 따뜻한 학술 PPT 워크플로우 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [歸藏(guizang.ai)](https://x.com/op7418)
-- **출처:** [Twitter Post](https://x.com/op7418/status/1993162900630823106)
-- **게시일:** 2025년 11월 25일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EB%8B%A4%EC%9D%8C%20%EA%B8%B0%EC%82%AC%EB%A5%BC%20%EB%B0%94%ED%83%95%EC%9C%BC%EB%A1%9C%20%EC%A0%84%EB%AC%B8%EA%B0%80%20%EC%88%98%EC%A4%80%EC%9D%98%20%EC%A4%91%EA%B5%AD%EC%96%B4%20PPT%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EB%A8%BC%EC%A0%80%20PPT%20%EA%B0%9C%EC%9A%94%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%20%EA%B0%81%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98%20%EB%82%B4%EC%9A%A9%EC%9D%84%20%EA%B3%84%ED%9A%8D%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EA%B7%B8%EB%9F%B0%20%EB%8B%A4%EC%9D%8C%20%EA%B0%81%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98%20%EB%82%B4%EC%9A%A9%EC%9D%84%20Nano%20Banana%20Pro%EC%97%90%20%EC%9E%85%EB%A0%A5%ED%95%98%EC%97%AC%20%ED%95%B4%EB%8B%B9%20PPT%20%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%9D%BC%EA%B4%80%EB%90%9C%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%0APPT%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%22Anthropic%2FClaude%20%EC%8A%A4%ED%83%80%EC%9D%BC%22%EC%9D%98%20%EB%94%B0%EB%9C%BB%ED%95%98%EA%B3%A0%20%ED%95%99%EC%88%A0%EC%A0%81%EC%9D%B8%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%B4%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%EB%B0%B0%EA%B2%BD%3A%20%EB%94%B0%EB%9C%BB%ED%95%9C%20%EB%B2%A0%EC%9D%B4%EC%A7%80%2F%ED%81%AC%EB%A6%BC%EC%83%89(%23F3F0E9)%EC%9D%84%20%EB%8B%A8%EC%83%89%20%EA%B8%B0%EB%B3%B8%20%EC%83%89%EC%83%81%EC%9C%BC%EB%A1%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%2C%20%EC%95%BD%EA%B0%84%20%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%A2%85%EC%9D%B4%20%EC%A7%88%EA%B0%90%EC%9D%84%20%EB%8D%94%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EA%B8%80%EA%BC%B4%3A%20%EC%A0%9C%EB%AA%A9%EC%97%90%EB%8A%94%20%EC%9A%B0%EC%95%84%ED%95%9C%20%EC%84%B8%EB%A6%AC%ED%94%84%20%EA%B8%80%EA%BC%B4%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%B3%B8%EB%AC%B8%EC%97%90%EB%8A%94%20%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8%20%EC%82%B0%EC%84%B8%EB%A6%AC%ED%94%84%20%EA%B8%80%EA%BC%B4%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EC%83%89%EC%83%81%20%ED%8C%94%EB%A0%88%ED%8A%B8%3A%20%EC%A3%BC%EC%9A%94%20%EC%83%89%EC%83%81%EC%9D%80%20%ED%85%8C%EB%9D%BC%EC%BD%94%ED%83%80%20%EB%A0%88%EB%93%9C(%23D67052)%EC%99%80%20%EB%A8%B8%EC%8A%A4%ED%83%80%EB%93%9C%20%EC%98%90%EB%A1%9C%EC%9A%B0(%23F0B857)%EC%9D%B4%EB%A9%B0%2C%20%EC%A7%99%EC%9D%80%20%EB%84%A4%EC%9D%B4%EB%B9%84%20%EB%B8%94%EB%A3%A8%EB%A1%9C%20%ED%8F%AC%EC%9D%B8%ED%8A%B8%EB%A5%BC%20%EC%A4%8D%EB%8B%88%EB%8B%A4.%20%EB%84%A4%EC%98%A8%20%EC%83%89%EC%83%81%EC%9D%B4%EB%82%98%20%EC%88%9C%EC%88%98%ED%95%9C%20%EA%B2%80%EC%9D%80%EC%83%89%EC%9D%80%20%ED%94%BC%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%EC%8B%9C%EA%B0%81%EC%A0%81%20%EC%9A%94%EC%86%8C%3A%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%EB%A5%BC%20%EA%B0%95%EC%A1%B0%ED%95%98%EB%8A%94%20%EA%B7%B8%EB%A6%AC%EB%93%9C%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%80%20%EB%8B%A8%EC%83%89%20%ED%85%8C%EB%9D%BC%EC%BD%94%ED%83%80%20%EB%A0%88%EB%93%9C%20%EB%B8%94%EB%A1%9D%20%EC%9C%84%EC%97%90%20%EB%B0%B0%EC%B9%98%EB%90%9C%20%EC%B6%94%EC%83%81%EC%A0%81%EC%9D%B4%EA%B3%A0%20%EC%9C%A0%EA%B8%B0%EC%A0%81%EC%9D%B8%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EA%B7%B8%EB%A6%B0%20%EC%84%A0%ED%99%94%EC%97%AC%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%EA%B3%BC%20%EC%9E%A5%EC%8B%9D%20%EC%9A%94%EC%86%8C%EB%8A%94%20%EB%A7%A4%EC%9A%B0%20%EB%93%9C%EB%AC%BC%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%20%ED%95%98%EB%A9%B0%2C%20%EB%82%B4%EC%9A%A9%EC%97%90%20%EB%8F%84%EC%9B%80%EC%9D%B4%20%EB%90%98%EC%96%B4%EC%95%BC%20%ED%95%A9%EB%8B%88%EB%8B%A4.%0A%EC%B0%A8%ED%8A%B8%3A%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B9%84%EA%B5%90%EB%A5%BC%20%EA%B0%95%EC%A1%B0%ED%95%98%EB%8A%94%20%ED%8F%89%EB%A9%B4%EC%A0%81%EC%9D%B4%EA%B3%A0%20%EB%AF%B8%EB%8B%88%EB%A9%80%ED%95%9C%20%EC%B0%A8%ED%8A%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%ED%85%8C%EB%91%90%EB%A6%AC%EB%8A%94%20%EC%A0%9C%EA%B1%B0%ED%95%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%0A%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%8A%94%20%EB%AA%A8%EB%91%90%20Nano%20Banana%20Pro%EC%97%90%EC%84%9C%20%EC%83%9D%EC%84%B1%EB%90%A9%EB%8B%88%EB%8B%A4.%20%EB%98%90%ED%95%9C%2C%20PPT%EB%A5%BC%20%ED%95%98%EB%82%98%EC%9D%98%20%ED%81%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%A7%80%20%EB%A7%90%EA%B3%A0%2C%20%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C%EB%8B%B9%20%ED%95%98%EB%82%98%EC%9D%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A%0A%EA%B8%B0%EC%82%AC%20%EB%82%B4%EC%9A%A9%EC%9D%80%20%EB%8B%A4%EC%9D%8C%EA%B3%BC%20%EA%B0%99%EC%8A%B5%EB%8B%88%EB%8B%A4.)**
-
----
-
-### No. 150: Nano Banana Pro용 증명사진 생성 프롬프트
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-지정된 배경색, 의상, 표정으로 인물 사진을 2인치 전문 증명 사진으로 바꾸는 간단한 프롬프트.
-
-#### 📝 프롬프트
-
-```
-이미지 속 인물의 얼굴을 잘라내어 다음 요건에 맞춰 2인치 증명사진으로 만들어 주세요.
-1. {argument name="background color" default="blue background"}
-2. 전문적인 정장 차림
-3. 카메라를 정면으로 응시
-4. 살짝 미소 짓기
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909281176_xrpzzd_G6j6mWtbwAAx4bq.jpg" width="600" alt="Nano Banana Pro용 증명사진 생성 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909283247_06l64k_G6j6nXlakAAkf5e.jpg" width="600" alt="Nano Banana Pro용 증명사진 생성 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cdn.gooo.ai/cms/1764909285507_c63j11_G6j6pYObwAIm-OF.jpg" width="600" alt="Nano Banana Pro용 증명사진 생성 프롬프트 - Image 3">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [松果先森](https://x.com/songguoxiansen)
-- **출처:** [Twitter Post](https://x.com/songguoxiansen/status/1993135045846987053)
-- **게시일:** 2025년 11월 25일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/nano-banana-pro-prompts?prompt=%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%86%8D%20%EC%9D%B8%EB%AC%BC%EC%9D%98%20%EC%96%BC%EA%B5%B4%EC%9D%84%20%EC%9E%98%EB%9D%BC%EB%82%B4%EC%96%B4%20%EB%8B%A4%EC%9D%8C%20%EC%9A%94%EA%B1%B4%EC%97%90%20%EB%A7%9E%EC%B6%B0%202%EC%9D%B8%EC%B9%98%20%EC%A6%9D%EB%AA%85%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A3%BC%EC%84%B8%EC%9A%94.%0A1.%20%7Bargument%20name%3D%22background%20color%22%20default%3D%22blue%20background%22%7D%0A2.%20%EC%A0%84%EB%AC%B8%EC%A0%81%EC%9D%B8%20%EC%A0%95%EC%9E%A5%20%EC%B0%A8%EB%A6%BC%0A3.%20%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A5%BC%20%EC%A0%95%EB%A9%B4%EC%9C%BC%EB%A1%9C%20%EC%9D%91%EC%8B%9C%0A4.%20%EC%82%B4%EC%A7%9D%20%EB%AF%B8%EC%86%8C%20%EC%A7%93%EA%B8%B0)**
-
----
-
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 516 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 541 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 150 regular prompts in this README.
 
@@ -8651,6 +8535,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-07T12:18:43.791Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-07T16:12:20.024Z</sub>
 
 </div>
