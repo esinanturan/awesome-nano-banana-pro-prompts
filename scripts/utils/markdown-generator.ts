@@ -36,7 +36,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: 'tr-TR', name: 'Türkçe', readmeFileName: 'README_tr-TR.md' },
 ];
 
-const MAX_REGULAR_PROMPTS_TO_DISPLAY = 150;
+const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
 
 /**
  * 清理提示词内容中的代码块标记
@@ -77,7 +77,7 @@ function cleanPromptContent(content: string): string {
 export function generateMarkdown(data: SortedPrompts, locale: string = 'en'): string {
   const { featured, regular, stats } = data;
 
-  // Featured 全部展示，Regular 最多 150 条
+  // Featured 全部展示，Regular 最多 120 条
   const displayedRegular = regular.slice(0, MAX_REGULAR_PROMPTS_TO_DISPLAY);
   const hiddenCount = regular.length - displayedRegular.length;
 
