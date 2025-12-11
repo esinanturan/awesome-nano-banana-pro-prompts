@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **1099** |
 | ⭐ 精选 | **12** |
-| 🔄 最后更新 | **2025年12月11日星期四 UTC 08:18:25** |
+| 🔄 最后更新 | **2025年12月11日星期四 UTC 12:24:19** |
 
 </div>
 
@@ -1643,48 +1643,48 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 20: 8K Portrait in a Luxury Restaurant
+### No. 20: 豪华餐厅中的 8K 人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly detailed image generation prompt for an 8K, high-night-contrast portrait of a young woman posing in a dimly lit, luxurious restaurant, focusing on specific facial features, clothing, jewelry, and the warm yellow light from a table lamp.
+一张超高细节的图像生成提示，用于创作一幅 8K 高夜间对比度的肖像画。画中一位年轻女子在昏暗奢华的餐厅中摆姿势，重点突出其面部特征、服饰、珠宝，以及桌灯散发出的温暖黄光。
 
 #### 📝 提示词
 
 ```
-A woman posing in a luxury restaurant
-Woman:
-Age: 20
-Hair: natural blonde, long, wavy, parted to the right, loose
-Eyes: large, light brown, looking at the camera
-Lips: full, wearing a dark peach-toned shimmery lipstick
-Eyebrows: brushed with brow gel
-Skin: natural and glowing
-Nose: cute and beautiful
-Chest: full
-Face: illuminated by the table lamp’s light
-Clothing:
-High-neckline black strapless top
-Jewelry:
-Two gold bracelets, gold earrings, gold necklace
-Nails:
-Long, almond-shaped
-Hands:
-One hand placed under her chin
-Table:
-White, high-quality tablecloth, gold elegant table lamp with warm yellow light, menus, and other table details
-Environment:
-Spacious, airy, extremely luxurious restaurant, dim lighting
-Time:
-Night
-Scene:
-The photo is taken by the person sitting across from the woman
-Photo:
-3024 × 4032 px, 8K resolution, wide-angle lens, high night contrast, long-distance shot
-Constraints:
-No flash photography
+一位女士在一家豪华餐厅摆姿势。
+女士：
+年龄：20 岁
+头发：天然金色，长，波浪状，右侧分缝，散开
+眼睛：大，浅棕色，看向镜头
+嘴唇：丰满，涂有深桃色微闪唇膏
+眉毛：用眉胶梳理过
+皮肤：自然，有光泽
+鼻子：可爱又漂亮
+胸部：丰满
+脸部：被台灯的光线照亮
+衣着：
+高领黑色无肩带上衣
+珠宝：
+两只金色手镯，金色耳环，金色项链
+指甲：
+长，杏仁形
+手：
+一只手托在下巴下面
+桌子：
+白色，高品质桌布，金色优雅台灯发出暖黄色光线，菜单和其他桌面细节
+环境：
+宽敞，通风，极其豪华的餐厅，昏暗的灯光
+时间：
+夜晚
+场景：
+照片由坐在女士对面的人拍摄
+照片：
+3024 × 4032 像素，8K 分辨率，广角镜头，高夜间对比度，远距离拍摄
+限制：
+禁止闪光摄影
 ```
 
 #### 🖼️ 生成图片
@@ -1692,25 +1692,25 @@ No flash photography
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="8K Portrait in a Luxury Restaurant - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765440041171_sz5ko4_G7vxdGZWcAEDyN4.jpg" width="600" alt="豪华餐厅中的 8K 人像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="8K Portrait in a Luxury Restaurant - Image 2">
+<img src="https://cdn.gooo.ai/cms/1765440042836_1tmfli_G7vxdGoXgAA3JPk.jpg" width="600" alt="豪华餐厅中的 8K 人像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="8K Portrait in a Luxury Restaurant - Image 3">
+<img src="https://cdn.gooo.ai/cms/1765440043285_3bi5yv_G7vxdGaWoAA20Eb.jpg" width="600" alt="豪华餐厅中的 8K 人像 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="8K Portrait in a Luxury Restaurant - Image 4">
+<img src="https://cdn.gooo.ai/cms/1765440043985_ebqkb2_G7vxdGaXkAAGsHJ.jpg" width="600" alt="豪华餐厅中的 8K 人像 - Image 4">
 </div>
 
 #### 📌 详情
@@ -1720,7 +1720,7 @@ No flash photography
 - **发布时间:** 2025年12月9日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=A%20woman%20posing%20in%20a%20luxury%20restaurant%0AWoman%3A%0AAge%3A%2020%0AHair%3A%20natural%20blonde%2C%20long%2C%20wavy%2C%20parted%20to%20the%20right%2C%20loose%0AEyes%3A%20large%2C%20light%20brown%2C%20looking%20at%20the%20camera%0ALips%3A%20full%2C%20wearing%20a%20dark%20peach-toned%20shimmery%20lipstick%0AEyebrows%3A%20brushed%20with%20brow%20gel%0ASkin%3A%20natural%20and%20glowing%0ANose%3A%20cute%20and%20beautiful%0AChest%3A%20full%0AFace%3A%20illuminated%20by%20the%20table%20lamp%E2%80%99s%20light%0AClothing%3A%0AHigh-neckline%20black%20strapless%20top%0AJewelry%3A%0ATwo%20gold%20bracelets%2C%20gold%20earrings%2C%20gold%20necklace%0ANails%3A%0ALong%2C%20almond-shaped%0AHands%3A%0AOne%20hand%20placed%20under%20her%20chin%0ATable%3A%0AWhite%2C%20high-quality%20tablecloth%2C%20gold%20elegant%20table%20lamp%20with%20warm%20yellow%20light%2C%20menus%2C%20and%20other%20table%20details%0AEnvironment%3A%0ASpacious%2C%20airy%2C%20extremely%20luxurious%20restaurant%2C%20dim%20lighting%0ATime%3A%0ANight%0AScene%3A%0AThe%20photo%20is%20taken%20by%20the%20person%20sitting%20across%20from%20the%20woman%0APhoto%3A%0A3024%20%C3%97%204032%20px%2C%208K%20resolution%2C%20wide-angle%20lens%2C%20high%20night%20contrast%2C%20long-distance%20shot%0AConstraints%3A%0ANo%20flash%20photography)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E4%B8%80%E4%BD%8D%E5%A5%B3%E5%A3%AB%E5%9C%A8%E4%B8%80%E5%AE%B6%E8%B1%AA%E5%8D%8E%E9%A4%90%E5%8E%85%E6%91%86%E5%A7%BF%E5%8A%BF%E3%80%82%0A%E5%A5%B3%E5%A3%AB%EF%BC%9A%0A%E5%B9%B4%E9%BE%84%EF%BC%9A20%20%E5%B2%81%0A%E5%A4%B4%E5%8F%91%EF%BC%9A%E5%A4%A9%E7%84%B6%E9%87%91%E8%89%B2%EF%BC%8C%E9%95%BF%EF%BC%8C%E6%B3%A2%E6%B5%AA%E7%8A%B6%EF%BC%8C%E5%8F%B3%E4%BE%A7%E5%88%86%E7%BC%9D%EF%BC%8C%E6%95%A3%E5%BC%80%0A%E7%9C%BC%E7%9D%9B%EF%BC%9A%E5%A4%A7%EF%BC%8C%E6%B5%85%E6%A3%95%E8%89%B2%EF%BC%8C%E7%9C%8B%E5%90%91%E9%95%9C%E5%A4%B4%0A%E5%98%B4%E5%94%87%EF%BC%9A%E4%B8%B0%E6%BB%A1%EF%BC%8C%E6%B6%82%E6%9C%89%E6%B7%B1%E6%A1%83%E8%89%B2%E5%BE%AE%E9%97%AA%E5%94%87%E8%86%8F%0A%E7%9C%89%E6%AF%9B%EF%BC%9A%E7%94%A8%E7%9C%89%E8%83%B6%E6%A2%B3%E7%90%86%E8%BF%87%0A%E7%9A%AE%E8%82%A4%EF%BC%9A%E8%87%AA%E7%84%B6%EF%BC%8C%E6%9C%89%E5%85%89%E6%B3%BD%0A%E9%BC%BB%E5%AD%90%EF%BC%9A%E5%8F%AF%E7%88%B1%E5%8F%88%E6%BC%82%E4%BA%AE%0A%E8%83%B8%E9%83%A8%EF%BC%9A%E4%B8%B0%E6%BB%A1%0A%E8%84%B8%E9%83%A8%EF%BC%9A%E8%A2%AB%E5%8F%B0%E7%81%AF%E7%9A%84%E5%85%89%E7%BA%BF%E7%85%A7%E4%BA%AE%0A%E8%A1%A3%E7%9D%80%EF%BC%9A%0A%E9%AB%98%E9%A2%86%E9%BB%91%E8%89%B2%E6%97%A0%E8%82%A9%E5%B8%A6%E4%B8%8A%E8%A1%A3%0A%E7%8F%A0%E5%AE%9D%EF%BC%9A%0A%E4%B8%A4%E5%8F%AA%E9%87%91%E8%89%B2%E6%89%8B%E9%95%AF%EF%BC%8C%E9%87%91%E8%89%B2%E8%80%B3%E7%8E%AF%EF%BC%8C%E9%87%91%E8%89%B2%E9%A1%B9%E9%93%BE%0A%E6%8C%87%E7%94%B2%EF%BC%9A%0A%E9%95%BF%EF%BC%8C%E6%9D%8F%E4%BB%81%E5%BD%A2%0A%E6%89%8B%EF%BC%9A%0A%E4%B8%80%E5%8F%AA%E6%89%8B%E6%89%98%E5%9C%A8%E4%B8%8B%E5%B7%B4%E4%B8%8B%E9%9D%A2%0A%E6%A1%8C%E5%AD%90%EF%BC%9A%0A%E7%99%BD%E8%89%B2%EF%BC%8C%E9%AB%98%E5%93%81%E8%B4%A8%E6%A1%8C%E5%B8%83%EF%BC%8C%E9%87%91%E8%89%B2%E4%BC%98%E9%9B%85%E5%8F%B0%E7%81%AF%E5%8F%91%E5%87%BA%E6%9A%96%E9%BB%84%E8%89%B2%E5%85%89%E7%BA%BF%EF%BC%8C%E8%8F%9C%E5%8D%95%E5%92%8C%E5%85%B6%E4%BB%96%E6%A1%8C%E9%9D%A2%E7%BB%86%E8%8A%82%0A%E7%8E%AF%E5%A2%83%EF%BC%9A%0A%E5%AE%BD%E6%95%9E%EF%BC%8C%E9%80%9A%E9%A3%8E%EF%BC%8C%E6%9E%81%E5%85%B6%E8%B1%AA%E5%8D%8E%E7%9A%84%E9%A4%90%E5%8E%85%EF%BC%8C%E6%98%8F%E6%9A%97%E7%9A%84%E7%81%AF%E5%85%89%0A%E6%97%B6%E9%97%B4%EF%BC%9A%0A%E5%A4%9C%E6%99%9A%0A%E5%9C%BA%E6%99%AF%EF%BC%9A%0A%E7%85%A7%E7%89%87%E7%94%B1%E5%9D%90%E5%9C%A8%E5%A5%B3%E5%A3%AB%E5%AF%B9%E9%9D%A2%E7%9A%84%E4%BA%BA%E6%8B%8D%E6%91%84%0A%E7%85%A7%E7%89%87%EF%BC%9A%0A3024%20%C3%97%204032%20%E5%83%8F%E7%B4%A0%EF%BC%8C8K%20%E5%88%86%E8%BE%A8%E7%8E%87%EF%BC%8C%E5%B9%BF%E8%A7%92%E9%95%9C%E5%A4%B4%EF%BC%8C%E9%AB%98%E5%A4%9C%E9%97%B4%E5%AF%B9%E6%AF%94%E5%BA%A6%EF%BC%8C%E8%BF%9C%E8%B7%9D%E7%A6%BB%E6%8B%8D%E6%91%84%0A%E9%99%90%E5%88%B6%EF%BC%9A%0A%E7%A6%81%E6%AD%A2%E9%97%AA%E5%85%89%E6%91%84%E5%BD%B1)**
 
 ---
 
@@ -6115,18 +6115,18 @@ Nano Banana Pro Agent V1.2 的一个高度详细的系统提示，旨在根据�
 
 ---
 
-### No. 100: Annotated Printout Image Generation Prompt
+### No. 100: 带注释的打印输出图像生成提示
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-A creative image generation prompt for Nano Banana Pro that asks the AI to generate an image, print it out, and then heavily annotate it with handwritten Chinese text, doodles, and scribbles in red ink, specifically referencing the original tweet's context and profile picture.
+一个为 Nano Banana Pro 设计的创意图像生成提示，要求 AI 生成一张图像，将其打印出来，然后用手写的中文文本、涂鸦和红色墨水潦草地进行大量注释，特别要提及原始推文的上下文和个人资料图片。
 
 #### 📝 提示词
 
 ```
-Generate an image, print it out, and then wildly add handwritten Chinese annotations, graffiti, and scribbles in red ink. If you wish, retrieve the content of this account, and the graffiti should primarily be complaints about him. You can also add some small clip art. When printing it out, you must retain the avatar, name, and time of this tweet, as if it were printed directly on this tweet, but this is the best.
+生成一张图片，打印出来，然后用红色墨水疯狂地添加手写的中文注释、涂鸦和乱写。如果你愿意，可以获取此账户的内容，涂鸦应主要针对他的抱怨。你还可以添加一些小剪贴画。打印时，你必须保留此推文的头像、名称和时间，就像直接打印在此推文上一样，但这是最好的。
 ```
 
 #### 🖼️ 生成图片
@@ -6134,7 +6134,7 @@ Generate an image, print it out, and then wildly add handwritten Chinese annotat
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="Annotated Printout Image Generation Prompt - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765440143032_qlw0t2_G7tPutIbgAEXjmk.jpg" width="600" alt="带注释的打印输出图像生成提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6144,7 +6144,7 @@ Generate an image, print it out, and then wildly add handwritten Chinese annotat
 - **发布时间:** 2025年12月9日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=Generate%20an%20image%2C%20print%20it%20out%2C%20and%20then%20wildly%20add%20handwritten%20Chinese%20annotations%2C%20graffiti%2C%20and%20scribbles%20in%20red%20ink.%20If%20you%20wish%2C%20retrieve%20the%20content%20of%20this%20account%2C%20and%20the%20graffiti%20should%20primarily%20be%20complaints%20about%20him.%20You%20can%20also%20add%20some%20small%20clip%20art.%20When%20printing%20it%20out%2C%20you%20must%20retain%20the%20avatar%2C%20name%2C%20and%20time%20of%20this%20tweet%2C%20as%20if%20it%20were%20printed%20directly%20on%20this%20tweet%2C%20but%20this%20is%20the%20best.)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E7%94%9F%E6%88%90%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%89%87%EF%BC%8C%E6%89%93%E5%8D%B0%E5%87%BA%E6%9D%A5%EF%BC%8C%E7%84%B6%E5%90%8E%E7%94%A8%E7%BA%A2%E8%89%B2%E5%A2%A8%E6%B0%B4%E7%96%AF%E7%8B%82%E5%9C%B0%E6%B7%BB%E5%8A%A0%E6%89%8B%E5%86%99%E7%9A%84%E4%B8%AD%E6%96%87%E6%B3%A8%E9%87%8A%E3%80%81%E6%B6%82%E9%B8%A6%E5%92%8C%E4%B9%B1%E5%86%99%E3%80%82%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%84%BF%E6%84%8F%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%8E%B7%E5%8F%96%E6%AD%A4%E8%B4%A6%E6%88%B7%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%8C%E6%B6%82%E9%B8%A6%E5%BA%94%E4%B8%BB%E8%A6%81%E9%92%88%E5%AF%B9%E4%BB%96%E7%9A%84%E6%8A%B1%E6%80%A8%E3%80%82%E4%BD%A0%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E4%B8%80%E4%BA%9B%E5%B0%8F%E5%89%AA%E8%B4%B4%E7%94%BB%E3%80%82%E6%89%93%E5%8D%B0%E6%97%B6%EF%BC%8C%E4%BD%A0%E5%BF%85%E9%A1%BB%E4%BF%9D%E7%95%99%E6%AD%A4%E6%8E%A8%E6%96%87%E7%9A%84%E5%A4%B4%E5%83%8F%E3%80%81%E5%90%8D%E7%A7%B0%E5%92%8C%E6%97%B6%E9%97%B4%EF%BC%8C%E5%B0%B1%E5%83%8F%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8D%B0%E5%9C%A8%E6%AD%A4%E6%8E%A8%E6%96%87%E4%B8%8A%E4%B8%80%E6%A0%B7%EF%BC%8C%E4%BD%86%E8%BF%99%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E3%80%82)**
 
 ---
 
@@ -6467,13 +6467,13 @@ Generate an image, print it out, and then wildly add handwritten Chinese annotat
 
 ---
 
-### No. 107: Influencer Lifestyle Portrait with Ginger Hair
+### No. 107: 姜黄色头发的网红生活肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly technical and detailed JSON prompt for generating an influencer-style digital portrait. It meticulously describes the subject's features (vibrant ginger hair, blue eyes, specific makeup), attire (denim jacket, lace-trim camisole), accessories (gold heart choker), indoor environment, and precise camera/lighting settings to achieve a crisp, high-clarity digital aesthetic.
+一个高度技术化且细节丰富的 JSON 提示，用于生成网红风格的数字肖像。它细致地描述了拍摄对象的特征（充满活力的姜黄色头发、蓝色眼睛、特定妆容）、服装（牛仔夹克、蕾丝边吊带背心）、配饰（金色心形项圈）、室内环境以及精确的相机/灯光设置，以实现清晰、高清晰度的数字美学效果。
 
 #### 📝 提示词
 
@@ -6481,84 +6481,84 @@ A highly technical and detailed JSON prompt for generating an influencer-style d
 {
   "subject": {
     "demographics": {
-      "gender": "female",
-      "age_range": "young adult"
+      "gender": "女性",
+      "age_range": "青年"
     },
     "hair": {
-      "color": "vibrant ginger red",
-      "length": "long",
-      "texture": "wavy, voluminous",
-      "style": "side-swept deep part, cascading over right shoulder",
-      "movement": "slightly windswept appearance"
+      "color": "鲜艳的姜红色",
+      "length": "长发",
+      "texture": "波浪状，蓬松",
+      "style": "侧分深发线，瀑布般垂落右肩",
+      "movement": "略带风吹拂感"
     },
     "face": {
       "eyes": {
-        "color": "bright blue",
-        "makeup": "light mascara, defined lashes"
+        "color": "亮蓝色",
+        "makeup": "淡睫毛膏，睫毛分明"
       },
       "skin": {
-        "tone": "fair",
-        "texture": "natural, smooth with slight blush"
+        "tone": "白皙",
+        "texture": "自然，光滑带微红"
       },
       "lips": {
-        "color": "soft pink",
-        "finish": "natural satin"
+        "color": "柔和的粉色",
+        "finish": "自然缎面光泽"
       },
-      "expression": "soft, confident slight smile, direct gaze"
+      "expression": "柔和自信的微笑，目光直接"
     },
     "apparel": {
       "outer": {
-        "item": "denim jacket",
-        "color": "indigo blue",
+        "item": "牛仔夹克",
+        "color": "靛蓝色",
         "details": [
-          "silver buttons",
-          "contrast stitching",
-          "chest pocket with button",
-          "collared"
+          "银色纽扣",
+          "对比色缝线",
+          "带扣胸袋",
+          "有领"
         ]
       },
       "inner": {
-        "item": "camisole top",
-        "color": "white",
-        "material": "ribbed fabric",
-        "details": "white floral lace trim along neckline"
+        "item": "吊带背心",
+        "color": "白色",
+        "material": "罗纹面料",
+        "details": "领口处有白色花边饰边"
       }
     },
     "accessories": {
       "necklace": {
-        "type": "choker",
-        "band_material": "sheer beige ribbon",
-        "pendant": "gold heart-shaped frame with small gem inside"
+        "type": "颈链",
+        "band_material": "透明米色丝带",
+        "pendant": "金色心形框架，内嵌小宝石"
       },
     "earrings": {
-        "visible": "left ear",
-        "style": "small stud with hanging detail"
+        "visible": "左耳",
+        "style": "小耳钉带垂坠细节"
       }
     }
   },
   "composition": {
-    "shot_type": "selfie-style portrait",
-    "framing": "chest-up close shot",
-    "angle": "eye-level, slightly tilted head"
+    "shot_type": "自拍式肖像",
+    "framing": "胸部以上特写",
+    "angle": "视线水平，头部略微倾斜"
   },
   "environment": {
-    "location": "indoor apartment interior",
-    "lighting": "soft natural daylight, diffused frontal source (large window)",
+    "location": "室内公寓",
+    "lighting": "柔和的自然日光，散射的前方光源（大窗户）",
     "background": {
-      "focus": "soft bokeh (moderately blurred)",
+      "focus": "柔和的散景（适度模糊）",
       "elements": [
-        "white kitchen cabinets",
-        "ceiling light",
-        "dark computer monitor or TV screen on left",
-        "neutral grey walls"
+        "白色厨房橱柜",
+        "吸顶灯",
+        "左侧的深色电脑显示器或电视屏幕",
+        "中性灰色墙壁"
       ]
     }
   },
   "technical_details": {
     "camera_gear": {
-      "sensor_type": "Full-frame digital sensor or High-End Mobile Sensor",
-      "lens_focal_length": "28mm to 35mm",
-      "lens_characteristics": "wide angle prime, minimal distortion"
+      "sensor_type": "全画幅数字传感器或高端手机传感器",
+      "lens_focal_length": "28mm 至 35mm",
+      "lens_characteristics": "广角定焦，最小畸变"
     },
     "camera_settings": {
       "aperture": "f/2.0",
@@ -6566,15 +6566,15 @@ A highly technical and detailed JSON prompt for generating an influencer-style d
       "iso": "100"
     },
     "lighting_setup": {
-      "key_light": "natural soft window light (frontal)",
-      "fill_light": "ambient indoor reflection",
-      "shadows": "soft and minimal"
+      "key_light": "自然柔和的窗户光（前方）",
+      "fill_light": "室内环境反射光",
+      "shadows": "柔和且极少"
     },
     "visual_style": {
-      "color_grading": "true-to-life with vibrant saturation boost",
-      "contrast": "medium-high",
-      "sharpness": "high clarity on eyes and hair",
-      "aesthetic": "influencer lifestyle portrait, crisp digital photography"
+      "color_grading": "真实色彩，饱和度提升",
+      "contrast": "中高",
+      "sharpness": "眼睛和头发清晰度高",
+      "aesthetic": "网红生活肖像，清晰的数码摄影"
     }
   }
 }
@@ -6585,7 +6585,7 @@ A highly technical and detailed JSON prompt for generating an influencer-style d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="Influencer Lifestyle Portrait with Ginger Hair - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765440092930_7e1078_G7tBqT6a4AAGia8.jpg" width="600" alt="姜黄色头发的网红生活肖像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6595,7 +6595,7 @@ A highly technical and detailed JSON prompt for generating an influencer-style d
 - **发布时间:** 2025年12月9日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%7B%0A%C2%A0%20%22subject%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22demographics%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22gender%22%3A%20%22female%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22age_range%22%3A%20%22young%20adult%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22hair%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22vibrant%20ginger%20red%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22length%22%3A%20%22long%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22texture%22%3A%20%22wavy%2C%20voluminous%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22style%22%3A%20%22side-swept%20deep%20part%2C%20cascading%20over%20right%20shoulder%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22movement%22%3A%20%22slightly%20windswept%20appearance%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22face%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22eyes%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22bright%20blue%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22makeup%22%3A%20%22light%20mascara%2C%20defined%20lashes%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22skin%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22tone%22%3A%20%22fair%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22texture%22%3A%20%22natural%2C%20smooth%20with%20slight%20blush%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22lips%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22soft%20pink%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22finish%22%3A%20%22natural%20satin%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22expression%22%3A%20%22soft%2C%20confident%20slight%20smile%2C%20direct%20gaze%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22apparel%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22outer%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22item%22%3A%20%22denim%20jacket%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22indigo%20blue%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22details%22%3A%20%5B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22silver%20buttons%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22contrast%20stitching%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22chest%20pocket%20with%20button%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22collared%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%5D%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22inner%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22item%22%3A%20%22camisole%20top%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22white%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22material%22%3A%20%22ribbed%20fabric%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22details%22%3A%20%22white%20floral%20lace%20trim%20along%20neckline%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22accessories%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22necklace%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22type%22%3A%20%22choker%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22band_material%22%3A%20%22sheer%20beige%20ribbon%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22pendant%22%3A%20%22gold%20heart-shaped%20frame%20with%20small%20gem%20inside%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22earrings%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22visible%22%3A%20%22left%20ear%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22style%22%3A%20%22small%20stud%20with%20hanging%20detail%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22composition%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22shot_type%22%3A%20%22selfie-style%20portrait%22%2C%0A%C2%A0%20%C2%A0%20%22framing%22%3A%20%22chest-up%20close%20shot%22%2C%0A%C2%A0%20%C2%A0%20%22angle%22%3A%20%22eye-level%2C%20slightly%20tilted%20head%22%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22environment%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22location%22%3A%20%22indoor%20apartment%20interior%22%2C%0A%C2%A0%20%C2%A0%20%22lighting%22%3A%20%22soft%20natural%20daylight%2C%20diffused%20frontal%20source%20(large%20window)%22%2C%0A%C2%A0%20%C2%A0%20%22background%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22focus%22%3A%20%22soft%20bokeh%20(moderately%20blurred)%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22elements%22%3A%20%5B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22white%20kitchen%20cabinets%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22ceiling%20light%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22dark%20computer%20monitor%20or%20TV%20screen%20on%20left%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22neutral%20grey%20walls%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%5D%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22technical_details%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22camera_gear%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22sensor_type%22%3A%20%22Full-frame%20digital%20sensor%20or%20High-End%20Mobile%20Sensor%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22lens_focal_length%22%3A%20%2228mm%20to%2035mm%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22lens_characteristics%22%3A%20%22wide%20angle%20prime%2C%20minimal%20distortion%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22camera_settings%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22aperture%22%3A%20%22f%2F2.0%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22shutter_speed%22%3A%20%221%2F125s%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22iso%22%3A%20%22100%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22lighting_setup%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22key_light%22%3A%20%22natural%20soft%20window%20light%20(frontal)%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22fill_light%22%3A%20%22ambient%20indoor%20reflection%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22shadows%22%3A%20%22soft%20and%20minimal%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22visual_style%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22color_grading%22%3A%20%22true-to-life%20with%20vibrant%20saturation%20boost%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22contrast%22%3A%20%22medium-high%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22sharpness%22%3A%20%22high%20clarity%20on%20eyes%20and%20hair%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22aesthetic%22%3A%20%22influencer%20lifestyle%20portrait%2C%20crisp%20digital%20photography%22%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%0A%7D)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%7B%0A%C2%A0%20%22subject%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22demographics%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22gender%22%3A%20%22%E5%A5%B3%E6%80%A7%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22age_range%22%3A%20%22%E9%9D%92%E5%B9%B4%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22hair%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%E9%B2%9C%E8%89%B3%E7%9A%84%E5%A7%9C%E7%BA%A2%E8%89%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22length%22%3A%20%22%E9%95%BF%E5%8F%91%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22texture%22%3A%20%22%E6%B3%A2%E6%B5%AA%E7%8A%B6%EF%BC%8C%E8%93%AC%E6%9D%BE%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22style%22%3A%20%22%E4%BE%A7%E5%88%86%E6%B7%B1%E5%8F%91%E7%BA%BF%EF%BC%8C%E7%80%91%E5%B8%83%E8%88%AC%E5%9E%82%E8%90%BD%E5%8F%B3%E8%82%A9%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22movement%22%3A%20%22%E7%95%A5%E5%B8%A6%E9%A3%8E%E5%90%B9%E6%8B%82%E6%84%9F%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22face%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22eyes%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%E4%BA%AE%E8%93%9D%E8%89%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22makeup%22%3A%20%22%E6%B7%A1%E7%9D%AB%E6%AF%9B%E8%86%8F%EF%BC%8C%E7%9D%AB%E6%AF%9B%E5%88%86%E6%98%8E%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22skin%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22tone%22%3A%20%22%E7%99%BD%E7%9A%99%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22texture%22%3A%20%22%E8%87%AA%E7%84%B6%EF%BC%8C%E5%85%89%E6%BB%91%E5%B8%A6%E5%BE%AE%E7%BA%A2%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22lips%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%E6%9F%94%E5%92%8C%E7%9A%84%E7%B2%89%E8%89%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22finish%22%3A%20%22%E8%87%AA%E7%84%B6%E7%BC%8E%E9%9D%A2%E5%85%89%E6%B3%BD%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22expression%22%3A%20%22%E6%9F%94%E5%92%8C%E8%87%AA%E4%BF%A1%E7%9A%84%E5%BE%AE%E7%AC%91%EF%BC%8C%E7%9B%AE%E5%85%89%E7%9B%B4%E6%8E%A5%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22apparel%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22outer%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22item%22%3A%20%22%E7%89%9B%E4%BB%94%E5%A4%B9%E5%85%8B%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%E9%9D%9B%E8%93%9D%E8%89%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22details%22%3A%20%5B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22%E9%93%B6%E8%89%B2%E7%BA%BD%E6%89%A3%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22%E5%AF%B9%E6%AF%94%E8%89%B2%E7%BC%9D%E7%BA%BF%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22%E5%B8%A6%E6%89%A3%E8%83%B8%E8%A2%8B%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22%E6%9C%89%E9%A2%86%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%5D%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22inner%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22item%22%3A%20%22%E5%90%8A%E5%B8%A6%E8%83%8C%E5%BF%83%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22color%22%3A%20%22%E7%99%BD%E8%89%B2%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22material%22%3A%20%22%E7%BD%97%E7%BA%B9%E9%9D%A2%E6%96%99%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22details%22%3A%20%22%E9%A2%86%E5%8F%A3%E5%A4%84%E6%9C%89%E7%99%BD%E8%89%B2%E8%8A%B1%E8%BE%B9%E9%A5%B0%E8%BE%B9%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22accessories%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22necklace%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22type%22%3A%20%22%E9%A2%88%E9%93%BE%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22band_material%22%3A%20%22%E9%80%8F%E6%98%8E%E7%B1%B3%E8%89%B2%E4%B8%9D%E5%B8%A6%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22pendant%22%3A%20%22%E9%87%91%E8%89%B2%E5%BF%83%E5%BD%A2%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%86%85%E5%B5%8C%E5%B0%8F%E5%AE%9D%E7%9F%B3%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22earrings%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22visible%22%3A%20%22%E5%B7%A6%E8%80%B3%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22style%22%3A%20%22%E5%B0%8F%E8%80%B3%E9%92%89%E5%B8%A6%E5%9E%82%E5%9D%A0%E7%BB%86%E8%8A%82%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22composition%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22shot_type%22%3A%20%22%E8%87%AA%E6%8B%8D%E5%BC%8F%E8%82%96%E5%83%8F%22%2C%0A%C2%A0%20%C2%A0%20%22framing%22%3A%20%22%E8%83%B8%E9%83%A8%E4%BB%A5%E4%B8%8A%E7%89%B9%E5%86%99%22%2C%0A%C2%A0%20%C2%A0%20%22angle%22%3A%20%22%E8%A7%86%E7%BA%BF%E6%B0%B4%E5%B9%B3%EF%BC%8C%E5%A4%B4%E9%83%A8%E7%95%A5%E5%BE%AE%E5%80%BE%E6%96%9C%22%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22environment%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22location%22%3A%20%22%E5%AE%A4%E5%86%85%E5%85%AC%E5%AF%93%22%2C%0A%C2%A0%20%C2%A0%20%22lighting%22%3A%20%22%E6%9F%94%E5%92%8C%E7%9A%84%E8%87%AA%E7%84%B6%E6%97%A5%E5%85%89%EF%BC%8C%E6%95%A3%E5%B0%84%E7%9A%84%E5%89%8D%E6%96%B9%E5%85%89%E6%BA%90%EF%BC%88%E5%A4%A7%E7%AA%97%E6%88%B7%EF%BC%89%22%2C%0A%C2%A0%20%C2%A0%20%22background%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22focus%22%3A%20%22%E6%9F%94%E5%92%8C%E7%9A%84%E6%95%A3%E6%99%AF%EF%BC%88%E9%80%82%E5%BA%A6%E6%A8%A1%E7%B3%8A%EF%BC%89%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22elements%22%3A%20%5B%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22%E7%99%BD%E8%89%B2%E5%8E%A8%E6%88%BF%E6%A9%B1%E6%9F%9C%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22%E5%90%B8%E9%A1%B6%E7%81%AF%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22%E5%B7%A6%E4%BE%A7%E7%9A%84%E6%B7%B1%E8%89%B2%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%99%A8%E6%88%96%E7%94%B5%E8%A7%86%E5%B1%8F%E5%B9%95%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%C2%A0%20%22%E4%B8%AD%E6%80%A7%E7%81%B0%E8%89%B2%E5%A2%99%E5%A3%81%22%0A%C2%A0%20%C2%A0%20%C2%A0%20%5D%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%2C%0A%C2%A0%20%22technical_details%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%22camera_gear%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22sensor_type%22%3A%20%22%E5%85%A8%E7%94%BB%E5%B9%85%E6%95%B0%E5%AD%97%E4%BC%A0%E6%84%9F%E5%99%A8%E6%88%96%E9%AB%98%E7%AB%AF%E6%89%8B%E6%9C%BA%E4%BC%A0%E6%84%9F%E5%99%A8%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22lens_focal_length%22%3A%20%2228mm%20%E8%87%B3%2035mm%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22lens_characteristics%22%3A%20%22%E5%B9%BF%E8%A7%92%E5%AE%9A%E7%84%A6%EF%BC%8C%E6%9C%80%E5%B0%8F%E7%95%B8%E5%8F%98%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22camera_settings%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22aperture%22%3A%20%22f%2F2.0%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22shutter_speed%22%3A%20%221%2F125s%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22iso%22%3A%20%22100%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22lighting_setup%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22key_light%22%3A%20%22%E8%87%AA%E7%84%B6%E6%9F%94%E5%92%8C%E7%9A%84%E7%AA%97%E6%88%B7%E5%85%89%EF%BC%88%E5%89%8D%E6%96%B9%EF%BC%89%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22fill_light%22%3A%20%22%E5%AE%A4%E5%86%85%E7%8E%AF%E5%A2%83%E5%8F%8D%E5%B0%84%E5%85%89%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22shadows%22%3A%20%22%E6%9F%94%E5%92%8C%E4%B8%94%E6%9E%81%E5%B0%91%22%0A%C2%A0%20%C2%A0%20%7D%2C%0A%C2%A0%20%C2%A0%20%22visual_style%22%3A%20%7B%0A%C2%A0%20%C2%A0%20%C2%A0%20%22color_grading%22%3A%20%22%E7%9C%9F%E5%AE%9E%E8%89%B2%E5%BD%A9%EF%BC%8C%E9%A5%B1%E5%92%8C%E5%BA%A6%E6%8F%90%E5%8D%87%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22contrast%22%3A%20%22%E4%B8%AD%E9%AB%98%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22sharpness%22%3A%20%22%E7%9C%BC%E7%9D%9B%E5%92%8C%E5%A4%B4%E5%8F%91%E6%B8%85%E6%99%B0%E5%BA%A6%E9%AB%98%22%2C%0A%C2%A0%20%C2%A0%20%C2%A0%20%22aesthetic%22%3A%20%22%E7%BD%91%E7%BA%A2%E7%94%9F%E6%B4%BB%E8%82%96%E5%83%8F%EF%BC%8C%E6%B8%85%E6%99%B0%E7%9A%84%E6%95%B0%E7%A0%81%E6%91%84%E5%BD%B1%22%0A%C2%A0%20%C2%A0%20%7D%0A%C2%A0%20%7D%0A%7D)**
 
 ---
 
@@ -7406,6 +7406,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-11T08:18:25.483Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-11T12:24:19.328Z</sub>
 
 </div>

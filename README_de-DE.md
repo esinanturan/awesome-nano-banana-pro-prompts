@@ -90,7 +90,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **1099** |
 | ⭐ Ausgewählt | **12** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 11. Dezember 2025 um 08:22:01 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 11. Dezember 2025 um 12:28:22 UTC** |
 
 </div>
 
@@ -2517,13 +2517,13 @@ Charakter: im Chibi-/Figuren-Stil — [{argument name="character description" de
 
 ---
 
-### No. 37: Y2K Grunge Flash Photography Snapshot
+### No. 37: Y2K Grunge Blitzlicht-Schnappschuss
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-A detailed image generation prompt for a casual, high-angle snapshot of a young woman sitting on a bar stool, featuring a Y2K aesthetic, harsh direct flash lighting, and specific details like a septum piercing, tattoos, and a cigarette.
+Ein detaillierter Prompt zur Bilderzeugung für eine zwanglose Momentaufnahme einer jungen Frau, die auf einem Barhocker sitzt, aus der Vogelperspektive, mit Y2K-Ästhetik, hartem direktem Blitzlicht und spezifischen Details wie einem Septum-Piercing, Tattoos und einer Zigarette.
 
 #### 📝 Prompt
 
@@ -2531,37 +2531,37 @@ A detailed image generation prompt for a casual, high-angle snapshot of a young 
 {
   "image_request": {
     "subject": {
-      "demographics": "Young woman, fair skin with natural blush, freckle-free nose and cheeks.",
-      "hair": "Short ash-brown bob, center-parted layer, loose strands falling over face.",
-      "facial_features": "Light brown eyes, curly eyelashes, soft pouty pink lips (glossy/plump), septum piercing.",
-      "expression": "Playful, mischievous, cute, winking and sticking out tongue.",
-      "tattoos": "Preserve subject's original tattoos (visible on skin/face/hands)."
+      "demographics": "Junge Frau, helle Haut mit natürlichem Rouge, Sommersprossen-freier Nase und Wangen.",
+      "hair": "Kurzer aschbrauner Bob, Mittelscheitel, lose Strähnen fallen ins Gesicht.",
+      "facial_features": "Hellbraune Augen, geschwungene Wimpern, weiche, schmollende rosa Lippen (glänzend/voll), Septum-Piercing.",
+      "expression": "Verspielt, schelmisch, süß, zwinkernd und Zunge herausstreckend.",
+      "tattoos": "Originale Tattoos des Models beibehalten (sichtbar auf Haut/Gesicht/Händen)."
     },
     "apparel": {
-      "upper_body": "Black tank top, light blue, white, and black plaid flannel shirt (worn open or draped).",
-      "lower_body": "Denim miniskirt.",
-      "accessories": "Small black belt."
+      "upper_body": "Schwarzes Tanktop, hellblaues, weißes und schwarzes kariertes Flanellhemd (offen getragen oder drapiert).",
+      "lower_body": "Jeans-Minirock.",
+      "accessories": "Kleiner schwarzer Gürtel."
     },
     "pose_and_action": {
-      "posture": "Sitting casually on a bar stool.",
-      "hands": "Left hand relaxed and down, holding a lit cigarette."
+      "posture": "Lässig auf einem Barhocker sitzend.",
+      "hands": "Linke Hand entspannt nach unten, hält eine brennende Zigarette."
     },
     "environment": {
-      "setting": "Dark outdoor/semi-outdoor bar, pub, or nightclub.",
-      "furniture": "Round tables with stone/metal texture, bar stools.",
-      "background_elements": "Faintly visible people sitting in the background, nighttime atmosphere."
+      "setting": "Dunkle Outdoor-/Semi-Outdoor-Bar, Kneipe oder Nachtclub.",
+      "furniture": "Runde Tische mit Stein-/Metalltextur, Barhocker.",
+      "background_elements": "Schwach sichtbare Personen sitzen im Hintergrund, nächtliche Atmosphäre."
     },
     "props": {
       "table_items": [
-        "Glass glasses filled with drinks",
-        "Glass pitcher",
-        "Cigarette pack (Gudang Garam Surya 16 styling)"
+        "Gläser gefüllt mit Getränken",
+        "Glaskaraffe",
+        "Zigarettenpackung (Gudang Garam Surya 16 Stil)"
       ]
     },
     "technical_specifications": {
-      "angle": "High Angle Shot (looking down at subject).",
-      "lighting": "Harsh direct flash, sharp shadows behind subject, skin appears bright/slightly overexposed.",
-      "style": "Casual snapshot, Y2k aesthetic, streetwear vibe, grunge, flash photography.",
+      "angle": "High Angle Shot (Blick von oben auf das Motiv).",
+      "lighting": "Hartes direktes Blitzlicht, scharfe Schatten hinter dem Motiv, Haut erscheint hell/leicht überbelichtet.",
+      "style": "Lässiger Schnappschuss, Y2k-Ästhetik, Streetwear-Vibe, Grunge, Blitzfotografie.",
       "resolution": "1200x1200px"
     }
   }
@@ -2573,7 +2573,7 @@ A detailed image generation prompt for a casual, high-angle snapshot of a young 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Y2K Grunge Flash Photography Snapshot - Image 1">
+<img src="https://cdn.gooo.ai/cms/1765440034745_3cyctb_G7vVQMoWMAA0v0k.jpg" width="600" alt="Y2K Grunge Blitzlicht-Schnappschuss - Image 1">
 </div>
 
 #### 📌 Details
@@ -2583,7 +2583,7 @@ A detailed image generation prompt for a casual, high-angle snapshot of a young 
 - **Veröffentlicht:** 9. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_request%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22demographics%22%3A%20%22Young%20woman%2C%20fair%20skin%20with%20natural%20blush%2C%20freckle-free%20nose%20and%20cheeks.%22%2C%0A%20%20%20%20%20%20%22hair%22%3A%20%22Short%20ash-brown%20bob%2C%20center-parted%20layer%2C%20loose%20strands%20falling%20over%20face.%22%2C%0A%20%20%20%20%20%20%22facial_features%22%3A%20%22Light%20brown%20eyes%2C%20curly%20eyelashes%2C%20soft%20pouty%20pink%20lips%20(glossy%2Fplump)%2C%20septum%20piercing.%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22Playful%2C%20mischievous%2C%20cute%2C%20winking%20and%20sticking%20out%20tongue.%22%2C%0A%20%20%20%20%20%20%22tattoos%22%3A%20%22Preserve%20subject's%20original%20tattoos%20(visible%20on%20skin%2Fface%2Fhands).%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22apparel%22%3A%20%7B%0A%20%20%20%20%20%20%22upper_body%22%3A%20%22Black%20tank%20top%2C%20light%20blue%2C%20white%2C%20and%20black%20plaid%20flannel%20shirt%20(worn%20open%20or%20draped).%22%2C%0A%20%20%20%20%20%20%22lower_body%22%3A%20%22Denim%20miniskirt.%22%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%22Small%20black%20belt.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose_and_action%22%3A%20%7B%0A%20%20%20%20%20%20%22posture%22%3A%20%22Sitting%20casually%20on%20a%20bar%20stool.%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%22Left%20hand%20relaxed%20and%20down%2C%20holding%20a%20lit%20cigarette.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22setting%22%3A%20%22Dark%20outdoor%2Fsemi-outdoor%20bar%2C%20pub%2C%20or%20nightclub.%22%2C%0A%20%20%20%20%20%20%22furniture%22%3A%20%22Round%20tables%20with%20stone%2Fmetal%20texture%2C%20bar%20stools.%22%2C%0A%20%20%20%20%20%20%22background_elements%22%3A%20%22Faintly%20visible%20people%20sitting%20in%20the%20background%2C%20nighttime%20atmosphere.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22props%22%3A%20%7B%0A%20%20%20%20%20%20%22table_items%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Glass%20glasses%20filled%20with%20drinks%22%2C%0A%20%20%20%20%20%20%20%20%22Glass%20pitcher%22%2C%0A%20%20%20%20%20%20%20%20%22Cigarette%20pack%20(Gudang%20Garam%20Surya%2016%20styling)%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22technical_specifications%22%3A%20%7B%0A%20%20%20%20%20%20%22angle%22%3A%20%22High%20Angle%20Shot%20(looking%20down%20at%20subject).%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Harsh%20direct%20flash%2C%20sharp%20shadows%20behind%20subject%2C%20skin%20appears%20bright%2Fslightly%20overexposed.%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22Casual%20snapshot%2C%20Y2k%20aesthetic%2C%20streetwear%20vibe%2C%20grunge%2C%20flash%20photography.%22%2C%0A%20%20%20%20%20%20%22resolution%22%3A%20%221200x1200px%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?prompt=%7B%0A%20%20%22image_request%22%3A%20%7B%0A%20%20%20%20%22subject%22%3A%20%7B%0A%20%20%20%20%20%20%22demographics%22%3A%20%22Junge%20Frau%2C%20helle%20Haut%20mit%20nat%C3%BCrlichem%20Rouge%2C%20Sommersprossen-freier%20Nase%20und%20Wangen.%22%2C%0A%20%20%20%20%20%20%22hair%22%3A%20%22Kurzer%20aschbrauner%20Bob%2C%20Mittelscheitel%2C%20lose%20Str%C3%A4hnen%20fallen%20ins%20Gesicht.%22%2C%0A%20%20%20%20%20%20%22facial_features%22%3A%20%22Hellbraune%20Augen%2C%20geschwungene%20Wimpern%2C%20weiche%2C%20schmollende%20rosa%20Lippen%20(gl%C3%A4nzend%2Fvoll)%2C%20Septum-Piercing.%22%2C%0A%20%20%20%20%20%20%22expression%22%3A%20%22Verspielt%2C%20schelmisch%2C%20s%C3%BC%C3%9F%2C%20zwinkernd%20und%20Zunge%20herausstreckend.%22%2C%0A%20%20%20%20%20%20%22tattoos%22%3A%20%22Originale%20Tattoos%20des%20Models%20beibehalten%20(sichtbar%20auf%20Haut%2FGesicht%2FH%C3%A4nden).%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22apparel%22%3A%20%7B%0A%20%20%20%20%20%20%22upper_body%22%3A%20%22Schwarzes%20Tanktop%2C%20hellblaues%2C%20wei%C3%9Fes%20und%20schwarzes%20kariertes%20Flanellhemd%20(offen%20getragen%20oder%20drapiert).%22%2C%0A%20%20%20%20%20%20%22lower_body%22%3A%20%22Jeans-Minirock.%22%2C%0A%20%20%20%20%20%20%22accessories%22%3A%20%22Kleiner%20schwarzer%20G%C3%BCrtel.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22pose_and_action%22%3A%20%7B%0A%20%20%20%20%20%20%22posture%22%3A%20%22L%C3%A4ssig%20auf%20einem%20Barhocker%20sitzend.%22%2C%0A%20%20%20%20%20%20%22hands%22%3A%20%22Linke%20Hand%20entspannt%20nach%20unten%2C%20h%C3%A4lt%20eine%20brennende%20Zigarette.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22environment%22%3A%20%7B%0A%20%20%20%20%20%20%22setting%22%3A%20%22Dunkle%20Outdoor-%2FSemi-Outdoor-Bar%2C%20Kneipe%20oder%20Nachtclub.%22%2C%0A%20%20%20%20%20%20%22furniture%22%3A%20%22Runde%20Tische%20mit%20Stein-%2FMetalltextur%2C%20Barhocker.%22%2C%0A%20%20%20%20%20%20%22background_elements%22%3A%20%22Schwach%20sichtbare%20Personen%20sitzen%20im%20Hintergrund%2C%20n%C3%A4chtliche%20Atmosph%C3%A4re.%22%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22props%22%3A%20%7B%0A%20%20%20%20%20%20%22table_items%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22Gl%C3%A4ser%20gef%C3%BCllt%20mit%20Getr%C3%A4nken%22%2C%0A%20%20%20%20%20%20%20%20%22Glaskaraffe%22%2C%0A%20%20%20%20%20%20%20%20%22Zigarettenpackung%20(Gudang%20Garam%20Surya%2016%20Stil)%22%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%2C%0A%20%20%20%20%22technical_specifications%22%3A%20%7B%0A%20%20%20%20%20%20%22angle%22%3A%20%22High%20Angle%20Shot%20(Blick%20von%20oben%20auf%20das%20Motiv).%22%2C%0A%20%20%20%20%20%20%22lighting%22%3A%20%22Hartes%20direktes%20Blitzlicht%2C%20scharfe%20Schatten%20hinter%20dem%20Motiv%2C%20Haut%20erscheint%20hell%2Fleicht%20%C3%BCberbelichtet.%22%2C%0A%20%20%20%20%20%20%22style%22%3A%20%22L%C3%A4ssiger%20Schnappschuss%2C%20Y2k-%C3%84sthetik%2C%20Streetwear-Vibe%2C%20Grunge%2C%20Blitzfotografie.%22%2C%0A%20%20%20%20%20%20%22resolution%22%3A%20%221200x1200px%22%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)**
 
 ---
 
@@ -7382,6 +7382,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-11T08:22:01.540Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-11T12:28:22.371Z</sub>
 
 </div>
