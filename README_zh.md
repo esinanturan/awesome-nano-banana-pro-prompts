@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **1731** |
 | ⭐ 精选 | **13** |
-| 🔄 最后更新 | **2025年12月18日星期四 UTC 08:18:15** |
+| 🔄 最后更新 | **2025年12月18日星期四 UTC 12:23:54** |
 
 </div>
 
@@ -1519,27 +1519,27 @@ iPhone
 
 ---
 
-### No. 12: Chrono-Holiday Artisan: Christmas Card Re-render by Era
+### No. 12: Chrono-Holiday Artisan：Era 重新渲染的圣诞贺卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A complex system prompt defining an AI persona ('The Chrono-Holiday Artisan') and tasking it with re-rendering a reference image into a Christmas card style from a randomly selected historical era (1850–2060). It includes strict constraints on era fidelity, text content, and subject fashion.
+一个复杂的系统提示，定义了一个 AI 角色（“时空假日工匠”），并要求它将参考图像重新渲染成从随机选择的历史时期（1850 年至 2060 年）的圣诞贺卡风格。它包括对时代保真度、文本内容和主题时尚的严格限制。
 
 #### 📝 提示词
 
 ```
-ROLE: You are The Chrono-Holiday Artisan, a designer who exists outside of time, curating Christmas cards from every era of human history (1850–2060).
+角色：您是“时空假日工匠”，一位超脱于时间之外的设计师，负责从人类历史的各个时代（1850 年至 2060 年）精选圣诞贺卡。
 
-TASK: Re-render the EXACT SUBJECT in the attached reference image into a holiday card from a RANDOMLY SELECTED year. 
+任务：将所附参考图片中**完全相同的主题**重新制作成一张来自**随机选定年份**的节日贺卡。
 
-STRICT GUIDELINES:
-1. THE ERA: Pick one random year (e.g., {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) and strictly apply that era's specific printing technology, film grain, and color palette.
-2. THE TEXT: Display ONLY a generic, period-accurate greeting (e.g., "Season's Greetings", "Merry Christmas", "Happy Holidays"). 
-3. THE EXCLUSION: ABSOLUTELY NO names, NO "From the family", NO signatures.
-4. THE SUBJECT: Keep the people from the reference image recognizable, but dressed in the fashion of the selected era.
+严格准则：
+1. 时代：随机选择一个年份（例如，{argument name="example year 1" default="1894"}、{argument name="example year 2" default="1956"}、{argument name="example year 3" default="1982"}、{argument name="example year 4" default="2045"}），并严格应用该时代的特定印刷技术、胶片颗粒和调色板。
+2. 文字：只显示一句通用且符合时代特征的问候语（例如，“节日问候”、“圣诞快乐”、“假日愉快”）。
+3. 排除项：**绝对不能**出现姓名、**不能**出现“来自某某家庭”、**不能**出现签名。
+4. 主题：保留参考图片中人物的可识别性，但穿着应符合所选时代的时尚。
 
 --ar 3:4 --iw 2 --stylize 400
 ```
@@ -1549,13 +1549,13 @@ STRICT GUIDELINES:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042072187_lyo63n_G8ZVF4zWYAAOxpP.jpg" width="600" alt="Chrono-Holiday Artisan: Christmas Card Re-render by Era - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042072187_lyo63n_G8ZVF4zWYAAOxpP.jpg" width="600" alt="Chrono-Holiday Artisan：Era 重新渲染的圣诞贺卡 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042073635_cyps3t_G8ZVHK5XgAEzplx.jpg" width="600" alt="Chrono-Holiday Artisan: Christmas Card Re-render by Era - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042073635_cyps3t_G8ZVHK5XgAEzplx.jpg" width="600" alt="Chrono-Holiday Artisan：Era 重新渲染的圣诞贺卡 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1565,7 +1565,7 @@ STRICT GUIDELINES:
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=ROLE%3A%20You%20are%20The%20Chrono-Holiday%20Artisan%2C%20a%20designer%20who%20exists%20outside%20of%20time%2C%20curating%20Christmas%20cards%20from%20every%20era%20of%20human%20history%20(1850%E2%80%932060).%0A%0ATASK%3A%20Re-render%20the%20EXACT%20SUBJECT%20in%20the%20attached%20reference%20image%20into%20a%20holiday%20card%20from%20a%20RANDOMLY%20SELECTED%20year.%20%0A%0ASTRICT%20GUIDELINES%3A%0A1.%20THE%20ERA%3A%20Pick%20one%20random%20year%20(e.g.%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20and%20strictly%20apply%20that%20era's%20specific%20printing%20technology%2C%20film%20grain%2C%20and%20color%20palette.%0A2.%20THE%20TEXT%3A%20Display%20ONLY%20a%20generic%2C%20period-accurate%20greeting%20(e.g.%2C%20%22Season's%20Greetings%22%2C%20%22Merry%20Christmas%22%2C%20%22Happy%20Holidays%22).%20%0A3.%20THE%20EXCLUSION%3A%20ABSOLUTELY%20NO%20names%2C%20NO%20%22From%20the%20family%22%2C%20NO%20signatures.%0A4.%20THE%20SUBJECT%3A%20Keep%20the%20people%20from%20the%20reference%20image%20recognizable%2C%20but%20dressed%20in%20the%20fashion%20of%20the%20selected%20era.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E8%A7%92%E8%89%B2%EF%BC%9A%E6%82%A8%E6%98%AF%E2%80%9C%E6%97%B6%E7%A9%BA%E5%81%87%E6%97%A5%E5%B7%A5%E5%8C%A0%E2%80%9D%EF%BC%8C%E4%B8%80%E4%BD%8D%E8%B6%85%E8%84%B1%E4%BA%8E%E6%97%B6%E9%97%B4%E4%B9%8B%E5%A4%96%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%B8%88%EF%BC%8C%E8%B4%9F%E8%B4%A3%E4%BB%8E%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2%E7%9A%84%E5%90%84%E4%B8%AA%E6%97%B6%E4%BB%A3%EF%BC%881850%20%E5%B9%B4%E8%87%B3%202060%20%E5%B9%B4%EF%BC%89%E7%B2%BE%E9%80%89%E5%9C%A3%E8%AF%9E%E8%B4%BA%E5%8D%A1%E3%80%82%0A%0A%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%B0%86%E6%89%80%E9%99%84%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%B8%AD**%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E4%B8%BB%E9%A2%98**%E9%87%8D%E6%96%B0%E5%88%B6%E4%BD%9C%E6%88%90%E4%B8%80%E5%BC%A0%E6%9D%A5%E8%87%AA**%E9%9A%8F%E6%9C%BA%E9%80%89%E5%AE%9A%E5%B9%B4%E4%BB%BD**%E7%9A%84%E8%8A%82%E6%97%A5%E8%B4%BA%E5%8D%A1%E3%80%82%0A%0A%E4%B8%A5%E6%A0%BC%E5%87%86%E5%88%99%EF%BC%9A%0A1.%20%E6%97%B6%E4%BB%A3%EF%BC%9A%E9%9A%8F%E6%9C%BA%E9%80%89%E6%8B%A9%E4%B8%80%E4%B8%AA%E5%B9%B4%E4%BB%BD%EF%BC%88%E4%BE%8B%E5%A6%82%EF%BC%8C%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%E3%80%81%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%E3%80%81%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%E3%80%81%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D%EF%BC%89%EF%BC%8C%E5%B9%B6%E4%B8%A5%E6%A0%BC%E5%BA%94%E7%94%A8%E8%AF%A5%E6%97%B6%E4%BB%A3%E7%9A%84%E7%89%B9%E5%AE%9A%E5%8D%B0%E5%88%B7%E6%8A%80%E6%9C%AF%E3%80%81%E8%83%B6%E7%89%87%E9%A2%97%E7%B2%92%E5%92%8C%E8%B0%83%E8%89%B2%E6%9D%BF%E3%80%82%0A2.%20%E6%96%87%E5%AD%97%EF%BC%9A%E5%8F%AA%E6%98%BE%E7%A4%BA%E4%B8%80%E5%8F%A5%E9%80%9A%E7%94%A8%E4%B8%94%E7%AC%A6%E5%90%88%E6%97%B6%E4%BB%A3%E7%89%B9%E5%BE%81%E7%9A%84%E9%97%AE%E5%80%99%E8%AF%AD%EF%BC%88%E4%BE%8B%E5%A6%82%EF%BC%8C%E2%80%9C%E8%8A%82%E6%97%A5%E9%97%AE%E5%80%99%E2%80%9D%E3%80%81%E2%80%9C%E5%9C%A3%E8%AF%9E%E5%BF%AB%E4%B9%90%E2%80%9D%E3%80%81%E2%80%9C%E5%81%87%E6%97%A5%E6%84%89%E5%BF%AB%E2%80%9D%EF%BC%89%E3%80%82%0A3.%20%E6%8E%92%E9%99%A4%E9%A1%B9%EF%BC%9A**%E7%BB%9D%E5%AF%B9%E4%B8%8D%E8%83%BD**%E5%87%BA%E7%8E%B0%E5%A7%93%E5%90%8D%E3%80%81**%E4%B8%8D%E8%83%BD**%E5%87%BA%E7%8E%B0%E2%80%9C%E6%9D%A5%E8%87%AA%E6%9F%90%E6%9F%90%E5%AE%B6%E5%BA%AD%E2%80%9D%E3%80%81**%E4%B8%8D%E8%83%BD**%E5%87%BA%E7%8E%B0%E7%AD%BE%E5%90%8D%E3%80%82%0A4.%20%E4%B8%BB%E9%A2%98%EF%BC%9A%E4%BF%9D%E7%95%99%E5%8F%82%E8%80%83%E5%9B%BE%E7%89%87%E4%B8%AD%E4%BA%BA%E7%89%A9%E7%9A%84%E5%8F%AF%E8%AF%86%E5%88%AB%E6%80%A7%EF%BC%8C%E4%BD%86%E7%A9%BF%E7%9D%80%E5%BA%94%E7%AC%A6%E5%90%88%E6%89%80%E9%80%89%E6%97%B6%E4%BB%A3%E7%9A%84%E6%97%B6%E5%B0%9A%E3%80%82%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5212,7 +5212,7 @@ STRICT GUIDELINES:
 #### 📝 提示词
 
 ```
-猫咪从手中射出能量，打开一个虫洞。‼️
+猫咪从手中射出能量以打开虫洞 ‼️
 ```
 
 #### 🖼️ 生成图片
@@ -5236,7 +5236,7 @@ STRICT GUIDELINES:
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E7%8C%AB%E5%92%AA%E4%BB%8E%E6%89%8B%E4%B8%AD%E5%B0%84%E5%87%BA%E8%83%BD%E9%87%8F%EF%BC%8C%E6%89%93%E5%BC%80%E4%B8%80%E4%B8%AA%E8%99%AB%E6%B4%9E%E3%80%82%E2%80%BC%EF%B8%8F)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E7%8C%AB%E5%92%AA%E4%BB%8E%E6%89%8B%E4%B8%AD%E5%B0%84%E5%87%BA%E8%83%BD%E9%87%8F%E4%BB%A5%E6%89%93%E5%BC%80%E8%99%AB%E6%B4%9E%20%E2%80%BC%EF%B8%8F)**
 
 ---
 
@@ -6231,7 +6231,7 @@ text: >
 #### 📝 提示词
 
 ```
-在 {argument name="latitude" default="北纬 31.7785°"}、{argument name="longitude" default="东经 35.2296°"}、{argument name="date" default="公元 33 年 4 月 3 日"}、{argument name="time" default="15:00"} 创建图像。
+在 {argument name="latitude" default="北纬 31.7785°"}、{argument name="longitude" default="东经 35.2296°"}、{argument name="date" default="公元 33 年 4 月 3 日"}、{argument name="time" default="15:00"} 创建一张图片。
 ```
 
 #### 🖼️ 生成图片
@@ -6255,7 +6255,7 @@ text: >
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E5%9C%A8%20%7Bargument%20name%3D%22latitude%22%20default%3D%22%E5%8C%97%E7%BA%AC%2031.7785%C2%B0%22%7D%E3%80%81%7Bargument%20name%3D%22longitude%22%20default%3D%22%E4%B8%9C%E7%BB%8F%2035.2296%C2%B0%22%7D%E3%80%81%7Bargument%20name%3D%22date%22%20default%3D%22%E5%85%AC%E5%85%83%2033%20%E5%B9%B4%204%20%E6%9C%88%203%20%E6%97%A5%22%7D%E3%80%81%7Bargument%20name%3D%22time%22%20default%3D%2215%3A00%22%7D%20%E5%88%9B%E5%BB%BA%E5%9B%BE%E5%83%8F%E3%80%82)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E5%9C%A8%20%7Bargument%20name%3D%22latitude%22%20default%3D%22%E5%8C%97%E7%BA%AC%2031.7785%C2%B0%22%7D%E3%80%81%7Bargument%20name%3D%22longitude%22%20default%3D%22%E4%B8%9C%E7%BB%8F%2035.2296%C2%B0%22%7D%E3%80%81%7Bargument%20name%3D%22date%22%20default%3D%22%E5%85%AC%E5%85%83%2033%20%E5%B9%B4%204%20%E6%9C%88%203%20%E6%97%A5%22%7D%E3%80%81%7Bargument%20name%3D%22time%22%20default%3D%2215%3A00%22%7D%20%E5%88%9B%E5%BB%BA%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%89%87%E3%80%82)**
 
 ---
 
@@ -6413,18 +6413,18 @@ text: >
 
 ---
 
-### No. 82: 电影教父肖像
+### No. 82: 电影级黑手党老大肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-生成一张超现实、电影感的肖像画的提示词：将用户上传的面部转化为一位现代黑手党老大，他坐在一辆豪华轿车里，抽着雪茄，画面呈现高对比度的黑色电影美学。
+生成一张超现实、电影感的肖像画，将用户上传的面部转化为一位现代黑手党老大，他坐在一辆豪华轿车里，抽着雪茄，画面呈现出高对比度的黑色电影美学。
 
 #### 📝 提示词
 
 ```
-创作一张我的超现实电影级肖像（使用上传的面部），我是一名现代黑手党老大。我坐在一辆豪华黑色轿车里，身穿黑色西装，戴着墨色飞行员太阳镜，抽着一支粗大的雪茄。表情冷酷无畏。背景：阴沉的天空 + 模糊的城市/街道，营造出黑色电影的氛围。冷色调，高对比度。面部和烟雾细节锐利。风格：8K，电影海报品质，浅景深 1:1
+创作一张我的超现实电影级肖像（使用上传的面部），我是一名现代黑手党老大。我坐在一辆豪华黑色轿车里，身穿黑色西装，戴着有色飞行员墨镜，抽着一支粗大的雪茄。表情冷酷无畏。背景：阴沉的天空 + 模糊的城市/街道，营造出黑色电影的感觉。冷色调，高对比度。面部和烟雾细节锐利。风格：8K，电影海报品质，浅景深 1:1
 ```
 
 #### 🖼️ 生成图片
@@ -6432,13 +6432,13 @@ text: >
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="电影教父肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="电影级黑手党老大肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="电影教父肖像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="电影级黑手党老大肖像 - Image 2">
 </div>
 
 #### 📌 详情
@@ -6448,7 +6448,7 @@ text: >
 - **发布时间:** 2025年12月17日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E6%88%91%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%82%96%E5%83%8F%EF%BC%88%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E7%9A%84%E9%9D%A2%E9%83%A8%EF%BC%89%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E7%8E%B0%E4%BB%A3%E9%BB%91%E6%89%8B%E5%85%9A%E8%80%81%E5%A4%A7%E3%80%82%E6%88%91%E5%9D%90%E5%9C%A8%E4%B8%80%E8%BE%86%E8%B1%AA%E5%8D%8E%E9%BB%91%E8%89%B2%E8%BD%BF%E8%BD%A6%E9%87%8C%EF%BC%8C%E8%BA%AB%E7%A9%BF%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%85%EF%BC%8C%E6%88%B4%E7%9D%80%E5%A2%A8%E8%89%B2%E9%A3%9E%E8%A1%8C%E5%91%98%E5%A4%AA%E9%98%B3%E9%95%9C%EF%BC%8C%E6%8A%BD%E7%9D%80%E4%B8%80%E6%94%AF%E7%B2%97%E5%A4%A7%E7%9A%84%E9%9B%AA%E8%8C%84%E3%80%82%E8%A1%A8%E6%83%85%E5%86%B7%E9%85%B7%E6%97%A0%E7%95%8F%E3%80%82%E8%83%8C%E6%99%AF%EF%BC%9A%E9%98%B4%E6%B2%89%E7%9A%84%E5%A4%A9%E7%A9%BA%20%2B%20%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%9F%8E%E5%B8%82%2F%E8%A1%97%E9%81%93%EF%BC%8C%E8%90%A5%E9%80%A0%E5%87%BA%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E7%9A%84%E6%B0%9B%E5%9B%B4%E3%80%82%E5%86%B7%E8%89%B2%E8%B0%83%EF%BC%8C%E9%AB%98%E5%AF%B9%E6%AF%94%E5%BA%A6%E3%80%82%E9%9D%A2%E9%83%A8%E5%92%8C%E7%83%9F%E9%9B%BE%E7%BB%86%E8%8A%82%E9%94%90%E5%88%A9%E3%80%82%E9%A3%8E%E6%A0%BC%EF%BC%9A8K%EF%BC%8C%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E5%93%81%E8%B4%A8%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%201%3A1)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=%E5%88%9B%E4%BD%9C%E4%B8%80%E5%BC%A0%E6%88%91%E7%9A%84%E8%B6%85%E7%8E%B0%E5%AE%9E%E7%94%B5%E5%BD%B1%E7%BA%A7%E8%82%96%E5%83%8F%EF%BC%88%E4%BD%BF%E7%94%A8%E4%B8%8A%E4%BC%A0%E7%9A%84%E9%9D%A2%E9%83%A8%EF%BC%89%EF%BC%8C%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E7%8E%B0%E4%BB%A3%E9%BB%91%E6%89%8B%E5%85%9A%E8%80%81%E5%A4%A7%E3%80%82%E6%88%91%E5%9D%90%E5%9C%A8%E4%B8%80%E8%BE%86%E8%B1%AA%E5%8D%8E%E9%BB%91%E8%89%B2%E8%BD%BF%E8%BD%A6%E9%87%8C%EF%BC%8C%E8%BA%AB%E7%A9%BF%E9%BB%91%E8%89%B2%E8%A5%BF%E8%A3%85%EF%BC%8C%E6%88%B4%E7%9D%80%E6%9C%89%E8%89%B2%E9%A3%9E%E8%A1%8C%E5%91%98%E5%A2%A8%E9%95%9C%EF%BC%8C%E6%8A%BD%E7%9D%80%E4%B8%80%E6%94%AF%E7%B2%97%E5%A4%A7%E7%9A%84%E9%9B%AA%E8%8C%84%E3%80%82%E8%A1%A8%E6%83%85%E5%86%B7%E9%85%B7%E6%97%A0%E7%95%8F%E3%80%82%E8%83%8C%E6%99%AF%EF%BC%9A%E9%98%B4%E6%B2%89%E7%9A%84%E5%A4%A9%E7%A9%BA%20%2B%20%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%9F%8E%E5%B8%82%2F%E8%A1%97%E9%81%93%EF%BC%8C%E8%90%A5%E9%80%A0%E5%87%BA%E9%BB%91%E8%89%B2%E7%94%B5%E5%BD%B1%E7%9A%84%E6%84%9F%E8%A7%89%E3%80%82%E5%86%B7%E8%89%B2%E8%B0%83%EF%BC%8C%E9%AB%98%E5%AF%B9%E6%AF%94%E5%BA%A6%E3%80%82%E9%9D%A2%E9%83%A8%E5%92%8C%E7%83%9F%E9%9B%BE%E7%BB%86%E8%8A%82%E9%94%90%E5%88%A9%E3%80%82%E9%A3%8E%E6%A0%BC%EF%BC%9A8K%EF%BC%8C%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5%E5%93%81%E8%B4%A8%EF%BC%8C%E6%B5%85%E6%99%AF%E6%B7%B1%201%3A1)**
 
 ---
 
@@ -7992,21 +7992,21 @@ Sam Altman 在 Andy Jassy 驾驶的船后面玩滑水。
 
 ---
 
-### No. 113: Nano Monkey's Adventure Series Manga Prompt
+### No. 113: Nano Monkey 的冒险系列漫画提示
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A user announces the popular manga series 'Nano Monkey's Adventure Series' and mentions that the manga, specifically 'Rain Sound,' was created using Nano Banana Pro in 10 seconds.
+一位用户宣布了热门漫画系列《纳米猴的冒险系列》，并提到该漫画，特别是《雨声》，是使用 Nano Banana Pro 在 10 秒内创作完成的。
 
 #### 📝 提示词
 
 ```
-Nano Monkey's Adventure Series
-📍{argument name="title" default="Rain Sound"}
-👉Unlimited manga creation in 10 seconds with nano banana pro (nanobanana)
+Nano Monkey 的冒险系列
+📍{argument name="title" default="雨声"}
+👉使用 nano banana pro (nanobanana) 在 10 秒内无限创作漫画
 ```
 
 #### 🖼️ 生成图片
@@ -8014,7 +8014,7 @@ Nano Monkey's Adventure Series
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Monkey's Adventure Series Manga Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Monkey 的冒险系列漫画提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -8024,7 +8024,7 @@ Nano Monkey's Adventure Series
 - **发布时间:** 2025年12月17日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=Nano%20Monkey's%20Adventure%20Series%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Rain%20Sound%22%7D%0A%F0%9F%91%89Unlimited%20manga%20creation%20in%2010%20seconds%20with%20nano%20banana%20pro%20(nanobanana))**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?prompt=Nano%20Monkey%20%E7%9A%84%E5%86%92%E9%99%A9%E7%B3%BB%E5%88%97%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22%E9%9B%A8%E5%A3%B0%22%7D%0A%F0%9F%91%89%E4%BD%BF%E7%94%A8%20nano%20banana%20pro%20(nanobanana)%20%E5%9C%A8%2010%20%E7%A7%92%E5%86%85%E6%97%A0%E9%99%90%E5%88%9B%E4%BD%9C%E6%BC%AB%E7%94%BB)**
 
 ---
 
@@ -8524,6 +8524,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-12-18T08:18:15.971Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-12-18T12:23:54.792Z</sub>
 
 </div>

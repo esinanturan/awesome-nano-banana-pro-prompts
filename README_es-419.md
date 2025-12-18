@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **1731** |
 | ⭐ Destacado | **13** |
-| 🔄 Última actualización | **jueves, 18 de diciembre de 2025, 8:22:52 a.m. UTC** |
+| 🔄 Última actualización | **jueves, 18 de diciembre de 2025, 12:29:43 p.m. UTC** |
 
 </div>
 
@@ -1519,24 +1519,24 @@ Prompt de pantalla de participación
 
 ---
 
-### No. 12: Chrono-Holiday Artisan: Re-renderización de tarjetas de Navidad por Era
+### No. 12: Chrono-Holiday Artisan: Re-renderización de tarjetas navideñas por Era
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un *prompt* de sistema complejo que define una personalidad de IA ("El Artesano Crono-Festivo") y le asigna la tarea de volver a renderizar una imagen de referencia al estilo de una tarjeta de Navidad de una época histórica seleccionada al azar (1850-2060). Incluye restricciones estrictas sobre la fidelidad de la época, el contenido del texto y la moda del sujeto.
+Un *prompt* de sistema complejo que define una personalidad de IA ("El Artesano Crono-Festivo") y le encarga volver a renderizar una imagen de referencia al estilo de una tarjeta navideña de una época histórica seleccionada al azar (1850–2060). Incluye restricciones estrictas sobre la fidelidad de la época, el contenido del texto y la moda del sujeto.
 
 #### 📝 Prompt
 
 ```
 ROL: Eres el Artesano Crono-Navideño, un diseñador que existe fuera del tiempo, curando tarjetas de Navidad de cada era de la historia humana (1850–2060).
 
-TAREA: Volver a renderizar el SUJETO EXACTO de la imagen de referencia adjunta en una tarjeta navideña de un año SELECCIONADO ALEATORIAMENTE.
+TAREA: Volver a representar el SUJETO EXACTO de la imagen de referencia adjunta en una tarjeta navideña de un año SELECCIONADO AL AZAR.
 
 DIRECTRICES ESTRICTAS:
-1. LA ERA: Elige un año aleatorio (por ejemplo, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) y aplica estrictamente la tecnología de impresión, el grano de película y la paleta de colores específicos de esa era.
+1. LA ERA: Elige un año al azar (por ejemplo, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) y aplica estrictamente la tecnología de impresión, el grano de película y la paleta de colores específicos de esa era.
 2. EL TEXTO: Muestra SOLAMENTE un saludo genérico y apropiado para la época (por ejemplo, "Felices Fiestas", "Feliz Navidad", "Próspero Año Nuevo").
 3. LA EXCLUSIÓN: ABSOLUTAMENTE NINGÚN nombre, NINGÚN "De la familia", NINGUNA firma.
 4. EL SUJETO: Mantén a las personas de la imagen de referencia reconocibles, pero vestidas a la moda de la era seleccionada.
@@ -1549,13 +1549,13 @@ DIRECTRICES ESTRICTAS:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042072187_lyo63n_G8ZVF4zWYAAOxpP.jpg" width="600" alt="Chrono-Holiday Artisan: Re-renderización de tarjetas de Navidad por Era - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042072187_lyo63n_G8ZVF4zWYAAOxpP.jpg" width="600" alt="Chrono-Holiday Artisan: Re-renderización de tarjetas navideñas por Era - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042073635_cyps3t_G8ZVHK5XgAEzplx.jpg" width="600" alt="Chrono-Holiday Artisan: Re-renderización de tarjetas de Navidad por Era - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042073635_cyps3t_G8ZVHK5XgAEzplx.jpg" width="600" alt="Chrono-Holiday Artisan: Re-renderización de tarjetas navideñas por Era - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -1565,7 +1565,7 @@ DIRECTRICES ESTRICTAS:
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?prompt=ROL%3A%20Eres%20el%20Artesano%20Crono-Navide%C3%B1o%2C%20un%20dise%C3%B1ador%20que%20existe%20fuera%20del%20tiempo%2C%20curando%20tarjetas%20de%20Navidad%20de%20cada%20era%20de%20la%20historia%20humana%20(1850%E2%80%932060).%0A%0ATAREA%3A%20Volver%20a%20renderizar%20el%20SUJETO%20EXACTO%20de%20la%20imagen%20de%20referencia%20adjunta%20en%20una%20tarjeta%20navide%C3%B1a%20de%20un%20a%C3%B1o%20SELECCIONADO%20ALEATORIAMENTE.%0A%0ADIRECTRICES%20ESTRICTAS%3A%0A1.%20LA%20ERA%3A%20Elige%20un%20a%C3%B1o%20aleatorio%20(por%20ejemplo%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20y%20aplica%20estrictamente%20la%20tecnolog%C3%ADa%20de%20impresi%C3%B3n%2C%20el%20grano%20de%20pel%C3%ADcula%20y%20la%20paleta%20de%20colores%20espec%C3%ADficos%20de%20esa%20era.%0A2.%20EL%20TEXTO%3A%20Muestra%20SOLAMENTE%20un%20saludo%20gen%C3%A9rico%20y%20apropiado%20para%20la%20%C3%A9poca%20(por%20ejemplo%2C%20%22Felices%20Fiestas%22%2C%20%22Feliz%20Navidad%22%2C%20%22Pr%C3%B3spero%20A%C3%B1o%20Nuevo%22).%0A3.%20LA%20EXCLUSI%C3%93N%3A%20ABSOLUTAMENTE%20NING%C3%9AN%20nombre%2C%20NING%C3%9AN%20%22De%20la%20familia%22%2C%20NINGUNA%20firma.%0A4.%20EL%20SUJETO%3A%20Mant%C3%A9n%20a%20las%20personas%20de%20la%20imagen%20de%20referencia%20reconocibles%2C%20pero%20vestidas%20a%20la%20moda%20de%20la%20era%20seleccionada.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?prompt=ROL%3A%20Eres%20el%20Artesano%20Crono-Navide%C3%B1o%2C%20un%20dise%C3%B1ador%20que%20existe%20fuera%20del%20tiempo%2C%20curando%20tarjetas%20de%20Navidad%20de%20cada%20era%20de%20la%20historia%20humana%20(1850%E2%80%932060).%0A%0ATAREA%3A%20Volver%20a%20representar%20el%20SUJETO%20EXACTO%20de%20la%20imagen%20de%20referencia%20adjunta%20en%20una%20tarjeta%20navide%C3%B1a%20de%20un%20a%C3%B1o%20SELECCIONADO%20AL%20AZAR.%0A%0ADIRECTRICES%20ESTRICTAS%3A%0A1.%20LA%20ERA%3A%20Elige%20un%20a%C3%B1o%20al%20azar%20(por%20ejemplo%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20y%20aplica%20estrictamente%20la%20tecnolog%C3%ADa%20de%20impresi%C3%B3n%2C%20el%20grano%20de%20pel%C3%ADcula%20y%20la%20paleta%20de%20colores%20espec%C3%ADficos%20de%20esa%20era.%0A2.%20EL%20TEXTO%3A%20Muestra%20SOLAMENTE%20un%20saludo%20gen%C3%A9rico%20y%20apropiado%20para%20la%20%C3%A9poca%20(por%20ejemplo%2C%20%22Felices%20Fiestas%22%2C%20%22Feliz%20Navidad%22%2C%20%22Pr%C3%B3spero%20A%C3%B1o%20Nuevo%22).%0A3.%20LA%20EXCLUSI%C3%93N%3A%20ABSOLUTAMENTE%20NING%C3%9AN%20nombre%2C%20NING%C3%9AN%20%22De%20la%20familia%22%2C%20NINGUNA%20firma.%0A4.%20EL%20SUJETO%3A%20Mant%C3%A9n%20a%20las%20personas%20de%20la%20imagen%20de%20referencia%20reconocibles%2C%20pero%20vestidas%20a%20la%20moda%20de%20la%20era%20seleccionada.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5210,12 +5210,12 @@ Mantén la composición, la ropa, la expresión, el tono de piel, el peinado y l
 
 #### 📖 Descripción
 
-Una instrucción breve e imaginativa que se utiliza para probar la capacidad del modelo para manejar conceptos surrealistas y fantásticos, presentando a un gato que usa el poder de su pata para abrir un agujero de gusano.
+Una instrucción corta e imaginativa utilizada para probar la capacidad del modelo para manejar conceptos surrealistas y fantásticos, que presenta a un gato usando energía de su pata para abrir un agujero de gusano.
 
 #### 📝 Prompt
 
 ```
-"gato lanzando poder desde su mano para abrir un agujero de gusano" ‼️
+"gato disparando poder de su mano para abrir un agujero de gusano" ‼️
 ```
 
 #### 🖼️ Imágenes generadas
@@ -5239,7 +5239,7 @@ Una instrucción breve e imaginativa que se utiliza para probar la capacidad del
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?prompt=%22gato%20lanzando%20poder%20desde%20su%20mano%20para%20abrir%20un%20agujero%20de%20gusano%22%20%E2%80%BC%EF%B8%8F)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?prompt=%22gato%20disparando%20poder%20de%20su%20mano%20para%20abrir%20un%20agujero%20de%20gusano%22%20%E2%80%BC%EF%B8%8F)**
 
 ---
 
@@ -6215,14 +6215,14 @@ Perspectiva macro cinematográfica, realismo botánico, ultra detallado.
 
 ---
 
-### No. 79: Generación de indicaciones de imágenes geoespaciales y temporales
+### No. 79: Generación de imágenes geoespaciales y temporales con prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt único de generación de imágenes que especifica una ubicación geográfica precisa (31.7785° N, 35.2296° E), fecha (3 de abril de 33 d. C.) y hora (15:00 horas), utilizado para comparar la salida de GPT Image 1.5 y Nano Banana Pro.
+Un prompt de generación de imágenes único que especifica una ubicación geográfica precisa (31.7785° N, 35.2296° E), fecha (3 de abril del 33 d. C.) y hora (15:00 horas), utilizado para comparar el resultado de GPT Image 1.5 y Nano Banana Pro.
 
 #### 📝 Prompt
 
@@ -6235,13 +6235,13 @@ Crear una imagen en {argument name="latitude" default="31.7785° N"}, {argument 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042199574_ndfzif_G8XGL5PWgAYSfx8.jpg" width="600" alt="Generación de indicaciones de imágenes geoespaciales y temporales - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042199574_ndfzif_G8XGL5PWgAYSfx8.jpg" width="600" alt="Generación de imágenes geoespaciales y temporales con prompts - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042199869_7bgmls_G8XGJR9XMAQ5hVZ.jpg" width="600" alt="Generación de indicaciones de imágenes geoespaciales y temporales - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042199869_7bgmls_G8XGJR9XMAQ5hVZ.jpg" width="600" alt="Generación de imágenes geoespaciales y temporales con prompts - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -6409,18 +6409,18 @@ Una foto espontánea, tomada con el celular, de una chica pelirroja con lentes d
 
 ---
 
-### No. 82: Retrato cinematográfico de un jefe de la mafia
+### No. 82: Retrato de un jefe de la mafia cinematográfico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descripción
 
-Un prompt para generar un retrato cinematográfico hiperrealista de un rostro subido por el usuario, transformado en un moderno jefe de la mafia, sentado en un auto de lujo, fumando un cigarro, con una estética noir de alto contraste.
+Un prompt para generar un retrato cinematográfico hiperrealista de un rostro subido por el usuario, transformado en un moderno jefe de la mafia, sentado en un auto de lujo, fumando un puro, con una estética noir de alto contraste.
 
 #### 📝 Prompt
 
 ```
-Crea un retrato cinematográfico hiperrealista de mí (usa el rostro subido) como un moderno jefe de la mafia. Estoy sentado en un auto de lujo negro, vistiendo un traje negro y lentes de aviador polarizados, fumando un puro grueso. Expresión fría e intrépida. Fondo: cielo sombrío + ciudad/calle borrosa para una sensación noir. Tonos fríos, alto contraste. Detalles nítidos en el rostro y el humo. Estilo: 8K, calidad de póster de película, poca profundidad de campo 1:1.
+Crea un retrato cinematográfico hiperrealista de mí (usa el rostro subido) como un jefe de la mafia moderno. Estoy sentado en un auto de lujo negro, vistiendo un traje negro y lentes de aviador polarizados, fumando un puro grueso. Expresión fría e intrépida. Fondo: cielo sombrío + ciudad/calle borrosa para una sensación noir. Tonos fríos, alto contraste. Detalles nítidos en el rostro y el humo. Estilo: 8K, calidad de póster de película, poca profundidad de campo 1:1
 ```
 
 #### 🖼️ Imágenes generadas
@@ -6428,13 +6428,13 @@ Crea un retrato cinematográfico hiperrealista de mí (usa el rostro subido) com
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Retrato cinematográfico de un jefe de la mafia - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Retrato de un jefe de la mafia cinematográfico - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Retrato cinematográfico de un jefe de la mafia - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Retrato de un jefe de la mafia cinematográfico - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -6444,7 +6444,7 @@ Crea un retrato cinematográfico hiperrealista de mí (usa el rostro subido) com
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?prompt=Crea%20un%20retrato%20cinematogr%C3%A1fico%20hiperrealista%20de%20m%C3%AD%20(usa%20el%20rostro%20subido)%20como%20un%20moderno%20jefe%20de%20la%20mafia.%20Estoy%20sentado%20en%20un%20auto%20de%20lujo%20negro%2C%20vistiendo%20un%20traje%20negro%20y%20lentes%20de%20aviador%20polarizados%2C%20fumando%20un%20puro%20grueso.%20Expresi%C3%B3n%20fr%C3%ADa%20e%20intr%C3%A9pida.%20Fondo%3A%20cielo%20sombr%C3%ADo%20%2B%20ciudad%2Fcalle%20borrosa%20para%20una%20sensaci%C3%B3n%20noir.%20Tonos%20fr%C3%ADos%2C%20alto%20contraste.%20Detalles%20n%C3%ADtidos%20en%20el%20rostro%20y%20el%20humo.%20Estilo%3A%208K%2C%20calidad%20de%20p%C3%B3ster%20de%20pel%C3%ADcula%2C%20poca%20profundidad%20de%20campo%201%3A1.)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?prompt=Crea%20un%20retrato%20cinematogr%C3%A1fico%20hiperrealista%20de%20m%C3%AD%20(usa%20el%20rostro%20subido)%20como%20un%20jefe%20de%20la%20mafia%20moderno.%20Estoy%20sentado%20en%20un%20auto%20de%20lujo%20negro%2C%20vistiendo%20un%20traje%20negro%20y%20lentes%20de%20aviador%20polarizados%2C%20fumando%20un%20puro%20grueso.%20Expresi%C3%B3n%20fr%C3%ADa%20e%20intr%C3%A9pida.%20Fondo%3A%20cielo%20sombr%C3%ADo%20%2B%20ciudad%2Fcalle%20borrosa%20para%20una%20sensaci%C3%B3n%20noir.%20Tonos%20fr%C3%ADos%2C%20alto%20contraste.%20Detalles%20n%C3%ADtidos%20en%20el%20rostro%20y%20el%20humo.%20Estilo%3A%208K%2C%20calidad%20de%20p%C3%B3ster%20de%20pel%C3%ADcula%2C%20poca%20profundidad%20de%20campo%201%3A1)**
 
 ---
 
@@ -7986,7 +7986,7 @@ Una única imagen cuadrada cohesiva dividida en una cuadrícula limpia de 2x2 co
 
 ---
 
-### No. 113: Prompt para el manga de la serie de aventuras de Nano Monkey
+### No. 113: Nano Monkey: Serie de Aventuras - Prompt para Manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7998,7 +7998,7 @@ Un usuario anuncia la popular serie de manga "Nano Monkey's Adventure Series" y 
 #### 📝 Prompt
 
 ```
-La serie de aventuras de Nano Monkey
+Serie de aventuras de Nano Monkey
 📍{argument name="title" default="Sonido de lluvia"}
 👉Creación ilimitada de manga en 10 segundos con nano banana pro (nanobanana)
 ```
@@ -8008,7 +8008,7 @@ La serie de aventuras de Nano Monkey
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Prompt para el manga de la serie de aventuras de Nano Monkey - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Monkey: Serie de Aventuras - Prompt para Manga - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -8018,7 +8018,7 @@ La serie de aventuras de Nano Monkey
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** ja
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?prompt=La%20serie%20de%20aventuras%20de%20Nano%20Monkey%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Sonido%20de%20lluvia%22%7D%0A%F0%9F%91%89Creaci%C3%B3n%20ilimitada%20de%20manga%20en%2010%20segundos%20con%20nano%20banana%20pro%20(nanobanana))**
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?prompt=Serie%20de%20aventuras%20de%20Nano%20Monkey%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Sonido%20de%20lluvia%22%7D%0A%F0%9F%91%89Creaci%C3%B3n%20ilimitada%20de%20manga%20en%2010%20segundos%20con%20nano%20banana%20pro%20(nanobanana))**
 
 ---
 
@@ -8530,6 +8530,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-18T08:22:52.631Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-18T12:29:43.843Z</sub>
 
 </div>

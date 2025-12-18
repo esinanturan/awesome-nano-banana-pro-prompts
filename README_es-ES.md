@@ -90,7 +90,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **1731** |
 | ⭐ Destacado | **13** |
-| 🔄 Última actualización | **jueves, 18 de diciembre de 2025, 8:21:58 UTC** |
+| 🔄 Última actualización | **jueves, 18 de diciembre de 2025, 12:29:22 UTC** |
 
 </div>
 
@@ -1538,11 +1538,11 @@ Un *system prompt* complejo que define una personalidad de IA ("El Artesano Cron
 ```
 ROL: Eres el Artesano Crono-Navideño, un diseñador que existe fuera del tiempo, curando tarjetas de Navidad de cada era de la historia humana (1850–2060).
 
-TAREA: Volver a renderizar el SUJETO EXACTO de la imagen de referencia adjunta en una tarjeta navideña de un año SELECCIONADO AL AZAR.
+TAREA: Recrea el SUJETO EXACTO de la imagen de referencia adjunta en una tarjeta navideña de un año SELECCIONADO AL AZAR.
 
 DIRECTRICES ESTRICTAS:
-1. LA ERA: Elige un año al azar (por ejemplo, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) y aplica estrictamente la tecnología de impresión, el grano de película y la paleta de colores específicos de esa era.
-2. EL TEXTO: Muestra SÓLO un saludo genérico y preciso para la época (por ejemplo, "Felices Fiestas", "Feliz Navidad", "Próspero Año Nuevo").
+1. LA ERA: Elige un año aleatorio (por ejemplo, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) y aplica estrictamente la tecnología de impresión, el grano de película y la paleta de colores específicos de esa era.
+2. EL TEXTO: Muestra SOLAMENTE un saludo genérico y preciso para la época (por ejemplo, "Felices Fiestas", "Feliz Navidad", "Próspero Año Nuevo").
 3. LA EXCLUSIÓN: ABSOLUTAMENTE NINGÚN nombre, NINGÚN "De la familia", NINGUNA firma.
 4. EL SUJETO: Mantén a las personas de la imagen de referencia reconocibles, pero vestidas a la moda de la era seleccionada.
 
@@ -1570,7 +1570,7 @@ DIRECTRICES ESTRICTAS:
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?prompt=ROL%3A%20Eres%20el%20Artesano%20Crono-Navide%C3%B1o%2C%20un%20dise%C3%B1ador%20que%20existe%20fuera%20del%20tiempo%2C%20curando%20tarjetas%20de%20Navidad%20de%20cada%20era%20de%20la%20historia%20humana%20(1850%E2%80%932060).%0A%0ATAREA%3A%20Volver%20a%20renderizar%20el%20SUJETO%20EXACTO%20de%20la%20imagen%20de%20referencia%20adjunta%20en%20una%20tarjeta%20navide%C3%B1a%20de%20un%20a%C3%B1o%20SELECCIONADO%20AL%20AZAR.%0A%0ADIRECTRICES%20ESTRICTAS%3A%0A1.%20LA%20ERA%3A%20Elige%20un%20a%C3%B1o%20al%20azar%20(por%20ejemplo%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20y%20aplica%20estrictamente%20la%20tecnolog%C3%ADa%20de%20impresi%C3%B3n%2C%20el%20grano%20de%20pel%C3%ADcula%20y%20la%20paleta%20de%20colores%20espec%C3%ADficos%20de%20esa%20era.%0A2.%20EL%20TEXTO%3A%20Muestra%20S%C3%93LO%20un%20saludo%20gen%C3%A9rico%20y%20preciso%20para%20la%20%C3%A9poca%20(por%20ejemplo%2C%20%22Felices%20Fiestas%22%2C%20%22Feliz%20Navidad%22%2C%20%22Pr%C3%B3spero%20A%C3%B1o%20Nuevo%22).%0A3.%20LA%20EXCLUSI%C3%93N%3A%20ABSOLUTAMENTE%20NING%C3%9AN%20nombre%2C%20NING%C3%9AN%20%22De%20la%20familia%22%2C%20NINGUNA%20firma.%0A4.%20EL%20SUJETO%3A%20Mant%C3%A9n%20a%20las%20personas%20de%20la%20imagen%20de%20referencia%20reconocibles%2C%20pero%20vestidas%20a%20la%20moda%20de%20la%20era%20seleccionada.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?prompt=ROL%3A%20Eres%20el%20Artesano%20Crono-Navide%C3%B1o%2C%20un%20dise%C3%B1ador%20que%20existe%20fuera%20del%20tiempo%2C%20curando%20tarjetas%20de%20Navidad%20de%20cada%20era%20de%20la%20historia%20humana%20(1850%E2%80%932060).%0A%0ATAREA%3A%20Recrea%20el%20SUJETO%20EXACTO%20de%20la%20imagen%20de%20referencia%20adjunta%20en%20una%20tarjeta%20navide%C3%B1a%20de%20un%20a%C3%B1o%20SELECCIONADO%20AL%20AZAR.%0A%0ADIRECTRICES%20ESTRICTAS%3A%0A1.%20LA%20ERA%3A%20Elige%20un%20a%C3%B1o%20aleatorio%20(por%20ejemplo%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20y%20aplica%20estrictamente%20la%20tecnolog%C3%ADa%20de%20impresi%C3%B3n%2C%20el%20grano%20de%20pel%C3%ADcula%20y%20la%20paleta%20de%20colores%20espec%C3%ADficos%20de%20esa%20era.%0A2.%20EL%20TEXTO%3A%20Muestra%20SOLAMENTE%20un%20saludo%20gen%C3%A9rico%20y%20preciso%20para%20la%20%C3%A9poca%20(por%20ejemplo%2C%20%22Felices%20Fiestas%22%2C%20%22Feliz%20Navidad%22%2C%20%22Pr%C3%B3spero%20A%C3%B1o%20Nuevo%22).%0A3.%20LA%20EXCLUSI%C3%93N%3A%20ABSOLUTAMENTE%20NING%C3%9AN%20nombre%2C%20NING%C3%9AN%20%22De%20la%20familia%22%2C%20NINGUNA%20firma.%0A4.%20EL%20SUJETO%3A%20Mant%C3%A9n%20a%20las%20personas%20de%20la%20imagen%20de%20referencia%20reconocibles%2C%20pero%20vestidas%20a%20la%20moda%20de%20la%20era%20seleccionada.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -6224,12 +6224,12 @@ Perspectiva macro cinematográfica, realismo botánico, ultra-detallado.
 
 #### 📖 Descripción
 
-Una instrucción de generación de imágenes única que especifica una ubicación geográfica precisa (31.7785° N, 35.2296° E), fecha (3 de abril de 33 d. C.) y hora (15:00 horas), utilizada para comparar el resultado de GPT Image 1.5 y Nano Banana Pro.
+Un *prompt* único de generación de imágenes que especifica una ubicación geográfica precisa (31.7785° N, 35.2296° E), fecha (3 de abril de 33 d. C.) y hora (15:00 horas), utilizado para comparar la salida de GPT Image 1.5 y Nano Banana Pro.
 
 #### 📝 Prompt
 
 ```
-Crear una imagen en {argument name="latitude" default="31.7785° N"}, {argument name="longitude" default="35.2296° E"}, {argument name="date" default="3 de abril de 33 d.C."}, {argument name="time" default="15:00 horas"}.
+Crea una imagen en {argument name="latitude" default="31.7785° N"}, {argument name="longitude" default="35.2296° E"}, {argument name="date" default="3 de abril de 33 d.C."}, {argument name="time" default="15:00 horas"}.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -6253,7 +6253,7 @@ Crear una imagen en {argument name="latitude" default="31.7785° N"}, {argument 
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?prompt=Crear%20una%20imagen%20en%20%7Bargument%20name%3D%22latitude%22%20default%3D%2231.7785%C2%B0%20N%22%7D%2C%20%7Bargument%20name%3D%22longitude%22%20default%3D%2235.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date%22%20default%3D%223%20de%20abril%20de%2033%20d.C.%22%7D%2C%20%7Bargument%20name%3D%22time%22%20default%3D%2215%3A00%20horas%22%7D.)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?prompt=Crea%20una%20imagen%20en%20%7Bargument%20name%3D%22latitude%22%20default%3D%2231.7785%C2%B0%20N%22%7D%2C%20%7Bargument%20name%3D%22longitude%22%20default%3D%2235.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date%22%20default%3D%223%20de%20abril%20de%2033%20d.C.%22%7D%2C%20%7Bargument%20name%3D%22time%22%20default%3D%2215%3A00%20horas%22%7D.)**
 
 ---
 
@@ -6411,7 +6411,7 @@ Una foto espontánea hecha con el móvil de una chica pelirroja con gafas de avi
 
 ---
 
-### No. 82: Retrato cinematográfico de un jefe de la mafia
+### No. 82: Retrato de jefe de la mafia cinematográfico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6422,7 +6422,7 @@ Un *prompt* para generar un retrato cinematográfico hiperrealista de un rostro 
 #### 📝 Prompt
 
 ```
-Crea un retrato cinematográfico hiperrealista de mí (usa la cara subida) como un moderno jefe de la mafia. Estoy sentado en un coche de lujo negro, vistiendo un traje negro y gafas de sol de aviador tintadas, fumando un puro grueso. Expresión fría e intrépida. Fondo: cielo sombrío + ciudad/calle difuminada para una sensación noir. Tonos fríos, alto contraste. Detalles nítidos en la cara y el humo. Estilo: 8K, calidad de póster de película, poca profundidad de campo 1:1
+Crea un retrato cinematográfico hiperrealista de mí (usa la cara subida) como un moderno jefe de la mafia. Estoy sentado en un coche de lujo negro, vistiendo un traje negro y gafas de sol de aviador tintadas, fumando un puro grueso. Expresión fría y sin miedo. Fondo: cielo sombrío + ciudad/calle borrosa para una sensación de cine negro. Tonos fríos, alto contraste. Detalles nítidos en la cara y el humo. Estilo: 8K, calidad de póster de película, poca profundidad de campo 1:1
 ```
 
 #### 🖼️ Imágenes generadas
@@ -6430,13 +6430,13 @@ Crea un retrato cinematográfico hiperrealista de mí (usa la cara subida) como 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Retrato cinematográfico de un jefe de la mafia - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Retrato de jefe de la mafia cinematográfico - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Retrato cinematográfico de un jefe de la mafia - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Retrato de jefe de la mafia cinematográfico - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -6446,7 +6446,7 @@ Crea un retrato cinematográfico hiperrealista de mí (usa la cara subida) como 
 - **Publicado:** 17 de diciembre de 2025
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?prompt=Crea%20un%20retrato%20cinematogr%C3%A1fico%20hiperrealista%20de%20m%C3%AD%20(usa%20la%20cara%20subida)%20como%20un%20moderno%20jefe%20de%20la%20mafia.%20Estoy%20sentado%20en%20un%20coche%20de%20lujo%20negro%2C%20vistiendo%20un%20traje%20negro%20y%20gafas%20de%20sol%20de%20aviador%20tintadas%2C%20fumando%20un%20puro%20grueso.%20Expresi%C3%B3n%20fr%C3%ADa%20e%20intr%C3%A9pida.%20Fondo%3A%20cielo%20sombr%C3%ADo%20%2B%20ciudad%2Fcalle%20difuminada%20para%20una%20sensaci%C3%B3n%20noir.%20Tonos%20fr%C3%ADos%2C%20alto%20contraste.%20Detalles%20n%C3%ADtidos%20en%20la%20cara%20y%20el%20humo.%20Estilo%3A%208K%2C%20calidad%20de%20p%C3%B3ster%20de%20pel%C3%ADcula%2C%20poca%20profundidad%20de%20campo%201%3A1)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?prompt=Crea%20un%20retrato%20cinematogr%C3%A1fico%20hiperrealista%20de%20m%C3%AD%20(usa%20la%20cara%20subida)%20como%20un%20moderno%20jefe%20de%20la%20mafia.%20Estoy%20sentado%20en%20un%20coche%20de%20lujo%20negro%2C%20vistiendo%20un%20traje%20negro%20y%20gafas%20de%20sol%20de%20aviador%20tintadas%2C%20fumando%20un%20puro%20grueso.%20Expresi%C3%B3n%20fr%C3%ADa%20y%20sin%20miedo.%20Fondo%3A%20cielo%20sombr%C3%ADo%20%2B%20ciudad%2Fcalle%20borrosa%20para%20una%20sensaci%C3%B3n%20de%20cine%20negro.%20Tonos%20fr%C3%ADos%2C%20alto%20contraste.%20Detalles%20n%C3%ADtidos%20en%20la%20cara%20y%20el%20humo.%20Estilo%3A%208K%2C%20calidad%20de%20p%C3%B3ster%20de%20pel%C3%ADcula%2C%20poca%20profundidad%20de%20campo%201%3A1)**
 
 ---
 
@@ -8463,6 +8463,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-18T08:21:58.667Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-18T12:29:22.970Z</sub>
 
 </div>

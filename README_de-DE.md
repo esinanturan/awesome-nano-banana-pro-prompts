@@ -90,7 +90,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **1731** |
 | ⭐ Ausgewählt | **13** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 18. Dezember 2025 um 08:23:44 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 18. Dezember 2025 um 12:30:08 UTC** |
 
 </div>
 
@@ -1538,13 +1538,13 @@ Ein komplexer System-Prompt, der eine KI-Persona („Der Chrono-Feiertags-Künst
 ```
 ROLLE: Sie sind der Chrono-Feiertags-Künstler, ein Designer, der außerhalb der Zeit existiert und Weihnachtskarten aus jeder Epoche der Menschheitsgeschichte (1850–2060) kuratiert.
 
-AUFGABE: Rendern Sie das EXAKTE SUBJEKT im angehängten Referenzbild als Weihnachtskarte aus einem ZUFÄLLIG AUSGEWÄHLTEN Jahr neu.
+AUFGABE: Rendern Sie das EXAKTE SUBJEKT im beigefügten Referenzbild neu als Feiertagskarte aus einem ZUFÄLLIG AUSGEWÄHLTEN Jahr.
 
 STRENGE RICHTLINIEN:
-1. DIE EPOCHE: Wählen Sie ein zufälliges Jahr (z. B. {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) und wenden Sie streng die spezifische Drucktechnologie, Filmkörnung und Farbpalette dieser Epoche an.
+1. DIE ÄRA: Wählen Sie ein zufälliges Jahr (z. B. {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) und wenden Sie streng die spezifische Drucktechnologie, Filmkörnung und Farbpalette dieser Ära an.
 2. DER TEXT: Zeigen Sie NUR einen generischen, zeittypischen Gruß an (z. B. „Frohe Festtage“, „Fröhliche Weihnachten“, „Schöne Feiertage“).
 3. DER AUSSCHLUSS: ABSOLUT KEINE Namen, KEIN „Von der Familie“, KEINE Unterschriften.
-4. DAS SUBJEKT: Die Personen aus dem Referenzbild sollen erkennbar bleiben, aber in der Mode der ausgewählten Epoche gekleidet sein.
+4. DAS SUBJEKT: Halten Sie die Personen aus dem Referenzbild erkennbar, aber in der Mode der ausgewählten Ära gekleidet.
 
 --ar 3:4 --iw 2 --stylize 400
 ```
@@ -1570,7 +1570,7 @@ STRENGE RICHTLINIEN:
 - **Veröffentlicht:** 17. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?prompt=ROLLE%3A%20Sie%20sind%20der%20Chrono-Feiertags-K%C3%BCnstler%2C%20ein%20Designer%2C%20der%20au%C3%9Ferhalb%20der%20Zeit%20existiert%20und%20Weihnachtskarten%20aus%20jeder%20Epoche%20der%20Menschheitsgeschichte%20(1850%E2%80%932060)%20kuratiert.%0A%0AAUFGABE%3A%20Rendern%20Sie%20das%20EXAKTE%20SUBJEKT%20im%20angeh%C3%A4ngten%20Referenzbild%20als%20Weihnachtskarte%20aus%20einem%20ZUF%C3%84LLIG%20AUSGEW%C3%84HLTEN%20Jahr%20neu.%0A%0ASTRENGE%20RICHTLINIEN%3A%0A1.%20DIE%20EPOCHE%3A%20W%C3%A4hlen%20Sie%20ein%20zuf%C3%A4lliges%20Jahr%20(z.%20B.%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20und%20wenden%20Sie%20streng%20die%20spezifische%20Drucktechnologie%2C%20Filmk%C3%B6rnung%20und%20Farbpalette%20dieser%20Epoche%20an.%0A2.%20DER%20TEXT%3A%20Zeigen%20Sie%20NUR%20einen%20generischen%2C%20zeittypischen%20Gru%C3%9F%20an%20(z.%20B.%20%E2%80%9EFrohe%20Festtage%E2%80%9C%2C%20%E2%80%9EFr%C3%B6hliche%20Weihnachten%E2%80%9C%2C%20%E2%80%9ESch%C3%B6ne%20Feiertage%E2%80%9C).%0A3.%20DER%20AUSSCHLUSS%3A%20ABSOLUT%20KEINE%20Namen%2C%20KEIN%20%E2%80%9EVon%20der%20Familie%E2%80%9C%2C%20KEINE%20Unterschriften.%0A4.%20DAS%20SUBJEKT%3A%20Die%20Personen%20aus%20dem%20Referenzbild%20sollen%20erkennbar%20bleiben%2C%20aber%20in%20der%20Mode%20der%20ausgew%C3%A4hlten%20Epoche%20gekleidet%20sein.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?prompt=ROLLE%3A%20Sie%20sind%20der%20Chrono-Feiertags-K%C3%BCnstler%2C%20ein%20Designer%2C%20der%20au%C3%9Ferhalb%20der%20Zeit%20existiert%20und%20Weihnachtskarten%20aus%20jeder%20Epoche%20der%20Menschheitsgeschichte%20(1850%E2%80%932060)%20kuratiert.%0A%0AAUFGABE%3A%20Rendern%20Sie%20das%20EXAKTE%20SUBJEKT%20im%20beigef%C3%BCgten%20Referenzbild%20neu%20als%20Feiertagskarte%20aus%20einem%20ZUF%C3%84LLIG%20AUSGEW%C3%84HLTEN%20Jahr.%0A%0ASTRENGE%20RICHTLINIEN%3A%0A1.%20DIE%20%C3%84RA%3A%20W%C3%A4hlen%20Sie%20ein%20zuf%C3%A4lliges%20Jahr%20(z.%20B.%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20und%20wenden%20Sie%20streng%20die%20spezifische%20Drucktechnologie%2C%20Filmk%C3%B6rnung%20und%20Farbpalette%20dieser%20%C3%84ra%20an.%0A2.%20DER%20TEXT%3A%20Zeigen%20Sie%20NUR%20einen%20generischen%2C%20zeittypischen%20Gru%C3%9F%20an%20(z.%20B.%20%E2%80%9EFrohe%20Festtage%E2%80%9C%2C%20%E2%80%9EFr%C3%B6hliche%20Weihnachten%E2%80%9C%2C%20%E2%80%9ESch%C3%B6ne%20Feiertage%E2%80%9C).%0A3.%20DER%20AUSSCHLUSS%3A%20ABSOLUT%20KEINE%20Namen%2C%20KEIN%20%E2%80%9EVon%20der%20Familie%E2%80%9C%2C%20KEINE%20Unterschriften.%0A4.%20DAS%20SUBJEKT%3A%20Halten%20Sie%20die%20Personen%20aus%20dem%20Referenzbild%20erkennbar%2C%20aber%20in%20der%20Mode%20der%20ausgew%C3%A4hlten%20%C3%84ra%20gekleidet.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5205,7 +5205,7 @@ Behalten Sie die Komposition, Kleidung, den Ausdruck, Hautton, die Frisur und da
 
 #### 📖 Beschreibung
 
-Ein kurzer, fantasievoller Prompt, der die Fähigkeit des Modells testet, surreale und fantastische Konzepte zu verarbeiten, wobei eine Katze die Kraft aus ihrer Hand nutzt, um ein Wurmloch zu öffnen.
+Ein kurzer, fantasievoller Prompt, der die Fähigkeit des Modells testet, surreale und fantastische Konzepte zu verarbeiten, wobei eine Katze die Kraft aus ihrer Pfote nutzt, um ein Wurmloch zu öffnen.
 
 #### 📝 Prompt
 
@@ -6210,14 +6210,14 @@ Kino-Makroperspektive, botanischer Realismus, ultra-detailliert.
 
 ---
 
-### No. 79: Prompt zur Erzeugung von Geodaten- und Zeitreihenbildern
+### No. 79: Prompt zur Erzeugung von Geodaten- und Zeitbildern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein einzigartiger Prompt zur Bilderzeugung, der einen präzisen geografischen Standort (31.7785° N, 35.2296° E), ein Datum (3. April 33 n. Chr.) und eine Uhrzeit (15:00 Uhr) angibt, um die Ausgabe von GPT Image 1.5 und Nano Banana Pro zu vergleichen.
+Ein einzigartiger Prompt zur Bilderzeugung, der einen präzisen geografischen Standort (31.7785° N, 35.2296° E), ein Datum (3. April 33 n. Chr.) und eine Uhrzeit (15:00 Uhr) angibt, wird verwendet, um die Ausgabe von GPT Image 1.5 und Nano Banana Pro zu vergleichen.
 
 #### 📝 Prompt
 
@@ -6230,13 +6230,13 @@ Erstelle ein Bild bei {argument name="latitude" default="31.7785° N"}, {argumen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042199574_ndfzif_G8XGL5PWgAYSfx8.jpg" width="600" alt="Prompt zur Erzeugung von Geodaten- und Zeitreihenbildern - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042199574_ndfzif_G8XGL5PWgAYSfx8.jpg" width="600" alt="Prompt zur Erzeugung von Geodaten- und Zeitbildern - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042199869_7bgmls_G8XGJR9XMAQ5hVZ.jpg" width="600" alt="Prompt zur Erzeugung von Geodaten- und Zeitreihenbildern - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042199869_7bgmls_G8XGJR9XMAQ5hVZ.jpg" width="600" alt="Prompt zur Erzeugung von Geodaten- und Zeitbildern - Image 2">
 </div>
 
 #### 📌 Details
@@ -6404,18 +6404,18 @@ Ein offenes Handyfoto eines rothaarigen Mädchens mit blauer Pilotenbrille
 
 ---
 
-### No. 82: Filmisches Mafia-Boss-Porträt
+### No. 82: Kino-Mafia-Boss-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Beschreibung
 
-Ein Prompt zur Generierung eines hyperrealistischen, filmischen Porträts eines vom Benutzer hochgeladenen Gesichts, das in einen modernen Mafia-Boss verwandelt wurde, der in einem Luxusauto sitzt, eine Zigarre raucht, mit einer kontrastreichen Noir-Ästhetik.
+Ein Prompt zur Generierung eines hyperrealistischen, filmischen Porträts eines vom Benutzer hochgeladenen Gesichts, das in einen modernen Mafiaboss verwandelt wurde, der in einem Luxusauto sitzt, eine Zigarre raucht, mit einer kontrastreichen Noir-Ästhetik.
 
 #### 📝 Prompt
 
 ```
-Erstelle ein hyperrealistisches, filmisches Porträt von mir (verwende das hochgeladene Gesicht) als modernen Mafia-Boss. Ich sitze in einem luxuriösen schwarzen Auto, trage einen schwarzen Anzug und getönte Pilotenbrille und rauche eine dicke Zigarre. Kalter, furchtloser Ausdruck. Hintergrund: stimmungsvoller Himmel + verschwommene Stadt/Straße für ein Noir-Gefühl. Kühle Farbtöne, hoher Kontrast. Scharfe Details auf Gesicht und Rauch. Stil: 8K, Filmplakat-Qualität, geringe Schärfentiefe 1:1
+Erstelle ein hyperrealistisches, filmisches Porträt von mir (verwende das hochgeladene Gesicht) als modernen Mafiaboss. Ich sitze in einem luxuriösen schwarzen Auto, trage einen schwarzen Anzug und getönte Pilotenbrille und rauche eine dicke Zigarre. Kalter, furchtloser Ausdruck. Hintergrund: stimmungsvoller Himmel + verschwommene Stadt/Straße für ein Noir-Gefühl. Kühle Farbtöne, hoher Kontrast. Scharfe Details im Gesicht und beim Rauch. Stil: 8K, Filmplakat-Qualität, geringe Schärfentiefe 1:1
 ```
 
 #### 🖼️ Generierte Bilder
@@ -6423,13 +6423,13 @@ Erstelle ein hyperrealistisches, filmisches Porträt von mir (verwende das hochg
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Filmisches Mafia-Boss-Porträt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Kino-Mafia-Boss-Porträt - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Filmisches Mafia-Boss-Porträt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Kino-Mafia-Boss-Porträt - Image 2">
 </div>
 
 #### 📌 Details
@@ -6439,7 +6439,7 @@ Erstelle ein hyperrealistisches, filmisches Porträt von mir (verwende das hochg
 - **Veröffentlicht:** 17. Dezember 2025
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?prompt=Erstelle%20ein%20hyperrealistisches%2C%20filmisches%20Portr%C3%A4t%20von%20mir%20(verwende%20das%20hochgeladene%20Gesicht)%20als%20modernen%20Mafia-Boss.%20Ich%20sitze%20in%20einem%20luxuri%C3%B6sen%20schwarzen%20Auto%2C%20trage%20einen%20schwarzen%20Anzug%20und%20get%C3%B6nte%20Pilotenbrille%20und%20rauche%20eine%20dicke%20Zigarre.%20Kalter%2C%20furchtloser%20Ausdruck.%20Hintergrund%3A%20stimmungsvoller%20Himmel%20%2B%20verschwommene%20Stadt%2FStra%C3%9Fe%20f%C3%BCr%20ein%20Noir-Gef%C3%BChl.%20K%C3%BChle%20Farbt%C3%B6ne%2C%20hoher%20Kontrast.%20Scharfe%20Details%20auf%20Gesicht%20und%20Rauch.%20Stil%3A%208K%2C%20Filmplakat-Qualit%C3%A4t%2C%20geringe%20Sch%C3%A4rfentiefe%201%3A1)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?prompt=Erstelle%20ein%20hyperrealistisches%2C%20filmisches%20Portr%C3%A4t%20von%20mir%20(verwende%20das%20hochgeladene%20Gesicht)%20als%20modernen%20Mafiaboss.%20Ich%20sitze%20in%20einem%20luxuri%C3%B6sen%20schwarzen%20Auto%2C%20trage%20einen%20schwarzen%20Anzug%20und%20get%C3%B6nte%20Pilotenbrille%20und%20rauche%20eine%20dicke%20Zigarre.%20Kalter%2C%20furchtloser%20Ausdruck.%20Hintergrund%3A%20stimmungsvoller%20Himmel%20%2B%20verschwommene%20Stadt%2FStra%C3%9Fe%20f%C3%BCr%20ein%20Noir-Gef%C3%BChl.%20K%C3%BChle%20Farbt%C3%B6ne%2C%20hoher%20Kontrast.%20Scharfe%20Details%20im%20Gesicht%20und%20beim%20Rauch.%20Stil%3A%208K%2C%20Filmplakat-Qualit%C3%A4t%2C%20geringe%20Sch%C3%A4rfentiefe%201%3A1)**
 
 ---
 
@@ -7981,7 +7981,7 @@ Ein einziges, zusammenhängendes quadratisches Bild, unterteilt in ein sauberes 
 
 ---
 
-### No. 113: Nano Monkeys Abenteuerserie Manga-Prompt
+### No. 113: Nano Monkeys Abenteuer-Serie Manga Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -8003,7 +8003,7 @@ Nano Monkeys Abenteuerserie
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Monkeys Abenteuerserie Manga-Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Monkeys Abenteuer-Serie Manga Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -8513,6 +8513,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-18T08:23:44.427Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-12-18T12:30:08.570Z</sub>
 
 </div>

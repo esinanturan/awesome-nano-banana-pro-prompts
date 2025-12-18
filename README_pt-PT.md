@@ -90,7 +90,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **1731** |
 | ⭐ Destaque | **13** |
-| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 08:26:26 UTC** |
+| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 12:32:15 UTC** |
 
 </div>
 
@@ -1535,15 +1535,15 @@ Um *prompt* de sistema complexo que define uma persona de IA ("O Artesão Crono-
 #### 📝 Prompt
 
 ```
-FUNÇÃO: Você é o Artesão Crono-Natalino, um designer que existe fora do tempo, curando cartões de Natal de todas as épocas da história humana (1850–2060).
+FUNÇÃO: Você é o Artesão Crono-Natalino, um designer que existe fora do tempo, curando cartões de Natal de todas as eras da história humana (1850–2060).
 
-TAREFA: Renderize NOVAMENTE O ASSUNTO EXATO na imagem de referência anexa em um cartão de Natal de um ano SELECIONADO ALEATORIAMENTE.
+TAREFA: Recrie o ASSUNTO EXATO na imagem de referência anexa em um cartão de Natal de um ano SELECIONADO ALEATORIAMENTE.
 
 DIRETRIZES RÍGIDAS:
-1. A ÉPOCA: Escolha um ano aleatório (por exemplo, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) e aplique rigorosamente a tecnologia de impressão, granulação de filme e paleta de cores específicas dessa época.
+1. A ERA: Escolha um ano aleatório (por exemplo, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) e aplique estritamente a tecnologia de impressão, granulação de filme e paleta de cores específicas dessa era.
 2. O TEXTO: Exiba APENAS uma saudação genérica e precisa para a época (por exemplo, "Boas Festas", "Feliz Natal", "Felizes Feriados").
 3. A EXCLUSÃO: ABSOLUTAMENTE NENHUM nome, NENHUM "Da família", NENHUMA assinatura.
-4. O ASSUNTO: Mantenha as pessoas da imagem de referência reconhecíveis, mas vestidas na moda da época selecionada.
+4. O ASSUNTO: Mantenha as pessoas da imagem de referência reconhecíveis, mas vestidas com a moda da era selecionada.
 
 --ar 3:4 --iw 2 --stylize 400
 ```
@@ -1569,7 +1569,7 @@ DIRETRIZES RÍGIDAS:
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?prompt=FUN%C3%87%C3%83O%3A%20Voc%C3%AA%20%C3%A9%20o%20Artes%C3%A3o%20Crono-Natalino%2C%20um%20designer%20que%20existe%20fora%20do%20tempo%2C%20curando%20cart%C3%B5es%20de%20Natal%20de%20todas%20as%20%C3%A9pocas%20da%20hist%C3%B3ria%20humana%20(1850%E2%80%932060).%0A%0ATAREFA%3A%20Renderize%20NOVAMENTE%20O%20ASSUNTO%20EXATO%20na%20imagem%20de%20refer%C3%AAncia%20anexa%20em%20um%20cart%C3%A3o%20de%20Natal%20de%20um%20ano%20SELECIONADO%20ALEATORIAMENTE.%0A%0ADIRETRIZES%20R%C3%8DGIDAS%3A%0A1.%20A%20%C3%89POCA%3A%20Escolha%20um%20ano%20aleat%C3%B3rio%20(por%20exemplo%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20e%20aplique%20rigorosamente%20a%20tecnologia%20de%20impress%C3%A3o%2C%20granula%C3%A7%C3%A3o%20de%20filme%20e%20paleta%20de%20cores%20espec%C3%ADficas%20dessa%20%C3%A9poca.%0A2.%20O%20TEXTO%3A%20Exiba%20APENAS%20uma%20sauda%C3%A7%C3%A3o%20gen%C3%A9rica%20e%20precisa%20para%20a%20%C3%A9poca%20(por%20exemplo%2C%20%22Boas%20Festas%22%2C%20%22Feliz%20Natal%22%2C%20%22Felizes%20Feriados%22).%0A3.%20A%20EXCLUS%C3%83O%3A%20ABSOLUTAMENTE%20NENHUM%20nome%2C%20NENHUM%20%22Da%20fam%C3%ADlia%22%2C%20NENHUMA%20assinatura.%0A4.%20O%20ASSUNTO%3A%20Mantenha%20as%20pessoas%20da%20imagem%20de%20refer%C3%AAncia%20reconhec%C3%ADveis%2C%20mas%20vestidas%20na%20moda%20da%20%C3%A9poca%20selecionada.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?prompt=FUN%C3%87%C3%83O%3A%20Voc%C3%AA%20%C3%A9%20o%20Artes%C3%A3o%20Crono-Natalino%2C%20um%20designer%20que%20existe%20fora%20do%20tempo%2C%20curando%20cart%C3%B5es%20de%20Natal%20de%20todas%20as%20eras%20da%20hist%C3%B3ria%20humana%20(1850%E2%80%932060).%0A%0ATAREFA%3A%20Recrie%20o%20ASSUNTO%20EXATO%20na%20imagem%20de%20refer%C3%AAncia%20anexa%20em%20um%20cart%C3%A3o%20de%20Natal%20de%20um%20ano%20SELECIONADO%20ALEATORIAMENTE.%0A%0ADIRETRIZES%20R%C3%8DGIDAS%3A%0A1.%20A%20ERA%3A%20Escolha%20um%20ano%20aleat%C3%B3rio%20(por%20exemplo%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20e%20aplique%20estritamente%20a%20tecnologia%20de%20impress%C3%A3o%2C%20granula%C3%A7%C3%A3o%20de%20filme%20e%20paleta%20de%20cores%20espec%C3%ADficas%20dessa%20era.%0A2.%20O%20TEXTO%3A%20Exiba%20APENAS%20uma%20sauda%C3%A7%C3%A3o%20gen%C3%A9rica%20e%20precisa%20para%20a%20%C3%A9poca%20(por%20exemplo%2C%20%22Boas%20Festas%22%2C%20%22Feliz%20Natal%22%2C%20%22Felizes%20Feriados%22).%0A3.%20A%20EXCLUS%C3%83O%3A%20ABSOLUTAMENTE%20NENHUM%20nome%2C%20NENHUM%20%22Da%20fam%C3%ADlia%22%2C%20NENHUMA%20assinatura.%0A4.%20O%20ASSUNTO%3A%20Mantenha%20as%20pessoas%20da%20imagem%20de%20refer%C3%AAncia%20reconhec%C3%ADveis%2C%20mas%20vestidas%20com%20a%20moda%20da%20era%20selecionada.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5193,18 +5193,18 @@ Mantenha a composição, vestuário, expressão, tom de pele, penteado e propor�
 
 ---
 
-### No. 66: Gato Surreal Atira Poder para Abrir Buraco de Minhoca
+### No. 66: Gato Surreal Dispara Poder para Abrir Buraco de Minhoca
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um *prompt* curto e imaginativo usado para testar a capacidade do modelo de lidar com conceitos surreais e fantásticos, apresentando um gato usando o poder de sua pata para abrir um buraco de minhoca.
+Um prompt curto e imaginativo usado para testar a capacidade do modelo de lidar com conceitos surreais e fantásticos, apresentando um gato usando o poder de sua pata para abrir um buraco de minhoca.
 
 #### 📝 Prompt
 
 ```
-"gato atirando poder da sua mão para abrir um buraco de minhoca" ‼️
+"gato atirando poder da mão para abrir um buraco de minhoca" ‼️
 ```
 
 #### 🖼️ Imagens geradas
@@ -5212,13 +5212,13 @@ Um *prompt* curto e imaginativo usado para testar a capacidade do modelo de lida
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042084098_h8glas_G8XfK3HX0AAnQEo.jpg" width="600" alt="Gato Surreal Atira Poder para Abrir Buraco de Minhoca - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042084098_h8glas_G8XfK3HX0AAnQEo.jpg" width="600" alt="Gato Surreal Dispara Poder para Abrir Buraco de Minhoca - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042084115_i6a9aa_G8XfN-NW8AMjkKm.jpg" width="600" alt="Gato Surreal Atira Poder para Abrir Buraco de Minhoca - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042084115_i6a9aa_G8XfN-NW8AMjkKm.jpg" width="600" alt="Gato Surreal Dispara Poder para Abrir Buraco de Minhoca - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -5228,7 +5228,7 @@ Um *prompt* curto e imaginativo usado para testar a capacidade do modelo de lida
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?prompt=%22gato%20atirando%20poder%20da%20sua%20m%C3%A3o%20para%20abrir%20um%20buraco%20de%20minhoca%22%20%E2%80%BC%EF%B8%8F)**
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?prompt=%22gato%20atirando%20poder%20da%20m%C3%A3o%20para%20abrir%20um%20buraco%20de%20minhoca%22%20%E2%80%BC%EF%B8%8F)**
 
 ---
 
@@ -6400,7 +6400,7 @@ Uma foto espontânea tirada com o celular de uma garota ruiva usando óculos de 
 
 #### 📖 Descrição
 
-Um prompt para gerar um retrato hiper-realista e cinematográfico de um rosto enviado pelo usuário, transformado em um chefe da máfia moderno, sentado em um carro de luxo, fumando um charuto, com uma estética noir de alto contraste.
+Um prompt para gerar um retrato hiper-realista e cinematográfico de um rosto enviado pelo usuário, transformado em um moderno chefe da máfia, sentado em um carro de luxo, fumando um charuto, com uma estética noir de alto contraste.
 
 #### 📝 Prompt
 
@@ -8503,6 +8503,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T08:26:26.921Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T12:32:15.854Z</sub>
 
 </div>

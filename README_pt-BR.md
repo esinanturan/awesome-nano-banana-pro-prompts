@@ -90,7 +90,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **1731** |
 | ⭐ Destaque | **13** |
-| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 08:25:58 UTC** |
+| 🔄 Última atualização | **quinta-feira, 18 de dezembro de 2025 às 12:32:08 UTC** |
 
 </div>
 
@@ -1531,18 +1531,18 @@ Prompt de tela de participação
 
 #### 📖 Descrição
 
-Um prompt de sistema complexo que define uma persona de IA ('O Artesão Crono-Natalino') e a encarrega de reinterpretar uma imagem de referência no estilo de um cartão de Natal de uma era histórica selecionada aleatoriamente (1850–2060). Inclui restrições rigorosas sobre a fidelidade à era, o conteúdo do texto e a moda do tema.
+Um prompt de sistema complexo que define uma persona de IA ('O Artesão Crono-Natalino') e o encarrega de renderizar novamente uma imagem de referência em um estilo de cartão de Natal de uma era histórica selecionada aleatoriamente (1850–2060). Inclui restrições rigorosas sobre a fidelidade da era, o conteúdo do texto e a moda do tema.
 
 #### 📝 Prompt
 
 ```
 FUNÇÃO: Você é O Artesão Crono-Natalino, um designer que existe fora do tempo, selecionando cartões de Natal de todas as eras da história humana (1850–2060).
 
-TAREFA: Recriar o ASSUNTO EXATO da imagem de referência anexa em um cartão de Natal de um ano SELECIONADO ALEATORIAMENTE.
+TAREFA: Recriar O ASSUNTO EXATO da imagem de referência anexa em um cartão de Natal de um ano SELECIONADO ALEATORIAMENTE.
 
 DIRETRIZES RÍGIDAS:
 1. A ERA: Escolha um ano aleatório (por exemplo, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) e aplique rigorosamente a tecnologia de impressão, granulação de filme e paleta de cores específicas dessa era.
-2. O TEXTO: Exiba APENAS uma saudação genérica e precisa para a época (por exemplo, "Boas Festas", "Feliz Natal", "Festas Felizes").
+2. O TEXTO: Exiba APENAS uma saudação genérica e precisa para o período (por exemplo, "Boas Festas", "Feliz Natal", "Festas Felizes").
 3. A EXCLUSÃO: ABSOLUTAMENTE NENHUM nome, NENHUM "Da família", NENHUMa assinatura.
 4. O ASSUNTO: Mantenha as pessoas da imagem de referência reconhecíveis, mas vestidas com a moda da era selecionada.
 
@@ -1570,7 +1570,7 @@ DIRETRIZES RÍGIDAS:
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?prompt=FUN%C3%87%C3%83O%3A%20Voc%C3%AA%20%C3%A9%20O%20Artes%C3%A3o%20Crono-Natalino%2C%20um%20designer%20que%20existe%20fora%20do%20tempo%2C%20selecionando%20cart%C3%B5es%20de%20Natal%20de%20todas%20as%20eras%20da%20hist%C3%B3ria%20humana%20(1850%E2%80%932060).%0A%0ATAREFA%3A%20Recriar%20o%20ASSUNTO%20EXATO%20da%20imagem%20de%20refer%C3%AAncia%20anexa%20em%20um%20cart%C3%A3o%20de%20Natal%20de%20um%20ano%20SELECIONADO%20ALEATORIAMENTE.%0A%0ADIRETRIZES%20R%C3%8DGIDAS%3A%0A1.%20A%20ERA%3A%20Escolha%20um%20ano%20aleat%C3%B3rio%20(por%20exemplo%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20e%20aplique%20rigorosamente%20a%20tecnologia%20de%20impress%C3%A3o%2C%20granula%C3%A7%C3%A3o%20de%20filme%20e%20paleta%20de%20cores%20espec%C3%ADficas%20dessa%20era.%0A2.%20O%20TEXTO%3A%20Exiba%20APENAS%20uma%20sauda%C3%A7%C3%A3o%20gen%C3%A9rica%20e%20precisa%20para%20a%20%C3%A9poca%20(por%20exemplo%2C%20%22Boas%20Festas%22%2C%20%22Feliz%20Natal%22%2C%20%22Festas%20Felizes%22).%0A3.%20A%20EXCLUS%C3%83O%3A%20ABSOLUTAMENTE%20NENHUM%20nome%2C%20NENHUM%20%22Da%20fam%C3%ADlia%22%2C%20NENHUMa%20assinatura.%0A4.%20O%20ASSUNTO%3A%20Mantenha%20as%20pessoas%20da%20imagem%20de%20refer%C3%AAncia%20reconhec%C3%ADveis%2C%20mas%20vestidas%20com%20a%20moda%20da%20era%20selecionada.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?prompt=FUN%C3%87%C3%83O%3A%20Voc%C3%AA%20%C3%A9%20O%20Artes%C3%A3o%20Crono-Natalino%2C%20um%20designer%20que%20existe%20fora%20do%20tempo%2C%20selecionando%20cart%C3%B5es%20de%20Natal%20de%20todas%20as%20eras%20da%20hist%C3%B3ria%20humana%20(1850%E2%80%932060).%0A%0ATAREFA%3A%20Recriar%20O%20ASSUNTO%20EXATO%20da%20imagem%20de%20refer%C3%AAncia%20anexa%20em%20um%20cart%C3%A3o%20de%20Natal%20de%20um%20ano%20SELECIONADO%20ALEATORIAMENTE.%0A%0ADIRETRIZES%20R%C3%8DGIDAS%3A%0A1.%20A%20ERA%3A%20Escolha%20um%20ano%20aleat%C3%B3rio%20(por%20exemplo%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20e%20aplique%20rigorosamente%20a%20tecnologia%20de%20impress%C3%A3o%2C%20granula%C3%A7%C3%A3o%20de%20filme%20e%20paleta%20de%20cores%20espec%C3%ADficas%20dessa%20era.%0A2.%20O%20TEXTO%3A%20Exiba%20APENAS%20uma%20sauda%C3%A7%C3%A3o%20gen%C3%A9rica%20e%20precisa%20para%20o%20per%C3%ADodo%20(por%20exemplo%2C%20%22Boas%20Festas%22%2C%20%22Feliz%20Natal%22%2C%20%22Festas%20Felizes%22).%0A3.%20A%20EXCLUS%C3%83O%3A%20ABSOLUTAMENTE%20NENHUM%20nome%2C%20NENHUM%20%22Da%20fam%C3%ADlia%22%2C%20NENHUMa%20assinatura.%0A4.%20O%20ASSUNTO%3A%20Mantenha%20as%20pessoas%20da%20imagem%20de%20refer%C3%AAncia%20reconhec%C3%ADveis%2C%20mas%20vestidas%20com%20a%20moda%20da%20era%20selecionada.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5194,7 +5194,7 @@ Mantenha a composição, vestuário, expressão, tom de pele, penteado e propor�
 
 ---
 
-### No. 66: Gato Surreal Dispara Poder para Abrir Buraco de Minhoca
+### No. 66: Gato Surreal Atira Poder Para Abrir Buraco de Minhoca
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5213,13 +5213,13 @@ Um prompt curto e imaginativo usado para testar a capacidade do modelo de lidar 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042084098_h8glas_G8XfK3HX0AAnQEo.jpg" width="600" alt="Gato Surreal Dispara Poder para Abrir Buraco de Minhoca - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042084098_h8glas_G8XfK3HX0AAnQEo.jpg" width="600" alt="Gato Surreal Atira Poder Para Abrir Buraco de Minhoca - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042084115_i6a9aa_G8XfN-NW8AMjkKm.jpg" width="600" alt="Gato Surreal Dispara Poder para Abrir Buraco de Minhoca - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042084115_i6a9aa_G8XfN-NW8AMjkKm.jpg" width="600" alt="Gato Surreal Atira Poder Para Abrir Buraco de Minhoca - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -6205,7 +6205,7 @@ Perspectiva macro cinematográfica, realismo botânico, ultra-detalhado.
 
 ---
 
-### No. 79: Prompt de Geração de Imagem Geoespacial e Temporal
+### No. 79: Prompt para Geração de Imagens Geoespaciais e Temporais
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6225,13 +6225,13 @@ Crie uma imagem em {argument name="latitude" default="31.7785° N"}, {argument n
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042199574_ndfzif_G8XGL5PWgAYSfx8.jpg" width="600" alt="Prompt de Geração de Imagem Geoespacial e Temporal - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042199574_ndfzif_G8XGL5PWgAYSfx8.jpg" width="600" alt="Prompt para Geração de Imagens Geoespaciais e Temporais - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042199869_7bgmls_G8XGJR9XMAQ5hVZ.jpg" width="600" alt="Prompt de Geração de Imagem Geoespacial e Temporal - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042199869_7bgmls_G8XGJR9XMAQ5hVZ.jpg" width="600" alt="Prompt para Geração de Imagens Geoespaciais e Temporais - Image 2">
 </div>
 
 #### 📌 Detalhes
@@ -6410,7 +6410,7 @@ Um prompt para gerar um retrato hiper-realista e cinematográfico de um rosto en
 #### 📝 Prompt
 
 ```
-Crie um retrato hiper-realista e cinematográfico meu (use o rosto enviado) como um chefe da máfia moderno. Estou sentado em um carro de luxo preto, vestindo um terno preto e óculos de sol aviador escuros, fumando um charuto grosso. Expressão fria e destemida. Fundo: céu sombrio + cidade/rua borrada para uma sensação noir. Tons frios, alto contraste. Detalhes nítidos no rosto e na fumaça. Estilo: 8K, qualidade de pôster de filme, profundidade de campo rasa 1:1
+Crie um retrato cinematográfico e hiper-realista meu (use o rosto enviado) como um chefe da máfia moderno. Estou sentado em um carro de luxo preto, vestindo um terno preto e óculos de sol aviador escuros, fumando um charuto grosso. Expressão fria e destemida. Fundo: céu sombrio + cidade/rua borrada para uma sensação noir. Tons frios, alto contraste. Detalhes nítidos no rosto e na fumaça. Estilo: 8K, qualidade de pôster de filme, profundidade de campo rasa 1:1
 ```
 
 #### 🖼️ Imagens geradas
@@ -6434,7 +6434,7 @@ Crie um retrato hiper-realista e cinematográfico meu (use o rosto enviado) como
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?prompt=Crie%20um%20retrato%20hiper-realista%20e%20cinematogr%C3%A1fico%20meu%20(use%20o%20rosto%20enviado)%20como%20um%20chefe%20da%20m%C3%A1fia%20moderno.%20Estou%20sentado%20em%20um%20carro%20de%20luxo%20preto%2C%20vestindo%20um%20terno%20preto%20e%20%C3%B3culos%20de%20sol%20aviador%20escuros%2C%20fumando%20um%20charuto%20grosso.%20Express%C3%A3o%20fria%20e%20destemida.%20Fundo%3A%20c%C3%A9u%20sombrio%20%2B%20cidade%2Frua%20borrada%20para%20uma%20sensa%C3%A7%C3%A3o%20noir.%20Tons%20frios%2C%20alto%20contraste.%20Detalhes%20n%C3%ADtidos%20no%20rosto%20e%20na%20fuma%C3%A7a.%20Estilo%3A%208K%2C%20qualidade%20de%20p%C3%B4ster%20de%20filme%2C%20profundidade%20de%20campo%20rasa%201%3A1)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?prompt=Crie%20um%20retrato%20cinematogr%C3%A1fico%20e%20hiper-realista%20meu%20(use%20o%20rosto%20enviado)%20como%20um%20chefe%20da%20m%C3%A1fia%20moderno.%20Estou%20sentado%20em%20um%20carro%20de%20luxo%20preto%2C%20vestindo%20um%20terno%20preto%20e%20%C3%B3culos%20de%20sol%20aviador%20escuros%2C%20fumando%20um%20charuto%20grosso.%20Express%C3%A3o%20fria%20e%20destemida.%20Fundo%3A%20c%C3%A9u%20sombrio%20%2B%20cidade%2Frua%20borrada%20para%20uma%20sensa%C3%A7%C3%A3o%20noir.%20Tons%20frios%2C%20alto%20contraste.%20Detalhes%20n%C3%ADtidos%20no%20rosto%20e%20na%20fuma%C3%A7a.%20Estilo%3A%208K%2C%20qualidade%20de%20p%C3%B4ster%20de%20filme%2C%20profundidade%20de%20campo%20rasa%201%3A1)**
 
 ---
 
@@ -7988,8 +7988,8 @@ Um usuário anuncia a popular série de mangás 'Nano Monkey's Adventure Series'
 #### 📝 Prompt
 
 ```
-Série de Aventura do Nano Monkey
-📍{argument name="title" default="Som da Chuva"}
+Série de Aventura do Nano Macaco
+📍{argument name="title" default="Som de Chuva"}
 👉Criação ilimitada de mangás em 10 segundos com nano banana pro (nanobanana)
 ```
 
@@ -8008,7 +8008,7 @@ Série de Aventura do Nano Monkey
 - **Publicado:** 17 de dezembro de 2025
 - **Idiomas:** ja
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?prompt=S%C3%A9rie%20de%20Aventura%20do%20Nano%20Monkey%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Som%20da%20Chuva%22%7D%0A%F0%9F%91%89Cria%C3%A7%C3%A3o%20ilimitada%20de%20mang%C3%A1s%20em%2010%20segundos%20com%20nano%20banana%20pro%20(nanobanana))**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?prompt=S%C3%A9rie%20de%20Aventura%20do%20Nano%20Macaco%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Som%20de%20Chuva%22%7D%0A%F0%9F%91%89Cria%C3%A7%C3%A3o%20ilimitada%20de%20mang%C3%A1s%20em%2010%20segundos%20com%20nano%20banana%20pro%20(nanobanana))**
 
 ---
 
@@ -8508,6 +8508,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T08:25:58.916Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-12-18T12:32:08.609Z</sub>
 
 </div>

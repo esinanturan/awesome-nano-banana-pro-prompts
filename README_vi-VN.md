@@ -90,7 +90,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **1731** |
 | ⭐ Nổi bật | **13** |
-| 🔄 Cập nhật lần cuối | **lúc 08:20:58 UTC Thứ Năm, 18 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 12:28:18 UTC Thứ Năm, 18 tháng 12, 2025** |
 
 </div>
 
@@ -1526,20 +1526,20 @@ Lời nhắc màn hình tham gia
 
 #### 📖 Mô tả
 
-Một lời nhắc hệ thống phức tạp định nghĩa một nhân cách AI ('Nghệ nhân Kỳ nghỉ Thời gian') và giao nhiệm vụ cho nó tái tạo một hình ảnh tham chiếu theo phong cách thiệp Giáng sinh từ một kỷ nguyên lịch sử được chọn ngẫu nhiên (1850–2060). Nó bao gồm các ràng buộc chặt chẽ về độ chân thực của kỷ nguyên, nội dung văn bản và thời trang của chủ thể.
+Một lời nhắc hệ thống phức tạp định nghĩa một nhân cách AI ('Nghệ nhân Du hành Thời gian') và giao nhiệm vụ cho nó tái tạo một hình ảnh tham chiếu theo phong cách thiệp Giáng sinh từ một kỷ nguyên lịch sử được chọn ngẫu nhiên (1850–2060). Nó bao gồm các ràng buộc nghiêm ngặt về độ chân thực của kỷ nguyên, nội dung văn bản và thời trang của chủ thể.
 
 #### 📝 Câu lệnh
 
 ```
-VAI TRÒ: Bạn là Thợ thủ công Chrono-Holiday, một nhà thiết kế tồn tại ngoài thời gian, tuyển chọn thiệp Giáng sinh từ mọi thời đại trong lịch sử nhân loại (1850–2060).
+VAI TRÒ: Bạn là Thợ Thủ Công Chrono-Holiday, một nhà thiết kế tồn tại ngoài thời gian, tuyển chọn thiệp Giáng Sinh từ mọi thời đại trong lịch sử nhân loại (1850–2060).
 
 NHIỆM VỤ: Tái tạo CHỦ THỂ CHÍNH XÁC trong hình ảnh tham chiếu đính kèm thành một tấm thiệp ngày lễ từ một năm ĐƯỢC CHỌN NGẪU NHIÊN.
 
 NGUYÊN TẮC NGHIÊM NGẶT:
-1. THỜI ĐẠI: Chọn một năm ngẫu nhiên (ví dụ: {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) và áp dụng nghiêm ngặt công nghệ in, độ nhiễu hạt phim và bảng màu đặc trưng của thời đại đó.
+1. THỜI ĐẠI: Chọn một năm ngẫu nhiên (ví dụ: {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) và áp dụng nghiêm ngặt công nghệ in ấn, độ nhiễu hạt phim và bảng màu đặc trưng của thời đại đó.
 2. VĂN BẢN: CHỈ hiển thị một lời chúc chung chung, phù hợp với thời kỳ (ví dụ: "Season's Greetings", "Merry Christmas", "Happy Holidays").
 3. LOẠI TRỪ: TUYỆT ĐỐI KHÔNG có tên, KHÔNG có "From the family", KHÔNG có chữ ký.
-4. CHỦ THỂ: Giữ cho những người trong hình ảnh tham chiếu dễ nhận biết, nhưng được ăn mặc theo phong cách của thời đại đã chọn.
+4. CHỦ THỂ: Giữ cho những người trong hình ảnh tham chiếu dễ nhận biết, nhưng mặc trang phục theo phong cách của thời đại đã chọn.
 
 --ar 3:4 --iw 2 --stylize 400
 ```
@@ -1565,7 +1565,7 @@ NGUYÊN TẮC NGHIÊM NGẶT:
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?prompt=VAI%20TR%C3%92%3A%20B%E1%BA%A1n%20l%C3%A0%20Th%E1%BB%A3%20th%E1%BB%A7%20c%C3%B4ng%20Chrono-Holiday%2C%20m%E1%BB%99t%20nh%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%93n%20t%E1%BA%A1i%20ngo%C3%A0i%20th%E1%BB%9Di%20gian%2C%20tuy%E1%BB%83n%20ch%E1%BB%8Dn%20thi%E1%BB%87p%20Gi%C3%A1ng%20sinh%20t%E1%BB%AB%20m%E1%BB%8Di%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i%20trong%20l%E1%BB%8Bch%20s%E1%BB%AD%20nh%C3%A2n%20lo%E1%BA%A1i%20(1850%E2%80%932060).%0A%0ANHI%E1%BB%86M%20V%E1%BB%A4%3A%20T%C3%A1i%20t%E1%BA%A1o%20CH%E1%BB%A6%20TH%E1%BB%82%20CH%C3%8DNH%20X%C3%81C%20trong%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%20%C4%91%C3%ADnh%20k%C3%A8m%20th%C3%A0nh%20m%E1%BB%99t%20t%E1%BA%A5m%20thi%E1%BB%87p%20ng%C3%A0y%20l%E1%BB%85%20t%E1%BB%AB%20m%E1%BB%99t%20n%C4%83m%20%C4%90%C6%AF%E1%BB%A2C%20CH%E1%BB%8CN%20NG%E1%BA%AAU%20NHI%C3%8AN.%0A%0ANGUY%C3%8AN%20T%E1%BA%AEC%20NGHI%C3%8AM%20NG%E1%BA%B6T%3A%0A1.%20TH%E1%BB%9CI%20%C4%90%E1%BA%A0I%3A%20Ch%E1%BB%8Dn%20m%E1%BB%99t%20n%C4%83m%20ng%E1%BA%ABu%20nhi%C3%AAn%20(v%C3%AD%20d%E1%BB%A5%3A%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20v%C3%A0%20%C3%A1p%20d%E1%BB%A5ng%20nghi%C3%AAm%20ng%E1%BA%B7t%20c%C3%B4ng%20ngh%E1%BB%87%20in%2C%20%C4%91%E1%BB%99%20nhi%E1%BB%85u%20h%E1%BA%A1t%20phim%20v%C3%A0%20b%E1%BA%A3ng%20m%C3%A0u%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i%20%C4%91%C3%B3.%0A2.%20V%C4%82N%20B%E1%BA%A2N%3A%20CH%E1%BB%88%20hi%E1%BB%83n%20th%E1%BB%8B%20m%E1%BB%99t%20l%E1%BB%9Di%20ch%C3%BAc%20chung%20chung%2C%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20th%E1%BB%9Di%20k%E1%BB%B3%20(v%C3%AD%20d%E1%BB%A5%3A%20%22Season's%20Greetings%22%2C%20%22Merry%20Christmas%22%2C%20%22Happy%20Holidays%22).%0A3.%20LO%E1%BA%A0I%20TR%E1%BB%AA%3A%20TUY%E1%BB%86T%20%C4%90%E1%BB%90I%20KH%C3%94NG%20c%C3%B3%20t%C3%AAn%2C%20KH%C3%94NG%20c%C3%B3%20%22From%20the%20family%22%2C%20KH%C3%94NG%20c%C3%B3%20ch%E1%BB%AF%20k%C3%BD.%0A4.%20CH%E1%BB%A6%20TH%E1%BB%82%3A%20Gi%E1%BB%AF%20cho%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20trong%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%20d%E1%BB%85%20nh%E1%BA%ADn%20bi%E1%BA%BFt%2C%20nh%C6%B0ng%20%C4%91%C6%B0%E1%BB%A3c%20%C4%83n%20m%E1%BA%B7c%20theo%20phong%20c%C3%A1ch%20c%E1%BB%A7a%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i%20%C4%91%C3%A3%20ch%E1%BB%8Dn.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?prompt=VAI%20TR%C3%92%3A%20B%E1%BA%A1n%20l%C3%A0%20Th%E1%BB%A3%20Th%E1%BB%A7%20C%C3%B4ng%20Chrono-Holiday%2C%20m%E1%BB%99t%20nh%C3%A0%20thi%E1%BA%BFt%20k%E1%BA%BF%20t%E1%BB%93n%20t%E1%BA%A1i%20ngo%C3%A0i%20th%E1%BB%9Di%20gian%2C%20tuy%E1%BB%83n%20ch%E1%BB%8Dn%20thi%E1%BB%87p%20Gi%C3%A1ng%20Sinh%20t%E1%BB%AB%20m%E1%BB%8Di%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i%20trong%20l%E1%BB%8Bch%20s%E1%BB%AD%20nh%C3%A2n%20lo%E1%BA%A1i%20(1850%E2%80%932060).%0A%0ANHI%E1%BB%86M%20V%E1%BB%A4%3A%20T%C3%A1i%20t%E1%BA%A1o%20CH%E1%BB%A6%20TH%E1%BB%82%20CH%C3%8DNH%20X%C3%81C%20trong%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%20%C4%91%C3%ADnh%20k%C3%A8m%20th%C3%A0nh%20m%E1%BB%99t%20t%E1%BA%A5m%20thi%E1%BB%87p%20ng%C3%A0y%20l%E1%BB%85%20t%E1%BB%AB%20m%E1%BB%99t%20n%C4%83m%20%C4%90%C6%AF%E1%BB%A2C%20CH%E1%BB%8CN%20NG%E1%BA%AAU%20NHI%C3%8AN.%0A%0ANGUY%C3%8AN%20T%E1%BA%AEC%20NGHI%C3%8AM%20NG%E1%BA%B6T%3A%0A1.%20TH%E1%BB%9CI%20%C4%90%E1%BA%A0I%3A%20Ch%E1%BB%8Dn%20m%E1%BB%99t%20n%C4%83m%20ng%E1%BA%ABu%20nhi%C3%AAn%20(v%C3%AD%20d%E1%BB%A5%3A%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20v%C3%A0%20%C3%A1p%20d%E1%BB%A5ng%20nghi%C3%AAm%20ng%E1%BA%B7t%20c%C3%B4ng%20ngh%E1%BB%87%20in%20%E1%BA%A5n%2C%20%C4%91%E1%BB%99%20nhi%E1%BB%85u%20h%E1%BA%A1t%20phim%20v%C3%A0%20b%E1%BA%A3ng%20m%C3%A0u%20%C4%91%E1%BA%B7c%20tr%C6%B0ng%20c%E1%BB%A7a%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i%20%C4%91%C3%B3.%0A2.%20V%C4%82N%20B%E1%BA%A2N%3A%20CH%E1%BB%88%20hi%E1%BB%83n%20th%E1%BB%8B%20m%E1%BB%99t%20l%E1%BB%9Di%20ch%C3%BAc%20chung%20chung%2C%20ph%C3%B9%20h%E1%BB%A3p%20v%E1%BB%9Bi%20th%E1%BB%9Di%20k%E1%BB%B3%20(v%C3%AD%20d%E1%BB%A5%3A%20%22Season's%20Greetings%22%2C%20%22Merry%20Christmas%22%2C%20%22Happy%20Holidays%22).%0A3.%20LO%E1%BA%A0I%20TR%E1%BB%AA%3A%20TUY%E1%BB%86T%20%C4%90%E1%BB%90I%20KH%C3%94NG%20c%C3%B3%20t%C3%AAn%2C%20KH%C3%94NG%20c%C3%B3%20%22From%20the%20family%22%2C%20KH%C3%94NG%20c%C3%B3%20ch%E1%BB%AF%20k%C3%BD.%0A4.%20CH%E1%BB%A6%20TH%E1%BB%82%3A%20Gi%E1%BB%AF%20cho%20nh%E1%BB%AFng%20ng%C6%B0%E1%BB%9Di%20trong%20h%C3%ACnh%20%E1%BA%A3nh%20tham%20chi%E1%BA%BFu%20d%E1%BB%85%20nh%E1%BA%ADn%20bi%E1%BA%BFt%2C%20nh%C6%B0ng%20m%E1%BA%B7c%20trang%20ph%E1%BB%A5c%20theo%20phong%20c%C3%A1ch%20c%E1%BB%A7a%20th%E1%BB%9Di%20%C4%91%E1%BA%A1i%20%C4%91%C3%A3%20ch%E1%BB%8Dn.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5188,13 +5188,13 @@ Giữ nguyên bố cục, trang phục, biểu cảm, tông màu da, kiểu tóc
 
 ---
 
-### No. 66: Mèo siêu thực bắn năng lượng mở ra hố đen vũ trụ
+### No. 66: Mèo siêu thực bắn năng lượng mở ra lỗ sâu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Mô tả
 
-Một lời nhắc ngắn, giàu trí tưởng tượng được sử dụng để kiểm tra khả năng của mô hình trong việc xử lý các khái niệm siêu thực và kỳ ảo, với hình ảnh một con mèo sử dụng sức mạnh từ bàn tay của nó để mở một lỗ sâu.
+Một lời nhắc ngắn, giàu trí tưởng tượng được sử dụng để kiểm tra khả năng xử lý các khái niệm siêu thực và kỳ ảo của mô hình, với hình ảnh một con mèo dùng sức mạnh từ bàn tay của nó để mở một lỗ sâu.
 
 #### 📝 Câu lệnh
 
@@ -5207,13 +5207,13 @@ Một lời nhắc ngắn, giàu trí tưởng tượng được sử dụng đ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042084098_h8glas_G8XfK3HX0AAnQEo.jpg" width="600" alt="Mèo siêu thực bắn năng lượng mở ra hố đen vũ trụ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042084098_h8glas_G8XfK3HX0AAnQEo.jpg" width="600" alt="Mèo siêu thực bắn năng lượng mở ra lỗ sâu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042084115_i6a9aa_G8XfN-NW8AMjkKm.jpg" width="600" alt="Mèo siêu thực bắn năng lượng mở ra hố đen vũ trụ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042084115_i6a9aa_G8XfN-NW8AMjkKm.jpg" width="600" alt="Mèo siêu thực bắn năng lượng mở ra lỗ sâu - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -6209,12 +6209,12 @@ Góc nhìn macro điện ảnh, chủ nghĩa hiện thực thực vật, cực k
 
 #### 📖 Mô tả
 
-Một lời nhắc tạo ảnh độc đáo chỉ định một vị trí địa lý chính xác (31.7785° N, 35.2296° E), ngày (3 tháng 4 năm 33 CN) và thời gian (15:00 giờ), được sử dụng để so sánh đầu ra của GPT Image 1.5 và Nano Banana Pro.
+Một lời nhắc tạo ảnh độc đáo chỉ định một vị trí địa lý chính xác (31.7785° N, 35.2296° E), ngày (3 tháng 4 năm 33 CN) và thời gian (15:00 giờ), được sử dụng để so sánh kết quả đầu ra của GPT Image 1.5 và Nano Banana Pro.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một hình ảnh tại {argument name="latitude" default="31.7785° N"}, {argument name="longitude" default="35.2296° E"}, {argument name="date" default="Ngày 3 tháng 4 năm 33 CN"}, {argument name="time" default="15:00 giờ"}.
+Tạo một hình ảnh tại {argument name="latitude" default="31.7785° N"}, {argument name="longitude" default="35.2296° E"}, {argument name="date" default="ngày 3 tháng 4 năm 33 CN"}, {argument name="time" default="15:00 giờ"}.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -6238,7 +6238,7 @@ Tạo một hình ảnh tại {argument name="latitude" default="31.7785° N"}, 
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BA%A1i%20%7Bargument%20name%3D%22latitude%22%20default%3D%2231.7785%C2%B0%20N%22%7D%2C%20%7Bargument%20name%3D%22longitude%22%20default%3D%2235.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date%22%20default%3D%22Ng%C3%A0y%203%20th%C3%A1ng%204%20n%C4%83m%2033%20CN%22%7D%2C%20%7Bargument%20name%3D%22time%22%20default%3D%2215%3A00%20gi%E1%BB%9D%22%7D.)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh%20t%E1%BA%A1i%20%7Bargument%20name%3D%22latitude%22%20default%3D%2231.7785%C2%B0%20N%22%7D%2C%20%7Bargument%20name%3D%22longitude%22%20default%3D%2235.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date%22%20default%3D%22ng%C3%A0y%203%20th%C3%A1ng%204%20n%C4%83m%2033%20CN%22%7D%2C%20%7Bargument%20name%3D%22time%22%20default%3D%2215%3A00%20gi%E1%BB%9D%22%7D.)**
 
 ---
 
@@ -6396,7 +6396,7 @@ Một bức ảnh chụp vội bằng điện thoại của một cô gái tóc 
 
 ---
 
-### No. 82: Chân dung trùm Mafia điện ảnh
+### No. 82: Chân dung Trùm Mafia Điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6407,7 +6407,7 @@ Một lời nhắc để tạo ra một bức chân dung siêu thực, đậm ch
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức chân dung siêu thực, đậm chất điện ảnh của tôi (sử dụng khuôn mặt đã tải lên) trong vai một ông trùm mafia hiện đại. Tôi đang ngồi trong một chiếc xe hơi sang trọng màu đen, mặc bộ vest đen và đeo kính râm phi công màu tối, hút một điếu xì gà lớn. Biểu cảm lạnh lùng, không sợ hãi. Bối cảnh: bầu trời u ám + thành phố/đường phố mờ ảo tạo cảm giác noir. Tông màu lạnh, độ tương phản cao. Chi tiết sắc nét trên khuôn mặt & khói. Phong cách: 8K, chất lượng áp phích phim, độ sâu trường ảnh nông 1:1
+Tạo một bức chân dung siêu thực, đậm chất điện ảnh của tôi (sử dụng khuôn mặt đã tải lên) trong vai một ông trùm mafia hiện đại. Tôi đang ngồi trong một chiếc xe hơi sang trọng màu đen, mặc bộ vest đen và đeo kính râm phi công màu tối, hút một điếu xì gà dày. Biểu cảm lạnh lùng, không sợ hãi. Bối cảnh: bầu trời u ám + thành phố/đường phố mờ ảo để tạo cảm giác phim noir. Tông màu lạnh, độ tương phản cao. Chi tiết sắc nét trên khuôn mặt & khói. Phong cách: 8K, chất lượng áp phích phim, độ sâu trường ảnh nông 1:1
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -6415,13 +6415,13 @@ Tạo một bức chân dung siêu thực, đậm chất điện ảnh của tô
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Chân dung trùm Mafia điện ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Chân dung Trùm Mafia Điện ảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Chân dung trùm Mafia điện ảnh - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Chân dung Trùm Mafia Điện ảnh - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -6431,7 +6431,7 @@ Tạo một bức chân dung siêu thực, đậm chất điện ảnh của tô
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20si%C3%AAu%20th%E1%BB%B1c%2C%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20c%E1%BB%A7a%20t%C3%B4i%20(s%E1%BB%AD%20d%E1%BB%A5ng%20khu%C3%B4n%20m%E1%BA%B7t%20%C4%91%C3%A3%20t%E1%BA%A3i%20l%C3%AAn)%20trong%20vai%20m%E1%BB%99t%20%C3%B4ng%20tr%C3%B9m%20mafia%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20T%C3%B4i%20%C4%91ang%20ng%E1%BB%93i%20trong%20m%E1%BB%99t%20chi%E1%BA%BFc%20xe%20h%C6%A1i%20sang%20tr%E1%BB%8Dng%20m%C3%A0u%20%C4%91en%2C%20m%E1%BA%B7c%20b%E1%BB%99%20vest%20%C4%91en%20v%C3%A0%20%C4%91eo%20k%C3%ADnh%20r%C3%A2m%20phi%20c%C3%B4ng%20m%C3%A0u%20t%E1%BB%91i%2C%20h%C3%BAt%20m%E1%BB%99t%20%C4%91i%E1%BA%BFu%20x%C3%AC%20g%C3%A0%20l%E1%BB%9Bn.%20Bi%E1%BB%83u%20c%E1%BA%A3m%20l%E1%BA%A1nh%20l%C3%B9ng%2C%20kh%C3%B4ng%20s%E1%BB%A3%20h%C3%A3i.%20B%E1%BB%91i%20c%E1%BA%A3nh%3A%20b%E1%BA%A7u%20tr%E1%BB%9Di%20u%20%C3%A1m%20%2B%20th%C3%A0nh%20ph%E1%BB%91%2F%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20m%E1%BB%9D%20%E1%BA%A3o%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20noir.%20T%C3%B4ng%20m%C3%A0u%20l%E1%BA%A1nh%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao.%20Chi%20ti%E1%BA%BFt%20s%E1%BA%AFc%20n%C3%A9t%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20%26%20kh%C3%B3i.%20Phong%20c%C3%A1ch%3A%208K%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20%C3%A1p%20ph%C3%ADch%20phim%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%201%3A1)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20b%E1%BB%A9c%20ch%C3%A2n%20dung%20si%C3%AAu%20th%E1%BB%B1c%2C%20%C4%91%E1%BA%ADm%20ch%E1%BA%A5t%20%C4%91i%E1%BB%87n%20%E1%BA%A3nh%20c%E1%BB%A7a%20t%C3%B4i%20(s%E1%BB%AD%20d%E1%BB%A5ng%20khu%C3%B4n%20m%E1%BA%B7t%20%C4%91%C3%A3%20t%E1%BA%A3i%20l%C3%AAn)%20trong%20vai%20m%E1%BB%99t%20%C3%B4ng%20tr%C3%B9m%20mafia%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i.%20T%C3%B4i%20%C4%91ang%20ng%E1%BB%93i%20trong%20m%E1%BB%99t%20chi%E1%BA%BFc%20xe%20h%C6%A1i%20sang%20tr%E1%BB%8Dng%20m%C3%A0u%20%C4%91en%2C%20m%E1%BA%B7c%20b%E1%BB%99%20vest%20%C4%91en%20v%C3%A0%20%C4%91eo%20k%C3%ADnh%20r%C3%A2m%20phi%20c%C3%B4ng%20m%C3%A0u%20t%E1%BB%91i%2C%20h%C3%BAt%20m%E1%BB%99t%20%C4%91i%E1%BA%BFu%20x%C3%AC%20g%C3%A0%20d%C3%A0y.%20Bi%E1%BB%83u%20c%E1%BA%A3m%20l%E1%BA%A1nh%20l%C3%B9ng%2C%20kh%C3%B4ng%20s%E1%BB%A3%20h%C3%A3i.%20B%E1%BB%91i%20c%E1%BA%A3nh%3A%20b%E1%BA%A7u%20tr%E1%BB%9Di%20u%20%C3%A1m%20%2B%20th%C3%A0nh%20ph%E1%BB%91%2F%C4%91%C6%B0%E1%BB%9Dng%20ph%E1%BB%91%20m%E1%BB%9D%20%E1%BA%A3o%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20c%E1%BA%A3m%20gi%C3%A1c%20phim%20noir.%20T%C3%B4ng%20m%C3%A0u%20l%E1%BA%A1nh%2C%20%C4%91%E1%BB%99%20t%C6%B0%C6%A1ng%20ph%E1%BA%A3n%20cao.%20Chi%20ti%E1%BA%BFt%20s%E1%BA%AFc%20n%C3%A9t%20tr%C3%AAn%20khu%C3%B4n%20m%E1%BA%B7t%20%26%20kh%C3%B3i.%20Phong%20c%C3%A1ch%3A%208K%2C%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20%C3%A1p%20ph%C3%ADch%20phim%2C%20%C4%91%E1%BB%99%20s%C3%A2u%20tr%C6%B0%E1%BB%9Dng%20%E1%BA%A3nh%20n%C3%B4ng%201%3A1)**
 
 ---
 
@@ -7973,7 +7973,7 @@ Một lời nhắc đa bảng, chi tiết cao dành cho Nano Banana Pro, đượ
 
 ---
 
-### No. 113: Nano Monkey's Adventure Series Manga Prompt
+### No. 113: Gợi ý Manga cho Loạt truyện phiêu lưu của Nano Monkey
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7985,9 +7985,9 @@ Một người dùng thông báo về bộ truyện tranh nổi tiếng "Nano Mo
 #### 📝 Câu lệnh
 
 ```
-Loạt truyện phiêu lưu của Nano Monkey
+Nano Monkey's Adventure Series
 📍{argument name="title" default="Rain Sound"}
-👉Sáng tạo manga không giới hạn trong 10 giây với nano banana pro (nanobanana)
+👉Tạo manga không giới hạn trong 10 giây với nano banana pro (nanobanana)
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -7995,7 +7995,7 @@ Loạt truyện phiêu lưu của Nano Monkey
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Monkey's Adventure Series Manga Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Gợi ý Manga cho Loạt truyện phiêu lưu của Nano Monkey - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -8005,7 +8005,7 @@ Loạt truyện phiêu lưu của Nano Monkey
 - **Đã xuất bản:** 17 tháng 12, 2025
 - **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?prompt=Lo%E1%BA%A1t%20truy%E1%BB%87n%20phi%C3%AAu%20l%C6%B0u%20c%E1%BB%A7a%20Nano%20Monkey%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Rain%20Sound%22%7D%0A%F0%9F%91%89S%C3%A1ng%20t%E1%BA%A1o%20manga%20kh%C3%B4ng%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20trong%2010%20gi%C3%A2y%20v%E1%BB%9Bi%20nano%20banana%20pro%20(nanobanana))**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?prompt=Nano%20Monkey's%20Adventure%20Series%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Rain%20Sound%22%7D%0A%F0%9F%91%89T%E1%BA%A1o%20manga%20kh%C3%B4ng%20gi%E1%BB%9Bi%20h%E1%BA%A1n%20trong%2010%20gi%C3%A2y%20v%E1%BB%9Bi%20nano%20banana%20pro%20(nanobanana))**
 
 ---
 
@@ -8505,6 +8505,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-18T08:20:58.345Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-18T12:28:18.025Z</sub>
 
 </div>

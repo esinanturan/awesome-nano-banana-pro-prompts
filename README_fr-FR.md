@@ -90,7 +90,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **1731** |
 | ⭐ En vedette | **13** |
-| 🔄 Dernière mise à jour | **jeudi 18 décembre 2025 à 08:24:38 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 18 décembre 2025 à 12:31:06 UTC** |
 
 </div>
 
@@ -1526,17 +1526,17 @@ Prompt d'écran de participation
 
 #### 📖 Description
 
-Un *system prompt* complexe définissant une personnalité d'IA (« L'Artisan des Chrono-Fêtes ») et lui confiant la tâche de re-rendre une image de référence dans un style de carte de Noël à partir d'une époque historique sélectionnée aléatoirement (1850–2060). Il inclut des contraintes strictes sur la fidélité à l'époque, le contenu textuel et la mode des sujets.
+Un *system prompt* complexe définissant une personnalité d'IA (« L'Artisan des Chrono-Fêtes ») et la chargeant de transformer une image de référence en une carte de Noël, en adoptant le style d'une époque historique choisie au hasard (1850–2060). Il inclut des contraintes strictes concernant la fidélité à l'époque, le contenu textuel et la mode des sujets.
 
 #### 📝 Prompt
 
 ```
-RÔLE : Vous êtes l'Artisan Chrono-Vacances, un designer qui existe hors du temps, sélectionnant des cartes de Noël de chaque époque de l'histoire humaine (1850–2060).
+RÔLE : Vous êtes l'Artisan Chrono-Vacances, un designer qui existe en dehors du temps, sélectionnant des cartes de Noël de chaque époque de l'histoire humaine (1850–2060).
 
-TÂCHE : Reproduire le SUJET EXACT de l'image de référence ci-jointe sous forme de carte de vœux d'une année SÉLECTIONNÉE AU HASARD.
+TÂCHE : Reproduisez le SUJET EXACT de l'image de référence ci-jointe sur une carte de vœux d'une année SÉLECTIONNÉE AU HASARD.
 
 DIRECTIVES STRICTES :
-1. L'ÉPOQUE : Choisissez une année aléatoire (par exemple, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) et appliquez strictement la technologie d'impression, le grain de film et la palette de couleurs spécifiques à cette époque.
+1. L'ÈRE : Choisissez une année aléatoire (par exemple, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) et appliquez strictement la technologie d'impression, le grain de film et la palette de couleurs spécifiques à cette époque.
 2. LE TEXTE : Affichez UNIQUEMENT une salutation générique et fidèle à l'époque (par exemple, "Joyeuses Fêtes", "Joyeux Noël", "Bonnes Fêtes").
 3. L'EXCLUSION : ABSOLUMENT AUCUN nom, AUCUN "De la part de la famille", AUCUNE signature.
 4. LE SUJET : Gardez les personnes de l'image de référence reconnaissables, mais habillées selon la mode de l'époque sélectionnée.
@@ -1565,7 +1565,7 @@ DIRECTIVES STRICTES :
 - **Publié:** 17 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=R%C3%94LE%20%3A%20Vous%20%C3%AAtes%20l'Artisan%20Chrono-Vacances%2C%20un%20designer%20qui%20existe%20hors%20du%20temps%2C%20s%C3%A9lectionnant%20des%20cartes%20de%20No%C3%ABl%20de%20chaque%20%C3%A9poque%20de%20l'histoire%20humaine%20(1850%E2%80%932060).%0A%0AT%C3%82CHE%20%3A%20Reproduire%20le%20SUJET%20EXACT%20de%20l'image%20de%20r%C3%A9f%C3%A9rence%20ci-jointe%20sous%20forme%20de%20carte%20de%20v%C5%93ux%20d'une%20ann%C3%A9e%20S%C3%89LECTIONN%C3%89E%20AU%20HASARD.%0A%0ADIRECTIVES%20STRICTES%20%3A%0A1.%20L'%C3%89POQUE%20%3A%20Choisissez%20une%20ann%C3%A9e%20al%C3%A9atoire%20(par%20exemple%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20et%20appliquez%20strictement%20la%20technologie%20d'impression%2C%20le%20grain%20de%20film%20et%20la%20palette%20de%20couleurs%20sp%C3%A9cifiques%20%C3%A0%20cette%20%C3%A9poque.%0A2.%20LE%20TEXTE%20%3A%20Affichez%20UNIQUEMENT%20une%20salutation%20g%C3%A9n%C3%A9rique%20et%20fid%C3%A8le%20%C3%A0%20l'%C3%A9poque%20(par%20exemple%2C%20%22Joyeuses%20F%C3%AAtes%22%2C%20%22Joyeux%20No%C3%ABl%22%2C%20%22Bonnes%20F%C3%AAtes%22).%0A3.%20L'EXCLUSION%20%3A%20ABSOLUMENT%20AUCUN%20nom%2C%20AUCUN%20%22De%20la%20part%20de%20la%20famille%22%2C%20AUCUNE%20signature.%0A4.%20LE%20SUJET%20%3A%20Gardez%20les%20personnes%20de%20l'image%20de%20r%C3%A9f%C3%A9rence%20reconnaissables%2C%20mais%20habill%C3%A9es%20selon%20la%20mode%20de%20l'%C3%A9poque%20s%C3%A9lectionn%C3%A9e.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=R%C3%94LE%20%3A%20Vous%20%C3%AAtes%20l'Artisan%20Chrono-Vacances%2C%20un%20designer%20qui%20existe%20en%20dehors%20du%20temps%2C%20s%C3%A9lectionnant%20des%20cartes%20de%20No%C3%ABl%20de%20chaque%20%C3%A9poque%20de%20l'histoire%20humaine%20(1850%E2%80%932060).%0A%0AT%C3%82CHE%20%3A%20Reproduisez%20le%20SUJET%20EXACT%20de%20l'image%20de%20r%C3%A9f%C3%A9rence%20ci-jointe%20sur%20une%20carte%20de%20v%C5%93ux%20d'une%20ann%C3%A9e%20S%C3%89LECTIONN%C3%89E%20AU%20HASARD.%0A%0ADIRECTIVES%20STRICTES%20%3A%0A1.%20L'%C3%88RE%20%3A%20Choisissez%20une%20ann%C3%A9e%20al%C3%A9atoire%20(par%20exemple%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20et%20appliquez%20strictement%20la%20technologie%20d'impression%2C%20le%20grain%20de%20film%20et%20la%20palette%20de%20couleurs%20sp%C3%A9cifiques%20%C3%A0%20cette%20%C3%A9poque.%0A2.%20LE%20TEXTE%20%3A%20Affichez%20UNIQUEMENT%20une%20salutation%20g%C3%A9n%C3%A9rique%20et%20fid%C3%A8le%20%C3%A0%20l'%C3%A9poque%20(par%20exemple%2C%20%22Joyeuses%20F%C3%AAtes%22%2C%20%22Joyeux%20No%C3%ABl%22%2C%20%22Bonnes%20F%C3%AAtes%22).%0A3.%20L'EXCLUSION%20%3A%20ABSOLUMENT%20AUCUN%20nom%2C%20AUCUN%20%22De%20la%20part%20de%20la%20famille%22%2C%20AUCUNE%20signature.%0A4.%20LE%20SUJET%20%3A%20Gardez%20les%20personnes%20de%20l'image%20de%20r%C3%A9f%C3%A9rence%20reconnaissables%2C%20mais%20habill%C3%A9es%20selon%20la%20mode%20de%20l'%C3%A9poque%20s%C3%A9lectionn%C3%A9e.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -6190,12 +6190,12 @@ Perspective macro cinématographique, réalisme botanique, ultra-détaillé.
 
 #### 📖 Description
 
-Une invite unique de génération d'images qui spécifie une localisation géographique précise (31.7785° N, 35.2296° E), une date (3 avril 33 ap. J.-C.) et une heure (15h00), utilisée pour comparer la sortie de GPT Image 1.5 et Nano Banana Pro.
+Une invite de génération d'images unique qui spécifie une localisation géographique précise (31.7785° N, 35.2296° E), une date (3 avril 33 ap. J.-C.) et une heure (15:00 heures), utilisée pour comparer les résultats de GPT Image 1.5 et Nano Banana Pro.
 
 #### 📝 Prompt
 
 ```
-Créer une image à {argument name="latitude" default="31.7785° N"}, {argument name="longitude" default="35.2296° E"}, {argument name="date" default="3 avril 33 ap. J.-C."}, {argument name="time" default="15 h 00"}.
+Créer une image à {argument name="latitude" default="31.7785° N"}, {argument name="longitude" default="35.2296° E"}, {argument name="date" default="3 avril 33 ap. J.-C."}, {argument name="time" default="15h00"}.
 ```
 
 #### 🖼️ Images générées
@@ -6219,7 +6219,7 @@ Créer une image à {argument name="latitude" default="31.7785° N"}, {argument 
 - **Publié:** 17 décembre 2025
 - **Langues:** en
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=Cr%C3%A9er%20une%20image%20%C3%A0%20%7Bargument%20name%3D%22latitude%22%20default%3D%2231.7785%C2%B0%20N%22%7D%2C%20%7Bargument%20name%3D%22longitude%22%20default%3D%2235.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date%22%20default%3D%223%20avril%2033%20ap.%20J.-C.%22%7D%2C%20%7Bargument%20name%3D%22time%22%20default%3D%2215%20h%2000%22%7D.)**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=Cr%C3%A9er%20une%20image%20%C3%A0%20%7Bargument%20name%3D%22latitude%22%20default%3D%2231.7785%C2%B0%20N%22%7D%2C%20%7Bargument%20name%3D%22longitude%22%20default%3D%2235.2296%C2%B0%20E%22%7D%2C%20%7Bargument%20name%3D%22date%22%20default%3D%223%20avril%2033%20ap.%20J.-C.%22%7D%2C%20%7Bargument%20name%3D%22time%22%20default%3D%2215h00%22%7D.)**
 
 ---
 
@@ -6377,13 +6377,13 @@ Une photo prise sur le vif avec un téléphone, montrant une jeune fille rousse 
 
 ---
 
-### No. 82: Portrait cinématographique de chef de la mafia
+### No. 82: Portrait de parrain de la mafia cinématographique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-Une invite pour générer un portrait cinématographique hyperréaliste d'un visage téléchargé par l'utilisateur, transformé en un chef de la mafia moderne, assis dans une voiture de luxe, fumant un cigare, avec une esthétique noir et blanc à contraste élevé.
+Un prompt pour générer un portrait cinématographique hyperréaliste d'un visage téléchargé par l'utilisateur, transformé en un chef de la mafia moderne, assis dans une voiture de luxe, fumant un cigare, avec une esthétique noir et blanc à contraste élevé.
 
 #### 📝 Prompt
 
@@ -6396,13 +6396,13 @@ Créez un portrait cinématographique hyperréaliste de moi (utilisez le visage 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Portrait cinématographique de chef de la mafia - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042041674_mc6sdp_G8XDkf1asAAiKCv.jpg" width="600" alt="Portrait de parrain de la mafia cinématographique - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Portrait cinématographique de chef de la mafia - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042041486_so4bfk_G8XDkLJaMAAluoq.jpg" width="600" alt="Portrait de parrain de la mafia cinématographique - Image 2">
 </div>
 
 #### 📌 Détails
@@ -7961,13 +7961,13 @@ Une seule image carrée cohésive, divisée en une grille nette de 2x2 avec de f
 
 #### 📖 Description
 
-Un utilisateur annonce la populaire série de mangas « Nano Monkey's Adventure Series » et mentionne que le manga, en particulier « Rain Sound », a été créé à l'aide de Nano Banana Pro en 10 secondes.
+Un utilisateur annonce la populaire série de mangas « Nano Monkey's Adventure Series » et mentionne que le manga, en particulier « Rain Sound », a été créé en 10 secondes à l'aide de Nano Banana Pro.
 
 #### 📝 Prompt
 
 ```
-La série d'aventures de Nano Monkey
-📍{argument name="title" default="Rain Sound"}
+Série d'aventures de Nano Monkey
+📍{argument name="title" default="Bruit de pluie"}
 👉Création illimitée de mangas en 10 secondes avec nano banana pro (nanobanana)
 ```
 
@@ -7986,7 +7986,7 @@ La série d'aventures de Nano Monkey
 - **Publié:** 17 décembre 2025
 - **Langues:** ja
 
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=La%20s%C3%A9rie%20d'aventures%20de%20Nano%20Monkey%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Rain%20Sound%22%7D%0A%F0%9F%91%89Cr%C3%A9ation%20illimit%C3%A9e%20de%20mangas%20en%2010%20secondes%20avec%20nano%20banana%20pro%20(nanobanana))**
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?prompt=S%C3%A9rie%20d'aventures%20de%20Nano%20Monkey%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Bruit%20de%20pluie%22%7D%0A%F0%9F%91%89Cr%C3%A9ation%20illimit%C3%A9e%20de%20mangas%20en%2010%20secondes%20avec%20nano%20banana%20pro%20(nanobanana))**
 
 ---
 
@@ -8486,6 +8486,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-18T08:24:38.029Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-18T12:31:06.458Z</sub>
 
 </div>

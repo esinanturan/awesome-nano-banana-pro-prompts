@@ -90,7 +90,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **1731** |
 | ⭐ In evidenza | **13** |
-| 🔄 Ultimo aggiornamento | **giovedì 18 dicembre 2025 alle ore 08:25:35 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 18 dicembre 2025 alle ore 12:31:31 UTC** |
 
 </div>
 
@@ -1524,25 +1524,25 @@ Prompt di schermata di partecipazione
 
 ---
 
-### No. 12: Chrono-Holiday Artisan: Rielaborazione di biglietti di Natale di Era
+### No. 12: Chrono-Holiday Artisan: La Cartolina di Natale Ri-renderizzata da Era
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt di sistema complesso che definisce una persona AI ("L'Artigiano delle Crono-Vacanze") e le assegna il compito di rielaborare un'immagine di riferimento in stile biglietto di Natale, scegliendo un'epoca storica casuale (1850–2060). Include rigide restrizioni sulla fedeltà all'epoca, sul contenuto del testo e sulla moda dei soggetti.
+Un prompt di sistema complesso che definisce una persona AI ("L'Artigiano delle Crono-Vacanze") e le assegna il compito di rielaborare un'immagine di riferimento in uno stile da cartolina di Natale, scegliendo un'epoca storica casuale (1850–2060). Include vincoli rigorosi sulla fedeltà all'epoca, sul contenuto del testo e sulla moda dei soggetti.
 
 #### 📝 Prompt
 
 ```
-RUOLO: Sei l'Artigiano Crono-Vacanziero, un designer che esiste al di fuori del tempo, curando biglietti di Natale da ogni epoca della storia umana (1850–2060).
+RUOLO: Sei l'Artigiano Crono-Festivo, un designer che esiste al di fuori del tempo, curando biglietti di Natale da ogni epoca della storia umana (1850–2060).
 
 COMPITO: Rielabora l'ESATTO SOGGETTO nell'immagine di riferimento allegata in un biglietto di auguri di un anno SELEZIONATO CASUALMENTE.
 
 LINEE GUIDA RIGOROSE:
 1. L'EPOCA: Scegli un anno casuale (ad esempio, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) e applica rigorosamente la tecnologia di stampa, la grana della pellicola e la palette di colori specifici di quell'epoca.
-2. IL TESTO: Visualizza SOLO un saluto generico e appropriato all'epoca (ad esempio, "Auguri di stagione", "Buon Natale", "Buone Feste").
+2. IL TESTO: Visualizza SOLO un saluto generico e appropriato all'epoca (ad esempio, "Auguri di Buone Feste", "Buon Natale", "Felici Vacanze").
 3. L'ESCLUSIONE: ASSOLUTAMENTE NESSUN nome, NESSUN "Dalla famiglia", NESSUNA firma.
 4. IL SOGGETTO: Mantieni le persone dell'immagine di riferimento riconoscibili, ma vestite secondo la moda dell'epoca selezionata.
 
@@ -1554,13 +1554,13 @@ LINEE GUIDA RIGOROSE:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042072187_lyo63n_G8ZVF4zWYAAOxpP.jpg" width="600" alt="Chrono-Holiday Artisan: Rielaborazione di biglietti di Natale di Era - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042072187_lyo63n_G8ZVF4zWYAAOxpP.jpg" width="600" alt="Chrono-Holiday Artisan: La Cartolina di Natale Ri-renderizzata da Era - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042073635_cyps3t_G8ZVHK5XgAEzplx.jpg" width="600" alt="Chrono-Holiday Artisan: Rielaborazione di biglietti di Natale di Era - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042073635_cyps3t_G8ZVHK5XgAEzplx.jpg" width="600" alt="Chrono-Holiday Artisan: La Cartolina di Natale Ri-renderizzata da Era - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -1570,7 +1570,7 @@ LINEE GUIDA RIGOROSE:
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?prompt=RUOLO%3A%20Sei%20l'Artigiano%20Crono-Vacanziero%2C%20un%20designer%20che%20esiste%20al%20di%20fuori%20del%20tempo%2C%20curando%20biglietti%20di%20Natale%20da%20ogni%20epoca%20della%20storia%20umana%20(1850%E2%80%932060).%0A%0ACOMPITO%3A%20Rielabora%20l'ESATTO%20SOGGETTO%20nell'immagine%20di%20riferimento%20allegata%20in%20un%20biglietto%20di%20auguri%20di%20un%20anno%20SELEZIONATO%20CASUALMENTE.%0A%0ALINEE%20GUIDA%20RIGOROSE%3A%0A1.%20L'EPOCA%3A%20Scegli%20un%20anno%20casuale%20(ad%20esempio%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20e%20applica%20rigorosamente%20la%20tecnologia%20di%20stampa%2C%20la%20grana%20della%20pellicola%20e%20la%20palette%20di%20colori%20specifici%20di%20quell'epoca.%0A2.%20IL%20TESTO%3A%20Visualizza%20SOLO%20un%20saluto%20generico%20e%20appropriato%20all'epoca%20(ad%20esempio%2C%20%22Auguri%20di%20stagione%22%2C%20%22Buon%20Natale%22%2C%20%22Buone%20Feste%22).%0A3.%20L'ESCLUSIONE%3A%20ASSOLUTAMENTE%20NESSUN%20nome%2C%20NESSUN%20%22Dalla%20famiglia%22%2C%20NESSUNA%20firma.%0A4.%20IL%20SOGGETTO%3A%20Mantieni%20le%20persone%20dell'immagine%20di%20riferimento%20riconoscibili%2C%20ma%20vestite%20secondo%20la%20moda%20dell'epoca%20selezionata.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?prompt=RUOLO%3A%20Sei%20l'Artigiano%20Crono-Festivo%2C%20un%20designer%20che%20esiste%20al%20di%20fuori%20del%20tempo%2C%20curando%20biglietti%20di%20Natale%20da%20ogni%20epoca%20della%20storia%20umana%20(1850%E2%80%932060).%0A%0ACOMPITO%3A%20Rielabora%20l'ESATTO%20SOGGETTO%20nell'immagine%20di%20riferimento%20allegata%20in%20un%20biglietto%20di%20auguri%20di%20un%20anno%20SELEZIONATO%20CASUALMENTE.%0A%0ALINEE%20GUIDA%20RIGOROSE%3A%0A1.%20L'EPOCA%3A%20Scegli%20un%20anno%20casuale%20(ad%20esempio%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20e%20applica%20rigorosamente%20la%20tecnologia%20di%20stampa%2C%20la%20grana%20della%20pellicola%20e%20la%20palette%20di%20colori%20specifici%20di%20quell'epoca.%0A2.%20IL%20TESTO%3A%20Visualizza%20SOLO%20un%20saluto%20generico%20e%20appropriato%20all'epoca%20(ad%20esempio%2C%20%22Auguri%20di%20Buone%20Feste%22%2C%20%22Buon%20Natale%22%2C%20%22Felici%20Vacanze%22).%0A3.%20L'ESCLUSIONE%3A%20ASSOLUTAMENTE%20NESSUN%20nome%2C%20NESSUN%20%22Dalla%20famiglia%22%2C%20NESSUNA%20firma.%0A4.%20IL%20SOGGETTO%3A%20Mantieni%20le%20persone%20dell'immagine%20di%20riferimento%20riconoscibili%2C%20ma%20vestite%20secondo%20la%20moda%20dell'epoca%20selezionata.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5196,7 +5196,7 @@ Mantieni la composizione, l'abbigliamento, l'espressione, il tono della pelle, l
 
 ---
 
-### No. 66: Gatto surreale spara potere per aprire un wormhole
+### No. 66: Gatto surreale spara energia per aprire un wormhole
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5207,7 +5207,7 @@ Un prompt breve e fantasioso usato per testare la capacità del modello di gesti
 #### 📝 Prompt
 
 ```
-"gatto che spara energia dalla zampa per aprire un wormhole" ‼️
+"un gatto che spara energia dalla zampa per aprire un wormhole" ‼️
 ```
 
 #### 🖼️ Immagini generate
@@ -5215,13 +5215,13 @@ Un prompt breve e fantasioso usato per testare la capacità del modello di gesti
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042084098_h8glas_G8XfK3HX0AAnQEo.jpg" width="600" alt="Gatto surreale spara potere per aprire un wormhole - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042084098_h8glas_G8XfK3HX0AAnQEo.jpg" width="600" alt="Gatto surreale spara energia per aprire un wormhole - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042084115_i6a9aa_G8XfN-NW8AMjkKm.jpg" width="600" alt="Gatto surreale spara potere per aprire un wormhole - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042084115_i6a9aa_G8XfN-NW8AMjkKm.jpg" width="600" alt="Gatto surreale spara energia per aprire un wormhole - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -5231,7 +5231,7 @@ Un prompt breve e fantasioso usato per testare la capacità del modello di gesti
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?prompt=%22gatto%20che%20spara%20energia%20dalla%20zampa%20per%20aprire%20un%20wormhole%22%20%E2%80%BC%EF%B8%8F)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?prompt=%22un%20gatto%20che%20spara%20energia%20dalla%20zampa%20per%20aprire%20un%20wormhole%22%20%E2%80%BC%EF%B8%8F)**
 
 ---
 
@@ -6407,12 +6407,12 @@ Una foto spontanea scattata con il telefono di una ragazza dai capelli rossi che
 
 #### 📖 Descrizione
 
-Un prompt per generare un ritratto iperrealistico e cinematografico di un volto caricato dall'utente, trasformato in un moderno boss mafioso, seduto in un'auto di lusso, mentre fuma un sigaro, con un'estetica noir ad alto contrasto.
+Un prompt per generare un ritratto cinematografico e iperrealistico di un volto caricato dall'utente, trasformato in un moderno boss mafioso, seduto in un'auto di lusso, mentre fuma un sigaro, con un'estetica noir e ad alto contrasto.
 
 #### 📝 Prompt
 
 ```
-Crea un ritratto iperrealistico e cinematografico di me (usa il volto caricato) come un moderno boss mafioso. Sono seduto in un'auto di lusso nera, indosso un abito nero e occhiali da sole aviator scuri, fumando un sigaro spesso. Espressione fredda e impavida. Sfondo: cielo cupo + città/strada sfocata per un'atmosfera noir. Toni freddi, contrasto elevato. Dettagli nitidi su viso e fumo. Stile: 8K, qualità da poster cinematografico, profondità di campo ridotta 1:1
+Crea un ritratto iperrealistico e cinematografico di me (usa il volto caricato) come un moderno boss mafioso. Sono seduto in una lussuosa auto nera, indosso un abito nero e occhiali da sole aviator scuri, fumando un sigaro spesso. Espressione fredda e impavida. Sfondo: cielo cupo + città/strada sfocata per un'atmosfera noir. Toni freddi, contrasto elevato. Dettagli nitidi su viso e fumo. Stile: 8K, qualità da poster cinematografico, profondità di campo ridotta 1:1
 ```
 
 #### 🖼️ Immagini generate
@@ -6436,7 +6436,7 @@ Crea un ritratto iperrealistico e cinematografico di me (usa il volto caricato) 
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?prompt=Crea%20un%20ritratto%20iperrealistico%20e%20cinematografico%20di%20me%20(usa%20il%20volto%20caricato)%20come%20un%20moderno%20boss%20mafioso.%20Sono%20seduto%20in%20un'auto%20di%20lusso%20nera%2C%20indosso%20un%20abito%20nero%20e%20occhiali%20da%20sole%20aviator%20scuri%2C%20fumando%20un%20sigaro%20spesso.%20Espressione%20fredda%20e%20impavida.%20Sfondo%3A%20cielo%20cupo%20%2B%20citt%C3%A0%2Fstrada%20sfocata%20per%20un'atmosfera%20noir.%20Toni%20freddi%2C%20contrasto%20elevato.%20Dettagli%20nitidi%20su%20viso%20e%20fumo.%20Stile%3A%208K%2C%20qualit%C3%A0%20da%20poster%20cinematografico%2C%20profondit%C3%A0%20di%20campo%20ridotta%201%3A1)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?prompt=Crea%20un%20ritratto%20iperrealistico%20e%20cinematografico%20di%20me%20(usa%20il%20volto%20caricato)%20come%20un%20moderno%20boss%20mafioso.%20Sono%20seduto%20in%20una%20lussuosa%20auto%20nera%2C%20indosso%20un%20abito%20nero%20e%20occhiali%20da%20sole%20aviator%20scuri%2C%20fumando%20un%20sigaro%20spesso.%20Espressione%20fredda%20e%20impavida.%20Sfondo%3A%20cielo%20cupo%20%2B%20citt%C3%A0%2Fstrada%20sfocata%20per%20un'atmosfera%20noir.%20Toni%20freddi%2C%20contrasto%20elevato.%20Dettagli%20nitidi%20su%20viso%20e%20fumo.%20Stile%3A%208K%2C%20qualit%C3%A0%20da%20poster%20cinematografico%2C%20profondit%C3%A0%20di%20campo%20ridotta%201%3A1)**
 
 ---
 
@@ -7978,7 +7978,7 @@ Un'unica immagine quadrata coesa divisa in una griglia pulita 2x2 con sottili bo
 
 ---
 
-### No. 113: Nano Monkey's Adventure Series: Prompt per Manga
+### No. 113: Prompt Manga della Serie di Avventure di Nano Monkey
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -7991,7 +7991,7 @@ Un utente annuncia la popolare serie manga "Nano Monkey's Adventure Series" e me
 
 ```
 Serie di avventure di Nano Monkey
-📍{argument name="title" default="Suono della pioggia"}
+📍{argument name="title" default="Suono della Pioggia"}
 👉Creazione illimitata di manga in 10 secondi con nano banana pro (nanobanana)
 ```
 
@@ -8000,7 +8000,7 @@ Serie di avventure di Nano Monkey
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Monkey's Adventure Series: Prompt per Manga - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Prompt Manga della Serie di Avventure di Nano Monkey - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -8010,7 +8010,7 @@ Serie di avventure di Nano Monkey
 - **Pubblicato:** 17 dicembre 2025
 - **Lingue:** ja
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?prompt=Serie%20di%20avventure%20di%20Nano%20Monkey%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Suono%20della%20pioggia%22%7D%0A%F0%9F%91%89Creazione%20illimitata%20di%20manga%20in%2010%20secondi%20con%20nano%20banana%20pro%20(nanobanana))**
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?prompt=Serie%20di%20avventure%20di%20Nano%20Monkey%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Suono%20della%20Pioggia%22%7D%0A%F0%9F%91%89Creazione%20illimitata%20di%20manga%20in%2010%20secondi%20con%20nano%20banana%20pro%20(nanobanana))**
 
 ---
 
@@ -8510,6 +8510,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-18T08:25:35.470Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-18T12:31:31.064Z</sub>
 
 </div>

@@ -90,7 +90,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **1731** |
 | ⭐ Öne Çıkan | **13** |
-| 🔄 Son Güncelleme | **18 Aralık 2025 Perşembe 08:26:49 UTC** |
+| 🔄 Son Güncelleme | **18 Aralık 2025 Perşembe 12:33:16 UTC** |
 
 </div>
 
@@ -1531,7 +1531,7 @@ Katılım ekranı komutu
 
 #### 📖 Açıklama
 
-Yapay zeka kişiliğini ('Chrono-Holiday Artisan') tanımlayan ve rastgele seçilmiş bir tarihi dönemden (1850–2060) bir referans görüntüyü Noel kartı tarzına dönüştürmesini isteyen karmaşık bir sistem istemi. Dönem doğruluğu, metin içeriği ve konu modası üzerinde katı kısıtlamalar içerir.
+Yapay zeka kişiliğini ('Chrono-Holiday Artisan') tanımlayan ve rastgele seçilen bir tarihi dönemden (1850–2060) bir referans görüntüyü Noel kartı stiline dönüştürme görevi veren karmaşık bir sistem istemi. Dönem doğruluğu, metin içeriği ve konu modası üzerinde katı kısıtlamalar içerir.
 
 #### 📝 İstem
 
@@ -1541,9 +1541,9 @@ ROL: Siz, zamanın dışında var olan, insanlık tarihinin her döneminden (185
 GÖREV: Ekli referans görselindeki TAM KONUYU, RASTGELE SEÇİLEN bir yıla ait bir tatil kartına yeniden dönüştürün.
 
 KESİN KURALLAR:
-1. DÖNEM: Rastgele bir yıl seçin (örneğin, {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) ve o dönemin spesifik baskı teknolojisini, film grenini ve renk paletini kesinlikle uygulayın.
-2. METİN: SADECE genel, döneme uygun bir tebrik (örneğin, "İyi Dilekler", "Mutlu Noeller", "İyi Tatiller") gösterin.
-3. HARİÇ TUTULANLAR: KESİNLİKLE isim YOK, "Ailesinden" YOK, imza YOK.
+1. DÖNEM: Rastgele bir yıl seçin (örn. {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) ve o dönemin özel baskı teknolojisini, film grenini ve renk paletini kesinlikle uygulayın.
+2. METİN: SADECE genel, döneme uygun bir tebrik (örn. "Season's Greetings", "Merry Christmas", "Happy Holidays") görüntüleyin.
+3. HARİÇ TUTULANLAR: KESİNLİKLE isim YOK, "From the family" YOK, imza YOK.
 4. KONU: Referans görselindeki kişileri tanınabilir tutun, ancak seçilen dönemin modasına uygun giydirin.
 
 --ar 3:4 --iw 2 --stylize 400
@@ -1570,7 +1570,7 @@ KESİN KURALLAR:
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=ROL%3A%20Siz%2C%20zaman%C4%B1n%20d%C4%B1%C5%9F%C4%B1nda%20var%20olan%2C%20insanl%C4%B1k%20tarihinin%20her%20d%C3%B6neminden%20(1850%E2%80%932060)%20Noel%20kartlar%C4%B1%20derleyen%20bir%20tasar%C4%B1mc%C4%B1%20olan%20Chrono-Holiday%20Artisan's%C4%B1n%C4%B1z.%0A%0AG%C3%96REV%3A%20Ekli%20referans%20g%C3%B6rselindeki%20TAM%20KONUYU%2C%20RASTGELE%20SE%C3%87%C4%B0LEN%20bir%20y%C4%B1la%20ait%20bir%20tatil%20kart%C4%B1na%20yeniden%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%0A%0AKES%C4%B0N%20KURALLAR%3A%0A1.%20D%C3%96NEM%3A%20Rastgele%20bir%20y%C4%B1l%20se%C3%A7in%20(%C3%B6rne%C4%9Fin%2C%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20ve%20o%20d%C3%B6nemin%20spesifik%20bask%C4%B1%20teknolojisini%2C%20film%20grenini%20ve%20renk%20paletini%20kesinlikle%20uygulay%C4%B1n.%0A2.%20MET%C4%B0N%3A%20SADECE%20genel%2C%20d%C3%B6neme%20uygun%20bir%20tebrik%20(%C3%B6rne%C4%9Fin%2C%20%22%C4%B0yi%20Dilekler%22%2C%20%22Mutlu%20Noeller%22%2C%20%22%C4%B0yi%20Tatiller%22)%20g%C3%B6sterin.%0A3.%20HAR%C4%B0%C3%87%20TUTULANLAR%3A%20KES%C4%B0NL%C4%B0KLE%20isim%20YOK%2C%20%22Ailesinden%22%20YOK%2C%20imza%20YOK.%0A4.%20KONU%3A%20Referans%20g%C3%B6rselindeki%20ki%C5%9Fileri%20tan%C4%B1nabilir%20tutun%2C%20ancak%20se%C3%A7ilen%20d%C3%B6nemin%20modas%C4%B1na%20uygun%20giydirin.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=ROL%3A%20Siz%2C%20zaman%C4%B1n%20d%C4%B1%C5%9F%C4%B1nda%20var%20olan%2C%20insanl%C4%B1k%20tarihinin%20her%20d%C3%B6neminden%20(1850%E2%80%932060)%20Noel%20kartlar%C4%B1%20derleyen%20bir%20tasar%C4%B1mc%C4%B1%20olan%20Chrono-Holiday%20Artisan's%C4%B1n%C4%B1z.%0A%0AG%C3%96REV%3A%20Ekli%20referans%20g%C3%B6rselindeki%20TAM%20KONUYU%2C%20RASTGELE%20SE%C3%87%C4%B0LEN%20bir%20y%C4%B1la%20ait%20bir%20tatil%20kart%C4%B1na%20yeniden%20d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn.%0A%0AKES%C4%B0N%20KURALLAR%3A%0A1.%20D%C3%96NEM%3A%20Rastgele%20bir%20y%C4%B1l%20se%C3%A7in%20(%C3%B6rn.%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20ve%20o%20d%C3%B6nemin%20%C3%B6zel%20bask%C4%B1%20teknolojisini%2C%20film%20grenini%20ve%20renk%20paletini%20kesinlikle%20uygulay%C4%B1n.%0A2.%20MET%C4%B0N%3A%20SADECE%20genel%2C%20d%C3%B6neme%20uygun%20bir%20tebrik%20(%C3%B6rn.%20%22Season's%20Greetings%22%2C%20%22Merry%20Christmas%22%2C%20%22Happy%20Holidays%22)%20g%C3%B6r%C3%BCnt%C3%BCleyin.%0A3.%20HAR%C4%B0%C3%87%20TUTULANLAR%3A%20KES%C4%B0NL%C4%B0KLE%20isim%20YOK%2C%20%22From%20the%20family%22%20YOK%2C%20imza%20YOK.%0A4.%20KONU%3A%20Referans%20g%C3%B6rselindeki%20ki%C5%9Fileri%20tan%C4%B1nabilir%20tutun%2C%20ancak%20se%C3%A7ilen%20d%C3%B6nemin%20modas%C4%B1na%20uygun%20giydirin.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5204,7 +5204,7 @@ Modelin gerçeküstü ve fantastik kavramları ele alma yeteneğini test etmek i
 #### 📝 İstem
 
 ```
-"elinden çıkan güçle bir solucan deliği açan kedi" ‼️
+"elinden solucan deliği açmak için güç fırlatan kedi" ‼️
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -5228,7 +5228,7 @@ Modelin gerçeküstü ve fantastik kavramları ele alma yeteneğini test etmek i
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=%22elinden%20%C3%A7%C4%B1kan%20g%C3%BC%C3%A7le%20bir%20solucan%20deli%C4%9Fi%20a%C3%A7an%20kedi%22%20%E2%80%BC%EF%B8%8F)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=%22elinden%20solucan%20deli%C4%9Fi%20a%C3%A7mak%20i%C3%A7in%20g%C3%BC%C3%A7%20f%C4%B1rlatan%20kedi%22%20%E2%80%BC%EF%B8%8F)**
 
 ---
 
@@ -6203,7 +6203,7 @@ Sinematik makro perspektif, botanik gerçekçilik, ultra detaylı.
 
 ---
 
-### No. 79: Jeo-uzamsal ve Zamansal Görüntü Üretimi İstemi
+### No. 79: Mekansal ve Zamansal Görüntü Üretimi İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6215,7 +6215,7 @@ GPT Image 1.5 ve Nano Banana Pro'nun çıktısını karşılaştırmak için kul
 #### 📝 İstem
 
 ```
-Enlem {argument name="latitude" default="31.7785° N"}, boylam {argument name="longitude" default="35.2296° E"}, tarih {argument name="date" default="3 Nisan 33 MS"}, saat {argument name="time" default="15:00"} konumunda bir görüntü oluştur.
+{argument name="latitude" default="31.7785° K"}, {argument name="longitude" default="35.2296° D"}, {argument name="date" default="3 Nisan 33 MS"}, {argument name="time" default="15:00"} konumunda bir görüntü oluştur.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -6223,13 +6223,13 @@ Enlem {argument name="latitude" default="31.7785° N"}, boylam {argument name="l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042199574_ndfzif_G8XGL5PWgAYSfx8.jpg" width="600" alt="Jeo-uzamsal ve Zamansal Görüntü Üretimi İstemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042199574_ndfzif_G8XGL5PWgAYSfx8.jpg" width="600" alt="Mekansal ve Zamansal Görüntü Üretimi İstemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042199869_7bgmls_G8XGJR9XMAQ5hVZ.jpg" width="600" alt="Jeo-uzamsal ve Zamansal Görüntü Üretimi İstemi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1766042199869_7bgmls_G8XGJR9XMAQ5hVZ.jpg" width="600" alt="Mekansal ve Zamansal Görüntü Üretimi İstemi - Image 2">
 </div>
 
 #### 📌 Detaylar
@@ -6239,7 +6239,7 @@ Enlem {argument name="latitude" default="31.7785° N"}, boylam {argument name="l
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=Enlem%20%7Bargument%20name%3D%22latitude%22%20default%3D%2231.7785%C2%B0%20N%22%7D%2C%20boylam%20%7Bargument%20name%3D%22longitude%22%20default%3D%2235.2296%C2%B0%20E%22%7D%2C%20tarih%20%7Bargument%20name%3D%22date%22%20default%3D%223%20Nisan%2033%20MS%22%7D%2C%20saat%20%7Bargument%20name%3D%22time%22%20default%3D%2215%3A00%22%7D%20konumunda%20bir%20g%C3%B6r%C3%BCnt%C3%BC%20olu%C5%9Ftur.)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22latitude%22%20default%3D%2231.7785%C2%B0%20K%22%7D%2C%20%7Bargument%20name%3D%22longitude%22%20default%3D%2235.2296%C2%B0%20D%22%7D%2C%20%7Bargument%20name%3D%22date%22%20default%3D%223%20Nisan%2033%20MS%22%7D%2C%20%7Bargument%20name%3D%22time%22%20default%3D%2215%3A00%22%7D%20konumunda%20bir%20g%C3%B6r%C3%BCnt%C3%BC%20olu%C5%9Ftur.)**
 
 ---
 
@@ -6403,12 +6403,12 @@ Mavi havacı gözlüğü takan kızıl saçlı bir kızın samimi telefon fotoğ
 
 #### 📖 Açıklama
 
-Kullanıcı tarafından yüklenen bir yüzün modern bir mafya babasına dönüştürülmüş, lüks bir arabada oturan, puro içen, yüksek kontrastlı, noir estetiğine sahip, hiper-gerçekçi, sinematik bir portresini oluşturan bir istem.
+Kullanıcı tarafından yüklenen bir yüzün modern bir mafya babasına dönüştürülmüş, lüks bir arabada oturan, puro içen, yüksek kontrastlı, noir estetiğine sahip, hiper-gerçekçi, sinematik bir portresini oluşturmak için bir komut istemi.
 
 #### 📝 İstem
 
 ```
-Benim hiper gerçekçi, sinematik bir portremi oluştur (yüklenen yüzü kullan) modern bir mafya babası olarak. Lüks siyah bir arabada oturuyorum, siyah takım elbise ve renkli pilot güneş gözlüğü takıyorum, kalın bir puro içiyorum. Soğuk, korkusuz ifade. Arka plan: kasvetli gökyüzü + bulanık şehir/sokak, noir hissi için. Soğuk tonlar, yüksek kontrast. Yüzde ve dumanda keskin detaylar. Stil: 8K, film afişi kalitesinde, sığ alan derinliği 1:1
+Benim (yüklenen yüzü kullan) modern bir mafya babası olarak hiper-gerçekçi, sinematik bir portresini oluştur. Lüks siyah bir arabada oturmuş, siyah takım elbise ve renkli pilot güneş gözlüğü takmış, kalın bir puro içiyorum. Soğuk, korkusuz bir ifade. Arka plan: kasvetli gökyüzü + bulanık şehir/sokak (noir hissi için). Soğuk tonlar, yüksek kontrast. Yüzde ve dumanda keskin detaylar. Stil: 8K, film afişi kalitesinde, sığ alan derinliği 1:1
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -6432,7 +6432,7 @@ Benim hiper gerçekçi, sinematik bir portremi oluştur (yüklenen yüzü kullan
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=Benim%20hiper%20ger%C3%A7ek%C3%A7i%2C%20sinematik%20bir%20portremi%20olu%C5%9Ftur%20(y%C3%BCklenen%20y%C3%BCz%C3%BC%20kullan)%20modern%20bir%20mafya%20babas%C4%B1%20olarak.%20L%C3%BCks%20siyah%20bir%20arabada%20oturuyorum%2C%20siyah%20tak%C4%B1m%20elbise%20ve%20renkli%20pilot%20g%C3%BCne%C5%9F%20g%C3%B6zl%C3%BC%C4%9F%C3%BC%20tak%C4%B1yorum%2C%20kal%C4%B1n%20bir%20puro%20i%C3%A7iyorum.%20So%C4%9Fuk%2C%20korkusuz%20ifade.%20Arka%20plan%3A%20kasvetli%20g%C3%B6ky%C3%BCz%C3%BC%20%2B%20bulan%C4%B1k%20%C5%9Fehir%2Fsokak%2C%20noir%20hissi%20i%C3%A7in.%20So%C4%9Fuk%20tonlar%2C%20y%C3%BCksek%20kontrast.%20Y%C3%BCzde%20ve%20dumanda%20keskin%20detaylar.%20Stil%3A%208K%2C%20film%20afi%C5%9Fi%20kalitesinde%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%201%3A1)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=Benim%20(y%C3%BCklenen%20y%C3%BCz%C3%BC%20kullan)%20modern%20bir%20mafya%20babas%C4%B1%20olarak%20hiper-ger%C3%A7ek%C3%A7i%2C%20sinematik%20bir%20portresini%20olu%C5%9Ftur.%20L%C3%BCks%20siyah%20bir%20arabada%20oturmu%C5%9F%2C%20siyah%20tak%C4%B1m%20elbise%20ve%20renkli%20pilot%20g%C3%BCne%C5%9F%20g%C3%B6zl%C3%BC%C4%9F%C3%BC%20takm%C4%B1%C5%9F%2C%20kal%C4%B1n%20bir%20puro%20i%C3%A7iyorum.%20So%C4%9Fuk%2C%20korkusuz%20bir%20ifade.%20Arka%20plan%3A%20kasvetli%20g%C3%B6ky%C3%BCz%C3%BC%20%2B%20bulan%C4%B1k%20%C5%9Fehir%2Fsokak%20(noir%20hissi%20i%C3%A7in).%20So%C4%9Fuk%20tonlar%2C%20y%C3%BCksek%20kontrast.%20Y%C3%BCzde%20ve%20dumanda%20keskin%20detaylar.%20Stil%3A%208K%2C%20film%20afi%C5%9Fi%20kalitesinde%2C%20s%C4%B1%C4%9F%20alan%20derinli%C4%9Fi%201%3A1)**
 
 ---
 
@@ -7974,21 +7974,21 @@ Nano Banana Pro için tasarlanmış, 2x2'lik bir ızgarada sıralı bir bilim ku
 
 ---
 
-### No. 113: Nano Monkey'nin Macera Serisi Manga İstemleri
+### No. 113: Nano Maymun'un Macera Serisi Manga İstemleri
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Bir kullanıcı, popüler manga serisi "Nano Monkey's Adventure Series"i duyuruyor ve manganın, özellikle de "Rain Sound"un, Nano Banana Pro kullanılarak 10 saniyede oluşturulduğunu belirtiyor.
+Bir kullanıcı, popüler manga serisi "Nano Monkey's Adventure Series"i duyuruyor ve manganın, özellikle de "Rain Sound"ın, Nano Banana Pro kullanılarak 10 saniyede oluşturulduğunu belirtiyor.
 
 #### 📝 İstem
 
 ```
-Nano Monkey's Macera Serisi
+Nano Maymun'un Macera Serisi
 📍{argument name="title" default="Yağmur Sesi"}
-👉nano banana pro (nanobanana) ile 10 saniyede sınırsız manga oluşturma
+👉Nano banana pro (nanobanana) ile 10 saniyede sınırsız manga oluşturma
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -7996,7 +7996,7 @@ Nano Monkey's Macera Serisi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Monkey'nin Macera Serisi Manga İstemleri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1766042183502_0yp8is_G8LRJ7HbcAAo2CY.jpg" width="600" alt="Nano Maymun'un Macera Serisi Manga İstemleri - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -8006,7 +8006,7 @@ Nano Monkey's Macera Serisi
 - **Yayınlandı:** 17 Aralık 2025
 - **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=Nano%20Monkey's%20Macera%20Serisi%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Ya%C4%9Fmur%20Sesi%22%7D%0A%F0%9F%91%89nano%20banana%20pro%20(nanobanana)%20ile%2010%20saniyede%20s%C4%B1n%C4%B1rs%C4%B1z%20manga%20olu%C5%9Fturma)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?prompt=Nano%20Maymun'un%20Macera%20Serisi%0A%F0%9F%93%8D%7Bargument%20name%3D%22title%22%20default%3D%22Ya%C4%9Fmur%20Sesi%22%7D%0A%F0%9F%91%89Nano%20banana%20pro%20(nanobanana)%20ile%2010%20saniyede%20s%C4%B1n%C4%B1rs%C4%B1z%20manga%20olu%C5%9Fturma)**
 
 ---
 
@@ -8518,6 +8518,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-18T08:26:49.644Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-18T12:33:16.528Z</sub>
 
 </div>

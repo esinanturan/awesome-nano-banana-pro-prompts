@@ -90,7 +90,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **1731** |
 | ⭐ 추천 | **13** |
-| 🔄 마지막 업데이트 | **2025년 12월 18일 목요일 오전 8시 19분 45초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 12월 18일 목요일 오후 12시 26분 48초 UTC** |
 
 </div>
 
@@ -1535,15 +1535,15 @@ AI 페르소나('크로노-홀리데이 장인')를 정의하고, 무작위로 �
 #### 📝 프롬프트
 
 ```
-역할: 당신은 시간의 제약을 받지 않고 인류 역사의 모든 시대(1850년~2060년)에서 크리스마스 카드를 큐레이팅하는 디자이너인 Chrono-Holiday Artisan입니다.
+역할: 당신은 시간의 제약을 받지 않고 인류 역사의 모든 시대(1850년~2060년)에서 크리스마스 카드를 큐레이팅하는 디자이너인 "크로노-홀리데이 장인"입니다.
 
-작업: 첨부된 참조 이미지의 EXACT SUBJECT를 무작위로 선택된 연도의 홀리데이 카드로 다시 렌더링하세요.
+작업: 첨부된 참조 이미지의 "정확한 피사체"를 "무작위로 선택된 연도"의 홀리데이 카드로 다시 렌더링하세요.
 
 엄격한 지침:
-1. 시대: 무작위로 한 해를 선택하고(예: {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) 해당 시대의 특정 인쇄 기술, 필름 그레인 및 색상 팔레트를 엄격하게 적용합니다.
-2. 텍스트: 시대에 맞는 일반적인 인사말만 표시합니다(예: "즐거운 연말연시 되세요", "메리 크리스마스", "행복한 휴일 보내세요").
-3. 제외 사항: 이름, "가족으로부터", 서명은 절대 넣지 마세요.
-4. 주제: 참조 이미지의 인물들은 알아볼 수 있도록 유지하되, 선택된 시대의 패션으로 옷을 입힙니다.
+1. 시대: 무작위로 한 해를 선택하고(예: {argument name="example year 1" default="1894"}, {argument name="example year 2" default="1956"}, {argument name="example year 3" default="1982"}, {argument name="example year 4" default="2045"}) 해당 시대의 특정 인쇄 기술, 필름 그레인 및 색상 팔레트를 엄격하게 적용하세요.
+2. 텍스트: 시대에 맞는 일반적인 인사말만 표시하세요(예: "즐거운 계절 되세요", "메리 크리스마스", "행복한 연휴 되세요").
+3. 제외 사항: 이름, "가족으로부터", 서명은 "절대" 포함하지 마세요.
+4. 피사체: 참조 이미지의 인물들은 알아볼 수 있도록 유지하되, 선택된 시대의 패션으로 옷을 입히세요.
 
 --ar 3:4 --iw 2 --stylize 400
 ```
@@ -1569,7 +1569,7 @@ AI 페르소나('크로노-홀리데이 장인')를 정의하고, 무작위로 �
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?prompt=%EC%97%AD%ED%95%A0%3A%20%EB%8B%B9%EC%8B%A0%EC%9D%80%20%EC%8B%9C%EA%B0%84%EC%9D%98%20%EC%A0%9C%EC%95%BD%EC%9D%84%20%EB%B0%9B%EC%A7%80%20%EC%95%8A%EA%B3%A0%20%EC%9D%B8%EB%A5%98%20%EC%97%AD%EC%82%AC%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%8B%9C%EB%8C%80(1850%EB%85%84~2060%EB%85%84)%EC%97%90%EC%84%9C%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%EB%A5%BC%20%ED%81%90%EB%A0%88%EC%9D%B4%ED%8C%85%ED%95%98%EB%8A%94%20%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%B8%20Chrono-Holiday%20Artisan%EC%9E%85%EB%8B%88%EB%8B%A4.%0A%0A%EC%9E%91%EC%97%85%3A%20%EC%B2%A8%EB%B6%80%EB%90%9C%20%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20EXACT%20SUBJECT%EB%A5%BC%20%EB%AC%B4%EC%9E%91%EC%9C%84%EB%A1%9C%20%EC%84%A0%ED%83%9D%EB%90%9C%20%EC%97%B0%EB%8F%84%EC%9D%98%20%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4%20%EC%B9%B4%EB%93%9C%EB%A1%9C%20%EB%8B%A4%EC%8B%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%ED%95%98%EC%84%B8%EC%9A%94.%0A%0A%EC%97%84%EA%B2%A9%ED%95%9C%20%EC%A7%80%EC%B9%A8%3A%0A1.%20%EC%8B%9C%EB%8C%80%3A%20%EB%AC%B4%EC%9E%91%EC%9C%84%EB%A1%9C%20%ED%95%9C%20%ED%95%B4%EB%A5%BC%20%EC%84%A0%ED%83%9D%ED%95%98%EA%B3%A0(%EC%98%88%3A%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20%ED%95%B4%EB%8B%B9%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%ED%8A%B9%EC%A0%95%20%EC%9D%B8%EC%87%84%20%EA%B8%B0%EC%88%A0%2C%20%ED%95%84%EB%A6%84%20%EA%B7%B8%EB%A0%88%EC%9D%B8%20%EB%B0%8F%20%EC%83%89%EC%83%81%20%ED%8C%94%EB%A0%88%ED%8A%B8%EB%A5%BC%20%EC%97%84%EA%B2%A9%ED%95%98%EA%B2%8C%20%EC%A0%81%EC%9A%A9%ED%95%A9%EB%8B%88%EB%8B%A4.%0A2.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%3A%20%EC%8B%9C%EB%8C%80%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%9D%B8%EC%82%AC%EB%A7%90%EB%A7%8C%20%ED%91%9C%EC%8B%9C%ED%95%A9%EB%8B%88%EB%8B%A4(%EC%98%88%3A%20%22%EC%A6%90%EA%B1%B0%EC%9A%B4%20%EC%97%B0%EB%A7%90%EC%97%B0%EC%8B%9C%20%EB%90%98%EC%84%B8%EC%9A%94%22%2C%20%22%EB%A9%94%EB%A6%AC%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%22%2C%20%22%ED%96%89%EB%B3%B5%ED%95%9C%20%ED%9C%B4%EC%9D%BC%20%EB%B3%B4%EB%82%B4%EC%84%B8%EC%9A%94%22).%0A3.%20%EC%A0%9C%EC%99%B8%20%EC%82%AC%ED%95%AD%3A%20%EC%9D%B4%EB%A6%84%2C%20%22%EA%B0%80%EC%A1%B1%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0%22%2C%20%EC%84%9C%EB%AA%85%EC%9D%80%20%EC%A0%88%EB%8C%80%20%EB%84%A3%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94.%0A4.%20%EC%A3%BC%EC%A0%9C%3A%20%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EC%9D%B8%EB%AC%BC%EB%93%A4%EC%9D%80%20%EC%95%8C%EC%95%84%EB%B3%BC%20%EC%88%98%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EC%9C%A0%EC%A7%80%ED%95%98%EB%90%98%2C%20%EC%84%A0%ED%83%9D%EB%90%9C%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%ED%8C%A8%EC%85%98%EC%9C%BC%EB%A1%9C%20%EC%98%B7%EC%9D%84%20%EC%9E%85%ED%9E%99%EB%8B%88%EB%8B%A4.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?prompt=%EC%97%AD%ED%95%A0%3A%20%EB%8B%B9%EC%8B%A0%EC%9D%80%20%EC%8B%9C%EA%B0%84%EC%9D%98%20%EC%A0%9C%EC%95%BD%EC%9D%84%20%EB%B0%9B%EC%A7%80%20%EC%95%8A%EA%B3%A0%20%EC%9D%B8%EB%A5%98%20%EC%97%AD%EC%82%AC%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%8B%9C%EB%8C%80(1850%EB%85%84~2060%EB%85%84)%EC%97%90%EC%84%9C%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C%EB%A5%BC%20%ED%81%90%EB%A0%88%EC%9D%B4%ED%8C%85%ED%95%98%EB%8A%94%20%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%9D%B8%20%22%ED%81%AC%EB%A1%9C%EB%85%B8-%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4%20%EC%9E%A5%EC%9D%B8%22%EC%9E%85%EB%8B%88%EB%8B%A4.%0A%0A%EC%9E%91%EC%97%85%3A%20%EC%B2%A8%EB%B6%80%EB%90%9C%20%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%22%EC%A0%95%ED%99%95%ED%95%9C%20%ED%94%BC%EC%82%AC%EC%B2%B4%22%EB%A5%BC%20%22%EB%AC%B4%EC%9E%91%EC%9C%84%EB%A1%9C%20%EC%84%A0%ED%83%9D%EB%90%9C%20%EC%97%B0%EB%8F%84%22%EC%9D%98%20%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4%20%EC%B9%B4%EB%93%9C%EB%A1%9C%20%EB%8B%A4%EC%8B%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%ED%95%98%EC%84%B8%EC%9A%94.%0A%0A%EC%97%84%EA%B2%A9%ED%95%9C%20%EC%A7%80%EC%B9%A8%3A%0A1.%20%EC%8B%9C%EB%8C%80%3A%20%EB%AC%B4%EC%9E%91%EC%9C%84%EB%A1%9C%20%ED%95%9C%20%ED%95%B4%EB%A5%BC%20%EC%84%A0%ED%83%9D%ED%95%98%EA%B3%A0(%EC%98%88%3A%20%7Bargument%20name%3D%22example%20year%201%22%20default%3D%221894%22%7D%2C%20%7Bargument%20name%3D%22example%20year%202%22%20default%3D%221956%22%7D%2C%20%7Bargument%20name%3D%22example%20year%203%22%20default%3D%221982%22%7D%2C%20%7Bargument%20name%3D%22example%20year%204%22%20default%3D%222045%22%7D)%20%ED%95%B4%EB%8B%B9%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%ED%8A%B9%EC%A0%95%20%EC%9D%B8%EC%87%84%20%EA%B8%B0%EC%88%A0%2C%20%ED%95%84%EB%A6%84%20%EA%B7%B8%EB%A0%88%EC%9D%B8%20%EB%B0%8F%20%EC%83%89%EC%83%81%20%ED%8C%94%EB%A0%88%ED%8A%B8%EB%A5%BC%20%EC%97%84%EA%B2%A9%ED%95%98%EA%B2%8C%20%EC%A0%81%EC%9A%A9%ED%95%98%EC%84%B8%EC%9A%94.%0A2.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%3A%20%EC%8B%9C%EB%8C%80%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%9D%B8%EC%82%AC%EB%A7%90%EB%A7%8C%20%ED%91%9C%EC%8B%9C%ED%95%98%EC%84%B8%EC%9A%94(%EC%98%88%3A%20%22%EC%A6%90%EA%B1%B0%EC%9A%B4%20%EA%B3%84%EC%A0%88%20%EB%90%98%EC%84%B8%EC%9A%94%22%2C%20%22%EB%A9%94%EB%A6%AC%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%22%2C%20%22%ED%96%89%EB%B3%B5%ED%95%9C%20%EC%97%B0%ED%9C%B4%20%EB%90%98%EC%84%B8%EC%9A%94%22).%0A3.%20%EC%A0%9C%EC%99%B8%20%EC%82%AC%ED%95%AD%3A%20%EC%9D%B4%EB%A6%84%2C%20%22%EA%B0%80%EC%A1%B1%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0%22%2C%20%EC%84%9C%EB%AA%85%EC%9D%80%20%22%EC%A0%88%EB%8C%80%22%20%ED%8F%AC%ED%95%A8%ED%95%98%EC%A7%80%20%EB%A7%88%EC%84%B8%EC%9A%94.%0A4.%20%ED%94%BC%EC%82%AC%EC%B2%B4%3A%20%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98%20%EC%9D%B8%EB%AC%BC%EB%93%A4%EC%9D%80%20%EC%95%8C%EC%95%84%EB%B3%BC%20%EC%88%98%20%EC%9E%88%EB%8F%84%EB%A1%9D%20%EC%9C%A0%EC%A7%80%ED%95%98%EB%90%98%2C%20%EC%84%A0%ED%83%9D%EB%90%9C%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%ED%8C%A8%EC%85%98%EC%9C%BC%EB%A1%9C%20%EC%98%B7%EC%9D%84%20%EC%9E%85%ED%9E%88%EC%84%B8%EC%9A%94.%0A%0A--ar%203%3A4%20--iw%202%20--stylize%20400)**
 
 ---
 
@@ -5217,12 +5217,12 @@ Nano Banana Pro를 위해 디자인된 상세한 이미지 생성 프롬프트�
 
 #### 📖 설명
 
-모델이 초현실적이고 환상적인 개념을 처리하는 능력을 테스트하기 위해 사용된 짧고 상상력이 풍부한 프롬프트로, 고양이가 손에서 나오는 힘으로 웜홀을 여는 내용입니다.
+모델이 초현실적이고 환상적인 개념을 다루는 능력을 테스트하기 위해 사용된 짧고 상상력이 풍부한 프롬프트로, 고양이가 손에서 나오는 힘으로 웜홀을 여는 내용입니다.
 
 #### 📝 프롬프트
 
 ```
-고양이가 손에서 힘을 뿜어 웜홀을 연다 ‼️
+고양이가 손에서 힘을 뿜어 웜홀을 열어요 ‼️
 ```
 
 #### 🖼️ 생성된 이미지
@@ -5246,7 +5246,7 @@ Nano Banana Pro를 위해 디자인된 상세한 이미지 생성 프롬프트�
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?prompt=%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80%20%EC%86%90%EC%97%90%EC%84%9C%20%ED%9E%98%EC%9D%84%20%EB%BF%9C%EC%96%B4%20%EC%9B%9C%ED%99%80%EC%9D%84%20%EC%97%B0%EB%8B%A4%20%E2%80%BC%EF%B8%8F)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?prompt=%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80%20%EC%86%90%EC%97%90%EC%84%9C%20%ED%9E%98%EC%9D%84%20%EB%BF%9C%EC%96%B4%20%EC%9B%9C%ED%99%80%EC%9D%84%20%EC%97%B4%EC%96%B4%EC%9A%94%20%E2%80%BC%EF%B8%8F)**
 
 ---
 
@@ -6234,7 +6234,7 @@ RGB 조명이 있는 침실에서 카와이 게이머 코스프레 미학(소 �
 #### 📝 프롬프트
 
 ```
-{argument name="latitude" default="북위 31.7785°"}, {argument name="longitude" default="동경 35.2296°"}, {argument name="date" default="서기 33년 4월 3일"}, {argument name="time" default="15시"}에 이미지를 생성합니다.
+위도 {argument name="latitude" default="북위 31.7785°"}, 경도 {argument name="longitude" default="동경 35.2296°"}, 날짜 {argument name="date" default="서기 33년 4월 3일"}, 시간 {argument name="time" default="15시 00분"}에 이미지를 생성합니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -6258,7 +6258,7 @@ RGB 조명이 있는 침실에서 카와이 게이머 코스프레 미학(소 �
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?prompt=%7Bargument%20name%3D%22latitude%22%20default%3D%22%EB%B6%81%EC%9C%84%2031.7785%C2%B0%22%7D%2C%20%7Bargument%20name%3D%22longitude%22%20default%3D%22%EB%8F%99%EA%B2%BD%2035.2296%C2%B0%22%7D%2C%20%7Bargument%20name%3D%22date%22%20default%3D%22%EC%84%9C%EA%B8%B0%2033%EB%85%84%204%EC%9B%94%203%EC%9D%BC%22%7D%2C%20%7Bargument%20name%3D%22time%22%20default%3D%2215%EC%8B%9C%22%7D%EC%97%90%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%A9%EB%8B%88%EB%8B%A4.)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?prompt=%EC%9C%84%EB%8F%84%20%7Bargument%20name%3D%22latitude%22%20default%3D%22%EB%B6%81%EC%9C%84%2031.7785%C2%B0%22%7D%2C%20%EA%B2%BD%EB%8F%84%20%7Bargument%20name%3D%22longitude%22%20default%3D%22%EB%8F%99%EA%B2%BD%2035.2296%C2%B0%22%7D%2C%20%EB%82%A0%EC%A7%9C%20%7Bargument%20name%3D%22date%22%20default%3D%22%EC%84%9C%EA%B8%B0%2033%EB%85%84%204%EC%9B%94%203%EC%9D%BC%22%7D%2C%20%EC%8B%9C%EA%B0%84%20%7Bargument%20name%3D%22time%22%20default%3D%2215%EC%8B%9C%2000%EB%B6%84%22%7D%EC%97%90%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC%20%EC%83%9D%EC%84%B1%ED%95%A9%EB%8B%88%EB%8B%A4.)**
 
 ---
 
@@ -6422,12 +6422,12 @@ RGB 조명이 있는 침실에서 카와이 게이머 코스프레 미학(소 �
 
 #### 📖 설명
 
-사용자가 업로드한 얼굴을 현대적인 마피아 보스로 변형하여 초현실적이고 영화 같은 초상화를 생성하는 프롬프트. 고급 승용차에 앉아 시가를 피우고 있으며, 고대비의 누아르 미학을 특징으로 합니다.
+사용자가 업로드한 얼굴을 현대적인 마피아 보스로 변형하여 초현실적이고 영화 같은 초상화를 생성하는 프롬프트입니다. 고급 승용차에 앉아 시가를 피우고 있으며, 고대비의 누아르 미학을 특징으로 합니다.
 
 #### 📝 프롬프트
 
 ```
-나(업로드된 얼굴 사용)를 현대 마피아 보스로 묘사한 극사실적이고 영화 같은 초상화를 만들어 줘. 나는 고급스러운 검은색 차에 앉아 검은색 수트를 입고 선팅된 에비에이터 선글라스를 낀 채 두꺼운 시가를 피우고 있어. 차갑고 두려움 없는 표정. 배경: 누아르 느낌을 위해 우울한 하늘 + 흐릿한 도시/거리. 차가운 톤, 높은 대비. 얼굴과 연기의 선명한 디테일. 스타일: 8K, 영화 포스터 품질, 얕은 피사계 심도 1:1
+나(업로드된 얼굴 사용)를 현대 마피아 보스로 묘사한 극사실적이고 영화 같은 초상화를 만들어 줘. 나는 고급스러운 검은색 차에 앉아 검은색 수트를 입고 선팅된 에비에이터 선글라스를 낀 채 두꺼운 시가를 피우고 있어. 차갑고 두려움 없는 표정으로. 배경은 음울한 하늘과 흐릿한 도시/거리로 누아르 느낌을 내줘. 차가운 톤, 높은 대비. 얼굴과 연기의 디테일은 선명하게. 스타일: 8K, 영화 포스터 품질, 얕은 피사계 심도 1:1
 ```
 
 #### 🖼️ 생성된 이미지
@@ -6451,7 +6451,7 @@ RGB 조명이 있는 침실에서 카와이 게이머 코스프레 미학(소 �
 - **게시일:** 2025년 12월 17일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?prompt=%EB%82%98(%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%96%BC%EA%B5%B4%20%EC%82%AC%EC%9A%A9)%EB%A5%BC%20%ED%98%84%EB%8C%80%20%EB%A7%88%ED%94%BC%EC%95%84%20%EB%B3%B4%EC%8A%A4%EB%A1%9C%20%EB%AC%98%EC%82%AC%ED%95%9C%20%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B4%EA%B3%A0%20%EC%98%81%ED%99%94%20%EA%B0%99%EC%9D%80%20%EC%B4%88%EC%83%81%ED%99%94%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A4%98.%20%EB%82%98%EB%8A%94%20%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%B0%A8%EC%97%90%20%EC%95%89%EC%95%84%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%88%98%ED%8A%B8%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%84%A0%ED%8C%85%EB%90%9C%20%EC%97%90%EB%B9%84%EC%97%90%EC%9D%B4%ED%84%B0%20%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%A5%BC%20%EB%82%80%20%EC%B1%84%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EC%8B%9C%EA%B0%80%EB%A5%BC%20%ED%94%BC%EC%9A%B0%EA%B3%A0%20%EC%9E%88%EC%96%B4.%20%EC%B0%A8%EA%B0%91%EA%B3%A0%20%EB%91%90%EB%A0%A4%EC%9B%80%20%EC%97%86%EB%8A%94%20%ED%91%9C%EC%A0%95.%20%EB%B0%B0%EA%B2%BD%3A%20%EB%88%84%EC%95%84%EB%A5%B4%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EC%9C%84%ED%95%B4%20%EC%9A%B0%EC%9A%B8%ED%95%9C%20%ED%95%98%EB%8A%98%20%2B%20%ED%9D%90%EB%A6%BF%ED%95%9C%20%EB%8F%84%EC%8B%9C%2F%EA%B1%B0%EB%A6%AC.%20%EC%B0%A8%EA%B0%80%EC%9A%B4%20%ED%86%A4%2C%20%EB%86%92%EC%9D%80%20%EB%8C%80%EB%B9%84.%20%EC%96%BC%EA%B5%B4%EA%B3%BC%20%EC%97%B0%EA%B8%B0%EC%9D%98%20%EC%84%A0%EB%AA%85%ED%95%9C%20%EB%94%94%ED%85%8C%EC%9D%BC.%20%EC%8A%A4%ED%83%80%EC%9D%BC%3A%208K%2C%20%EC%98%81%ED%99%94%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%ED%92%88%EC%A7%88%2C%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%201%3A1)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?prompt=%EB%82%98(%EC%97%85%EB%A1%9C%EB%93%9C%EB%90%9C%20%EC%96%BC%EA%B5%B4%20%EC%82%AC%EC%9A%A9)%EB%A5%BC%20%ED%98%84%EB%8C%80%20%EB%A7%88%ED%94%BC%EC%95%84%20%EB%B3%B4%EC%8A%A4%EB%A1%9C%20%EB%AC%98%EC%82%AC%ED%95%9C%20%EA%B7%B9%EC%82%AC%EC%8B%A4%EC%A0%81%EC%9D%B4%EA%B3%A0%20%EC%98%81%ED%99%94%20%EA%B0%99%EC%9D%80%20%EC%B4%88%EC%83%81%ED%99%94%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%A4%98.%20%EB%82%98%EB%8A%94%20%EA%B3%A0%EA%B8%89%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%B0%A8%EC%97%90%20%EC%95%89%EC%95%84%20%EA%B2%80%EC%9D%80%EC%83%89%20%EC%88%98%ED%8A%B8%EB%A5%BC%20%EC%9E%85%EA%B3%A0%20%EC%84%A0%ED%8C%85%EB%90%9C%20%EC%97%90%EB%B9%84%EC%97%90%EC%9D%B4%ED%84%B0%20%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%A5%BC%20%EB%82%80%20%EC%B1%84%20%EB%91%90%EA%BA%BC%EC%9A%B4%20%EC%8B%9C%EA%B0%80%EB%A5%BC%20%ED%94%BC%EC%9A%B0%EA%B3%A0%20%EC%9E%88%EC%96%B4.%20%EC%B0%A8%EA%B0%91%EA%B3%A0%20%EB%91%90%EB%A0%A4%EC%9B%80%20%EC%97%86%EB%8A%94%20%ED%91%9C%EC%A0%95%EC%9C%BC%EB%A1%9C.%20%EB%B0%B0%EA%B2%BD%EC%9D%80%20%EC%9D%8C%EC%9A%B8%ED%95%9C%20%ED%95%98%EB%8A%98%EA%B3%BC%20%ED%9D%90%EB%A6%BF%ED%95%9C%20%EB%8F%84%EC%8B%9C%2F%EA%B1%B0%EB%A6%AC%EB%A1%9C%20%EB%88%84%EC%95%84%EB%A5%B4%20%EB%8A%90%EB%82%8C%EC%9D%84%20%EB%82%B4%EC%A4%98.%20%EC%B0%A8%EA%B0%80%EC%9A%B4%20%ED%86%A4%2C%20%EB%86%92%EC%9D%80%20%EB%8C%80%EB%B9%84.%20%EC%96%BC%EA%B5%B4%EA%B3%BC%20%EC%97%B0%EA%B8%B0%EC%9D%98%20%EB%94%94%ED%85%8C%EC%9D%BC%EC%9D%80%20%EC%84%A0%EB%AA%85%ED%95%98%EA%B2%8C.%20%EC%8A%A4%ED%83%80%EC%9D%BC%3A%208K%2C%20%EC%98%81%ED%99%94%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%ED%92%88%EC%A7%88%2C%20%EC%96%95%EC%9D%80%20%ED%94%BC%EC%82%AC%EA%B3%84%20%EC%8B%AC%EB%8F%84%201%3A1)**
 
 ---
 
@@ -8006,7 +8006,7 @@ Nano Banana Pro용으로 제작된 매우 상세한 다중 패널 프롬프트�
 
 #### 📖 설명
 
-한 사용자가 인기 만화 시리즈 '나노 몽키의 모험 시리즈'를 발표하며, 특히 '빗소리'라는 만화가 Nano Banana Pro를 사용해 10초 만에 만들어졌다고 언급합니다.
+한 사용자가 인기 만화 시리즈 '나노 몽키의 모험 시리즈'를 발표하며, 특히 '빗소리'라는 만화가 Nano Banana Pro를 사용해 10초 만에 제작되었다고 언급합니다.
 
 #### 📝 프롬프트
 
@@ -8543,6 +8543,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-18T08:19:45.838Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-18T12:26:48.403Z</sub>
 
 </div>
