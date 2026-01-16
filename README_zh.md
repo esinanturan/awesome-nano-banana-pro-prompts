@@ -138,7 +138,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **5411** |
 | ⭐ 精选 | **10** |
-| 🔄 最后更新 | **2026年1月16日星期五 UTC 08:16:52** |
+| 🔄 最后更新 | **2026年1月16日星期五 UTC 12:22:31** |
 
 </div>
 
@@ -836,38 +836,38 @@ nodes:
 
 ---
 
-### No. 3: 个人资料 / 头像 - High-End Aesthetic Car Selfie Portrait Prompt
+### No. 3: 个人资料 / 头像 - 高端美学汽车自拍肖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for generating a high-end aesthetic car selfie portrait of a young Southeast Asian woman. It emphasizes luxurious car interior details, warm cinematic lighting, specific makeup (glossy burgundy lips), and a confident, moody expression, shot on a high-end smartphone with a shallow depth of field.
+一份详细的提示，用于生成一张年轻的东南亚女性在豪车内自拍的高端美学肖像。它强调了奢华的汽车内饰细节、温暖的电影感灯光、特定的妆容（亮泽的勃艮第色口红）以及自信、情绪化的表情，使用高端智能手机拍摄，景深较浅。
 
 #### 📝 提示词
 
 ```
 {
-  "main_prompt": "high-end aesthetic car selfie portrait, young Southeast Asian woman in her early 20s, long voluminous dark brown wavy hair, professional editorial makeup, bold winged eyeliner, glossy burgundy lips, confident and moody expression, leaning back on a tan leather passenger seat, one arm extended for a phone selfie angle, wearing a high-quality cream textured knit top and casual denim shorts, subtle gold jewelry, tanned smooth skin with natural glow, relaxed seating pose with legs visible in the frame, luxurious car interior details: brown leather panels, soft natural window light from the right, cinematic color grading, warm cabin atmosphere, photorealistic skin texture, 8k resolution, shot on high-end smartphone, portrait mode with shallow depth of field, raw photography style, urban lifestyle vibe",
-  "negative_prompt": "nsfw, suggestive, nude, cleavage, blurred, lowres, deformed anatomy, bad hands, extra limbs, watermark, text, signature, plastic skin, doll-like, overexposed, underexposed, harsh shadows, smiling, elderly, male, group shot, steering wheel, cluttered interior, bright direct sunlight",
+  "main_prompt": "高端美学汽车自拍肖像，20 岁出头的东南亚年轻女性，浓密波浪形深棕色长发，专业编辑妆容，大胆的飞翼眼线，亮泽的勃艮第色唇，自信而忧郁的表情，斜倚在米色皮革副驾驶座上，一只手臂伸出以获得手机自拍角度，身穿高品质米色纹理针织上衣和休闲牛仔短裤，佩戴精致金色首饰，晒黑光滑的皮肤散发自然光泽，放松的坐姿，双腿在画面中可见，豪华汽车内饰细节：棕色皮革面板，右侧窗户射入柔和的自然光，电影级调色，温暖的驾驶舱氛围，逼真的皮肤纹理，8k 分辨率，使用高端智能手机拍摄，人像模式，浅景深，原始摄影风格，都市生活气息",
+  "negative_prompt": "nsfw, 露骨，裸露，乳沟，模糊，低分辨率，解剖结构变形，糟糕的手部，多余的肢体，水印，文字，签名，塑料皮肤，玩偶般，过曝，欠曝，强烈阴影，微笑，老年，男性，合影，方向盘，杂乱的内饰，明亮直射的阳光",
   "style_tags": [
-    "photorealistic",
-    "lifestyle selfie",
-    "luxury car interior",
-    "moody lighting",
-    "confident pose",
-    "editorial aesthetic",
-    "raw photography",
-    "urban vibe"
+    "写实主义",
+    "生活方式自拍",
+    "豪华汽车内饰",
+    "忧郁光线",
+    "自信姿态",
+    "编辑美学",
+    "原始摄影",
+    "都市氛围"
   ],
   "technical": {
     "aspect_ratio": "9:16",
-    "lighting": "soft diffused natural light from window, warm ambient cabin glow, subtle rim light on hair",
-    "color_palette": "warm cream, rich tan leather, burgundy accents, natural skin tones",
-    "camera": "wide-angle front camera perspective, shallow DoF, natural focus on face"
+    "lighting": "窗户射入柔和漫射的自然光，温暖的环境舱内光，头发上微妙的轮廓光",
+    "color_palette": "暖米色，丰富的棕褐色皮革，勃艮第色点缀，自然肤色",
+    "camera": "广角前置摄像头视角，浅景深，面部自然对焦"
   },
-  "composition": "asymmetrical selfie framing, subject leaning back, casual leg placement in foreground, dynamic and modern",
-  "mood_atmosphere": "confident, moody, luxury lifestyle, intimate but sophisticated, private car ride moment",
+  "composition": "不对称自拍构图，主体后仰，前景随意放置的双腿，动感而现代",
+  "mood_atmosphere": "自信，忧郁，奢华生活方式，私密而精致，私人驾车时刻",
   "extra_parameters": {
     "steps": 35,
     "cfg_scale": 6.5,
@@ -882,7 +882,7 @@ A detailed prompt for generating a high-end aesthetic car selfie portrait of a y
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544792913_3s2v1y_G-veeImXoAAyCvF.jpg" width="600" alt="个人资料 / 头像 - High-End Aesthetic Car Selfie Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544792913_3s2v1y_G-veeImXoAAyCvF.jpg" width="600" alt="个人资料 / 头像 - 高端美学汽车自拍肖像提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -896,18 +896,18 @@ A detailed prompt for generating a high-end aesthetic car selfie portrait of a y
 
 ---
 
-### No. 4: 个人资料 / 头像 - Image generation of Suu Mizumiya using Nano Banana Pro
+### No. 4: 个人资料 / 头像 - 使用 Nano Banana Pro 生成水见式（Suu Mizumiya）图像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A simple description accompanying an image generated by Nano Banana Pro, featuring the character Suu Mizumiya from Hololive.
+以下是 Nano Banana Pro 生成的图片附带的简单描述，图片中是 Hololive 角色水宫铃（Suu Mizumiya）。
 
 #### 📝 提示词
 
 ```
-Suu Mizumiya / mizumiya suu. Smiling Suu-chan.
+水宫 水 / mizumiya suu。微笑的小水。
 ```
 
 #### 🖼️ 生成图片
@@ -915,7 +915,7 @@ Suu Mizumiya / mizumiya suu. Smiling Suu-chan.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544883488_66pgni_G-t9TGcaIAAAaH_.jpg" width="600" alt="个人资料 / 头像 - Image generation of Suu Mizumiya using Nano Banana Pro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544883488_66pgni_G-t9TGcaIAAAaH_.jpg" width="600" alt="个人资料 / 头像 - 使用 Nano Banana Pro 生成水见式（Suu Mizumiya）图像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -929,95 +929,95 @@ Suu Mizumiya / mizumiya suu. Smiling Suu-chan.
 
 ---
 
-### No. 5: 个人资料 / 头像 - Candid Mirror Selfie with Messy Blowout and Y2K Fashion
+### No. 5: 个人资料 / 头像 - 凌乱吹发和 Y2K 时尚的随性镜面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for generating a high-fidelity, candid mirror selfie of a curvy female subject in a hotel bedroom. It specifies a messy blonde blowout, Y2K-inspired fashion (cropped white shirt, pleated miniskirt, visible thong strap), and warm indoor lighting with purple/blue mood lighting for an intimate, social media aesthetic.
+一个详细的提示，用于生成一张高保真、自然的酒店卧室曲线身材女性镜子自拍。提示中指定了蓬松的金色卷发、Y2K 风格的时尚（露脐白衬衫、百褶迷你裙、可见的丁字裤肩带），以及带有紫色/蓝色情调照明的温暖室内灯光，营造出一种私密、适合社交媒体的氛围。
 
 #### 📝 提示词
 
 ```
 {
-  "subject": {
-    "demographics": {
-      "age": "early 20s",
-      "gender": "female",
-      "ethnicity": "caucasian with light skin tone"
-    },
-    "hair": {
-      "color": "blonde",
-      "style": "shoulder-length, wavy, voluminous, messy blowout",
-      "texture": "thick, natural curls"
-    },
-    "face": {
-      "shape": "oval",
-      "eyes": "light green, looking towards the phone screen",
-      "nose": "small, straight bridge",
-      "lips": "full, natural, slightly parted",
-      "skin_texture": "smooth tanned skin, visible pores, no airbrushing"
-    },
-    "body_proportions": {
-      "build": "curvy, athletic",
-      "torso": "toned midriff, prominent ribcage due to pose",
-      "skin_details": "nostril piercing, navel piercing"
-    },
-    "attire": {
-      "top": "cropped white button-up shirt, rolled sleeves",
-      "bottom": "black pleated miniskirt",
-      "accessory": "black and red plaid necktie",
-      "details": "black thong strap visible above skirt waistband"
-    }
-  },
-  "pose": {
-    "type": "mirror selfie sitting on bed",
-    "orientation": "body angled slightly right",
-    "arms": {
-      "right_arm": "raised, hand behind head, elbow out",
-      "left_arm": "holding smartphone to take the photo in the mirror"
-    },
-    "head_tilt": "tilted back and to the left, looking up at the phone",
-    "legs": "kneeling on the bed, partially obscured"
-  },
-  "setting": {
-    "location": "hotel bedroom",
-    "foreground": "rumpled white duvet and pillows",
-    "background": "large beige pleated curtains, wooden headboard, pinkish wall",
-    "props": "pink fur smartphone case with multiple camera lenses",
-    "clutter": "slight wrinkles on bedding"
-  },
-  "camera": {
-    "shot_type": "mirror selfie",
-    "angle": "eye-level reflection",
-    "framing": "medium shot (waist up)",
-    "focal_length": "smartphone wide lens",
-    "perspective": "first-person via mirror",
-    "aspect_ratio": "3:4"
-  },
-  "lighting": {
-    "source": "warm indoor ambient light mixed with purple/blue mood lighting",
-    "quality": "soft, diffused, colored cast",
-    "highlights": "reflection on phone screen and camera lens",
-    "shadows": "soft shadows under arms and chin",
-    "color_temperature": "warm, purpleish tone"
-  },
-  "mood_and_expression": {
-    "emotion": "relaxed, confident, casual",
-    "gaze": "focused on phone screen",
-    "atmosphere": "intimate, evening, candid"
-  },
-  "style_and_realism": {
-    "aesthetic": "raw photo, candid snap, unfiltered, social media style",
-    "realism_level": "high, natural film grain, unprocessed look",
-    "imperfections": "slight lens flare from phone flash reflection, natural skin texture"
-  },
-  "technical_details": {
-    "sharpness": "focus on subject in mirror reflection",
-    "noise": "moderate ISO grain due to low light",
-    "texture_quality": "high fidelity for fabric and skin"
-  }
+  "subject": {
+    "demographics": {
+      "age": "20 岁出头",
+      "gender": "女性",
+      "ethnicity": "白种人，肤色较浅"
+    },
+    "hair": {
+      "color": "金色",
+      "style": "齐肩，波浪，蓬松，凌乱的吹发造型",
+      "texture": "浓密，自然卷"
+    },
+    "face": {
+      "shape": "椭圆形",
+      "eyes": "浅绿色，看向手机屏幕",
+      "nose": "小巧，鼻梁挺直",
+      "lips": "丰满，自然，微张",
+      "skin_texture": "光滑的晒黑皮肤，毛孔可见，无修图痕迹"
+    },
+    "body_proportions": {
+      "build": "曲线玲珑，健美",
+      "torso": "腰腹紧致，因姿势原因肋骨突出",
+      "skin_details": "鼻孔穿环，肚脐穿环"
+    },
+    "attire": {
+      "top": "短款白色纽扣衬衫，卷起袖子",
+      "bottom": "黑色百褶迷你裙",
+      "accessory": "黑红格子领带",
+      "details": "黑色丁字裤带在裙子腰带上方可见"
+    }
+  },
+  "pose": {
+    "type": "坐在床上对着镜子自拍",
+    "orientation": "身体略微向右倾斜",
+    "arms": {
+      "right_arm": "抬起，手置于脑后，手肘向外",
+      "left_arm": "手持智能手机对着镜子拍照"
+    },
+    "head_tilt": "头部向后并向左倾斜，向上看手机",
+    "legs": "跪在床上，部分被遮挡"
+  },
+  "setting": {
+    "location": "酒店卧室",
+    "foreground": "凌乱的白色羽绒被和枕头",
+    "background": "大型米色褶皱窗帘，木质床头板，粉色墙壁",
+    "props": "粉色毛绒手机壳，带多个摄像头镜头",
+    "clutter": "床上用品略有褶皱"
+  },
+  "camera": {
+    "shot_type": "镜面自拍",
+    "angle": "与视线平行的反射",
+    "framing": "中景（腰部以上）",
+    "focal_length": "智能手机广角镜头",
+    "perspective": "通过镜子的第一人称视角",
+    "aspect_ratio": "3:4"
+  },
+  "lighting": {
+    "source": "温暖的室内环境光与紫色/蓝色氛围灯混合",
+    "quality": "柔和，漫射，有色调",
+    "highlights": "手机屏幕和摄像头镜头的反光",
+    "shadows": "手臂和下巴下方的柔和阴影",
+    "color_temperature": "暖色调，偏紫色"
+  },
+  "mood_and_expression": {
+    "emotion": "放松，自信，随意",
+    "gaze": "专注于手机屏幕",
+    "atmosphere": "亲密，夜晚，抓拍"
+  },
+  "style_and_realism": {
+    "aesthetic": "原始照片，抓拍，无滤镜，社交媒体风格",
+    "realism_level": "高，自然胶片颗粒，未经处理的外观",
+    "imperfections": "手机闪光灯反射造成的轻微镜头眩光，自然皮肤纹理"
+  },
+  "technical_details": {
+    "sharpness": "焦点在镜面反射中的主体上",
+    "noise": "由于弱光导致适度的 ISO 颗粒",
+    "texture_quality": "织物和皮肤的高保真度"
+  }
 }
 ```
 
@@ -1026,7 +1026,7 @@ A detailed prompt for generating a high-fidelity, candid mirror selfie of a curv
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544852927_0uo2l6_G-t_aFubQAI3K2F.jpg" width="600" alt="个人资料 / 头像 - Candid Mirror Selfie with Messy Blowout and Y2K Fashion - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544852927_0uo2l6_G-t_aFubQAI3K2F.jpg" width="600" alt="个人资料 / 头像 - 凌乱吹发和 Y2K 时尚的随性镜面自拍 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1040,20 +1040,20 @@ A detailed prompt for generating a high-fidelity, candid mirror selfie of a curv
 
 ---
 
-### No. 6: 个人资料 / 头像 - Cosmic Galaxy Watercolor Portrait (Identity Preservation)
+### No. 6: 个人资料 / 头像 - 宇宙星系水彩肖像画（身份保留）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for an image-to-image generation task, requiring 100% preservation of the subject's facial features and identity from an uploaded reference image. The style is a cosmic galaxy watercolor portrait, where the face is softly merged with vibrant nebula textures and stardust highlights, set against a deep space background.
+一个用于图生图任务的提示词，要求 100% 保留上传参考图像中主体的面部特征和身份。风格为宇宙星系水彩肖像，面部与充满活力的星云纹理和星尘高光柔和融合，背景为深空。
 
 #### 📝 提示词
 
 ```
 {
-  "prompt": "Use the uploaded reference image to **preserve 100% of the facial features, identity, age, skin tone, and expression** of the person. Do not alter facial structure or proportions. Create a **cosmic galaxy watercolor portrait** where the face remains soft and realistic but is gently merged with nebula textures. Hair follows the exact reference style, with subtle stardust highlights woven through the strands. Clothing: simple dark or neutral attire that fades into swirling galaxy patterns. Background: deep space filled with vibrant nebulas, glowing stars, floating light particles, and watercolor galaxies in shades of indigo, teal, violet, and cosmic blue. Soft ethereal rim light outlines the silhouette. Fine pencil sketch lines mixed with watercolor bleeds, smooth gradients, dreamy depth, cinematic and artistic masterpiece quality.",
-  "negative_prompt": "blurry, low quality, deformed, extra limbs, bad anatomy, watermark, text overlay, anime, cartoon, overexposed, underexposed, ugly face, bad hands, face altered, identity changed, harsh lighting, plastic skin, flat colors",
+  "prompt": "使用上传的参考图片，**100% 保留人物的面部特征、身份、年龄、肤色和表情**。不要改变面部结构或比例。创作一幅**宇宙星系水彩肖像**，其中脸部保持柔和逼真，但与星云纹理柔和融合。头发遵循精确的参考风格，发丝中编织着微妙的星尘高光。服装：简单的深色或中性服装，融入旋转的星系图案。背景：深邃的太空，充满活力的星云、闪烁的星星、漂浮的光粒子，以及靛蓝、青色、紫罗兰和宇宙蓝色调的水彩星系。柔和的空灵轮廓光勾勒出剪影。精细的铅笔素描线条与水彩晕染、平滑的渐变、梦幻般的景深、电影般的艺术杰作品质。",
+  "negative_prompt": "模糊、低质量、变形、多余肢体、糟糕的解剖结构、水印、文字叠加、动漫、卡通、过曝、欠曝、丑陋的脸、糟糕的手、脸部改变、身份改变、刺眼的灯光、塑料皮肤、扁平的颜色",
   "parameters": {
     "steps": 50,
     "cfg_scale": 7.2,
@@ -1064,7 +1064,7 @@ A prompt for an image-to-image generation task, requiring 100% preservation of t
     "height": 1216,
     "aspect_ratio": "2:3"
   },
-  "usage_instructions": "Upload your image in img2img or reference mode. Keep strength around 0.5–0.55 to keep the face **100% matching**, while blending the portrait into a cosmic watercolor universe."
+  "usage_instructions": "在 img2img 或参考模式下上传您的图片。将强度保持在 0.5–0.55 左右，以使面部**100% 匹配**，同时将肖像融入宇宙水彩世界。"
 }
 ```
 
@@ -1073,7 +1073,7 @@ A prompt for an image-to-image generation task, requiring 100% preservation of t
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544828587_3lbiom_G-uiPqRbQAI09dg.jpg" width="600" alt="个人资料 / 头像 - Cosmic Galaxy Watercolor Portrait (Identity Preservation) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544828587_3lbiom_G-uiPqRbQAI09dg.jpg" width="600" alt="个人资料 / 头像 - 宇宙星系水彩肖像画（身份保留） - Image 1">
 </div>
 
 #### 📌 详情
@@ -1087,92 +1087,92 @@ A prompt for an image-to-image generation task, requiring 100% preservation of t
 
 ---
 
-### No. 7: 个人资料 / 头像 - Editorial Mirror Selfie with Detailed Identity Lock
+### No. 7: 个人资料 / 头像 - 编辑镜面自拍，附带详细身份锁
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly detailed image generation prompt for an editorial-style mirror selfie of a young athletic woman. It includes an extensive 'identity lock' section specifying facial features, body type, hair, and makeup, set in a modern bedroom with a focus on capturing a playful side-glance and soft smirk.
+一个高度详细的图像生成提示，用于创作一张年轻运动型女性的编辑风格镜面自拍。它包含一个广泛的“身份锁定”部分，详细说明了面部特征、体型、发型和妆容，场景设定在一个现代卧室中，重点捕捉俏皮的侧视和柔和的微笑。
 
 #### 📝 提示词
 
 ```
 "ar": "9:16",
-  "intent": "rooftop golden hour, city skyline background, editorial feel",
+  "intent": "屋顶黄金时段，城市天际线背景，杂志风格",
   "subject": {
-    "type": "young woman",
-    "age": "mid-20s",
-    "identity_lock": "young athletic woman in her mid-20s with long platinum-blonde hair, fair skin with a light tan, soft feminine facial features (defined jawline, high cheekbones, natural lips), fit gym-trained body (toned shoulders, visible abs, strong legs and glutes)",
+    "type": "年轻女性",
+    "age": "20 多岁",
+    "identity_lock": "20 多岁的年轻运动型女性，留着铂金色长发，皮肤白皙略带浅棕褐色，面部特征柔美（下颌线分明，颧骨高，自然唇形），身材健美（肩膀结实，腹肌明显，腿部和臀部强壮）",
     "face_lock": {
-      "face_shape": "oval face with soft features",
-      "eyes": "almond-shaped light hazel/green eyes, sharp catchlights, slightly lifted outer corners, natural lashes",
-      "brows": "full natural brows with a clean arch",
-      "nose": "small button nose",
-      "lips": "slightly pouty lips",
-      "skin": "real skin texture with visible pores and faint freckles (no smoothing)"
+      "face_shape": "椭圆形脸，五官柔和",
+      "eyes": "杏仁状淡褐色/绿色眼睛，眼神锐利，外眼角略微上扬，自然睫毛",
+      "brows": "浓密自然的眉毛，眉弓清晰",
+      "nose": "小巧的翘鼻",
+      "lips": "略微嘟起的嘴唇",
+      "skin": "真实的皮肤纹理，毛孔可见，有淡淡的雀斑（无磨皮）"
     },
     "hair": {
-      "style": "medium-length curls",
-      "finish": "perfectly styled with no flyaways"
+      "style": "中长卷发",
+      "finish": "完美造型，无飞发"
     },
-    "makeup": "minimal: tinted moisturizer, mascara, tinted lip balm",
-    "expression": "playful side-glance + soft smirk, relaxed jaw"
+    "makeup": "淡妆：润色保湿霜、睫毛膏、润色润唇膏",
+    "expression": "俏皮的斜视 + 柔和的坏笑，下巴放松"
   },
   "outfit": {
     "top": {
-      "type": "fitted tank top",
-      "cut": "off-shoulder",
-      "structure": "cropped at waist",
-      "fabric": "soft cotton jersey"
+      "type": "修身背心",
+      "cut": "露肩",
+      "structure": "齐腰短款",
+      "fabric": "柔软棉质平纹针织布"
     },
     "bottom": {
-      "type": "tailored trousers",
-      "fit": "A-line silhouette"
+      "type": "定制长裤",
+      "fit": "A 字廓形"
     }
   },
   "accessories": {
-    "earrings": "statement chandelier earrings",
-    "bracelets": "none",
-    "rings": "none",
-    "other": "dainty pendant necklace"
+    "earrings": "醒目的吊灯耳环",
+    "bracelets": "无",
+    "rings": "无",
+    "other": "精致吊坠项链"
   },
   "action_pose": {
-    "type": "mirror selfie",
-    "body_position": "walking mid-stride",
-    "upper_body": "arms crossed casually",
-    "phone_hand": "phone extended at arm's length",
-    "glass_action": "mid-sip with the rim touching lips, white wine visible inside",
-    "framing": "full body from head to feet visible; subject centered"
+    "type": "镜面自拍",
+    "body_position": "大步流星地行走中",
+    "upper_body": "手臂随意交叉",
+    "phone_hand": "手机伸直，与手臂同长",
+    "glass_action": "正在小口啜饮，杯沿触唇，杯中可见白葡萄酒",
+    "framing": "从头到脚全身可见；主体居中"
   },
   "scene": {
-    "location": "modern bedroom (hotel-like)",
+    "location": "现代卧室（酒店风格）",
     "table": [
-      "bread basket",
-      "water glass",
-      "silverware set on the right edge of frame"
+      "面包篮",
+      "水杯",
+      "餐具摆放在画面右边缘"
     ],
     "background": [
-      "rows of tables with white tablecloths",
-      "glass/window wall on the right with reflections",
-      "ceiling with angled panels/awnings",
-      "palm trees visible outside through the large windows"
+      "一排排铺着白色桌布的桌子",
+      "右侧的玻璃/窗户墙壁有反光",
+      "带有倾斜面板/遮阳篷的天花板",
+      "透过大窗户可见室外的棕榈树"
     ],
     "bed": {
-      "bedding": "plush velvet comforter",
-      "throw_blanket": "none"
+      "bedding": "奢华丝绒羽绒被",
+      "throw_blanket": "无"
     },
     "background_details": {
       "vanity_setup": [
-        "makeup vanity/desk with lots of items scattered naturally (brush cup, palettes, bottles, perfume silhouettes)",
-        "jewelry box with items spilling out"
+        "化妆台/书桌上随意散落着许多物品（笔筒、调色盘、瓶子、香水剪影）",
+        "珠宝盒里溢出的物品"
       ],
-      "mirror_lights": "Hollywood-style bulb lights around mirror",
-      "ring_light": "ring light behind the vanity with tripod legs visible (off or dim)",
+      "mirror_lights": "镜子周围的好莱坞风格灯泡",
+      "ring_light": "化妆台后面带有三脚架的环形灯（关闭或昏暗）",
       "extra_room_details": [
-        "a water glass or bottle on a side table edge",
-        "small scented candle on the vanity (soft glow)",
-        "laptop slightly open on the desk edge or chair (screen dim, no "
+        "边桌边缘放着一个水杯或水瓶",
+        "化妆台上放着一个小型香薰蜡烛（柔和的光芒）",
+        "笔记本电脑在桌子边缘或椅子上略微打开（屏幕昏暗，无"
   }
 ```
 
@@ -1181,25 +1181,25 @@ A highly detailed image generation prompt for an editorial-style mirror selfie o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544858489_xgvm4k_G-uP_OmWIAA3o4S.jpg" width="600" alt="个人资料 / 头像 - Editorial Mirror Selfie with Detailed Identity Lock - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544858489_xgvm4k_G-uP_OmWIAA3o4S.jpg" width="600" alt="个人资料 / 头像 - 编辑镜面自拍，附带详细身份锁 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544858451_kv0tz9_G-uP_OlWsAArs96.jpg" width="600" alt="个人资料 / 头像 - Editorial Mirror Selfie with Detailed Identity Lock - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544858451_kv0tz9_G-uP_OlWsAArs96.jpg" width="600" alt="个人资料 / 头像 - 编辑镜面自拍，附带详细身份锁 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544859310_evv7b8_G-uP_OmWkAANsbR.jpg" width="600" alt="个人资料 / 头像 - Editorial Mirror Selfie with Detailed Identity Lock - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768544859310_evv7b8_G-uP_OmWkAANsbR.jpg" width="600" alt="个人资料 / 头像 - 编辑镜面自拍，附带详细身份锁 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544859424_gyqxuo_G-uP_QCa0AAG3rM.jpg" width="600" alt="个人资料 / 头像 - Editorial Mirror Selfie with Detailed Identity Lock - Image 4">
+<img src="https://cms-assets.youmind.com/media/1768544859424_gyqxuo_G-uP_QCa0AAG3rM.jpg" width="600" alt="个人资料 / 头像 - 编辑镜面自拍，附带详细身份锁 - Image 4">
 </div>
 
 #### 📌 详情
@@ -1213,52 +1213,53 @@ A highly detailed image generation prompt for an editorial-style mirror selfie o
 
 ---
 
-### No. 8: 个人资料 / 头像 - Ultra-Photorealistic Mirror Selfie in Italy Prompt
+### No. 8: 个人资料 / 头像 - 意大利超逼真镜面自拍提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly detailed JSON prompt for generating an ultra-photorealistic mirror selfie taken on a luxurious Mediterranean terrace. The prompt specifies a complex pose (deep squat), a shimmering cut-out outfit, and dense environmental details including ceramic tiles and a view of the Tyrrhenian Sea, emphasizing a high-end influencer aesthetic.
+一个高度详细的 JSON 提示，用于生成一张在奢华地中海露台上拍摄的超逼真镜面自拍。该提示指定了一个复杂的姿势（深蹲）、一件闪闪发光的镂空服装，以及包括瓷砖和第勒尼安海景在内的密集环境细节，强调高端网红美学。
 
 #### 📝 提示词
 
 ```
 {
-  "generation_parameters": {
-    "aspect_ratio": "9:16",
-    "quality_preset": "Ultra-Photorealistic / Cinematographic",
-    "model_version": "Nano Banana Pro",
-    "chaos": "low",
-    "stylize": "medium-high"
-  },
-  "prompt_core": {
-    "subject_details": {
-      "demographics": "Young woman, early 20s, olive complexion, highly photogenic.",
-      "facial_features": "Defined facial structure, high cheekbones, sharp jawline, dark almond-shaped eyes looking directly at camera reflection, full lips with mauve gloss.",
-      "hair_and_grooming": "Dark hair styled into a sleek, tight, high ponytail. Two thin, face-framing tendrils pulled loose in front. Immaculate 'clean girl' aesthetic makeup, sharp winged eyeliner, perfectly groomed eyebrows."
-    },
-    "attire_and_texture": {
-      "main_outfit": "A white two-piece set (or cut-out dress) made from a highly textured, shimmering lurex or fine glitter fabric that catches the light. Strapless bandeau top. High-waisted skirt with a significant asymmetrical cut-out at the midriff and a draped, folded front panel.",
-      "footwear": "Black patent leather pointed-toe stiletto pumps, showing glossy reflections.",
-      "accessories": "Layered delicate turquoise chain necklaces. Small diamond hoop earrings. A beaded gold bracelet on the left wrist."
-    },
-    "pose_and_action": {
-      "body_position": "Deep squat posture balanced on the balls of the feet on a rug, knees spread wide. Torso upright, slightly turned.",
-      "hands_and_objects": "Holding a bright magenta/pink Apple iPhone (approx. 17 Pro mqx orange model) with visible camera lenses, positioned in front of the face to take a mirror selfie. A white pop-socket grip is visible on the back of the phone."
-    },
-    "environment_dense_description": {
-      "setting": "Bright, modern, minimalist outdoor terrace exterior. Mediterranean aesthetic.",
-      "foreground_elements": "Perched on steep cliffs, the terrace feature hand-painted ceramic details in azure and coral tones, blending rustic elegance with luxurious comfort. Furnished with sun loungers, shaded pergolas, and al fresco dining sets, they serve as private sanctuaries for savoring morning espresso or golden-hour aperitivos.",
-      "background_elements": "The view typically unfolds across cascading pastel houses, the shimmering Tyrrhenian Sea, and the dome of Santa Maria Assunta, creating a living postcard of coastal beauty."
-    },
-    "lighting_and_atmosphere": {
-      "light_source": "Soft, diffused natural daylight. No harsh shadows.",
-      "mood": "Confident, casual influencer 'fit check', contemporary, clean, high-end vibe.",
-      "photographic_style": "Mirror selfie taken with a high-quality smartphone camera, slightly wide angle. Sharp focus on the subject and the phone. Realistic color grading, high dynamic range."
-    }
-  },
-  "negative_prompt_strict": "cartoon, painting, 3d render, CGI, anime, low resolution, blurry, grain"
+  "generation_parameters": {
+    "aspect_ratio": "9:16",
+    "quality_preset": "Ultra-Photorealistic / Cinematographic",
+    "model_version": "Nano Banana Pro",
+    "chaos": "low",
+    "stylize": "medium-high"
+  },
+  "prompt_core": {
+    "subject_details": {
+      "demographics": "年轻女性，20 岁出头，橄榄色肤色，非常上镜。",
+      "facial_features": "面部结构分明，高颧骨，下颌线清晰，深色杏仁状眼睛直视相机反射，丰满的嘴唇涂有淡紫色唇彩。",
+      "hair_and_grooming": "深色头发梳成光滑、紧致、高高的马尾辫。两缕细长的发丝松散地垂在脸颊两侧。精致的“干净女孩”妆容，犀利的飞翼眼线，修剪完美的眉毛。",
+      "attire_and_texture": {
+        "main_outfit": "一套白色两件套（或镂空连衣裙），由高度纹理化、闪闪发光的金银丝或细闪面料制成，能捕捉光线。无肩带抹胸上衣。高腰半身裙，腰部有显著的不对称镂空设计和褶皱的前幅。",
+        "footwear": "黑色漆皮尖头细高跟鞋，呈现光泽反射。",
+        "accessories": "多层精致的绿松石项链。小钻石耳环。左手腕戴着串珠金手链。"
+      }
+    },
+    "pose_and_action": {
+      "body_position": "在地毯上深蹲姿势，脚尖着地保持平衡，双膝分开。躯干挺直，略微转向。",
+      "hands_and_objects": "手持亮洋红色/粉色 Apple iPhone（大约 17 Pro mqx 橙色型号），可见摄像头镜头，置于脸前拍摄镜面自拍。手机背面可见白色 PopSockets 手机支架。"
+    },
+    "environment_dense_description": {
+      "setting": "明亮、现代、极简主义的户外露台。地中海美学风格。",
+      "foreground_elements": "露台坐落在陡峭的悬崖上，其特色是天蓝色和珊瑚色手绘陶瓷细节，将质朴的优雅与奢华的舒适融为一体。配有日光浴躺椅、遮阳藤架和露天用餐区，它们是品尝早晨浓缩咖啡或黄金时段开胃酒的私人圣地。",
+      "background_elements": "景色通常是层叠的柔和色调房屋、波光粼粼的第勒尼安海和圣母升天教堂的圆顶，构成了一幅生动的海岸美景明信片。"
+    },
+    "lighting_and_atmosphere": {
+      "light_source": "柔和、漫射的自然日光。无刺眼阴影。",
+      "mood": "自信、休闲的网红“穿搭检查”，现代、干净、高端的氛围。",
+      "photographic_style": "用高质量智能手机相机拍摄的镜面自拍，略带广角。主体和手机对焦清晰。真实的色彩分级，高动态范围。"
+    }
+  },
+  "negative_prompt_strict": "卡通、绘画、3D 渲染、CGI、动漫、低分辨率、模糊、颗粒"
+}
 ```
 
 #### 🖼️ 生成图片
@@ -1266,7 +1267,7 @@ A highly detailed JSON prompt for generating an ultra-photorealistic mirror self
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544788520_7jp007_G-uHQPJbQAolAt_.jpg" width="600" alt="个人资料 / 头像 - Ultra-Photorealistic Mirror Selfie in Italy Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544788520_7jp007_G-uHQPJbQAolAt_.jpg" width="600" alt="个人资料 / 头像 - 意大利超逼真镜面自拍提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1280,72 +1281,72 @@ A highly detailed JSON prompt for generating an ultra-photorealistic mirror self
 
 ---
 
-### No. 9: 个人资料 / 头像 - Minimalist Studio Fashion Portrait Prompt
+### No. 9: 个人资料 / 头像 - 极简主义影棚时尚肖像提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A structured prompt for generating a high-resolution, ultra-detailed editorial fashion portrait in a clean studio setting. It specifies professional studio lighting (softbox key light, gentle rim light), a neutral gradient background, and a focus on realistic skin tones and modern, minimal streetwear, using an 85mm portrait lens look.
+一个结构化的提示，用于在简洁的影棚环境中生成一张高分辨率、超细节的时尚编辑肖像。它指定了专业的影棚灯光（柔光箱主光、柔和的轮廓光）、中性渐变背景，并着重于逼真的肤色和现代简约的街头服饰，采用 85mm 人像镜头效果。
 
 #### 📝 提示词
 
 ```
 {
-  "image_type": "studio_photoshoot",
-  "shot_type": "half_body",
+  "image_type": "影棚拍摄",
+  "shot_type": "半身照",
   "camera": {
-    "angle": "eye_level",
-    "lens": "85mm portrait lens",
+    "angle": "与视线齐平",
+    "lens": "85mm 人像镜头",
     "aperture": "f/2.8",
-    "focus": "tack_sharp_on_subject",
-    "depth_of_field": "shallow_background_blur"
+    "focus": "主体锐利对焦",
+    "depth_of_field": "背景虚化浅景深"
   },
   "subject": {
-    "gender": "{argument name="subject gender" default="male/female"}",
-    "age_range": "mid_30s_to_early_40s",
-    "build": "natural_fit",
-    "pose": "relaxed_confident_stance",
-    "expression": "calm_confident_neutral",
-    "outfit": "casual_streetwear",
+    "gender": "{argument name=\"subject gender\" default=\"male/female\"}",
+    "age_range": "35 岁至 45 岁之间",
+    "build": "自然健美",
+    "pose": "放松自信的姿态",
+    "expression": "平静自信中性",
+    "outfit": "休闲街头服饰",
     "clothing_details": {
-      "top": "well_fitted_tshirt_or_light_jacket",
-      "colors": "neutral_muted_tones",
-      "style": "modern_minimal"
+      "top": "合身 T 恤或轻薄夹克",
+      "colors": "中性柔和色调",
+      "style": "现代简约"
     }
   },
   "lighting": {
-    "type": "professional_studio_lighting",
-    "key_light": "softbox_front",
-    "fill_light": "subtle_fill",
-    "rim_light": "gentle_hair_light",
-    "shadows": "soft_natural",
-    "skin_tones": "accurate_and_realistic"
+    "type": "专业影棚灯光",
+    "key_light": "柔光箱主光（正面）",
+    "fill_light": "柔和补光",
+    "rim_light": "柔和发光",
+    "shadows": "柔和自然",
+    "skin_tones": "准确逼真"
   },
   "background": {
-    "style": "clean_studio_backdrop",
-    "color": "soft_gradient_neutral",
-    "texture": "smooth_minimal",
+    "style": "简洁影棚背景",
+    "color": "柔和渐变中性色",
+    "texture": "平滑极简",
     "distraction_free": true
   },
   "style": {
-    "realism": "high",
-    "look": "editorial_fashion_portrait",
-    "color_grading": "natural_balanced",
+    "realism": "高",
+    "look": "时尚杂志人像",
+    "color_grading": "自然平衡",
     "no_filters": true
   },
   "quality": {
     "resolution": "8K",
-    "detail_level": "ultra_high",
-    "noise": "none"
+    "detail_level": "超高",
+    "noise": "无"
   },
   "constraints": [
-    "full_focus_on_subject",
-    "no_motion_blur",
-    "no_overprocessing",
-    "no_cartoon_style",
-    "no_distorted_anatomy"
+    "完全聚焦于主体",
+    "无运动模糊",
+    "无过度处理",
+    "无卡通风格",
+    "无扭曲解剖结构"
   ]
 }
 ```
@@ -1355,19 +1356,19 @@ A structured prompt for generating a high-resolution, ultra-detailed editorial f
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544833469_wbcnk4_G-t46wIbAAAb0B1.jpg" width="600" alt="个人资料 / 头像 - Minimalist Studio Fashion Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544833469_wbcnk4_G-t46wIbAAAb0B1.jpg" width="600" alt="个人资料 / 头像 - 极简主义影棚时尚肖像提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544833454_b6837w_G-t46uPbQAUSIjX.jpg" width="600" alt="个人资料 / 头像 - Minimalist Studio Fashion Portrait Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544833454_b6837w_G-t46uPbQAUSIjX.jpg" width="600" alt="个人资料 / 头像 - 极简主义影棚时尚肖像提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544833572_uabl1u_G-t46rwbQAMb1yT.jpg" width="600" alt="个人资料 / 头像 - Minimalist Studio Fashion Portrait Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768544833572_uabl1u_G-t46rwbQAMb1yT.jpg" width="600" alt="个人资料 / 头像 - 极简主义影棚时尚肖像提示 - Image 3">
 </div>
 
 #### 📌 详情
@@ -1381,34 +1382,39 @@ A structured prompt for generating a high-resolution, ultra-detailed editorial f
 
 ---
 
-### No. 10: 个人资料 / 头像 - Ultra-Wide Candid Mirror Documentation Portrait Prompt
+### No. 10: 个人资料 / 头像 - 超广角偷拍镜面文档肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly technical prompt for generating a raw, high-contrast candid mirror documentation portrait using an ultra-wide-angle lens (0.5x) with NO artificial bokeh, ensuring everything is sharp. It mandates strict identity locking and focuses intensely on bio-fidelity details like micro-pores, vellus hair, and realistic fabric tension/indentations on the subject's fitted attire.
+一个高度技术性的提示，用于生成一张原始、高对比度的抓拍式镜面纪实肖像，使用超广角镜头（0.5 倍），**无**人工散景，确保所有内容都清晰锐利。它要求严格的身份锁定，并强烈关注生物保真细节，例如微孔、毳毛以及拍摄对象合身服装上逼真的织物张力/压痕。
 
 #### 📝 提示词
 
 ```
-(Vertical 9:16 smartphone aspect ratio). A raw, high-contrast [Candid Mirror Documentation] captured with an iPhone 17 Pro using the 0.5x ultra-wide-angle optic. NO ARTIFICIAL BOKEH. Everything remains SHARP and in focus from the subject's skin to the distant urban masonry.
-Subject & Identity Locking:
-•Identity: Strictly preserve the exact facial structure and unique features of the woman in Image 1 (Selfie).
-•Appearance: Short dark auburn-red hair styled in a sleek, chin-length architectural bob.
-•Bio-Fidelity: Render high-fidelity "TrueLens" biological physics: visible micro-pores, a natural "satin-finish" skin hydration glow, and fine vellus hair catching the light ONLY along the jawline. Her skin features a healthy, uniform tone.
-•Silhouette Calibration (MAXIMUM UFF-FACTOR): Prioritize a dominant structural upper-torso volume and substantial, thick-toned anatomical depth in the lower extremities. Emphasize an aggressive architectural tapering at the midsection to maximize the S-curve geometry.
-Outfit & Textural Interaction:
-•Clothing: A high-density ribbed light-pink textile bodice featuring delicate ivory-colored architectural lace trim. Paired with high-tension minimalist elasticated lower apparel.
-•Tension: The technical fabric exhibits extreme mechanical tension and a vacuum-tight fit, creating realistic textural expansion, skin-to-textile indentations, and "compression lines" where the material contours to her fit silhouette.
-•Action: The subject is captured performing a manual upward adjustment of the bodice hem, creating realistic fabric-stress vectors and highlighting the fit anatomical depth of the midriff.
-Pose & Composition:
-•Pose: A straight-on frontal composition within a large circular reflective frame. She is standing with a bilateral hip-pop to accentuate the symmetrical volume and fit proportions of her physique.
-•Action: Her RIGHT HAND holds a white smartphone with a clear protective casing, capturing the full-body "fit-check" reflection.
-Environment & Social Realism:
-•Lighting: Naturalistic indoor daylight streaming from a side-view window, creating high-contrast specular highlights and deep, defining shadows that amplify her 3D form.
-•Background (SHARP): A detailed domestic interior showing uncurated realism. A bed with textured grey compressed linens, a digital musical synthesizer, and a dark suitcase are all perfectly IN FOCUS. Visible through the glass is a sharp, red-brick urban structure. No artificial blur.
-Quality: Raw unedited social-media dump aesthetic, high dynamic range, visible digital grain in the deep shadows, 8k resolution. Everything is sharp, detailed, and physically real.
+（纵向 9:16 智能手机宽高比）。一张原始、高对比度的 [抓拍镜面纪实] 照片，使用 iPhone 17 Pro 的 0.5 倍超广角镜头拍摄。无人工散景。从拍摄对象的皮肤到远处的城市砖石结构，一切都保持锐利和对焦。
+
+拍摄对象与身份锁定：
+• 身份：严格保留图像 1（自拍）中女性的精确面部结构和独特特征。
+• 外貌：短款深赤褐色头发，造型为时尚的齐颌建筑感波波头。
+• 生物保真度：呈现高保真度的“TrueLens”生物物理效果：可见的微孔、自然的“缎面光泽”皮肤水润感，以及仅沿下颌线捕捉光线的细小绒毛。她的皮肤呈现健康、均匀的肤色。
+• 轮廓校准（最大 UFF-FACTOR）：优先考虑上半身的主导结构体积和下肢的实质性、厚实解剖深度。强调中段的激进建筑感收窄，以最大化 S 形曲线几何。
+
+服装与纹理互动：
+• 服装：一件高密度罗纹浅粉色纺织紧身胸衣，饰有精致的象牙色建筑感蕾丝边饰。搭配高张力极简主义弹性下装。
+• 张力：技术面料展现出极强的机械张力和真空般的紧密贴合，产生逼真的纹理扩张、皮肤与织物之间的压痕，以及材料贴合她健美轮廓时形成的“压缩线”。
+• 动作：拍摄对象正在手动向上调整紧身胸衣的下摆，产生逼真的织物应力矢量，并突显腰腹部健美的解剖深度。
+
+姿势与构图：
+• 姿势：在一个大型圆形反光框内，正面直视构图。她站立时双髋外扩，以突出她体格的对称体积和健美比例。
+• 动作：她的右手握着一部带有透明保护壳的白色智能手机，捕捉全身“身材检查”的反射。
+
+环境与社会写实：
+• 光线：从侧窗射入的自然室内日光，形成高对比度的镜面高光和深邃、清晰的阴影，增强了她的 3D 形态。
+• 背景（锐利）：一个展现未经修饰的真实感的详细家庭内部。一张铺有纹理灰色压缩床单的床、一台数字音乐合成器和一个深色手提箱都完美对焦。透过玻璃可见一座锐利的红色砖砌城市建筑。无人工模糊。
+
+质量：未经编辑的社交媒体发布美学，高动态范围，深阴影中可见数字颗粒，8k 分辨率。一切都锐利、细节丰富、物理真实。
 ```
 
 #### 🖼️ 生成图片
@@ -1416,7 +1422,7 @@ Quality: Raw unedited social-media dump aesthetic, high dynamic range, visible d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544794923_ppfuyo_G-ti4QmbQAAc5E7.jpg" width="600" alt="个人资料 / 头像 - Ultra-Wide Candid Mirror Documentation Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544794923_ppfuyo_G-ti4QmbQAAc5E7.jpg" width="600" alt="个人资料 / 头像 - 超广角偷拍镜面文档肖像提示词 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1430,54 +1436,54 @@ Quality: Raw unedited social-media dump aesthetic, high dynamic range, visible d
 
 ---
 
-### No. 11: 个人资料 / 头像 - High-Contrast Mirror Selfie with Nightlife Glamour
+### No. 11: 个人资料 / 头像 - 高对比度镜面自拍，尽显夜生活魅力
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for a high-fashion, high-contrast mirror selfie capturing a young woman with a sultry expression. The subject wears a metallic bronze dress and an oversized faux fur coat, set in a luxury dark-themed interior, utilizing a bright camera flash for a dramatic influencer aesthetic.
+一个详细的提示，用于拍摄一张高时尚、高对比度的镜面自拍，捕捉一位表情性感的年轻女性。主体身穿金属青铜色连衣裙和超大号人造皮草外套，置身于奢华的深色主题内饰中，利用明亮的相机闪光灯营造出戏剧性的网红美学。
 
 #### 📝 提示词
 
 ```
 {
   "subject": {
-    "description": "Young woman with an elegant, high-fashion aesthetic",
+    "description": "一位年轻女性，拥有优雅、高级时装的美学风格",
     "features": {
-      "hair": "Voluminous, long wavy dark brunette hair, side-parted with soft curls",
-      "eyes": "Sharp winged eyeliner, hazel/light green contact lenses, defined lashes",
-      "face": "Full matte lips in a mauve-rose shade, contoured cheekbones, soft glam makeup",
-      "nails": "Long almond-shaped nails with vibrant glossy red polish"
+      "hair": "蓬松、长波浪深棕色头发，侧分，带有柔和的卷发",
+      "eyes": "犀利的飞扬眼线，淡褐色/浅绿色隐形眼镜，睫毛分明",
+      "face": "饱满的哑光唇，呈现淡紫色玫瑰色调，颧骨有修容，柔和的魅力妆容",
+      "nails": "长杏仁形指甲，涂有鲜艳亮泽的红色指甲油"
     },
-    "expression": "Sultry, confident, direct gaze into the mirror"
+    "expression": "性感、自信，直视镜子"
   },
   "fashion": {
     "clothing": [
       {
-        "item": "One-shoulder bodycon dress",
-        "material": "Metallic bronze or shimmering chocolate brown fabric with ruched detailing"
+        "item": "单肩紧身连衣裙",
+        "material": "金属青铜色或闪亮巧克力棕色面料，带有褶皱细节"
       },
       {
-        "item": "Oversized faux fur coat",
-        "color": "Tonal brown and tan",
-        "style": "Draped off the shoulders"
+        "item": "超大号人造皮草外套",
+        "color": "同色系棕色和米色",
+        "style": "披在肩上"
       }
     ],
-    "accessories": "Large chunky gold twisted hoop earrings"
+    "accessories": "大号粗金扭曲环形耳环"
   },
   "composition": {
-    "shot_type": "Mirror selfie, waist-up framing",
-    "camera": "Modern smartphone held in right hand, lens flare from the flash",
-    "background": "Luxury dark-themed interior, black tiled walls, polished dark wood door frames",
+    "shot_type": "镜面自拍，半身构图",
+    "camera": "右手拿着现代智能手机，闪光灯产生镜头光晕",
+    "background": "奢华的深色主题室内，黑色瓷砖墙壁，抛光的深色木门框",
     "lighting": {
-      "primary": "Bright, direct white camera flash creating a starburst effect in the mirror",
-      "secondary": "Soft warm ambient glow highlighting the texture of the fur and metallic dress"
+      "primary": "明亮、直射的白色相机闪光灯在镜子中形成星爆效果",
+      "secondary": "柔和温暖的环境光，突出皮草和金属连衣裙的质感"
     }
   },
   "technical_style": {
-    "vibe": "Nightlife glamour, influencer aesthetic, high-contrast, 'Old Money' meets modern luxury",
-    "color_palette": ["Deep Bronze", "Chocolate Brown", "Gold", "Black", "Crimson Red"]
+    "vibe": "夜生活魅力，网红美学，高对比度，“老钱”与现代奢华的结合",
+    "color_palette": ["深青铜色", "巧克力棕色", "金色", "黑色", "深红色"]
   }
 }
 ```
@@ -1487,7 +1493,7 @@ A detailed prompt for a high-fashion, high-contrast mirror selfie capturing a yo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544864221_1mw9wk_G-s1lW7bQAEP7Vo.jpg" width="600" alt="个人资料 / 头像 - High-Contrast Mirror Selfie with Nightlife Glamour - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544864221_1mw9wk_G-s1lW7bQAEP7Vo.jpg" width="600" alt="个人资料 / 头像 - 高对比度镜面自拍，尽显夜生活魅力 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1501,62 +1507,62 @@ A detailed prompt for a high-fashion, high-contrast mirror selfie capturing a yo
 
 ---
 
-### No. 12: 个人资料 / 头像 - LA Rooftop Poolside Selfie Prompt (Female Subject)
+### No. 12: 个人资料 / 头像 - 洛杉矶屋顶泳池边自拍提示（女性主题）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed prompt for generating an ultra-realistic cinematic lifestyle photograph mimicking an iPhone-style casual shot of a woman lying by a luxurious rooftop pool in LA. It emphasizes realistic skin texture (wet, sun-kissed, visible pores), harsh midday sunlight, and specific props like a coconut and striped beach towel. This is a duplicate of the prompt in tweet 2011658602181005340, but without the celebrity name constraint.
+一个详细的提示，用于生成一张超逼真的电影级生活方式照片，模仿 iPhone 风格的随性抓拍，描绘一位女士躺在洛杉矶豪华屋顶泳池边。它强调真实的皮肤纹理（湿润、被阳光亲吻、毛孔可见）、正午刺眼的阳光，以及椰子和条纹沙滩巾等特定道具。这是推文 2011658602181005340 中提示的重复，但没有名人姓名限制。
 
 #### 📝 提示词
 
 ```
-"title": "LA Rooftop Poolside Selfie",
+"title": "洛杉矶屋顶泳池自拍",
     "style_attributes": [
-      "Ultra-realistic cinematic lifestyle photography",
-      "8K resolution",
-      "Hyper-detailed",
-      "Photorealistic",
-      "iPhone-style casual shot",
-      "Cinematic photographic quality"
+      "超现实电影级生活摄影",
+      "8K 分辨率",
+      "超精细",
+      "照片级真实感",
+      "iPhone 风格随拍",
+      "电影摄影质感"
     ],
     "subject": {
-      "demographics": "Female, 20 years old, Slavic appearance",
+      "demographics": "女性，20 岁，斯拉夫裔",
       "facial_features": {
-        "structure": "Naturally beautiful, well-balanced face, realistic proportions",
-        "eyes": "Large expressive green-hazel, calm confident gaze",
-        "lips": "Naturally full, soft, unexaggerated",
-        "makeup": "Light natural daytime, not heavy"
+        "structure": "自然美，面部均衡，比例真实",
+        "eyes": "大而富有表现力的绿褐色眼睛，目光平静自信",
+        "lips": "自然丰满，柔和，不过分夸张",
+        "makeup": "清淡自然的日间妆容，不浓重"
       },
       "skin_texture": {
-        "quality": "Sun-kissed, highly realistic, visible pores, subtle micro-imperfections",
-        "effects": "Wet skin, water and oil droplets catching sunlight, no plastic texture"
+        "quality": "晒黑的肌肤，高度真实，毛孔可见，细微瑕疵",
+        "effects": "湿润的皮肤，水滴和油滴在阳光下闪烁，无塑料质感"
       },
-      "hair": "Long, wet, slightly messy, strands sticking naturally to cheek and forehead",
+      "hair": "长发，湿润，略显凌乱，几缕发丝自然地贴在脸颊和额头上",
       "body": {
-        "pose": "Lying on stomach, legs gently bent at knees and lifted, feet together, arm extended for selfie",
-        "physique": "Slim waist, natural back line, realistic anatomy without exaggeration"
+        "pose": "俯卧，双腿膝盖处微弯并抬起，双脚并拢，手臂伸出进行自拍",
+        "physique": "纤细的腰肢，自然的背部线条，真实解剖结构，无夸张"
       },
-      "clothing": "Small classic black bikini top with thin straps and deep plunge"
+      "clothing": "小巧经典的黑色比基尼上衣，细肩带，深 V 领"
     },
     "props": [
-      "Fresh coconut with straw and subtle ADORE logo",
-      "Bright blue-and-white striped beach towel",
-      "Smartphone (partial visibility)"
+      "带吸管的新鲜椰子，带有低调的 ADORE 标志",
+      "亮蓝色和白色条纹沙滩巾",
+      "智能手机（部分可见）"
     ],
     "environment": {
-      "location": "Luxurious rooftop pool, high-rise building, Los Angeles",
-      "background": "Modern downtown LA skyscrapers, slight atmospheric haze, white sun loungers and umbrellas",
-      "elements": "Turquoise pool water, lush tropical greenery (banana palms, monstera plants)",
-      "weather": "Bright sunny day, clear blue sky, no clouds"
+      "location": "豪华屋顶泳池，高层建筑，洛杉矶",
+      "background": "洛杉矶市中心现代摩天大楼，略带大气薄雾，白色太阳椅和遮阳伞",
+      "elements": "碧绿的泳池水，郁郁葱葱的热带植物（香蕉棕榈树，龟背竹）",
+      "weather": "阳光明媚，万里无云的蓝天"
     },
     "technical_specs": {
-      "lighting": "Harsh midday sunlight, strong contrast, deep natural shadows, bright specular highlights",
-      "camera_settings": "50–85mm lens look, shallow depth of field, high dynamic range (HDR)",
-      "color_grading": "Realistic, true-to-life skin tones"
+      "lighting": "正午刺眼的阳光，强烈对比，深邃的自然阴影，明亮的镜面高光",
+      "camera_settings": "50–85mm 镜头效果，浅景深，高动态范围 (HDR)",
+      "color_grading": "真实，逼真的肤色"
     },
-    "full_prompt_string": "Ultra-realistic cinematic lifestyle photography, 8K, hyper-detailed, photorealistic, An attractive woman aged 20, Slavic appearance. A naturally beautiful, well-balanced face with realistic proportions, no artificial perfection. Large expressive green-hazel eyes, calm confident gaze toward the camera. Naturally full lips, soft and unexaggerated. Light, natural daytime makeup emphasizing her features without looking heavy. Her skin is sun-kissed and wet, highly realistic with visible pores, subtle micro-imperfections, fine highlights, and water and oil droplets catching the sunlight. No plastic or overly smooth texture. Long wet hair, slightly messy after swimming, with a few strands sticking naturally to her cheek and forehead. She is lying on her stomach on a bright blue-and-white striped beac"
+    "full_prompt_string": "超现实电影级生活摄影，8K，超精细，照片级真实感，一位 20 岁迷人女性，斯拉夫裔。自然美，面部均衡，比例真实，无人工完美。大而富有表现力的绿褐色眼睛，目光平静自信地看向镜头。自然丰满的嘴唇，柔和，不过分夸张。清淡自然的日间妆容，突出她的面部特征，不显浓重。她的皮肤晒黑且湿润，高度真实，毛孔可见，细微瑕疵，细微高光，水滴和油滴在阳光下闪烁。无塑料或过于光滑的质感。长发湿润，游泳后略显凌乱，几缕发丝自然地贴在脸颊和额头上。她俯卧在亮蓝色和白色条纹的沙滩上"
 ```
 
 #### 🖼️ 生成图片
@@ -1564,7 +1570,7 @@ A detailed prompt for generating an ultra-realistic cinematic lifestyle photogra
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544825231_nyugiu_G-si8WFX0AERd6x.jpg" width="600" alt="个人资料 / 头像 - LA Rooftop Poolside Selfie Prompt (Female Subject) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544825231_nyugiu_G-si8WFX0AERd6x.jpg" width="600" alt="个人资料 / 头像 - 洛杉矶屋顶泳池边自拍提示（女性主题） - Image 1">
 </div>
 
 #### 📌 详情
@@ -1578,14 +1584,14 @@ A detailed prompt for generating an ultra-realistic cinematic lifestyle photogra
 
 ---
 
-### No. 13: 个人资料 / 头像 - High-Contrast Mirror Selfie of Ana de Armas in Nightclub
+### No. 13: 个人资料 / 头像 - Ana de Armas 在夜店拍摄的高对比度镜面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly specific prompt for generating a photorealistic mirror selfie portrait, using Ana de Armas's likeness. It details the styling (dark espresso hair, heavy winged eyeliner, metallic dress, faux-fur coat), the environment (dark luxury interior), and the lighting (hard mirror flash with starburst flare) to achieve an 'It-girl nightlife' aesthetic.
+一个高度具体的提示，用于生成一张逼真的镜面自拍肖像，使用安娜·德·阿玛斯 (Ana de Armas) 的形象。它详细描述了造型（深浓咖啡色头发、浓重的上扬眼线、金属色连衣裙、仿皮草外套）、环境（黑暗奢华的室内）和灯光（带有星芒眩光的强烈镜面闪光），以实现“It-girl 夜生活”的美学效果。
 
 #### 📝 提示词
 
@@ -1593,73 +1599,75 @@ A highly specific prompt for generating a photorealistic mirror selfie portrait,
 {
   "image_generation_request": {
     "framing_and_composition": {
-      "shot_type": "Medium shot",
-      "orientation": "Vertical",
-      "composition": "Mirror selfie, subject centered",
-      "camera_in_shot": "Smartphone visible in reflection, held at chest height",
-      "perspective": "Candid night out"
+      "shot_type": "中景",
+      "orientation": "竖幅",
+      "composition": "镜面自拍，主体居中",
+      "camera_in_shot": "反射中可见智能手机，置于胸前高度",
+      "perspective": "随性夜生活"
     },
     "subject_identity": {
-      "reference_name": "Ana de Armas (young)",
-      "skin_tone": "Pale, porcelain",
+      "reference_name": "安娜·德·阿玛斯 (年轻时)",
+      "skin_tone": "苍白，瓷器般",
       "facial_structure": {
-        "jawline": "Sharp",
-        "cheekbones": "High",
-        "eyes": "Large, almond-shaped, green-hazel",
-        "nose": "Refined, slim"
+        "jawline": "线条分明",
+        "cheekbones": "高颧骨",
+        "eyes": "大而杏仁状，绿褐色",
+        "nose": "精致，纤细"
       },
-      "identity_fidelity": "100% face preservation, zero alterations to unique features"
+      "identity_fidelity": "100% 面部保留，独特特征零改动"
     },
     "expression_and_pose": {
-      "expression": "Sultry, neutral, composed",
-      "gaze": "Directly into the reflected camera lens",
-      "head_pose": "Slightly tilted",
-      "body_language": "Confident, heavy coat draped loosely to reveal shoulder",
-      "hand_detail": "Right hand holding phone, index finger extended, red manicure"
+      "expression": "魅惑，中性，沉着",
+      "gaze": "直视反射中的镜头",
+      "head_pose": "略微倾斜",
+      "body_language": "自信，厚重外套随意披挂以露出肩膀",
+      "hand_detail": "右手持手机，食指伸出，红色美甲"
     },
     "styling_details": {
       "makeup": {
-        "eyes": "Sharp black winged eyeliner, smoked-out lower lash line, heavy volume mascara",
-        "eyebrows": "Well-defined, natural dark",
-        "lips": "Soft matte rose-toned, slightly overlined",
-        "contour": "Subtle, cheekbone-focused"
+        "eyes": "犀利的黑色飞翼眼线，下眼线烟熏，浓密睫毛膏",
+        "eyebrows": "眉形清晰，自然深色",
+        "lips": "柔和哑光玫瑰色，略微外扩唇线",
+        "contour": " subtle, cheekbone-focused"
       },
       "hair": {
-        "color": "Dark espresso",
-        "style": "Long, thick, wavy, voluminous",
-        "texture": "Messy-chic, healthy sheen",
-        "parting": "Slightly off-center"
+        "color": "深浓咖啡色",
+        "style": "长发，浓密，波浪，蓬松",
+        "texture": "凌乱别致，健康光泽",
+        "parting": "略微偏分"
       },
       "outfit": {
-        "base_layer": "{argument name="dress color" default="Chocolate-brown"} metallic one-shoulder bodycon dress with ruching",
-        "outerwear": "Heavy, brown faux-fur mink-style coat, worn off-shoulder"
+        "base_layer": "{argument name=\"dress color\" default=\"Chocolate-brown\"} 金属感单肩紧身连衣裙，带褶皱",
+        "outerwear": "厚重棕色仿貂皮大衣，露肩穿着"
       },
       "accessories": {
-        "jewelry": "Large, chunky vintage-style gold earrings",
-        "nails": "Long, pointed acrylics, glossy cherry red",
-        "phone_case": "Modern smartphone in a dark case"
+        "jewelry": "大而粗犷的复古金色耳环",
+        "nails": "长而尖的亚克力指甲，亮樱桃红",
+        "phone_case": "深色手机壳中的现代智能手机"
       }
     },
     "physical_attributes": {
-      "silhouette": "Slim, toned hourglass",
-      "details": "Defined collarbones, slender shoulder, narrow waist, feminine curves"
+      "silhouette": "纤细，健美的沙漏型身材",
+      "details": "锁骨分明，肩膀纤细，腰肢纤细，女性曲线优美"
     },
     "environment_and_lighting": {
-      "setting": "Dark minimalist luxury interior (high-end club/lounge)",
-      "background_elements": "Horizontal black tiled walls or polished dark wood panels",
-      "lighting_type": "Hard mirror flash",
-      "lighting_effects": "Central starburst flare, high-contrast highlights, deep shadows",
-      "film_texture": "Subtle film grain, low-light mobile photography look"
+      "setting": "黑暗极简奢华内饰（高端俱乐部/酒廊）",
+      "background_elements": "水平黑色瓷砖墙或抛光深色木板",
+      "lighting_type": "硬镜面闪光",
+      "lighting_effects": "中心星芒光斑，高对比度高光，深邃阴影",
+      "film_texture": "细微胶片颗粒，低光手机摄影效果"
     },
     "technical_specifications": {
-      "aesthetic": "Shot on iPhone, ultra-realistic",
-      "resolution": "8k, high-resolution textures, raw photo quality",
-      "artifacts": "Slight motion blur, natural digital noise",
-      "focus": "Sharp focus on facial features despite flash flare"
+      "aesthetic": "iPhone 拍摄，超现实主义",
+      "resolution": "8k，高分辨率纹理，原始照片质量",
+      "artifacts": "轻微运动模糊，自然数字噪点",
+      "focus": "尽管有闪光，面部特征依然清晰对焦"
     },
     "mood_and_style": {
-      "theme": "It-girl nightlife, edgy, glamorous, expensive",
- "
+      "theme": "It-girl 夜生活，前卫，迷人，奢华"
+    }
+  }
+}
 ```
 
 #### 🖼️ 生成图片
@@ -1667,7 +1675,7 @@ A highly specific prompt for generating a photorealistic mirror selfie portrait,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544840916_0g2sgy_G-r5YzNbQAc9x7a.jpg" width="600" alt="个人资料 / 头像 - High-Contrast Mirror Selfie of Ana de Armas in Nightclub - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544840916_0g2sgy_G-r5YzNbQAc9x7a.jpg" width="600" alt="个人资料 / 头像 - Ana de Armas 在夜店拍摄的高对比度镜面自拍 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1681,18 +1689,18 @@ A highly specific prompt for generating a photorealistic mirror selfie portrait,
 
 ---
 
-### No. 14: 个人资料 / 头像 - Professional Business Portrait Generation Prompt
+### No. 14: 个人资料 / 头像 - 专业商务肖像生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for generating an ultra-realistic professional business portrait based on an uploaded image, ensuring accurate facial features and styling the subject in modern executive attire against a soft, premium gradient background.
+一个根据上传图片生成超逼真专业商务肖像的提示，确保面部特征准确，并为拍摄对象设计现代行政服装，背景为柔和、高级的渐变色。
 
 #### 📝 提示词
 
 ```
-Ultra realistic professional business portrait based on the attached image. Keep the subject’s facial structure, skin tone, hairstyle, and expression accurate. Dress the subject in clean, modern professional attire suitable for executives. Use a soft, minimal, premium gradient background with smooth lighting transitions
+根据所附图像，创作一张超逼真的专业商务肖像。保持人物的面部结构、肤色、发型和表情准确无误。为人物穿上适合高管的整洁、现代的职业装。使用柔和、简约、高级的渐变背景，并带有平滑的灯光过渡。
 ```
 
 #### 🖼️ 生成图片
@@ -1700,13 +1708,13 @@ Ultra realistic professional business portrait based on the attached image. Keep
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544809121_q3i5no_G-rTvOvbQAUBSak.jpg" width="600" alt="个人资料 / 头像 - Professional Business Portrait Generation Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544809121_q3i5no_G-rTvOvbQAUBSak.jpg" width="600" alt="个人资料 / 头像 - 专业商务肖像生成提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544809262_46w6lc_G-rTvOTaEAAffRS.jpg" width="600" alt="个人资料 / 头像 - Professional Business Portrait Generation Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544809262_46w6lc_G-rTvOTaEAAffRS.jpg" width="600" alt="个人资料 / 头像 - 专业商务肖像生成提示 - Image 2">
 </div>
 
 #### 📌 详情
@@ -1720,20 +1728,20 @@ Ultra realistic professional business portrait based on the attached image. Keep
 
 ---
 
-### No. 15: 个人资料 / 头像 - Ultra-realistic Starbucks Selfie at Golden Hour
+### No. 15: 个人资料 / 头像 - 黄金时段的超逼真星巴克自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for generating an ultra-realistic smartphone selfie of a stunning young woman sipping a pink strawberry smoothie from a Starbucks cup. It specifies detailed facial features, attire (oversized white shirt, gold hoops), and a golden hour outdoor European street cafe setting, requiring the use of a reference image's face.
+生成一张超逼真的智能手机自拍，画面中一位惊艳的年轻女子，正用星巴克杯子小口啜饮粉色草莓冰沙。提示详细说明了面部特征、着装（宽松白衬衫、金色大耳环），以及黄金时段的欧洲户外街边咖啡馆场景，并要求使用参考图像中的面部。
 
 #### 📝 提示词
 
 ```
 {
-  "prompt": "Ultra-realistic selfie of a stunning young woman in her early 20s, western beauty with perfect symmetrical facial features, flawless glowing skin, sharp defined jawline, high cheekbones, large expressive almond-shaped blue eyes with dramatic long thick eyelashes and perfect winged eyeliner, perfectly shaped arched eyebrows, full glossy nude-pink lips, subtle rosy natural blush, long straight blonde hair styled in a sleek high ponytail, wearing large shiny gold hoop earrings, delicate diamond/bling rings and bracelet, white crisp button-up shirt slightly oversized with rolled sleeves, casually sipping a thick pink strawberry smoothie/frappuccino from a tall transparent Starbucks cup with pink straw, whipped cream and pink berry chunks visible on top, cup has classic green Starbucks logo, sunny day outdoor European/London-style street cafe terrace background with wooden tables, people sitting in the distance, classic brick and glass buildings, red awnings, warm golden hour sunlight, soft natural bokeh, selfie angle from slightly above eye level with arm extended, confident and chic vibe, luxurious casual fashion, photorealistic, 8k, highly detailed skin texture and pores, sharp focus, cinematic lighting, natural shadows",
-  "negative_prompt": "blurry, low quality, deformed face, extra limbs, bad anatomy, cartoon, anime, illustration, plastic skin, overexposed, underexposed, text, watermark, ugly, distorted proportions, closed eyes, male, elderly, child, heavy makeup overload, neon colors, dark lighting, indoor, messy hair, no earrings, different drink, winter clothing",
+  "prompt": "一位二十出头、惊艳动人的年轻女性的超逼真自拍，西方美感，面部特征完美对称，肌肤无瑕透亮，下颌线清晰分明，颧骨高耸，蓝色杏仁状大眼睛富有表现力，配有浓密卷翘的睫毛和完美的飞翼眼线，眉毛形状完美，饱满的裸粉色光泽唇，淡淡的自然玫瑰色腮红，金色长直发梳成时尚高马尾，佩戴大号闪亮金色圈形耳环，精致的钻石/Bling 戒指和手链，略宽松的白色挺括纽扣衬衫，袖子卷起，随意地吸着一杯浓稠的粉色草莓冰沙/星冰乐，装在高高的透明星巴克杯中，杯中有粉色吸管，顶部可见鲜奶油和粉色浆果块，杯子印有经典的绿色星巴克标志，阳光明媚的欧洲/伦敦风格街边咖啡馆露台背景，木制桌椅，远处有人群，经典的砖石和玻璃建筑，红色遮阳篷，温暖的黄金时段阳光，柔和的自然散景，自拍角度略高于视线，手臂伸展，自信时尚的氛围，奢华休闲时尚，写实摄影，8k，高度精细的皮肤纹理和毛孔，锐利对焦，电影级光线，自然阴影",
+  "negative_prompt": "模糊，低质量，面部畸形，多余肢体，解剖结构错误，卡通，动漫，插画，塑料皮肤，过曝，欠曝，文字，水印，丑陋，比例失调，闭眼，男性，老年人，儿童，浓妆艳抹，霓虹色，昏暗光线，室内，凌乱的头发，无耳环，不同饮品，冬季服装",
   "aspect_ratio": "9:16",
   "style": "photorealistic",
   "lighting": "natural daylight, golden hour, soft shadows",
@@ -1749,7 +1757,7 @@ A prompt for generating an ultra-realistic smartphone selfie of a stunning young
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544865788_9hq1r1_G-q6W7cbQAA4g1n.jpg" width="600" alt="个人资料 / 头像 - Ultra-realistic Starbucks Selfie at Golden Hour - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544865788_9hq1r1_G-q6W7cbQAA4g1n.jpg" width="600" alt="个人资料 / 头像 - 黄金时段的超逼真星巴克自拍 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1763,45 +1771,42 @@ A prompt for generating an ultra-realistic smartphone selfie of a stunning young
 
 ---
 
-### No. 16: 个人资料 / 头像 - Bohemian-Indian Fusion Mirror Selfie Prompt
+### No. 16: 个人资料 / 头像 - 波西米亚-印度风融合镜面自拍提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A prompt for generating a mirror selfie of a woman in a Bohemian-Indian fusion outfit (choli and lehenga) with intricate embroidery and cowrie shell details. The scene is set in an indoor bedroom with soft, diffuse lighting, focusing on the festive aesthetic and specific accessories like a maang tikka and decorative bindi dots, mimicking a candid social media influencer style.
+生成一张女性镜面自拍的提示词，她身穿波西米亚与印度风融合的服装（choli 和 lehenga），服饰上带有精致的刺绣和贝壳细节。场景设置在室内卧室，光线柔和弥散，重点突出节日美学和特定配饰，如 maang tikka 和装饰性 bindi 点，模仿社交媒体网红的抓拍风格。
 
 #### 📝 提示词
 
 ```
 {
   "subject": {
-    "description": "Young woman with light skin tone and long, wavy dark brown hair.",
-    "pose": "Standing mirror selfie, left hand on hip, right hand holding a white smartphone up to capture the reflection.",
-    "expression": "Soft smile, looking into the phone screen.",
-    "features": "Dark nail polish, soft glam makeup with defined brows and pink lips."
+    "description": "一位年轻女士，肤色白皙，留着波浪状的深棕色长发。",
+    "pose": "站立姿势的镜面自拍，左手叉腰，右手举着一部白色智能手机，捕捉镜中的倒影。",
+    "expression": "温柔的微笑，看向手机屏幕。",
+    "features": "深色指甲油，精致的妆容，眉毛清晰，唇部涂有粉色唇膏。"
   },
   "apparel": {
-    "style": "Bohemian-Indian fusion, festive Navratri or tribal chic aesthetic.",
-    "top": "Dark black sleeveless crop top (choli) featuring intricate geometric embroidery in silver and orange threads. The hem is lined with hanging cowrie shells and colorful beads.",
-    "bottom": "Matching Dark black skirt (lehenga) with similar geometric patterns. The waistband is embellished with a row of cowrie shells and tassels.",
-    "color_palette": "{argument name="color palette" default="Teal blue, silver, orange, and white accents"}."
+    "style": "波西米亚与印度风情的融合，具有 Navratri 节日或部落时尚美学。",
+    "top": "深黑色无袖露脐上衣（choli），饰有精致的银色和橙色几何刺绣。下摆边缘点缀着悬挂的海螺壳和彩色珠子。",
+    "bottom": "配套的深黑色半身裙（lehenga），带有相似的几何图案。腰带上装饰着一排海螺壳和流苏。",
+    "color_palette": "{argument name=\"color palette\" default=\"青蓝色、银色、橙色和白色点缀\"}。"
   },
   "accessories": {
-    "headwear": "Silver maang tikka with a turquoise stone centered on the forehead.",
-    "face_details": "Three small decorative bindi dots painted at the outer corner of the right eye, small nose ring.",
-    "wristwear": "Thick, ethnic-style bangles wrapped in red and black fabric, adorned with clusters of cowrie shells.",
-    "device": "White iPhone Pro model with triple-lens camera."
+    "headwear": "银色 maang tikka，额头中央镶嵌一颗绿松石。",
+    "face_details": "右眼外眼角处绘有三个小小的装饰性 bindi 点，佩戴小鼻环。",
+    "wristwear": "厚重的民族风格手镯，缠绕着红色和黑色织物，并点缀着成簇的海螺壳。",
+    "device": "白色 iPhone Pro 型号，带有三镜头摄像头。"
   },
   "environment": {
-    "location": "Indoor bedroom or dressing area.",
-    "background": "Blurred domestic interior, neutral colored walls, a door visible in the background, soft ambient indoor lighting."
-  },
-  "technical_style": {
-    "medium": "Photograph, mirror selfie.",
-    "lighting": "Soft, diffuse room lighting.",
-    "vibe": "Candid, stylish, social media influencer aesthetic."
+    "location": "室内卧室或更衣区。",
+    "background": "模糊的室内背景，中性色墙壁，背景中可见一扇门，柔和的室内环境光线。",
+    "lighting": "柔和、漫射的室内光线。",
+    "vibe": "随性、时尚、社交媒体网红美学。"
   }
 }
 ```
@@ -1811,13 +1816,13 @@ A prompt for generating a mirror selfie of a woman in a Bohemian-Indian fusion o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544830976_ypsd6d_G-qsdRAbQAkJKTJ.jpg" width="600" alt="个人资料 / 头像 - Bohemian-Indian Fusion Mirror Selfie Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544830976_ypsd6d_G-qsdRAbQAkJKTJ.jpg" width="600" alt="个人资料 / 头像 - 波西米亚-印度风融合镜面自拍提示词 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544831064_sdmufu_G-qsdQca0AAVpPh.jpg" width="600" alt="个人资料 / 头像 - Bohemian-Indian Fusion Mirror Selfie Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544831064_sdmufu_G-qsdQca0AAVpPh.jpg" width="600" alt="个人资料 / 头像 - 波西米亚-印度风融合镜面自拍提示词 - Image 2">
 </div>
 
 #### 📌 详情
@@ -2147,64 +2152,65 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社交媒体帖子 - Dual Gym Mirror Selfie with Identity Lock Prompt
+### No. 22: 社交媒体帖子 - 健身房双人镜面自拍，带身份锁定提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed JSON prompt for generating an ultra-photorealistic mirror selfie of two subjects in a modern gym, similar to a previous prompt but explicitly requiring strict identity preservation from a reference image. It details the subjects' athletic builds, pink and yellow workout attire, and the moody blue/purple ambient lighting.
+一个详细的 JSON 提示，用于生成两名主体在现代健身房中拍摄的超逼真镜面自拍，类似于之前的提示，但明确要求严格保留参考图像中的身份。它详细描述了主体的健美身材、粉色和黄色运动服，以及忧郁的蓝/紫色环境照明。
 
 #### 📝 提示词
 
 ```
 {
   "meta": {
-    "quality": "ultra photorealistic",
+    "quality": "超逼真",
     "resolution": "8k",
     "aspect_ratio": "16:9",
-    "style": "modern gym mirror selfie realism",
-    "constraints": "strict identity preservation, do not alter facial features or hair from reference"
+    "style": "现代健身房镜面自拍写实风格",
+    "constraints": "严格保持身份特征，不得改变参考图中的面部特征或发型"
   },
   "shot": {
-    "composition": "mirror selfie, dual full-body shot, both subjects side by side with backs to camera, full reflection visible",
-    "lens": "slight wide-angle smartphone lens",
-    "camera": "handheld phone, mirror reflection",
-    "motion": "static still photo",
-    "grain": "subtle realistic digital grain"
+    "composition": "镜面自拍，双人全身照，两人并排背对镜头，完整反射可见",
+    "lens": "轻微广角智能手机镜头",
+    "camera": "手持手机，镜面反射",
+    "motion": "静态照片",
+    "grain": "微妙的逼真数字颗粒感"
   },
   "subjects": {
     "left_model": {
       "identity_lock": true,
-      "build": "fit, curvy athletic physique with toned legs and glutes",
-      "hair": "natural color and style preserved from reference",
-      "outfit": "bright pink long-sleeve cropped workout top with thumb holes, matching high-waisted seamless pink gym shorts with subtle waistband logo, white athletic socks",
-      "pose": "hand on hip, relaxed confident stance, slight arch, calm expression visible in mirror"
+      "build": "健美，曲线优美的运动体格，腿部和臀部线条紧致",
+      "hair": "保持参考图中的自然发色和发型",
+      "outfit": "亮粉色长袖露脐运动上衣，带拇指孔，搭配同色系高腰无缝粉色健身短裤，裤腰有细微标志，白色运动袜",
+      "pose": "手叉腰，放松自信的姿态，身体略微弓起，镜中可见平静表情"
     },
     "right_model": {
       "identity_lock": true,
-      "build": "fit, curvy athletic physique with toned legs and glutes",
-      "hair": "natural color and style preserved from reference",
-      "outfit": "light yellow halter-style sports bra with thin straps, matching high-waisted seamless pink gym shorts, white athletic socks",
-      "pose": "hand on hip, playful confident stance, subtle expression visible in mirror"
+      "build": "健美，曲线优美的运动体格，腿部和臀部线条紧致",
+      "hair": "保持参考图中的自然发色和发型",
+      "outfit": "浅黄色挂脖式运动文胸，细肩带，搭配同色系高腰无缝粉色健身短裤，白色运动袜",
+      "pose": "手叉腰，俏皮自信的姿态，镜中可见微妙表情"
     }
   },
   "environment": {
-    "location": "modern gym",
-    "foreground": "dark rubber gym flooring",
-    "midground": "large wall mirror reflecting both models clearly",
-    "background": "professional fitness equipment softly blurred, exposed ceiling details"
+    "location": "现代健身房",
+    "foreground": "深色橡胶健身房地板",
+    "midground": "大型墙面镜清晰反射出两位模特",
+    "background": "专业健身器材柔和虚化，天花板细节可见"
   },
   "lighting": {
-    "type": "dim indoor gym lighting",
-    "color": "cool blue and purple ambient tones",
-    "effect": "soft highlights on skin and fabric, strong contrast between outfits and background"
+    "type": "昏暗的室内健身房灯光",
+    "color": "冷蓝色和紫色环境色调",
+    "effect": "皮肤和织物上有柔和高光，服装与背景之间有强烈对比"
   },
   "visual_style": {
-    "vibe": "confident, energetic fitness editorial",
-    "detail_level": "high realism, accurate reflections, natural skin texture, realistic fabric stretch"
+    "vibe": "自信、充满活力的健身时尚大片",
+    "detail_level": "高度写实，准确的反射，自然的皮肤纹理，逼真的织物拉伸感"
   },
-  "negative_prompt": "blurry, distorted mirror, altered faces, changed hair color, extra limbs, harsh flash, cartoon, anime, watermark, text overlay, extra people"
+  "negative_prompt": "模糊，扭曲的镜子，改变的面部，改变的发色，多余的肢体，刺眼的闪光，卡通，动漫，水印，文字叠加，多余的人物"
+}
 ```
 
 #### 🖼️ 生成图片
@@ -2212,7 +2218,7 @@ A detailed JSON prompt for generating an ultra-photorealistic mirror selfie of t
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544790824_u1y69x_G-vig_Ca8AA4bYQ.jpg" width="600" alt="社交媒体帖子 - Dual Gym Mirror Selfie with Identity Lock Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544790824_u1y69x_G-vig_Ca8AA4bYQ.jpg" width="600" alt="社交媒体帖子 - 健身房双人镜面自拍，带身份锁定提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2226,52 +2232,54 @@ A detailed JSON prompt for generating an ultra-photorealistic mirror selfie of t
 
 ---
 
-### No. 23: 社交媒体帖子 - Realistic Car Interior Portrait with Streetwear Aesthetic
+### No. 23: 社交媒体帖子 - 街头服饰美学下的逼真汽车内饰肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly detailed, structured prompt for generating a photorealistic image of a young woman kneeling in the back seat of a modern car, focusing on specific streetwear fashion (ribbed crop top, cargo pants, Converse), precise pose, and natural daylighting within the vehicle interior.
+一个高度详细、结构化的提示，用于生成一张年轻女性跪在现代汽车后座上的照片，重点突出特定的街头服饰（罗纹短款上衣、工装裤、Converse 匡威鞋）、精确的姿势以及车内自然的日光照明。
 
 #### 📝 提示词
 
 ```
 {
 "subject": {
-"demographics": "Young female adult, approximate age 20-25, light olive to tan skin tone",
-"hair": "Long, dark brown hair, loose wavy texture, layered, parting in the middle, falling over shoulders and back",
-"face": "Oval face shape, defined jawline, straight nose, full lips with neutral rosy tint, dark groomed eyebrows, brown eyes looking directly at camera",
-"upper_body_outfit": "White short-sleeved ribbed crop top, tight fit, crew neck, hemline ending just below the bust exposing midriff",
-"lower_body_outfit": "Olive green pants (likely cargo or denim style), fitted at hips and thighs, black leather belt with silver buckle, cargo pocket visible on thigh",
-"footwear": "Black canvas high-top sneakers with white laces, white toe caps, and white rubber soles (Converse All-Star style)",
-"accessories": "Small black shoulder bag tucked under left arm, silver ring on left hand ring finger, small hoop earrings",
-"anatomy_and_physique": "Slender but curvy build, visible waistline, natural bust volume clearly projected in profile view, prominent arch in lower back due to kneeling pose"
+"demographics": "年轻女性，年龄约 20-25 岁，浅橄榄色至棕褐色肤色",
+"hair": "深棕色长发，蓬松波浪状，有层次感，中分，垂落在肩膀和背部",
+"face": "鹅蛋脸，下颌线分明，鼻梁挺直，丰满的嘴唇呈自然的玫瑰色，眉毛修剪整齐，棕色眼睛直视镜头",
+"upper_body_outfit": "白色短袖罗纹露脐上衣，紧身，圆领，下摆刚好在胸部下方，露出腰部",
+"lower_body_outfit": "橄榄绿色长裤（可能是工装裤或牛仔裤款式），臀部和大腿处合身，黑色皮带配银色搭扣，大腿处可见一个工装口袋",
+"footwear": "黑色帆布高帮运动鞋，白色鞋带，白色鞋头和白色橡胶鞋底（匡威 All-Star 款式）",
+"accessories": "左臂下夹着一个黑色小单肩包，左手无名指戴着一枚银戒指，小耳环",
+"anatomy_and_physique": "身材苗条但曲线优美，腰线明显，侧面看胸部自然丰满，由于跪姿，下背部有明显的弓形"
 },
 "pose": {
-"body_position": "Kneeling on the back seat of a car, body angled away from camera towards the driver side",
-"torso_rotation": "Upper torso twisted significantly to the right to face the camera",
-"head_orientation": "Head turned over right shoulder, chin slightly tucked, direct eye contact with the viewer",
-"arms": "Right arm raised and resting comfortably on top of the front seat headrest, left arm bent at elbow holding the black bag against the waist",
-"legs": "Knees bent on the seat cushion, shins tucking back, feet visible in the lower foreground",
-"spine_curvature": "Pronounced lumbar curve due to the kneeling and twisting posture"
+"body_position": "跪在汽车后座上，身体背对镜头，朝向驾驶员一侧倾斜",
+"torso_rotation": "上半身明显向右扭转，面向镜头",
+"head_orientation": "头部越过右肩转向，下巴微收，与观看者进行眼神交流",
+"arms": "右臂抬起，舒适地搭在前排座椅头枕上，左臂弯曲，将黑色包靠在腰部",
+"legs": "双膝跪在座垫上，小腿向后收，双脚在前景下方可见",
+"spine_curvature": "由于跪姿和扭转姿势，腰椎曲线明显"
 },
 "environment": {
-"location": "Interior of a modern sedan car, back row",
-"interior_details": "Black leather seats with perforated texture on the center panels, smooth leather side bolsters, grey car ceiling lining, black headrest",
-"background_view": "Through the car windows, a suburban residential street is visible with green lawns, a driveway, a beige house, and trees",
-"roof": "Car sunroof is open, showing visible sky and tree branches overhead"
+"location": "现代轿车内部，后排",
+"interior_details": "黑色皮革座椅，中央面板有穿孔纹理，光滑的皮革侧垫，灰色汽车顶衬，黑色头枕",
+"background_view": "透过车窗，可以看到一条郊区住宅街道，有绿色草坪、车道、米色房屋和树木",
+"roof": "汽车天窗打开，上方可见天空和树枝"
 },
 "camera": {
-"perspective": "Medium shot, eye-level relative to the kneeling subject, capturing full body from knees up",
-"framing": "Subject centered horizontally, framing captures the car interior context including the sunroof and window view",
-"depth_of_field": "Sharp focus on the subject's face and eyes, slightly softer focus on the background outside the window",
-"lens_characteristics": "Standard focal length (approx 35mm-50mm), minimal distortion, natural perspective"
+"perspective": "中景，与跪姿主体齐平，捕捉从膝盖到头部的全身",
+"framing": "主体水平居中，构图捕捉了汽车内部环境，包括天窗和窗外景色",
+"depth_of_field": "主体面部和眼睛清晰对焦，窗外背景略微柔和",
+"lens_characteristics": "标准焦距（约 35mm-50mm），最小失真，自然透视"
 },
 "lighting": {
-"source": "Natural daylight entering through the open sunroof and side windows",
-"quality": "Soft, diffuse, overcast lighting, no harsh shadows on the face",
-"direction": "Top-down ambient light from "}
+"source": "自然日光通过打开的天窗和侧窗进入",
+"quality": "柔和、漫射、阴天光线，面部无强烈阴影",
+"direction": "自上而下的环境光"
+}
+}
 ```
 
 #### 🖼️ 生成图片
@@ -2279,7 +2287,7 @@ A highly detailed, structured prompt for generating a photorealistic image of a 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544806454_yn5roo_G-vJLvPWsAA-rE1.jpg" width="600" alt="社交媒体帖子 - Realistic Car Interior Portrait with Streetwear Aesthetic - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544806454_yn5roo_G-vJLvPWsAA-rE1.jpg" width="600" alt="社交媒体帖子 - 街头服饰美学下的逼真汽车内饰肖像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2293,66 +2301,66 @@ A highly detailed, structured prompt for generating a photorealistic image of a 
 
 ---
 
-### No. 24: 社交媒体帖子 - Flirty Studio Portrait Prompt with Wink and Tongue Out
+### No. 24: 社交媒体帖子 - 眨眼吐舌的俏皮影棚肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A structured prompt for generating an ultra-realistic, high-fashion studio portrait of a young blonde woman. It focuses on a playful, flirty expression (wink and tongue out), detailed facial features (freckles, glossy lips), and soft diffused studio lighting with a shallow depth of field.
+一个结构化的提示，用于生成一张超现实、时尚感十足的年轻金发女性工作室肖像。它着重于俏皮、轻佻的表情（眨眼和吐舌）、细致的面部特征（雀斑、水润的嘴唇），以及柔和的漫射工作室灯光和浅景深。
 
 #### 📝 提示词
 
 ```
 {
-  "style": "ultra-realistic studio portrait",
+  "style": "超写实影棚肖像",
   "subject": {
-    "gender": "female",
-    "age": "young adult",
-    "pose": "leaning slightly forward toward the camera",
-    "expression": "playful, flirty",
+    "gender": "女性",
+    "age": "青年",
+    "pose": "身体略微前倾，面向镜头",
+    "expression": "俏皮、妩媚",
     "facial_details": {
       "wink": true,
       "tongue_out": true,
-      "freckles": "natural across fair skin",
+      "freckles": "白皙皮肤上自然的雀斑",
       "makeup": {
-        "blush": "soft pink",
-        "lips": "glossy"
+        "blush": "柔和的粉色腮红",
+        "lips": "有光泽的唇部"
       }
     },
     "hair": {
-      "color": "blonde",
-      "length": "long",
-      "part": "side-parted",
-      "style": "falling naturally over shoulders"
+      "color": "金色",
+      "length": "长发",
+      "part": "偏分",
+      "style": "自然垂落在双肩"
     },
     "outfit": {
-      "dress": "off-shoulder fitted black dress",
+      "dress": "露肩修身黑色连衣裙",
       "jewelry": {
-        "earrings": "long dangling gold earrings",
-        "necklaces": "layered gold necklaces with small heart pendant"
+        "earrings": "长款金色耳坠",
+        "necklaces": "叠戴金色项链，带小爱心吊坠"
       }
     }
   },
   "environment": {
-    "setting": "studio",
-    "background": "clean minimal light neutral tones"
+    "setting": "影棚",
+    "background": "干净、简约、浅色中性调"
   },
   "lighting": {
-    "type": "soft diffused studio lighting",
-    "shadows": "smooth natural shadows"
+    "type": "柔和漫射影棚灯光",
+    "shadows": "平滑自然的阴影"
   },
   "camera": {
     "lens": "50mm",
     "aperture": "f/1.8",
-    "depth_of_field": "shallow"
+    "depth_of_field": "浅景深"
   },
   "quality": {
-    "resolution": "high resolution",
-    "detail": "ultra-detailed",
-    "skin_texture": "photorealistic",
-    "focus": "sharp focus",
-    "photography_style": "high fashion lifestyle photography"
+    "resolution": "高分辨率",
+    "detail": "超精细",
+    "skin_texture": "照片级真实感皮肤纹理",
+    "focus": "锐利对焦",
+    "photography_style": "高端时尚生活摄影"
   }
 }
 ```
@@ -2362,7 +2370,7 @@ A structured prompt for generating an ultra-realistic, high-fashion studio portr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544784489_fh6q8h_G-vAZ8TWUAASf4P.jpg" width="600" alt="社交媒体帖子 - Flirty Studio Portrait Prompt with Wink and Tongue Out - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544784489_fh6q8h_G-vAZ8TWUAASf4P.jpg" width="600" alt="社交媒体帖子 - 眨眼吐舌的俏皮影棚肖像提示词 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2376,19 +2384,19 @@ A structured prompt for generating an ultra-realistic, high-fashion studio portr
 
 ---
 
-### No. 25: 社交媒体帖子 - Anime Egirl Illustration Prompt Shootout
+### No. 25: 社交媒体帖子 - 动漫 Egirl 插画提示词大比拼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed prompt for generating a high-quality anime illustration of a young woman with specific features (salmon hair, black eyes, smug expression) and wardrobe (cropped t-shirt with text), utilizing a clean digital sketch style and minimalist background.
+一个详细的提示，用于生成一张高质量的动漫插画，描绘一位具有特定特征（鲑鱼色头发、黑色眼睛、得意表情）和服饰（带文字的露脐 T 恤）的年轻女性，采用干净的数字素描风格和极简主义背景。
 
 #### 📝 提示词
 
 ```
-A high-quality anime illustration of a young woman with long, messy vibrant {argument name="hair color" default="salmon-colored"} hair and a slightly smug expression. She has unique solid black eyes with no pupils and subtle pink eyeshadow. She is wearing a tight, black cropped t-shirt with the text "{argument name="t-shirt text" default="DANGER: HIGHLY ADDICTIVE"}" printed in white across the chest. The art style is a clean digital sketch with thin, expressive line art and a flat, soft color palette. Minimalist white background, focus on the upper body and midriff, soft cel-shading, trendy "egirl" aesthetic, high resolution, 2D vector-influenced.
+一张高质量的动漫插画，描绘了一位年轻女性，她留着一头蓬松、充满活力的 {argument name="hair color" default="鲑鱼色"} 长发，表情略带得意。她拥有一双独特的纯黑色眼睛，没有瞳孔，并带有淡淡的粉色眼影。她身穿一件紧身黑色露脐 T 恤，胸前印有白色文字 "{argument name="t-shirt text" default="DANGER: HIGHLY ADDICTIVE"}"。艺术风格是干净的数字素描，线条纤细而富有表现力，色彩柔和而平坦。极简主义的白色背景，聚焦于上半身和腹部，柔和的赛璐珞着色，时尚的“egirl”美学，高分辨率，2D 矢量风格。
 ```
 
 #### 🖼️ 生成图片
@@ -2396,7 +2404,7 @@ A high-quality anime illustration of a young woman with long, messy vibrant {arg
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544799613_ps2u14_G-uwZHhbQAAFj9M.jpg" width="600" alt="社交媒体帖子 - Anime Egirl Illustration Prompt Shootout - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544799613_ps2u14_G-uwZHhbQAAFj9M.jpg" width="600" alt="社交媒体帖子 - 动漫 Egirl 插画提示词大比拼 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2410,13 +2418,13 @@ A high-quality anime illustration of a young woman with long, messy vibrant {arg
 
 ---
 
-### No. 26: 社交媒体帖子 - Hard Flash City Glow Portrait Prompt
+### No. 26: 社交媒体帖子 - 硬闪都市光芒肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly detailed JSON prompt for generating a photorealistic portrait using hard, frontal on-camera flash. The subject is a platinum blonde woman in a cropped pink hoodie and denim shorts, posing against a dark window with city lights bokeh, emphasizing high contrast and raw DSLR flash aesthetic.
+一个高度详细的 JSON 提示，用于生成一张使用硬质、正面机顶闪光灯拍摄的超逼真肖像。主体是一位铂金发色的女性，身穿粉色短款连帽衫和牛仔短裤，在城市灯光散景的暗色窗户前摆姿势，强调高对比度和原始的数码单反闪光灯美学。
 
 #### 📝 提示词
 
@@ -2424,100 +2432,96 @@ A highly detailed JSON prompt for generating a photorealistic portrait using har
 {
   "prompt_type": "photorealistic image generation",
   "subject": {
-    "gender": "female",
+    "gender": "女性",
     "age": 20,
-    "ethnicity_appearance": "light-skinned Caucasian appearance",
-    "body_type": "fit, slim hourglass figure, toned midsection",
-    "pose": "standing leaning back against a dark window frame, one arm raised resting high on the frame, the other hand delicately holding a single red rose near her face",
-    "facial_expression": "soft, captivating gaze directly at the camera, lips slightly parted, relaxed and confident"
+    "ethnicity_appearance": "浅肤色白种人外貌",
+    "body_type": "健美、苗条沙漏型身材，腰腹紧致",
+    "pose": "站立，背靠深色窗框，一只手臂高举搭在窗框上，另一只手轻柔地将一朵红色玫瑰花举至脸旁",
+    "facial_expression": "柔和、迷人的眼神直视镜头，双唇微启，放松且自信"
   },
-
   "face_details": {
-    "face_shape": "sculpted oval with defined jawline",
-    "skin_tone": "fair with warm undertones, illuminated by flash",
-    "skin_texture": "smooth, realistic grain, slight shine from flash photography",
+    "face_shape": "雕塑般的鹅蛋脸，下颌线分明",
+    "skin_tone": "白皙，暖色调，被闪光灯照亮",
+    "skin_texture": "光滑，逼真的纹理，闪光灯下略带光泽",
     "cheeks": {
-      "shape": "high cheekbones",
-      "color": "soft peachy blush"
+      "shape": "高颧骨",
+      "color": "柔和的桃色腮红"
     },
     "nose": {
-      "shape": "straight",
-      "size": "small to medium",
-      "tip": "refined"
+      "shape": "挺直",
+      "size": "小到中等",
+      "tip": "精致"
     },
     "lips": {
-      "shape": "full and plump",
-      "color": "natural mauve-pink",
-      "finish": "satin matte"
+      "shape": "饱满丰润",
+      "color": "自然紫粉色",
+      "finish": "丝绒哑光"
     },
     "eyes": {
-      "color": "piercing light blue-green",
-      "shape": "almond",
-      "expression": "alluring and focused",
-      "eyelashes": "natural but defined"
+      "color": "锐利的浅蓝绿色",
+      "shape": "杏仁状",
+      "expression": "诱人且专注",
+      "eyelashes": "自然但分明"
     },
     "eyebrows": {
-      "shape": "arched",
-      "thickness": "medium",
-      "color": "dark blonde"
+      "shape": "弓形",
+      "thickness": "中等",
+      "color": "深金色"
     }
   },
-
   "hair": {
-    "color": "platinum blonde",
-    "style": "long single thick braid hanging over one shoulder",
-    "length": "long",
-    "texture": "smooth, sleek with some loose strands illuminated by flash"
+    "color": "铂金色",
+    "style": "长而粗的单股辫垂在一侧肩膀上",
+    "length": "长发",
+    "texture": "光滑、柔顺，一些散落的发丝被闪光灯照亮"
   },
-
   "clothing": {
     "top": {
-      "type": "hoodie",
-      "color": "hot pink",
-      "details": "cropped length revealing midriff, long sleeves, drawstring hood"
+      "type": "连帽衫",
+      "color": "亮粉色",
+      "details": "短款，露出腰腹，长袖，抽绳帽"
     },
     "bottom": {
-      "type": "denim shorts",
-      "color": "light blue wash",
-      "details": "high-waisted, distressed/ripped texture, frayed hem"
+      "type": "牛仔短裤",
+      "color": "浅蓝色水洗",
+      "details": "高腰，破洞/撕裂纹理，磨边下摆"
     },
     "outerwear": {
-      "type": "none",
-      "color": "none",
-      "wearing_style": "none"
+      "type": "无",
+      "color": "无",
+      "wearing_style": "无"
     }
   },
-
   "accessories": {
-    "bag": "none",
-    "jewelry": "small stud earrings",
-    "props": "a single red rose held in the right hand"
+    "bag": "无",
+    "jewelry": "小耳钉",
+    "props": "右手持一朵红色玫瑰花"
   },
-
   "background": {
-    "setting": "indoor night scene near a window",
+    "setting": "室内夜景，靠近窗户",
     "objects": [
-      "dark window glass",
-      "window frame",
-      "distant city lights bokeh outside (very faint)"
+      "深色窗玻璃",
+      "窗框",
+      "窗外远处城市灯光散景（非常微弱）"
     ],
-    "depth_of_field": "background dark and out of focus"
+    "depth_of_field": "背景黑暗且失焦"
   },
   "lighting": {
-    "type": "direct on-camera flash",
-    "direction": "frontal",
-    "effect": "hard flash lighting, casting a shadow behind the subject on the window frame, high contrast, vibrant colors"
+    "type": "直射机载闪光灯",
+    "direction": "正面",
+    "effect": "硬闪光灯照明，在窗框上主体身后投射阴影，高对比度，色彩鲜艳"
   },
   "camera": {
-    "shot_type": "three-quarter shot (thighs up)",
-    "angle": "slightly low angle",
-    "focus": "sharp focus on face and rose"
+    "shot_type": "四分之三身像（大腿以上）",
+    "angle": "略低角度",
+    "focus": "面部和玫瑰花清晰对焦"
   },
   "image_quality": {
-    "style": "flash photography, candid aesthetic, raw DSLR look",
-    "detail_level": "high detail on denim texture and skin",
-    "noise": "visibl"
+    "style": "闪光灯摄影，抓拍美学，原始单反相机效果",
+    "detail_level": "牛仔布纹理和皮肤细节丰富",
+    "noise": "可见"
   }
+}
 ```
 
 #### 🖼️ 生成图片
@@ -2525,7 +2529,7 @@ A highly detailed JSON prompt for generating a photorealistic portrait using har
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544792897_gdoe8q_G-urWLnbQAMzNUW.jpg" width="600" alt="社交媒体帖子 - Hard Flash City Glow Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544792897_gdoe8q_G-urWLnbQAMzNUW.jpg" width="600" alt="社交媒体帖子 - 硬闪都市光芒肖像提示词 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2539,38 +2543,39 @@ A highly detailed JSON prompt for generating a photorealistic portrait using har
 
 ---
 
-### No. 27: 社交媒体帖子 - Vintage 2016 Bohemian Bedroom Portrait
+### No. 27: 社交媒体帖子 - 2016 年复古波西米亚卧室肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A structured prompt aiming for a photorealistic, nostalgic portrait capturing the 2016 bohemian aesthetic, featuring a woman in a cozy, eclectic bedroom with soft golden hour light filtering through beaded curtains, emphasizing film photography aesthetics and detailed texture realism.
+一个结构化的提示，旨在创作一幅捕捉 2016 年波西米亚美学的写实怀旧肖像，描绘一位女性在一个舒适、不拘一格的卧室中，柔和的黄金时段光线透过珠帘洒落，强调胶片摄影美学和细致的纹理真实感。
 
 #### 📝 提示词
 
 ```
 {
-  "main_prompt": "vintage 2016 bohemian bedroom portrait, young woman in her late teens to early 20s with olive/tanned Mediterranean skin, long dark brown hair in messy high bun with loose strands framing face, subtle natural makeup with dark eyeliner and nude lips, melancholic dreamy expression with half-lidded eyes gazing off-camera, slight pout, sitting on wooden chair leaning against wall with head resting on shoulder, one leg extended straight out resting on vintage colorful patterned suitcase, other leg bent casually, wearing sheer light {argument name="dress color" default="turquoise/teal"} lace long-sleeve mini dress with delicate floral embroidery and semi-transparent bodice revealing skin underneath, fluffy light blue faux-fur coat draped over shoulders and arms like a blanket, bare feet with natural toenails visible, ankle strap sandals loosely on one foot near suitcase, cozy eclectic bedroom interior: warm wooden floor, beige/yellow beaded curtain in window filtering soft golden afternoon light, hanging macramé plant holders with trailing green plants, round wooden mirror with plants reflection, potted plants, vintage suitcase with floral/retro pattern open nearby, soft warm sunlight streaming through curtains creating god rays and lens flare, film photography aesthetic from 2016 era, slight grain and vignette, muted pastel color palette with teal accents, photorealistic, ultra-detailed skin texture with natural pores and subtle imperfections, realistic lace transparency and fur fluffiness, dreamy nostalgic intimate vibe, shot on Canon AE-1 with 50mm f/1.4 film lens or Fujifilm Superia 400, shallow depth of field, soft bokeh on background elements, high detail on fabric textures and hair strands",
-  "negative_prompt": "blurry, lowres, deformed hands, extra fingers, fused fingers, bad anatomy, poorly drawn face, bad proportions, extra limbs, mutated hands, ugly, disfigured, tiling, out of frame, jpeg artifacts, signature, watermark, text, error, cropped, worst quality, low quality, cartoon, 3d render, plastic skin, doll-like, airbrushed skin, overexposed, underexposed, flat lighting, harsh shadows, pale skin, heavy makeup, glamorous look, modern smartphone filter, instagram face, duck lips, obese, elderly, child, male, urban modern room, clean minimalist interior, bright daylight, cold blue tones, desaturated, synthetic fabrics, visible logos, crowded scene, smiling happy expression, group shot, futuristic elements",
+  "main_prompt": "2016 年复古波西米亚风格卧室肖像，一名十几岁末到二十出头的年轻女性，橄榄色/晒黑的地中海肤色，深棕色长发梳成凌乱的高发髻，几缕发丝随意垂落在脸庞，淡雅自然的妆容，深色眼线和裸色唇妆，半闭的眼睛凝视镜头外，流露出忧郁梦幻的神情，略微撅着嘴，坐在木椅上，靠墙而坐，头靠在肩膀上，一条腿笔直伸出，搭在复古彩色图案的行李箱上，另一条腿随意弯曲，身穿轻薄的 {argument name=\"dress color\" default=\"青绿色/蓝绿色\"} 蕾丝长袖迷你连衣裙，上面有精致的花卉刺绣，半透明的紧身胸衣隐约露出肌肤，一件蓬松的浅蓝色人造毛皮外套像毯子一样披在肩上和手臂上，赤脚，脚趾甲自然可见，一只脚踝带凉鞋松松地套在靠近行李箱的那只脚上，舒适而兼收并蓄的卧室内部：温暖的木地板，窗户上挂着米色/黄色珠帘，过滤着柔和的金黄色午后阳光，悬挂的 macramé 植物架上垂坠着绿色植物，圆形木质镜子反射着植物的倒影，盆栽植物，旁边敞开着一个带有花卉/复古图案的复古行李箱，柔和温暖的阳光透过窗帘洒进来，形成耶稣光和镜头光晕，2016 年代的胶片摄影美学，略带颗粒感和暗角，柔和的马卡龙色调，点缀青绿色，超写实，超精细的皮肤纹理，带有自然的毛孔和细微的瑕疵，逼真的蕾丝透明度和毛皮蓬松感，梦幻怀旧的私密氛围，使用 Canon AE-1 相机搭配 50mm f/1.4 胶片镜头或 Fujifilm Superia 400 胶片拍摄，浅景深，背景元素柔和散景，织物纹理和发丝细节丰富",
+  "negative_prompt": "模糊，低分辨率，手部变形，多余的手指，手指融合，解剖结构错误，面部绘制拙劣，比例失调，多余的肢体，手部变异，丑陋，毁容，平铺，超出画面，jpeg 伪影，签名，水印，文字，错误，裁剪，最差质量，低质量，卡通，3D 渲染，塑料皮肤，玩偶般，喷枪修饰的皮肤，过曝，欠曝，平光，刺眼阴影，苍白皮肤，浓妆，华丽造型，现代智能手机滤镜，网红脸，鸭子嘴，肥胖，老年人，儿童，男性，城市现代房间，简洁极简主义内饰，明亮日光，冷蓝色调，去饱和，合成面料，可见的标志，拥挤的场景，开心的笑容，合影，未来主义元素",
   "style_tags": [
-    "photorealistic",
-    "2016 bohemian aesthetic",
-    "vintage film photography",
-    "dreamy nostalgic portrait",
-    "indie bedroom vibe",
-    "soft golden hour light",
-    "macramé boho decor",
-    "film grain and vignette",
-    "intimate relaxed pose",
-    "retro suitcase prop",
-    "eclectic cozy room"
+    "超写实",
+    "2016 波西米亚美学",
+    "复古胶片摄影",
+    "梦幻怀旧肖像",
+    "独立卧室氛围",
+    "柔和金色黄昏光线",
+    "macramé 波西米亚装饰",
+    "胶片颗粒和暗角",
+    "私密放松姿势",
+    "复古行李箱道具",
+    "兼收并蓄的舒适房间"
   ],
   "technical": {
-    "aspect_ratio": "4:5 (vertical portrait, Instagram / Tumblr 2016 style)",
-    "lighting": "soft warm golden afternoon sunlight filtering through beaded curtains from window right, god rays a"
+    "aspect_ratio": "4:5（垂直肖像，Instagram / Tumblr 2016 风格）",
+    "lighting": "柔和温暖的金黄色午后阳光从右侧窗户的珠帘中透射进来，形成耶稣光"
   }
+}
 ```
 
 #### 🖼️ 生成图片
@@ -2578,7 +2583,7 @@ A structured prompt aiming for a photorealistic, nostalgic portrait capturing th
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544763864_12gpje_G-upmIHaMAAiIGo.jpg" width="600" alt="社交媒体帖子 - Vintage 2016 Bohemian Bedroom Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544763864_12gpje_G-upmIHaMAAiIGo.jpg" width="600" alt="社交媒体帖子 - 2016 年复古波西米亚卧室肖像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2592,34 +2597,35 @@ A structured prompt aiming for a photorealistic, nostalgic portrait capturing th
 
 ---
 
-### No. 28: 社交媒体帖子 - Ultra-Realistic Y2K Disposable Camera Snapshot Prompt
+### No. 28: 社交媒体帖子 - 超逼真 Y2K 一次性相机快照提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly detailed, structured prompt for generating an ultra-realistic candid analog film photograph with a late 90s/early 2000s disposable camera aesthetic. It specifies harsh direct flash lighting, heavy film grain (Kodak Portra 400 emulation), and detailed descriptions of two subjects in leather jackets making goofy, spontaneous expressions.
+一个高度详细、结构化的提示，用于生成一张超现实的抓拍模拟胶片照片，具有 90 年代末/2000 年代初的一次性相机美学。它指定了刺眼的直射闪光灯照明、浓重的胶片颗粒（柯达 Portra 400 仿真），以及对两个穿着皮夹克的拍摄对象做出滑稽、自发表情的详细描述。
 
 #### 📝 提示词
 
 ```
 {
-  "advanced_image_generation_prompt": {
-    "metadata": {
-      "target_aspect_ratio": "9:16",
-      "style_goal": "Ultra-Realistic Candid Analog Film Photography",
-      "era_esthetic": "Late 90s / Early 2000s Y2K Disposable Camera vibe"
-    },
-    "master_prompt_string": "A raw, authentic, high-resolution candid analog film photograph captured with a direct on-camera flash from a low angle, looking up at two young women indoors. The aesthetic is that of a 1990s disposable camera snapshot with heavy film grain and vibrant, slightly desaturated colors. HARSH LIGHTING: The direct flash creates hard-edged shadows against the plain off-white wall behind them, causing specular highlights on their skin and leather jackets. SUBJECT 1 (LEFT): A young woman with long, tousled blonde hair, caught mid-action, winking her right eye playfully and sticking her tongue out. She wears a black leather biker jacket over a dark top, with a delicate gold chain necklace featuring a small rectangular pendant visible. SUBJECT 2 (RIGHT): Her best friend, a young woman with a brunette bob haircut and distinct straight bangs (fringe). She is making a goofy, scrunched-face expression with eyes tightly shut and mouth wide open in a grimacing laugh, showing teeth. She wears a slightly oversized, vintage-style black leather jacket (bomber style) unzipped over a crisp white crew-neck t-shirt. Small silver hoop earrings are visible. COMPOSITION & ENVIRONMENT: Shot from below their eye level. The background is a simple apartment corner; a single recessed ceiling light is visible near the top frame, overpowered by the flash. To the far right, neutral-toned fabric curtains hang. To the far left, the edge of a framed picture is implied. TEXTURES & DETAILS: Extremely detailed skin texture showing natural pores, slight imperfections, and oily shine from the flash. The grain of the worn leather jackets is palpable. The cotton texture of the white t-shirt is clear. The entire image is overlaid with significant, authentic Kodak Portra 400 film grain.",
-    "negative_prompt_string": "CG, 3D render, digital art, illustration, painting, photoshop, airbrushed, smooth skin, perfect complexions, studio lighting, soft diffused light, professional portrait, blurred faces, deformed appendages, extra fingers, bad anatomy, cartoonish, highly stylized, vivid neon colors, clean modern digital look, HDR, watermark, text, signature, cropped heads.",
-    "technical_parameters_guides": {
-      "camera_type": "35mm Point and Shoot / Disposable Camera",
-      "lens_type": "Wide angle lens (approx 28mm)",
-      "lighting_source": "Hard Direct Flash",
-      "film_stock_emulation": "Kodak Portra 400 (pushed)",
-      "perspective": "Worm's-eye view / Low Angle"
-    }
-  }
+  "advanced_image_generation_prompt": {
+    "metadata": {
+      "target_aspect_ratio": "9:16",
+      "style_goal": "超现实抓拍胶片摄影",
+      "era_esthetic": "90 年代末 / 2000 年代初 Y2K 一次性相机风格"
+    },
+    "master_prompt_string": "一张原始、真实、高分辨率的抓拍胶片照片，使用机顶闪光灯从低角度拍摄，仰视室内两位年轻女性。美学风格是 1990 年代一次性相机的快照，具有厚重的胶片颗粒和鲜艳、略微去饱和的色彩。强烈的光线：直射闪光灯在她们身后的纯白色墙壁上投射出硬朗的阴影，并在她们的皮肤和皮夹克上造成镜面高光。主体 1（左）：一位年轻女性，留着蓬松的金色长发，在动作中被捕捉，顽皮地眨着右眼并吐舌头。她穿着一件黑色皮质机车夹克，内搭深色上衣，一条带有小矩形吊坠的精致金色项链清晰可见。主体 2（右）：她的闺蜜，一位留着棕色波波头和独特齐刘海的年轻女性。她做着滑稽的鬼脸，双眼紧闭，嘴巴张大，发出咧嘴大笑，露出牙齿。她穿着一件略微宽松的复古风格黑色皮夹克（飞行员夹克款式），拉链敞开，内搭一件干净的白色圆领 T 恤。小银色耳环清晰可见。构图与环境：从她们视线下方拍摄。背景是一个简单的公寓角落；顶部框架附近可见一盏嵌入式吸顶灯，被闪光灯的光线盖过。最右侧挂着中性色调的布艺窗帘。最左侧暗示着一幅画框的边缘。纹理与细节：极其细致的皮肤纹理，显示出自然的毛孔、轻微的瑕疵和闪光灯造成的油光。磨损的皮夹克的纹理清晰可触。白色 T 恤的棉质纹理清晰可见。整个图像覆盖着显著、真实的 Kodak Portra 400 胶片颗粒。",
+    "negative_prompt_string": "CG, 3D 渲染, 数字艺术, 插画, 绘画, photoshop, 喷枪修饰, 光滑皮肤, 完美肤色, 影棚灯光, 柔和漫射光, 专业肖像, 模糊面部, 变形肢体, 多余手指, 糟糕解剖结构, 卡通化, 高度风格化, 鲜艳霓虹色, 干净现代数字感, HDR, 水印, 文字, 签名, 裁剪头部。",
+    "technical_parameters_guides": {
+      "camera_type": "35 毫米傻瓜相机 / 一次性相机",
+      "lens_type": "广角镜头（约 28 毫米）",
+      "lighting_source": "硬直闪光灯",
+      "film_stock_emulation": "Kodak Portra 400（增感）",
+      "perspective": "虫眼视角 / 低角度"
+    }
+  }
+}
 ```
 
 #### 🖼️ 生成图片
@@ -2627,7 +2633,7 @@ A highly detailed, structured prompt for generating an ultra-realistic candid an
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544780597_ctl8b2_G-uo-VbWAAAC3TA.jpg" width="600" alt="社交媒体帖子 - Ultra-Realistic Y2K Disposable Camera Snapshot Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544780597_ctl8b2_G-uo-VbWAAAC3TA.jpg" width="600" alt="社交媒体帖子 - 超逼真 Y2K 一次性相机快照提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2641,13 +2647,13 @@ A highly detailed, structured prompt for generating an ultra-realistic candid an
 
 ---
 
-### No. 29: 社交媒体帖子 - Golden Hour Cabin Portrait with Puppies Prompt
+### No. 29: 社交媒体帖子 - 黄金时刻小木屋与小狗肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for generating an editorial-realism style image of a young woman petting two small puppies inside a cozy wooden cabin during the golden hour. It specifies a film look (Kodak Portra 800), warm lighting pouring through an open balcony door, and a candid, intimate mood.
+生成一张年轻女子在金色时段，一间舒适木屋里抚摸两只小狗的编辑写实风格图像的提示。它指定了胶片感（Kodak Portra 800）、透过敞开的阳台门倾泻而入的温暖光线，以及一种坦率、亲密的氛围。
 
 #### 📝 提示词
 
@@ -2656,28 +2662,28 @@ A prompt for generating an editorial-realism style image of a young woman pettin
   "format": "text2im",
   "aspect_ratio": "4:5",
   "style_tags": [
-    "editorial realism",
-    "natural light",
-    "film look",
-    "Kodak Portra 800 feel",
-    "soft grain",
-    "warm golden hour"
+    "编辑写实主义",
+    "自然光",
+    "电影感",
+    "柯达 Portra 800 胶片质感",
+    "柔和颗粒",
+    "温暖黄金时段"
   ],
-  "prompt": "A cozy wooden cabin interior with an open balcony door at sunset. Warm golden-hour sunlight pours in, creating soft highlights and gentle shadows on a wooden floor. A young woman with copper/ginger hair tied back in a low ponytail with a scrunchie is squatting near the doorway, smiling softly and petting two small fluffy companion dogs (Shih Tzu / Maltese-like). She wears a fitted white short-sleeve crop top, pastel pink shorts, and matching pink socks. One dog is being held gently in her hands while the other stands facing her. Background shows a wooden balcony railing and distant mountains under a soft cloudy sky. Intimate candid lifestyle moment, calm and tender mood. High-detail fur texture, realistic skin tones, clean composition, shallow depth of field, soft bokeh, natural colors, no overprocessing.",
+  "prompt": "一个舒适的木屋内部，阳台门在日落时分敞开。温暖的黄金时段阳光倾泻而入，在木地板上形成柔和的高光和轻微的阴影。一位年轻女子，铜色/姜黄色头发用发圈扎成低马尾，正蹲在门口附近，温柔地微笑着抚摸两只毛茸茸的小伴侣犬（西施犬/马尔济斯犬类）。她穿着一件合身的白色短袖露脐上衣、淡粉色短裤和配套的粉色袜子。其中一只狗被她轻轻抱在怀里，另一只则面向她站立。背景显示木制阳台栏杆和柔和多云天空下的远山。亲密的抓拍生活瞬间，平静而温柔的氛围。高细节毛发纹理，逼真肤色，干净构图，浅景深，柔和散景，自然色彩，无过度处理。",
   "camera": {
-    "framing": "full body / 3-4 body, portrait orientation",
+    "framing": "全身/四分之三身，肖像构图",
     "lens": "35mm",
     "aperture": "f/2.2",
-    "focus": "woman and dogs, background softly blurred",
-    "lighting": "backlit sunset through open door, warm rim light"
+    "focus": "女人和狗，背景柔和模糊",
+    "lighting": "通过敞开的门逆光日落，温暖的轮廓光"
   },
   "quality": {
-    "detail": "high",
-    "sharpness": "natural",
-    "grain": "subtle film grain",
-    "dynamic_range": "soft highlights, preserved shadows"
+    "detail": "高",
+    "sharpness": "自然",
+    "grain": "微妙胶片颗粒",
+    "dynamic_range": "柔和高光，保留阴影"
   },
-  "negative_prompt": "cartoon, anime, illustration, CGI, 3D render, plastic skin, over-smoothed face, over-sharpening, HDR, harsh contrast, neon colors, color banding, low-res, blurry, motion blur, noise artifacts, bad anatomy, extra limbs, extra fingers, deformed hands, distorted face, duplicate subject, floating objects, warped door frames, crooked horizon, text, watermark, logo, signature, oversaturated, harsh flash lighting, studio look"
+  "negative_prompt": "卡通，动漫，插画，CGI，3D 渲染，塑料皮肤，过度平滑的脸部，过度锐化，HDR，强烈对比，霓虹色，色彩分层，低分辨率，模糊，运动模糊，噪点伪影，糟糕的解剖结构，多余的肢体，多余的手指，变形的手，扭曲的脸，重复的主体，漂浮的物体，扭曲的门框，倾斜的地平线，文字，水印，标志，签名，过饱和，刺眼的闪光灯，影棚感"
 }
 ```
 
@@ -2686,7 +2692,7 @@ A prompt for generating an editorial-realism style image of a young woman pettin
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544787510_ztn0hd_G-ukfXhWwAAsS8p.jpg" width="600" alt="社交媒体帖子 - Golden Hour Cabin Portrait with Puppies Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544787510_ztn0hd_G-ukfXhWwAAsS8p.jpg" width="600" alt="社交媒体帖子 - 黄金时刻小木屋与小狗肖像提示词 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2700,14 +2706,14 @@ A prompt for generating an editorial-realism style image of a young woman pettin
 
 ---
 
-### No. 30: 社交媒体帖子 - Alpine Ski Portrait with Anatomical Specifications
+### No. 30: 社交媒体帖子 - 高山滑雪肖像与解剖学规格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly technical prompt for generating a photorealistic portrait at an Alpine ski resort. It includes specific anatomical specifications (body type, bust volume, skin texture details) and technical optical settings, aiming for an authentic, high-fidelity handheld smartphone aesthetic.
+一个用于在阿尔卑斯滑雪胜地生成逼真肖像的高度技术性提示。它包括具体的解剖学规范（体型、胸部丰满度、皮肤纹理细节）和技术光学设置，旨在呈现真实、高保真度的手持智能手机美学。
 
 #### 📝 提示词
 
@@ -2719,30 +2725,30 @@ A highly technical prompt for generating a photorealistic portrait at an Alpine 
     "rendering_engine": "Nano Banana High-Fidelity"
   },
   "subject_logic": {
-    "identity_anchor": "100% accurate match of the woman in the reference photo. Exact facial structure, eye shape, and bone density preserved. No beautification.",
+    "identity_anchor": "与参考照片中的女性 100% 精准匹配。保留精确的面部结构、眼睛形状和骨密度。无美化。",
     "anatomical_specifications": {
-      "face": "Natural skin texture, visible pores, flushed cheeks from the cold, subtle wind-chill redness around the nose, moisture on the lips.",
-      "body_silhouette": "Top-heavy body type as per canonical reference. Heavy, visibly large and dominant bust volume that defines the silhouette under the ski jacket. Natural gravity pull and mass consistency.",
-      "pose": "Full body or three-quarter shot. She is standing on a snowy slope, posing naturally for a friend. She is holding a {argument name="equipment type" default="snowboard"} vertically under her left arm, pressing it against her side. Her right hand is tucked into her jacket pocket or hanging naturally. Head tilted slightly, looking at the camera with a spontaneous, natural smile."
+      "face": "自然的皮肤纹理，毛孔可见，因寒冷而泛红的脸颊，鼻子周围有轻微的冻伤红晕，嘴唇湿润。",
+      "body_silhouette": "根据标准参考，上半身丰满。胸部丰满、明显硕大且突出，在滑雪夹克下勾勒出轮廓。自然的重力牵引和质量一致性。",
+      "pose": "全身或四分之三身像。她站在雪坡上，自然地为朋友摆姿势。她左臂下夹着一个 {argument name=\"equipment type\" default=\"snowboard\"}，将其垂直压在身体一侧。她的右手插在夹克口袋里或自然下垂。头部略微倾斜，带着自发、自然的微笑看向镜头。",
+      "wardrobe_logic": {
+        "outerwear": "白色绗缝高级滑雪夹克，配有对比鲜明的黑色衣领和金属按扣。由于胸部丰满，面料在胸部区域呈现出张力和逼真的褶皱。",
+        "headwear": "米色麻花针织帽；专业的黑色滑雪护目镜戴在额头上。",
+        "equipment": "左臂下夹着一块光滑的品牌滑雪板，呈现出光泽的质感和雪尘。"
+      }
     }
   },
-  "wardrobe_logic": {
-    "outerwear": "White quilted premium ski jacket with a contrasting black collar and metallic snaps. The fabric shows tension and realistic folds over the chest area due to the heavy bust volume.",
-    "headwear": "Beige cable-knit beanie; professional black ski goggles resting on the forehead.",
-    "equipment": "A sleek, branded snowboard held under the left arm, showing glossy texture and snow dust."
-  },
   "environment_logic": {
-    "setting": "Sun-drenched Alpine ski resort. Jagged snow-capped peaks in the background, a blurry ski lift (funicular) rising behind her. Crisp, groomed corduroy snow on the ground.",
-    "illumination": "Bright, direct mountain sunlight. High-contrast natural light. Cool-toned blue shadows in the snow, warm golden highlights on the subject's face.",
-    "atmosphere": "Crisp winter air, slight snow haze in the distance, crystal clear sky."
+    "setting": "阳光普照的阿尔卑斯滑雪胜地。背景是锯齿状的雪山，她身后有一个模糊的滑雪缆车（索道）正在上升。地面是清爽、平整的雪道。",
+    "illumination": "明亮、直射的山地阳光。高对比度的自然光。雪地里有冷色调的蓝色阴影，主体脸部有温暖的金色高光。",
+    "atmosphere": "清冽的冬日空气，远处有轻微的雪雾，天空湛蓝清澈。"
   },
   "technical_logic": {
-    "optical": "Handheld iPhone shot, 35mm equivalent focal length. Taken by a second person at chest level.",
-    "pipeline": "Photorealistic, slight organic motion blur from handheld movement, no AI smoothing, authentic smartphone sensor grain.",
-    "depth_of_field": "f/2.8 medium depth; the subject is sharp, the mountain peaks have a soft, natural bokeh."
+    "optical": "手持 iPhone 拍摄，35mm 等效焦距。由第二个人在胸部高度拍摄。",
+    "pipeline": "照片级真实感，手持移动带来的轻微自然运动模糊，无 AI 平滑处理，真实的智能手机传感器颗粒感。",
+    "depth_of_field": "f/2.8 中等景深；主体清晰，山峰有柔和自然的焦外虚化。"
   },
   "negative_prompt": {
-    "forbidden": "holding phone, selfie, plastic skin, airbrushed, cartoon, anime, 3d render, distorted snowboard, low resolution, makeup filter."
+    "forbidden": "拿着手机，自拍，塑料皮肤，修图，卡通，动漫，3D 渲染，扭曲的滑雪板，低分辨率，美妆滤镜。"
   }
 }
 ```
@@ -2752,19 +2758,19 @@ A highly technical prompt for generating a photorealistic portrait at an Alpine 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544768689_no4a31_G-uhhyfbQAEHO2v.jpg" width="600" alt="社交媒体帖子 - Alpine Ski Portrait with Anatomical Specifications - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544768689_no4a31_G-uhhyfbQAEHO2v.jpg" width="600" alt="社交媒体帖子 - 高山滑雪肖像与解剖学规格 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544768750_ku1a8j_G-uhhyXbQAg9Lqa.jpg" width="600" alt="社交媒体帖子 - Alpine Ski Portrait with Anatomical Specifications - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544768750_ku1a8j_G-uhhyXbQAg9Lqa.jpg" width="600" alt="社交媒体帖子 - 高山滑雪肖像与解剖学规格 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544768852_xj8tle_G-uhhyfagAAKU-1.jpg" width="600" alt="社交媒体帖子 - Alpine Ski Portrait with Anatomical Specifications - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768544768852_xj8tle_G-uhhyfagAAKU-1.jpg" width="600" alt="社交媒体帖子 - 高山滑雪肖像与解剖学规格 - Image 3">
 </div>
 
 #### 📌 详情
@@ -2778,20 +2784,20 @@ A highly technical prompt for generating a photorealistic portrait at an Alpine 
 
 ---
 
-### No. 31: 社交媒体帖子 - Neon Cyberpunk Watercolor Fusion Illustration Prompt
+### No. 31: 社交媒体帖子 - 霓虹赛博朋克水彩融合插画提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt designed for image-to-image generation, requiring 100% preservation of facial identity from a reference image while transforming the style into a neon cyberpunk watercolor fusion illustration. It specifies cool color palettes, dramatic rim lighting, and blending fine sketch lines with watercolor bleeds against a dark night city background.
+一个专为图生图生成设计的提示词，要求 100% 保留参考图像的面部特征，同时将风格转换为霓虹赛博朋克水彩融合插画。它指定了冷色调配色方案、戏剧性的轮廓光，并将精细的素描线条与水彩晕染效果融合，背景为黑暗的夜间城市。
 
 #### 📝 提示词
 
 ```
 {
-  "prompt": "Use the uploaded reference image to **preserve 100% of the facial features, identity, age, skin tone, and expression** of the person. Do not change facial proportions. Create a **neon cyberpunk watercolor fusion illustration**: face painted softly in watercolor while surrounded by glowing neon light effects. Hair follows the exact reference style with subtle luminous highlights. Clothing: futuristic urban attire (sleek jacket, metallic or holographic fabric accents) rendered with painterly strokes. Background: dark night city with glowing neon signs, holograms, light streaks, digital rain, and watercolor splashes blending into a cyberpunk skyline. Cool color palette of electric blue, magenta, violet, and teal. Dramatic rim lighting around the silhouette, soft glow on skin, fine sketch lines mixed with watercolor bleeds. High-detail, cinematic, artistic, futuristic masterpiece quality.",
-  "negative_prompt": "blurry, low quality, deformed, extra limbs, bad anatomy, watermark, text overlay, anime, cartoon, overexposed, underexposed, ugly face, bad hands, face altered, identity changed, flat colors, plastic skin, harsh outlines",
+  "prompt": "使用上传的参考图片，**100% 保留人物的面部特征、身份、年龄、肤色和表情**。不要改变面部比例。创作一幅**霓虹赛博朋克水彩融合插画**：面部以柔和的水彩绘制，周围环绕着发光的霓虹灯效果。发型与参考图片完全一致，带有微妙的发光高光。服装：未来都市服装（时尚夹克，金属或全息面料点缀），以绘画笔触呈现。背景：黑暗的夜城，带有发光的霓虹灯牌、全息图、光线轨迹、数字雨和水彩飞溅，融入赛博朋克天际线。冷色调，包括电光蓝、洋红、紫罗兰和青色。轮廓周围有戏剧性的边缘光，皮肤上有柔和的光晕，精细的素描线条与水彩晕染混合。高细节、电影感、艺术性、未来主义杰作品质。",
+  "negative_prompt": "模糊、低质量、变形、多余肢体、糟糕的解剖结构、水印、文字叠加、动漫、卡通、曝光过度、曝光不足、丑陋的脸、糟糕的手、面部改变、身份改变、扁平的颜色、塑料皮肤、生硬的轮廓",
   "parameters": {
     "steps": 50,
     "cfg_scale": 7.2,
@@ -2802,7 +2808,7 @@ A prompt designed for image-to-image generation, requiring 100% preservation of 
     "height": 1216,
     "aspect_ratio": "2:3"
   },
-  "usage_instructions": "Upload your image in img2img or reference mode. Keep strength around 0.5–0.55 for **perfect face matching** while transforming the scene into a neon cyberpunk watercolor world."
+  "usage_instructions": "在 img2img 或参考模式下上传您的图片。将强度保持在 0.5–0.55 左右，以实现**完美的面部匹配**，同时将场景转换为霓虹赛博朋克水彩世界。"
 }
 ```
 
@@ -2811,13 +2817,13 @@ A prompt designed for image-to-image generation, requiring 100% preservation of 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544789043_s3x9cs_G-uhkTPbQAc7Gq-.jpg" width="600" alt="社交媒体帖子 - Neon Cyberpunk Watercolor Fusion Illustration Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544789043_s3x9cs_G-uhkTPbQAc7Gq-.jpg" width="600" alt="社交媒体帖子 - 霓虹赛博朋克水彩融合插画提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544789166_stltjp_G-uhkRpbQAA62gN.jpg" width="600" alt="社交媒体帖子 - Neon Cyberpunk Watercolor Fusion Illustration Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544789166_stltjp_G-uhkRpbQAA62gN.jpg" width="600" alt="社交媒体帖子 - 霓虹赛博朋克水彩融合插画提示 - Image 2">
 </div>
 
 #### 📌 详情
@@ -2831,79 +2837,80 @@ A prompt designed for image-to-image generation, requiring 100% preservation of 
 
 ---
 
-### No. 32: 社交媒体帖子 - Ancient Restoration Atelier Editorial Portrait
+### No. 32: 社交媒体帖子 - 古董修复工作室编辑肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly structured prompt for generating a hyper-realistic, medium-format editorial portrait of a subject (The Protagonist) in a chaotic, sun-drenched gold leaf restoration atelier. It emphasizes extreme texture detail, symmetrical composition, and practical-effect set design, mimicking a Hasselblad shot on Kodak Portra 400 film.
+一个高度结构化的提示，用于生成一张超现实、中画幅的编辑肖像，描绘一个身处混乱、阳光普照的镀金修复工作室中的主体（主人公）。该提示强调极致的纹理细节、对称构图和实景特效布景设计，旨在模仿哈苏相机使用 Kodak Portra 400 胶片拍摄的效果。
 
 #### 📝 提示词
 
 ```
 {
-  "vibe_title_en": "Ancient Restoration Atelier",
-  "master_prompt": "A hyper-realistic, medium-format portrait of The Protagonist centered in a chaotic, sun-drenched Gold Leaf Restoration Atelier. The subject stands with perfect symmetry, wearing a structured high-neck {argument name="garment color" default="crimson"} garment and heavy, archaic gold neck ornamentation that gleams under studio lights. Behind the subject is an elaborate physical set design: massive, textured wings made of hammered brass and weathered sandstone pyramids, appearing as a high-budget practical effect rather than a drawing. The foreground and background are densely packed with the tools of creation: shelves overflowing with jars of gold pigment, chisels, scattered architectural blueprints, and clay fragments. The atmosphere is thick with volumetric haze and floating dust motes caught in a beam of warm, directional light. Shot on a Hasselblad H6D-100c with an 80mm f/2.8 lens to capture the microscopic texture of skin pores and the tactile roughness of the sandstone props. Film stock emulation: Kodak Portra 400 for rich ochres and burnt siennas.",
+  "vibe_title_en": "古老修复工坊",
+  "master_prompt": "一幅超现实主义的中画幅肖像，主角居中，置身于一个混乱、阳光普照的描金修复工坊中。主体以完美的对称姿态站立，身着结构化的立领 {argument name=\"garment color\" default=\"深红色\"} 服饰，佩戴着厚重、古老的金色颈部饰品，在影棚灯光下闪闪发光。主体身后是精心设计的实体布景：由锤打黄铜和风化砂岩金字塔制成的巨大纹理翅膀，看起来更像是高成本的实景效果而非绘画。前景和背景密密麻麻地堆满了创作工具：架子上摆满了溢出的金颜料罐、凿子、散落的建筑蓝图和陶土碎片。空气中弥漫着浓厚的体积雾气和漂浮的尘埃颗粒，被一束温暖的定向光线捕捉。使用哈苏 H6D-100c 相机和 80mm f/2.8 镜头拍摄，以捕捉皮肤毛孔的微观纹理和砂岩道具的触感粗糙度。胶片模拟：柯达 Portra 400，呈现丰富的赭色和焦赭色。",
   "meta": {
-    "intent": "Editorial Portrait",
-    "priorities": "Texture, Lighting, Set Design",
-    "device_profile": "High-End Desktop / Retina Display"
+    "intent": "编辑肖像",
+    "priorities": "纹理、光线、布景设计",
+    "device_profile": "高端桌面 / 视网膜显示屏"
   },
   "frame": {
     "aspect": "4:5",
-    "composition": "Central Symmetrical",
-    "layout": "Portrait Close-Up",
-    "camera_angle": "Eye Level",
+    "composition": "中央对称",
+    "layout": "肖像特写",
+    "camera_angle": "平视",
     "tilt_roll_degrees": "0"
   },
   "subject": {
-    "gender": "Female",
-    "identity": "The Modern Deity",
-    "demographics": "Universal Adult",
-    "face": "Neutral, intense gaze, hyper-detailed skin texture",
-    "hair": "Styled to match the symmetry of the environment",
-    "body": "Shoulders squared to camera",
-    "expression": "Regal, piercing, calm authority",
-    "pose": "Static, commanding, front-facing"
+    "gender": "女性",
+    "identity": "现代神祇",
+    "demographics": "普遍成年人",
+    "face": "中性、专注的凝视、超精细的皮肤纹理",
+    "hair": "发型与环境的对称性相匹配",
+    "body": "双肩正对镜头",
+    "expression": "威严、锐利、沉着权威",
+    "pose": "静态、威严、正面"
   },
   "wardrobe_accessories": {
     "garments": [
       {
-        "item": "High-neck tunic",
-        "material": "Crimson Velvet or Raw Silk",
-        "color": "Deep Red / Burnt Orange",
-        "fit": "Structured / Tailored"
+        "item": "高领束腰外衣",
+        "material": "深红色天鹅绒或生丝",
+        "color": "深红 / 焦橙色",
+        "fit": "结构化 / 量身定制"
       }
     ],
     "accessories": [
       {
-        "item": "Choker / Collar",
-        "color": "Aged Gold",
-        "material": "Hammered Metal",
-        "brand_style": "Archaic / Museum Grade"
+        "item": "颈链 / 衣领",
+        "color": "做旧金色",
+        "material": "锤打金属",
+        "brand_style": "古老 / 博物馆级别"
       },
       {
-        "item": "Earrings",
-        "color": "Gold",
-        "material": "Brass",
-        "brand_style": "Sculptural"
+        "item": "耳环",
+        "color": "金色",
+        "material": "黄铜",
+        "brand_style": "雕塑感"
       }
     ]
   },
   "environment": {
-    "setting": "Gold Leaf Restoration Atelier / Prop Workshop",
-    "surfaces": "Hammered brass, sandstone, rough wood tables, paper blueprints",
-    "depth": "Shallow depth of field but cluttered background visible",
-    "atmosphere": "Dusty, warm, golden hour haze, smelling of turpentine and clay",
-    "lens_interaction": "Sharp focus on eyes, creamy bokeh on background props"
+    "setting": "描金修复工坊 / 道具工作室",
+    "surfaces": "锤打黄铜、砂岩、粗糙木桌、纸质蓝图",
+    "depth": "景深较浅但杂乱的背景可见",
+    "atmosphere": "尘土飞扬、温暖、金色时段的薄雾，弥漫着松节油和陶土的气味",
+    "lens_interaction": "眼睛对焦锐利，背景道具奶油般虚化"
   },
   "lighting": {
-    "key": "Rembrandt style directional sunlight",
-    "fill": "Warm gold reflector bounce",
-    "rim": "Subtle highlight on hair and brass win"
+    "key": "伦勃朗式定向阳光",
+    "fill": "暖金色反光板补光",
+    "rim": "头发和黄铜翅膀上的微妙高光"
   }
+}
 ```
 
 #### 🖼️ 生成图片
@@ -2911,13 +2918,13 @@ A highly structured prompt for generating a hyper-realistic, medium-format edito
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544768629_mvi65n_G-ufSUxXsAA0Tia.jpg" width="600" alt="社交媒体帖子 - Ancient Restoration Atelier Editorial Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544768629_mvi65n_G-ufSUxXsAA0Tia.jpg" width="600" alt="社交媒体帖子 - 古董修复工作室编辑肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544768636_v0036v_G-ufSj-W0AA7nY5.jpg" width="600" alt="社交媒体帖子 - Ancient Restoration Atelier Editorial Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544768636_v0036v_G-ufSj-W0AA7nY5.jpg" width="600" alt="社交媒体帖子 - 古董修复工作室编辑肖像 - Image 2">
 </div>
 
 #### 📌 详情
@@ -2931,38 +2938,39 @@ A highly structured prompt for generating a hyper-realistic, medium-format edito
 
 ---
 
-### No. 33: 社交媒体帖子 - Photorealistic Dual Gym Mirror Selfie Prompt
+### No. 33: 社交媒体帖子 - 逼真的双人健身房镜面自拍提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A structured JSON prompt for generating a photorealistic mirror selfie featuring two athletic young women in a dimly lit, modern gym. The prompt specifies detailed descriptions of the subjects, their vibrant workout attire, the moody blue/purple lighting, and technical requirements for high detail and realistic reflections.
+一个结构化的 JSON 提示词，用于生成一张逼真的镜面自拍，画面中有两名体格健美的年轻女性，置身于光线昏暗的现代健身房中。该提示词详细描述了拍摄对象、她们充满活力的健身服、忧郁的蓝紫色灯光，以及对高细节和逼真反射的技术要求。
 
 #### 📝 提示词
 
 ```
 {
-  "prompt_type": "photorealistic gym mirror selfie",
-  "main_composition": "mirror selfie of two athletic young women standing side by side with backs to the camera in a dimly lit modern gym, confidently posing with hands on hips and slight arch to emphasize curves, full reflections visible in large mirror showing their front sides and subtle expressions, vibrant colorful workout outfits contrasting moody blue/purple ambient lighting, professional fitness studio with equipment blurred in background",
+  "prompt_type": "逼真的健身房镜面自拍",
+  "main_composition": "两名运动型年轻女性在光线昏暗的现代健身房里并肩站立，背对镜头，自信地摆出双手叉腰、身体微弓以突出曲线的姿势，在大型镜子中清晰可见她们正面的完整倒影和细微的表情，鲜艳多彩的健身服与忧郁的蓝紫色环境光形成对比，专业的健身工作室，背景中的器械模糊不清",
   "subject_1_left": {
-    "description": "beautiful young woman in her early 20s, fit curvy athletic build with toned glutes and legs, long wavy light brown or blonde pigtails hair styled in high ponytail with loose strands, fair tanned smooth skin with healthy glow",
-    "clothing": "bright pink long-sleeve crop top with thumb holes and subtle sheen, matching high-waisted seamless short scrunch-butt pink leggings with 'DFYNE' logo on waistband, white athletic socks",
-    "details": "confident pose with hand on hip and slight smile visible in mirror reflection, hair naturally tousled, relaxed athletic stance"
+    "description": "20 岁出头的美丽年轻女性，身材健美，曲线优美，臀部和腿部紧致，长长的波浪形浅棕色或金色双马尾辫高高扎起，发丝散落，皮肤晒成健康的古铜色，光滑有光泽",
+    "clothing": "亮粉色长袖露脐上衣，带拇指孔和微妙的光泽，配套的高腰无缝短款蜜桃臀粉色紧身裤，腰带上有 'DFYNE' 标志，白色运动袜",
+    "details": "自信地叉腰姿势，镜中倒影可见微微一笑，头发自然蓬松，放松的运动姿态"
   },
   "subject_2_right": {
-    "description": "beautiful young woman in her early 20s, fit curvy athletic build with toned glutes and legs, long wavy darker brown hair in loose ponytail or braids, fair tanned smooth skin with healthy glow",
-    "clothing": "light yellow halter-style sports bra with thin straps, matching high-waisted seamless short scrunch-butt pink leggings, white athletic socks",
-    "details": "playful confident pose with hand on hip and subtle expression in mirror reflection, hair with natural volume"
+    "description": "20 岁出头的美丽年轻女性，身材健美，曲线优美，臀部和腿部紧致，长长的波浪形深棕色头发，扎成松散的马尾辫或编发，皮肤晒成健康的古铜色，光滑有光泽",
+    "clothing": "浅黄色挂脖式运动文胸，细肩带，配套的高腰无缝短款蜜桃臀粉色紧身裤，白色运动袜",
+    "details": "俏皮自信地叉腰姿势，镜中倒影可见细微的表情，头发自然蓬松"
   },
   "environment": {
-    "foreground": "dark rubberized gym floor with subtle texture",
-    "midground": "large wall mirror reflecting both women fully and gym interior",
-    "background": "modern gym with dim blue/purple ambient lighting, blurred cardio machines and weight equipment, exposed ceiling ducts and pipes, clean spacious professional fitness center atmosphere"
+    "foreground": "带有微妙纹理的深色橡胶健身房地板",
+    "midground": "大型墙面镜子，完整反射出两位女性和健身房内部",
+    "background": "现代健身房，光线昏暗，带有蓝紫色环境光，模糊的心肺训练器械和举重设备，裸露的天花板管道，干净宽敞的专业健身中心氛围"
   },
-  "lighting_and_atmosphere": "dim moody indoor gym lighting with cool blue/purple neon accents and overhead spots, subtle highlights on skin, hair, and shiny leggings fabric creating vibrant color pops, energetic confident workout vibe with high contrast between bright outfits and dark surroundings, photorealistic detail",
-  "technical_quality": "highly detailed, sharp focus on subjects with realistic seamless fabric textures (scrunch-butt shine, crop top stretch), skin glow, hair movement, and mirror reflections, 8k resolution, professional mirror selfie photography style with slight wide-angle lens effect and natural depth of field softly blurring background equipment",
-  "negative_prompt_suggestions": "blurry, deformed, extra limbs, phone screen visible, mirror distortion or misalignment, overexposed neon lights, underexposed faces, low quality, cartoon, anime, text watermark, extra pe"
+  "lighting_and_atmosphere": "昏暗忧郁的室内健身房灯光，带有酷炫的蓝紫色霓虹灯点缀和头顶射灯，皮肤、头发和闪亮紧身裤面料上的微妙高光营造出鲜艳的色彩，明亮的服装与黑暗的环境形成高对比度，充满活力自信的健身氛围，逼真的细节",
+  "technical_quality": "高度细节化，主体对焦清晰，逼真的无缝面料纹理（蜜桃臀的光泽，露脐上衣的弹性），皮肤光泽，头发动感，镜面反射，8k 分辨率，专业的镜面自拍摄影风格，略带广角镜头效果和自然的景深，柔和模糊背景设备",
+  "negative_prompt_suggestions": "模糊，变形，多余肢体，手机屏幕可见，镜面扭曲或错位，过度曝光的霓虹灯，曝光不足的面部，低质量，卡通，动漫，文字水印，多余的身体部位"
+}
 ```
 
 #### 🖼️ 生成图片
@@ -2970,7 +2978,7 @@ A structured JSON prompt for generating a photorealistic mirror selfie featuring
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544780586_keop24_G-uedzAaQAAd8Bg.jpg" width="600" alt="社交媒体帖子 - Photorealistic Dual Gym Mirror Selfie Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544780586_keop24_G-uedzAaQAAd8Bg.jpg" width="600" alt="社交媒体帖子 - 逼真的双人健身房镜面自拍提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -2984,13 +2992,13 @@ A structured JSON prompt for generating a photorealistic mirror selfie featuring
 
 ---
 
-### No. 34: 信息图 / 教育视觉图 - Elemental Physics Spill Collage Prompt
+### No. 34: 信息图 / 教育视觉图 - Elemental Physics Spill Collage 提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A complex, structured prompt for generating a 2x2 grid collage that visualizes elemental physics simulations (Water, Lava, Sand, Snow) spilling out of 2D photographs and interacting realistically with a 3D wooden surface, emphasizing fluid dynamics and material texture.
+一个复杂、结构化的提示，用于生成一个 2x2 网格拼贴画，该拼贴画将元素物理模拟（水、熔岩、沙子、雪）可视化为从 2D 照片中溢出并与 3D 木质表面真实互动，强调流体动力学和材料纹理。
 
 #### 📝 提示词
 
@@ -3000,63 +3008,66 @@ A complex, structured prompt for generating a 2x2 grid collage that visualizes e
     "top_left": {
       "element": "WATER",
       "visuals": {
-        "text_label": "WATER",
+        "text_label": "水",
         "spill_effect": {
-          "details": "Caustics, refraction of light through the clear stream, wet darkening effect on the wood, small splashing droplets",
-          "physics": "Fluid dynamics, low viscosity liquid pouring",
-          "interaction": "Water breaching the bottom paper edge, forming a continuous stream",
-          "surface_contact": "Creating a spreading puddle on the wood, surface tension visible at edges"
+          "details": "焦散、光线穿过清澈水流的折射、木材上的湿润变暗效果、细小的飞溅水滴",
+          "physics": "流体动力学、低粘度液体倾泻",
+          "interaction": "水流突破底部纸张边缘，形成连续的水柱",
+          "surface_contact": "在木材上形成扩散的水坑，边缘可见表面张力"
         },
-        "photo_content": "Turbulent blue ocean surface with white foam"
+        "photo_content": "波涛汹涌的蓝色海面，带有白色泡沫"
       }
     },
     "top_right": {
       "element": "LAVA",
       "visuals": {
-        "text_label": "LAVA",
+        "text_label": "熔岩",
         "spill_effect": {
-          "details": "Smoke and steam wisps rising (volumetric effects), incandescence, heat haze distortion, charred edges where lava meets wood, black solidifying rock floating in the liquid magma",
-          "physics": "High viscosity fluid simulation, thick and gooey",
-          "interaction": "Molten rock dripping heavily from the frame",
-          "surface_contact": "Pooling on the table, glowing intense orange/red"
+          "details": "烟雾和蒸汽缭绕（体积效果）、白炽光、热气模糊变形、熔岩与木材接触处的焦黑边缘、漂浮在液态岩浆中的黑色凝固岩石",
+          "physics": "高粘度流体模拟，浓稠黏腻",
+          "interaction": "熔融岩石从画框中大量滴落",
+          "surface_contact": "在桌面上汇聚成池，发出强烈的橙红色光芒"
         },
-        "photo_content": "Molten magma with cooling black crust"
+        "photo_content": "带有冷却黑色硬壳的熔融岩浆"
       }
     },
     "bottom_left": {
       "element": "SAND",
       "visuals": {
-        "text_label": "SAND",
+        "text_label": "沙",
         "spill_effect": {
-          "details": "Individual grains visible in macro focus, golden light catching facets of the sand, dust particles in the air, seamless transition from the 2D dune image to the 3D falling stream",
-          "physics": "Granular particle simulation, dry flow",
-          "interaction": "Sand pouring like an hourglass from the photo edge",
-          "surface_contact": "Forming a conical pile on the wooden surface"
+          "details": "微距聚焦下可见单个沙粒、金色光线捕捉沙粒的切面、空气中的尘埃颗粒、从 2D 沙丘图像到 3D 流淌沙流的无缝过渡",
+          "physics": "颗粒模拟、干燥流动",
+          "interaction": "沙子像沙漏一样从照片边缘倾泻而下",
+          "surface_contact": "在木质表面形成圆锥形沙堆"
         },
-        "photo_content": "Golden desert dunes with ripple textures"
+        "photo_content": "带有波纹纹理的金色沙漠沙丘"
       }
     },
     "bottom_right": {
       "element": "SNOW",
       "visuals": {
-        "text_label": "SNOW",
+        "text_label": "雪",
         "spill_effect": {
-          "details": "Crystalline structure of snowflakes, glistening highlights, high contrast between the cold white snow and the warm brown wood, soft diffused shadows, texture of packed powder versus loose flakes",
-          "physics": "Soft body powder simulation, clumping snow",
-          "interaction": "Tumbling snow clumps falling from the frame",
-          "surface_contact": "Accumulating in a fluffy mound on the table"
+          "details": "雪花的晶体结构、闪烁的高光、寒冷的白雪与温暖的棕色木材之间的高对比度、柔和的漫反射阴影、压实雪与松散雪片的质感",
+          "physics": "软体粉末模拟、雪块聚结",
+          "interaction": "翻滚的雪块从画框中落下",
+          "surface_contact": "在桌面上堆积成蓬松的雪堆"
         },
-        "photo_content": "Pristine white snow field, soft texture"
+        "photo_content": "原始的白色雪原，质地柔软"
       }
     }
   },
   "composition": {
-    "type": "2x2 Grid Collage",
-    "aspect_ratio": "1:1 square",
-    "overall_theme": "Surreal transition between 2D photography and 3D reality, featuring elemental physics simulations spilling from Polaroid frames.",
+    "type": "2x2 网格拼贴",
+    "aspect_ratio": "1:1 正方形",
+    "overall_theme": "2D 摄影与 3D 现实之间的超现实过渡，特色是从拍立得相框中溢出的元素物理模拟。",
     "camera_settings": {
-      "lighting": "Golden hour natural sunlight, warm backlighting causing rim light on the hands and elements",
-      "perspective": "Clos"
+      "lighting": "黄金时段自然阳光，暖色背光在手和元素上形成轮廓光",
+      "perspective": "近"
+    }
+  }
+}
 ```
 
 #### 🖼️ 生成图片
@@ -3064,7 +3075,7 @@ A complex, structured prompt for generating a 2x2 grid collage that visualizes e
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544759899_ieexlc_G-tplciacAAVod6.jpg" width="600" alt="信息图 / 教育视觉图 - Elemental Physics Spill Collage Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544759899_ieexlc_G-tplciacAAVod6.jpg" width="600" alt="信息图 / 教育视觉图 - Elemental Physics Spill Collage 提示词 - Image 1">
 </div>
 
 #### 📌 详情
@@ -3078,60 +3089,60 @@ A complex, structured prompt for generating a 2x2 grid collage that visualizes e
 
 ---
 
-### No. 35: 信息图 / 教育视觉图 - Exploded View Taco Visualization and Commercial Food Photography Prompt
+### No. 35: 信息图 / 教育视觉图 - 分解图玉米饼可视化和商业食品摄影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A detailed multi-part prompt for generating two distinct images and a motion sequence related to a taco. The first image is a high-end commercial photograph of the taco, and the second is a hyper-realistic exploded-view infographic of its ingredients with specific annotation design requirements. The motion prompt describes a smooth separation of ingredients for video generation.
+一个详细的多部分提示，用于生成两张不同的图像和一个与玉米饼（taco）相关的动态序列。第一张图像是玉米饼的高端商业摄影，第二张是其配料的超现实分解图信息图，并有特定的注释设计要求。动态提示描述了用于视频生成的配料平滑分离过程。
 
 #### 📝 提示词
 
 ```
-Motion Prompt: The food start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.
+运动提示：食物开始旋转，食材轻柔而精确地分离，保持对齐和比例。运动流畅，无额外效果。
 
-Image 1: A high-end commercial food photograph of the same two tacos from the reference image, preserving their exact structure, fillings, proportions, and arrangement. The camera angle is slightly adjusted to a more flattering three-quarter close-up, enhancing depth and appetite appeal without altering the tacos themselves. Soft cinematic lighting highlights the textures of the tortillas and fillings, with subtle steam and natural sheen to emphasize freshness. The background is replaced with a clean, modern, out-of-focus setting in warm complementary tones that enhance the food without distracting from it. Shallow depth of field, crisp focus on the tacos, rich contrast, natural colors, and premium restaurant advertising quality. No added or removed ingredients, refined composition, lighting, and environment.
+图片 1：一张高端商业美食照片，与参考图片中的两个玉米饼相同，保留其精确的结构、馅料、比例和摆放。相机角度略微调整为更讨喜的四分之三特写，在不改变玉米饼本身的情况下，增强了深度和食欲。柔和的电影式灯光突出了玉米饼和馅料的质感，带有微妙的蒸汽和自然光泽，以强调新鲜度。背景替换为干净、现代、虚化的场景，采用温暖的互补色调，既能衬托食物又不会分散注意力。浅景深，玉米饼对焦清晰，对比度丰富，色彩自然，具有高级餐厅广告品质。没有添加或去除食材，构图、灯光和环境都经过精心优化。
 
-Image 2: Exploded-view commercial visualization of the taco from the image, presented as premium recipe-style breakdown.
+图片 2：玉米饼的分解图商业可视化，呈现为高级食谱式分解。
 
-The taco is deconstructed into four visible ingredients, matching the original taco precisely in composition, color, and texture. No additional ingredients.
+玉米饼被分解成四种可见的食材，在成分、颜色和质地方面与原始玉米饼精确匹配。没有额外的食材。
 
-The ingredients are separated and arranged in a clean vertical stack, evenly spaced from bottom to top, floating in place with precise alignment and symmetry.
+食材被分离并排列成干净的垂直堆叠，从下到上均匀间隔，精确对齐且对称地浮动在空中。
 
-Ingredient order (bottom → top):
+食材顺序（从下到上）：
 
-Soft wheat taco tortilla
+软小麦玉米饼
 
-Shredded red cabbage
+切碎的红甘蓝
 
-Grilled chicken pieces
+烤鸡块
 
-Sauce with garnish (topped with a small mixed garnish of diced onion, tomato, and parsley, approximately 5–6 small cubes total, lightly mixed, placed naturally on top)
+酱汁配点缀（顶部点缀少量切丁的洋葱、番茄和欧芹混合物，总共约 5-6 小块，轻微混合，自然地放在顶部）
 
-Each ingredient is visually distinct and clearly readable in shape and texture.
+每种食材在形状和质地上都清晰可辨。
 
-Annotation design requirements:
+注释设计要求：
 
-– Large, bold sans-serif font, high legibility at feed scale
+– 大号、粗体无衬线字体，在信息流中具有高可读性
 
-– Each annotation placed inside a solid or softly rounded rectangular color block
+– 每个注释都放置在实心或柔和圆角的矩形色块内
 
-– Background color of each block corresponds subtly to the ingredient color (tomato red, lettuce green, meat warm brown, sauce white/cream, pita beige)
+– 每个色块的背景颜色与食材颜色微妙对应（番茄红、生菜绿、肉类暖棕色、酱汁白/奶油色、皮塔饼米色）
 
-– High contrast text (dark on light, light on dark)
+– 高对比度文本（深色背景上的浅色文字，浅色背景上的深色文字）
 
-– Thick, clean connector lines pointing clearly to each ingredient
+– 粗而清晰的连接线，清晰指向每种食材
 
-– No transparency that reduces readability
+– 没有降低可读性的透明度
 
-– Annotations must visually dominate over background without covering ingredients
+– 注释必须在视觉上主导背景，但不能覆盖食材
 
-Background is soft, neutral, and atmospheric, with subtle depth and gentle gradients, inspired by premium food advertising.
+背景柔和、中性、富有氛围感，具有微妙的深度和柔和的渐变，灵感来自高端美食广告。
 
-Overall style is clean, modern, and appetizing, commercial-ready without technical or schematic feel.
+整体风格干净、现代、开胃，商业化且不带技术或示意图感。
 
-No extra elements, no substitutions, no reinterpretation of ingredients.
+没有额外元素，没有替代品，没有对食材的重新诠释。
 ```
 
 #### 🖼️ 生成图片
@@ -3139,7 +3150,7 @@ No extra elements, no substitutions, no reinterpretation of ingredients.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544778654_v0bebh_G-s-O_waMAAh7fH.jpg" width="600" alt="信息图 / 教育视觉图 - Exploded View Taco Visualization and Commercial Food Photography Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544778654_v0bebh_G-s-O_waMAAh7fH.jpg" width="600" alt="信息图 / 教育视觉图 - 分解图玉米饼可视化和商业食品摄影提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -3153,19 +3164,19 @@ No extra elements, no substitutions, no reinterpretation of ingredients.
 
 ---
 
-### No. 36: 信息图 / 教育视觉图 - Nano Banana Pro for Scientific Illustration Generation
+### No. 36: 信息图 / 教育视觉图 - Nano Banana Pro 用于科学插图生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A discussion about Nano Banana Pro's capability to generate complex scientific illustrations, suggesting that users can prompt the AI to create detailed diagrams and visuals for scientific content.
+讨论 Nano Banana Pro 生成复杂科学插图的能力，表明用户可以提示 AI 创建详细的科学内容图表和视觉效果。
 
 #### 📝 提示词
 
 ```
-Generating complex {argument name="illustration type" default="scientific illustrations"}
+生成复杂的 {argument name="illustration type" default="科学插图"}
 ```
 
 #### 🖼️ 生成图片
@@ -3173,7 +3184,7 @@ Generating complex {argument name="illustration type" default="scientific illust
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544871890_2513cs_G-rli32bQAExYSK.jpg" width="600" alt="信息图 / 教育视觉图 - Nano Banana Pro for Scientific Illustration Generation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544871890_2513cs_G-rli32bQAExYSK.jpg" width="600" alt="信息图 / 教育视觉图 - Nano Banana Pro 用于科学插图生成 - Image 1">
 </div>
 
 #### 📌 详情
@@ -4539,18 +4550,18 @@ Generating complex {argument name="illustration type" default="scientific illust
 
 ---
 
-### No. 60: 漫画 / 故事板 - Heroine Expression Difference Grid Attempt
+### No. 60: 漫画 / 故事板 - 女主角表情差异网格尝试
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-A Japanese prompt attempting to use Nano Banana Pro to generate a 16-panel grid showing different facial expressions (expression differences) of a heroine, based on a reference image. The prompt specifies that the top-left panel should be the original image, and the remaining 15 panels should show variations while maintaining the art style, similar to pseudo-reference functionality in older models.
+一个日文提示，尝试使用 Nano Banana Pro 生成一个 16 格的网格，展示女主角不同的面部表情（表情差异），基于一张参考图像。该提示指定左上角的格子应为原始图像，其余 15 个格子应展示变体，同时保持艺术风格，类似于旧模型中的伪参考功能。
 
 #### 📝 提示词
 
 ```
-Create expression differences for the heroine. Display them in a 16-panel screen. The top-left panel should be the original image as is. The remaining 15 panels should display variations of different expressions.
+为女主角创作不同的表情。将它们显示在一个 16 格的屏幕中。左上角的面板应为原始图像，不做任何改动。其余 15 个面板应显示不同表情的变体。
 ```
 
 #### 🖼️ 生成图片
@@ -4558,13 +4569,13 @@ Create expression differences for the heroine. Display them in a 16-panel screen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544877373_9olwvv_G-rYHaibQAEAX1W.jpg" width="600" alt="漫画 / 故事板 - Heroine Expression Difference Grid Attempt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544877373_9olwvv_G-rYHaibQAEAX1W.jpg" width="600" alt="漫画 / 故事板 - 女主角表情差异网格尝试 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544877331_a78rtk_G-rYOXja4AA4LhO.jpg" width="600" alt="漫画 / 故事板 - Heroine Expression Difference Grid Attempt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544877331_a78rtk_G-rYOXja4AA4LhO.jpg" width="600" alt="漫画 / 故事板 - 女主角表情差异网格尝试 - Image 2">
 </div>
 
 #### 📌 详情
@@ -5799,50 +5810,50 @@ Draw the number "X" in a small, clear font in the bottom right corner of the ima
 
 ---
 
-### No. 80: 产品营销 - Surreal Einstein Paper Sculpture Photography Prompt
+### No. 80: 产品营销 - 超现实爱因斯坦纸雕摄影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A JSON prompt for generating conceptual fine-art photography of a surreal sculpture: the head of Einstein constructed entirely from layered, folded newspaper pages. It details the material, folding technique, composition (tight portrait against a dark gray wall), and soft studio lighting for an intellectual, refined mood.
+一个用于生成超现实雕塑概念艺术摄影的 JSON 提示：爱因斯坦的头部完全由层叠、折叠的报纸页面构成。它详细描述了材料、折叠技术、构图（以深灰色墙壁为背景的特写肖像）和柔和的影棚灯光，营造出一种知性、精致的氛围。
 
 #### 📝 提示词
 
 ```
 {
-  "concept_type": "surreal_object_sculpture_photography",
+  "concept_type": "超现实物体雕塑摄影",
   "subject": {
-    "object_identity": "{argument name="subject identity" default="Einstein"} head",
-    "orientation": "side profile facing right",
-    "expression": "alert and focused"
+    "object_identity": "{argument name=\"subject identity\" default=\"Einstein\"} 的头部",
+    "orientation": "侧面轮廓，朝右",
+    "expression": "警觉而专注"
   },
   "material_construction": {
-    "primary_material": "paper",
-    "material_source": "folded newspaper pages",
-    "folding_technique": "layered origami-like folding",
-    "layer_density": "high-density layered"
+    "primary_material": "纸",
+    "material_source": "折叠的报纸页面",
+    "folding_technique": "分层折纸式折叠",
+    "layer_density": "高密度分层"
   },
   "surface_details": {
-    "text_visibility": "partially readable newspaper text",
-    "color_accents": ["muted yellow", "soft gray"],
-    "edge_quality": "sharp, crisp folds"
+    "text_visibility": "部分可读的报纸文字",
+    "color_accents": ["柔和的黄色", "柔和的灰色"],
+    "edge_quality": "锐利、清晰的折痕"
   },
   "composition": {
-    "framing": "tight object portrait",
-    "perspective": "eye-level",
-    "background": "dark gray studio wall",
-    "negative_space": "minimal, gallery-style"
+    "framing": "紧凑的物体肖像",
+    "perspective": "视平线",
+    "background": "深灰色工作室墙壁",
+    "negative_space": "极简，画廊风格"
   },
   "lighting": {
-    "type": "soft directional studio light",
-    "direction": "left-side illumination",
-    "shadow_behavior": "subtle natural shadow cast on wall"
+    "type": "柔和定向工作室灯光",
+    "direction": "左侧照明",
+    "shadow_behavior": "墙壁上投射出微妙的自然阴影"
   },
-  "mood": "intellectual, refined, contemplative",
-  "style": "fine-art conceptual sculpture photography",
-  "negative_prompt": "cartoon , fantasy creature, messy collage, overexposed whites, CGI textures, watermark"
+  "mood": "知性、精致、沉思",
+  "style": "美术概念雕塑摄影",
+  "negative_prompt": "卡通、奇幻生物、凌乱的拼贴画、过度曝光的白色、CGI 纹理、水印"
 }
 ```
 
@@ -5851,25 +5862,25 @@ A JSON prompt for generating conceptual fine-art photography of a surreal sculpt
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544887530_d5c9gu_G-ve3JkbQAA4Azk.jpg" width="600" alt="产品营销 - Surreal Einstein Paper Sculpture Photography Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544887530_d5c9gu_G-ve3JkbQAA4Azk.jpg" width="600" alt="产品营销 - 超现实爱因斯坦纸雕摄影提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544887533_pquna7_G-ve3JfbQAIfdie.jpg" width="600" alt="产品营销 - Surreal Einstein Paper Sculpture Photography Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544887533_pquna7_G-ve3JfbQAIfdie.jpg" width="600" alt="产品营销 - 超现实爱因斯坦纸雕摄影提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544887588_4q3tqn_G-ve5u_bQAcNlYJ.jpg" width="600" alt="产品营销 - Surreal Einstein Paper Sculpture Photography Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768544887588_4q3tqn_G-ve5u_bQAcNlYJ.jpg" width="600" alt="产品营销 - 超现实爱因斯坦纸雕摄影提示 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544888911_8lw8im_G-ve54HbQAAnBre.jpg" width="600" alt="产品营销 - Surreal Einstein Paper Sculpture Photography Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1768544888911_8lw8im_G-ve54HbQAAnBre.jpg" width="600" alt="产品营销 - 超现实爱因斯坦纸雕摄影提示 - Image 4">
 </div>
 
 #### 📌 详情
@@ -5883,29 +5894,29 @@ A JSON prompt for generating conceptual fine-art photography of a surreal sculpt
 
 ---
 
-### No. 81: 产品营销 - Surreal Sydney Sweeney Portrait in Cotton Candy Amphitheater
+### No. 81: 产品营销 - 超现实的西德尼·斯威尼棉花糖圆形剧场肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A maximalist, hyper-detailed prompt for a surreal editorial portrait of Sydney Sweeney, featuring her emerging from a colossal, rainbow-colored cotton candy structure sculpted like a Greek amphitheater, emphasizing macro details, volumetric lighting, and high-end photography specifications.
+一个极致、超详细的提示词，用于创作一张超现实的西德尼·斯威尼 (Sydney Sweeney) 编辑肖像，描绘她从一个巨大的、彩虹色的棉花糖结构中走出，该结构被塑造成希腊圆形剧场的形状，强调宏观细节、体积光照和高端摄影规格。
 
 #### 📝 提示词
 
 ```
-A high-fashion, cinematic portrait of {argument name="subject name" default="Sydney Sweeney"} emerging dramatically from a colossal, highly sculpted mass of rainbow-colored cotton candy. The spun sugar is meticulously rendered, forming the structural ruins of a classical Greek amphitheater, complete with crumbling pillars and tiered seating, all made of hyper-realistic, translucent cotton candy fibers. She is styled in a flowing, bespoke iridescent white gown that contrasts sharply with the vibrant, saccharine environment. Focus is placed on the macro details of the spun sugar texture, exhibiting crystalline structure and soft, ethereal translucence where light passes through. The overall aesthetic is maximalist food surrealism meets editorial portraiture.
+一幅高级时尚的电影肖像，描绘了 {argument name="subject name" default="Sydney Sweeney"} 从一个巨大的、高度雕塑感的彩虹色棉花糖团中戏剧性地出现。精细描绘的棉花糖构成了古典希腊圆形剧场的结构遗迹，包括摇摇欲坠的柱子和阶梯式座位，所有这些都由超现实、半透明的棉花糖纤维制成。她身着一件飘逸的定制虹彩白色礼服，与充满活力的甜腻环境形成鲜明对比。重点放在棉花糖纹理的宏观细节上，展现出晶体结构和光线穿透时的柔和、空灵的半透明感。整体美学是极致主义的食物超现实主义与时尚编辑肖像的结合。
 
-**Camera & Lens:** Shot on Phase One IQ4 150MP, 120mm Macro lens, detailed texture focus, aperture f/8. Cinematic, shallow depth of field for the foreground elements, but maintaining crisp detail on her face and the immediate cotton candy structure.
+**相机与镜头：** 使用 Phase One IQ4 150MP 相机，120mm 微距镜头拍摄，聚焦纹理细节，光圈 f/8。电影感，前景元素景深较浅，但她的脸部和近处的棉花糖结构保持清晰细节。
 
-**Lighting Details:** Volumetric lighting filtering through the spun sugar tiers, internal colored backlighting (electric magenta, cyan, and lemon yellow gels) creating a dramatic, ethereal glow from within the cotton candy. Strong, directional rim light defining the precise strands of sugar and highlighting the texture of her dress. Clean, soft fill light for perfect skin tones.
+**灯光细节：** 体积光穿过棉花糖层，内部彩色背光（电光洋红、青色和柠檬黄滤光片）从棉花糖内部营造出戏剧性、空灵的光芒。强烈、定向的轮廓光勾勒出精确的糖丝，并突出她礼服的纹理。干净、柔和的补光灯，打造完美的肤色。
 
-**Aesthetic Modifiers:** Hyper-detailed food photography, maximalist surrealism, high dynamic range, editorial fashion spread, crystal clear focus, high saturation.
+**美学修饰词：** 超详细食物摄影、极致主义超现实主义、高动态范围、时尚编辑专题、晶莹剔透的焦点、高饱和度。
 
-**Text overlay:** 'Text overlay: "{argument name="text overlay" default="SWEET CHAOS - The Sydney Sweeney Issue"}"'
+**文本叠加：** “文本叠加：‘{argument name="text overlay" default="SWEET CHAOS - The Sydney Sweeney Issue"}’”
 
-**Ratio:** --ar 16:9 --style raw
+**比例：** --ar 16:9 --style raw
 ```
 
 #### 🖼️ 生成图片
@@ -5913,7 +5924,7 @@ A high-fashion, cinematic portrait of {argument name="subject name" default="Syd
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544801413_lgc8ha_G-vJbmbbQAQ4Wqh.jpg" width="600" alt="产品营销 - Surreal Sydney Sweeney Portrait in Cotton Candy Amphitheater - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544801413_lgc8ha_G-vJbmbbQAQ4Wqh.jpg" width="600" alt="产品营销 - 超现实的西德尼·斯威尼棉花糖圆形剧场肖像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -5927,45 +5938,44 @@ A high-fashion, cinematic portrait of {argument name="subject name" default="Syd
 
 ---
 
-### No. 82: 产品营销 - Print-Ready Tech Stack Sticker Sheet Prompt
+### No. 82: 产品营销 - 可直接打印的技术栈贴纸页提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A highly technical prompt for generating a print-ready sticker sheet featuring 28 specific tech stack logos (e.g., Python, Docker, AWS). It mandates strict constraints on size, layout, color, and technical printing details like bleed, margin, and kiss-cut outlines, aiming for a clean 2D vector look with a subtle drop shadow.
+一个高度技术性的提示，用于生成包含 28 个特定技术栈 Logo（例如 Python、Docker、AWS）的即用型贴纸页。它严格规定了尺寸、布局、颜色以及出血、边距和半切线等技术打印细节，旨在呈现带有微妙阴影的简洁 2D 矢量外观。
 
 #### 📝 提示词
 
 ```
-'''
-TYPE: Print-ready sticker sheet (sponsor decal sheet style), clean 2D vector look.
+类型：可打印贴纸页（赞助商贴花纸样式），简洁的 2D 矢量外观。
 
-CANVAS / PRINT:
-- 2480 x 3508 px, 300 DPI (A4), portrait
-- Bleed: 3mm
-- Safe margin: 5mm (no sticker may cross into margin)
-- Background: pure white (#FFFFFF), flat
+画布/打印：
+- 2480 x 3508 像素，300 DPI（A4），纵向
+- 出血：3 毫米
+- 安全边距：5 毫米（任何贴纸都不得超出边距）
+- 背景：纯白色（#FFFFFF），平面
 
-STICKER CUT SYSTEM (CONSISTENT ACROSS ALL):
-For each logo:
-1) Die-cut outline: thick WHITE kiss-cut border (uniform thickness)
-2) Visibility stroke: thin LIGHT-GRAY stroke outside the white border (so it reads on white paper)
-3) Shadow: subtle soft drop shadow (offset 6–10 px, blur 12–18 px, opacity 12–18%), print-clean
+贴纸切割系统（所有贴纸均保持一致）：
+每个标志：
+1) 模切轮廓：厚白色吻切边框（厚度均匀）
+2) 可视性描边：白色边框外侧的细浅灰色描边（以便在白纸上清晰可见）
+3) 阴影：柔和的微妙投影（偏移 6–10 像素，模糊 12–18 像素，不透明度 12–18%），打印清晰
 
-SIZE CONSTRAINTS (STRICT):
-Each sticker must fit inside:
-- Max width: 945 px (8 cm)
-- Max height: 709 px (6 cm)
-- Min height: 354 px (3 cm)
-Vary sizes but never exceed maxima.
+尺寸限制（严格）：
+每个贴纸必须符合以下尺寸：
+- 最大宽度：945 像素（8 厘米）
+- 最大高度：709 像素（6 厘米）
+- 最小高度：354 像素（3 厘米）
+尺寸可变，但不得超过最大值。
 
-LOGO RULES (STRICT):
-- Logos only. No extra headings, no labels, no decorative text.
-- Typography is allowed only if it is part of the official logo artwork.
-- No duplicates. Exactly 28 unique stickers.
+标志规则（严格）：
+- 仅限标志。无额外标题、无标签、无装饰性文字。
+- 仅当字体是官方标志艺术作品的一部分时才允许使用。
+- 不重复。精确 28 个独特的贴纸。
 
-LOGO LIST (EXACT, 28 ITEMS):
+标志列表（精确，28 项）：
 1 Go
 2 Next.js
 3 PHP
@@ -5995,20 +6005,19 @@ LOGO LIST (EXACT, 28 ITEMS):
 27 Vercel
 28 Cloudflare
 
-LAYOUT ENGINEERING (PACKING LIKE A SPONSOR SHEET):
-- Use a dense, balanced collage layout:
-  - Top third: 3–4 “hero” logos at larger size (still within max size)
-  - Middle: 14–16 medium logos arranged in staggered rows
-  - Bottom: remaining smaller logos filling gaps cleanly
-- No overlaps, no cropping, consistent gutters
-- Maintain visual rhythm: mostly 3 logos per row for medium/large, up to 4 per row for smaller ones
-- Keep overall composition centered with even whitespace around edges
+布局工程（像赞助商页一样排版）：
+- 采用密集、均衡的拼贴布局：
+  - 顶部三分之一：3–4 个“主打”标志，尺寸较大（仍在最大尺寸内）
+  - 中间：14–16 个中等尺寸标志，交错排列
+  - 底部：剩余较小的标志，整齐填补空隙
+- 无重叠、无裁剪、间距一致
+- 保持视觉节奏：中型/大型标志每行大多 3 个，小型标志每行最多 4 个
+- 保持整体构图居中，边缘留白均匀
 
-RENDER PARAMETERS:
-- Camera: orthographic straight-on, 85mm equivalent, f/8 (maximum crispness)
-- Lighting: uniform studio lighting; shadow only comes from the sticker drop shadow
-- Output: ultra-sharp edges, accurate logo geometry, print-ready clarity
- '''
+渲染参数：
+- 相机：正交直射，85 毫米等效焦距，f/8（最大清晰度）
+- 照明：均匀工作室照明；阴影仅来自贴纸投影
+- 输出：超锐利边缘，精确的标志几何形状，可打印的清晰度
 ```
 
 #### 🖼️ 生成图片
@@ -6016,7 +6025,7 @@ RENDER PARAMETERS:
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544784796_aktkjb_G-u0RC-bQAMfajJ.jpg" width="600" alt="产品营销 - Print-Ready Tech Stack Sticker Sheet Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544784796_aktkjb_G-u0RC-bQAMfajJ.jpg" width="600" alt="产品营销 - 可直接打印的技术栈贴纸页提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6030,18 +6039,18 @@ RENDER PARAMETERS:
 
 ---
 
-### No. 83: 产品营销 - Branded Crumpled Stickers (Placeholder)
+### No. 83: 产品营销 - 品牌褶皱贴纸（占位符）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-This tweet mentions a prompt for 'Branded crumpled stickers' but the prompt text is missing, indicated by the trailing ellipsis and lack of content.
+这条推文提到了一个关于“品牌褶皱贴纸”的提示词，但提示词文本缺失，由省略号和空内容表示。
 
 #### 📝 提示词
 
 ```
-Branded crumpled stickers
+品牌褶皱贴纸
 ```
 
 #### 🖼️ 生成图片
@@ -6049,25 +6058,25 @@ Branded crumpled stickers
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544852919_v9bvqs_G-uljCxbQAMe1Qf.jpg" width="600" alt="产品营销 - Branded Crumpled Stickers (Placeholder) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544852919_v9bvqs_G-uljCxbQAMe1Qf.jpg" width="600" alt="产品营销 - 品牌褶皱贴纸（占位符） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544853103_gx8ys8_G-ul4VxbQAQTBLc.jpg" width="600" alt="产品营销 - Branded Crumpled Stickers (Placeholder) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544853103_gx8ys8_G-ul4VxbQAQTBLc.jpg" width="600" alt="产品营销 - 品牌褶皱贴纸（占位符） - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544853012_3ekdxj_G-ul4-JXUAAnIqk.jpg" width="600" alt="产品营销 - Branded Crumpled Stickers (Placeholder) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768544853012_3ekdxj_G-ul4-JXUAAnIqk.jpg" width="600" alt="产品营销 - 品牌褶皱贴纸（占位符） - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544854840_natira_G-ul5hDbQAA3uMC.jpg" width="600" alt="产品营销 - Branded Crumpled Stickers (Placeholder) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1768544854840_natira_G-ul5hDbQAA3uMC.jpg" width="600" alt="产品营销 - 品牌褶皱贴纸（占位符） - Image 4">
 </div>
 
 #### 📌 详情
@@ -6081,14 +6090,14 @@ Branded crumpled stickers
 
 ---
 
-### No. 84: 产品营销 - Fashion Editorial Mirror Selfie with Lipstick Message
+### No. 84: 产品营销 - 时尚大片：口红留言的镜中自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A high-priority prompt for generating a photorealistic fashion editorial portrait of a woman holding red lipstick in front of a vintage gold-framed mirror. The key feature is the text 'Happy International Bagel Day' written on the mirror in lipstick, combining a playful message with a sensual, confident aesthetic.
+一个高优先级的提示，用于生成一张逼真的时尚编辑肖像，描绘一位女性手持红色口红，站在一面复古金色边框镜子前。关键特征是镜子上用口红写着“Happy International Bagel Day”字样，将俏皮的信息与感性、自信的美学融为一体。
 
 #### 📝 提示词
 
@@ -6101,7 +6110,6 @@ A high-priority prompt for generating a photorealistic fashion editorial portrai
       "version": "v1.0_INTERNATIONAL_BAGEL_DAY_MIRROR_LIPSTICK",
       "priority": "highest"
     },
-
     "output_settings": {
       "aspect_ratio": "3:4",
       "orientation": "portrait",
@@ -6113,60 +6121,53 @@ A high-priority prompt for generating a photorealistic fashion editorial portrai
       "dynamic_range": "natural_not_hdr",
       "skin_rendering": "real_texture_glow"
     },
-
     "creative_prompt": {
-      "scene_summary": "A photorealistic high-fashion editorial portrait of a woman standing in front of a vintage gold-framed mirror, holding a red lipstick. On the mirror, written clearly in red lipstick handwriting, is the phrase: '{argument name="mirror text" default="Happy International Bagel Day"}', accompanied by a subtle lipstick kiss mark.",
-      
+      "scene_summary": "一张时尚杂志风格的超写实女性肖像照，她站在一面复古金色边框镜子前，手持一支红色口红。镜子上用红色口红清晰地写着：“{argument name=\"mirror text\" default=\"Happy International Bagel Day\"}”，旁边还有一个淡淡的口红吻痕。",
       "subject": {
         "appearance": {
-          "hair": "wet, softly wavy hair, slightly tousled",
-          "makeup": "glossy red lips, luminous skin, natural sculpted makeup",
-          "accessories": "gold hoop earrings",
-          "outfit": "elegant red satin slip dress"
+          "hair": "湿润、微卷的头发，略显蓬松",
+          "makeup": "亮泽红唇，肌肤光彩照人，自然雕塑感妆容",
+          "accessories": "金色环形耳环",
+          "outfit": "优雅的红色缎面吊带裙"
         },
-        "expression": "confident, sensual, calm gaze slightly off-camera"
+        "expression": "自信、性感，平静的目光略微偏离镜头"
       },
-
       "environment": {
-        "location": "sunlit interior",
-        "background": "soft blurred background with warm daylight reflections",
-        "mirror": "ornate vintage gold frame, clean reflective surface"
+        "location": "阳光充足的室内",
+        "background": "柔和模糊的背景，带有温暖的日光反射",
+        "mirror": "华丽的复古金色边框，干净的反光表面"
       },
-
       "text_on_mirror": {
         "exact_text": "Happy International Bagel Day",
-        "style": "handwritten lipstick text",
-        "color": "classic lipstick red",
-        "placement": "upper right area of the mirror, clearly legible",
-        "additional_element": "small lipstick kiss mark near the text"
+        "style": "手写口红文字",
+        "color": "经典口红红",
+        "placement": "镜子右上角，清晰可辨",
+        "additional_element": "文字旁边的小口红吻痕"
       },
-
       "lighting": {
-        "key_light": "warm natural sunlight from the side",
-        "highlights": "soft glow on skin and lips",
-        "shadows": "gentle and cinematic"
+        "key_light": "侧面射入的温暖自然阳光",
+        "highlights": "肌肤和嘴唇上的柔和光泽",
+        "shadows": "柔和且富有电影感"
       },
-
       "mood": [
-        "playful",
-        "sensual",
-        "editorial",
-        "celebratory",
-        "confident"
+        "俏皮",
+        "性感",
+        "时尚杂志风格",
+        "庆祝",
+        "自信"
       ]
     },
-
     "negative_prompt": [
-      "cartoon",
-      "illustration",
-      "blurry text",
-      "misspelled words",
-      "extra text",
-      "logos",
-      "watermark",
-      "harsh flash lighting",
-      "overexposed skin",
-      "cheap makeup look"
+      "卡通",
+      "插画",
+      "模糊的文字",
+      "拼写错误",
+      "多余的文字",
+      "标志",
+      "水印",
+      "刺眼的闪光灯照明",
+      "皮肤过曝",
+      "廉价的妆容"
     ]
   }
 }
@@ -6177,7 +6178,7 @@ A high-priority prompt for generating a photorealistic fashion editorial portrai
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544846329_4nsgj0_G-uNNKObQAMywqv.jpg" width="600" alt="产品营销 - Fashion Editorial Mirror Selfie with Lipstick Message - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544846329_4nsgj0_G-uNNKObQAMywqv.jpg" width="600" alt="产品营销 - 时尚大片：口红留言的镜中自拍 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6191,80 +6192,80 @@ A high-priority prompt for generating a photorealistic fashion editorial portrai
 
 ---
 
-### No. 85: 产品营销 - Photorealistic Japanese Female Model in Athletic Swimsuit
+### No. 85: 产品营销 - 身穿运动泳衣的逼真日本女性模特
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A highly specific, photorealistic prompt for generating a portrait of a Japanese female model sitting poolside in an athletic navy blue swimsuit with white racing stripes. The prompt details facial features, hair style (blonde high ponytail with teal streaks), environment (luxury pool), and technical camera settings (Canon RF 100mm lens, shallow depth of field).
+一个高度具体、照片级的提示，用于生成一张日本女模特肖像，她身穿海军蓝运动泳衣，带有白色赛车条纹，坐在泳池边。该提示详细描述了面部特征、发型（金色高马尾，带青色挑染）、环境（豪华泳池）和技术相机设置（Canon RF 100mm 镜头，浅景深）。
 
 #### 📝 提示词
 
 ```
 {
   "subject": {
-    "type": "real human",
-    "gender": "female",
-    "ethnicity": "Japanese",
-    "age_range": "young adult",
-    "expression": "bright, cheerful smile",
-    "pose": "sitting naturally at the edge of a swimming pool with legs together and hands resting on the stone edge",
-    "physique": "healthy, proportionate, naturally curvy"
+    "type": "真人",
+    "gender": "女性",
+    "ethnicity": "日本人",
+    "age_range": "青年",
+    "expression": "明亮、开朗的笑容",
+    "pose": "自然地坐在游泳池边，双腿并拢，双手放在石边上",
+    "physique": "健康、匀称、自然丰满"
   },
   "hair": {
-    "color": "{argument name="hair color" default="natural blonde"}",
-    "style": "high ponytail",
-    "highlights": "subtle {argument name="highlight color" default="teal-blue"} streaks falling over one shoulder"
+    "color": "{argument name=\"hair color\" default=\"自然金色\"}",
+    "style": "高马尾",
+    "highlights": "一缕细微的 {argument name=\"highlight color\" default=\"青蓝色\"} 发丝垂落在肩膀上"
   },
   "face": {
-    "features": "realistic and expressive",
-    "skin_texture": "soft, natural",
-    "makeup": "light, natural",
-    "eyes": "lively, reflecting outdoor light"
+    "features": "真实且富有表现力",
+    "skin_texture": "柔软、自然",
+    "makeup": "清淡、自然",
+    "eyes": "炯炯有神，反射着户外光线"
   },
   "attire": {
-    "clothing_type": "one-piece swimsuit",
-    "style": "athletic",
-    "color": "navy blue",
+    "clothing_type": "连体泳衣",
+    "style": "运动型",
+    "color": "海军蓝",
     "details": {
-      "side_stripes": "white vertical racing stripes",
-      "logo": "small embroidered shield-style logo on upper right chest"
+      "side_stripes": "白色垂直赛车条纹",
+      "logo": "右胸上方有一个小小的刺绣盾牌式标志"
     }
   },
   "environment": {
-    "location": "luxury swimming pool",
-    "setting": "high-end rooftop or resort",
+    "location": "豪华游泳池",
+    "setting": "高端屋顶或度假村",
     "water": {
-      "color": "clear turquoise",
-      "interaction": "feet gently submerged creating soft ripples"
+      "color": "清澈的碧绿色",
+      "interaction": "双脚轻轻浸入水中，泛起柔和的涟漪"
     }
   },
   "lighting": {
-    "type": "natural daylight",
-    "quality": "bright, warm sunlight",
-    "shadows": "soft and realistic"
+    "type": "自然日光",
+    "quality": "明亮、温暖的阳光",
+    "shadows": "柔和且真实"
   },
   "composition": {
-    "orientation": "vertical",
+    "orientation": "垂直",
     "width": 504,
     "height": 1002,
-    "framing": "full body seated poolside",
-    "depth_of_field": "shallow, background softly blurred"
+    "framing": "全身坐在池边",
+    "depth_of_field": "浅景深，背景柔和模糊"
   },
   "camera": {
     "brand": "Canon",
     "lens": "RF 100mm",
-    "photography_style": "photorealistic, DSLR"
+    "photography_style": "超写实、数码单反相机风格"
   },
   "style_tags": [
-    "ultra-realistic",
-    "photorealistic",
-    "natural skin texture",
-    "cinematic lighting",
-    "high resolution",
-    "luxury lifestyle"
+    "超写实",
+    "写实主义",
+    "自然肤质",
+    "电影级光线",
+    "高分辨率",
+    "奢华生活方式"
   ]
 }
 ```
@@ -6274,7 +6275,7 @@ A highly specific, photorealistic prompt for generating a portrait of a Japanese
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544835492_f785lq_G-t3aCEbQAc2Juw.jpg" width="600" alt="产品营销 - Photorealistic Japanese Female Model in Athletic Swimsuit - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544835492_f785lq_G-t3aCEbQAc2Juw.jpg" width="600" alt="产品营销 - 身穿运动泳衣的逼真日本女性模特 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6288,13 +6289,13 @@ A highly specific, photorealistic prompt for generating a portrait of a Japanese
 
 ---
 
-### No. 86: 产品营销 - Cinematic Urban Night Portrait with Neon Reflections on Watch
+### No. 86: 产品营销 - 腕表霓虹倒影下的电影感都市夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for generating a hyper-realistic, cinematic urban night portrait of a stylish woman walking. It emphasizes dramatic lighting, neon light streaks (orange, amber, teal), motion blur in the background, and sharp focus on the subject's face and luxury wristwatch, highlighting the reflections on the watch.
+一个用于生成超现实、电影感都市夜景肖像的提示，描绘了一位时尚女性正在行走。它强调了戏剧性的灯光、霓虹灯光轨迹（橙色、琥珀色、青色）、背景中的运动模糊，以及对主体面部和奢华腕表的清晰聚焦，突出了腕表上的反光。
 
 #### 📝 提示词
 
@@ -6302,68 +6303,68 @@ A prompt for generating a hyper-realistic, cinematic urban night portrait of a s
 {
   "type": "image_generation_prompt",
   "aspect_ratio": "9:16",
-  "style": "hyper-realistic, cinematic urban night photography",
+  "style": "超写实、电影感都市夜景摄影",
   "subject": {
-    "gender": "female",
+    "gender": "女性",
     "appearance": {
-      "skin_tone": "fair",
-      "attractiveness": "very stylish and elegant",
-      "expression": "confident, calm, self-assured",
-      "hair": "neatly styled, natural movement while walking",
+      "skin_tone": "白皙",
+      "attractiveness": "非常时尚优雅",
+      "expression": "自信、沉着、泰然自若",
+      "hair": "发型整洁，行走时自然摆动",
       "accessories": [
-        "sunglasses",
-        "luxury wristwatch clearly visible and reflecting neon light"
+        "太阳镜",
+        "奢华腕表清晰可见并反射霓虹灯光"
       ]
     },
     "outfit": {
-      "top_layer": "light blue striped overshirt with sleeves rolled up",
-      "inner_top": "white tank top",
-      "bottom": "loose grey trousers",
-      "footwear": "clean white sneakers"
+      "top_layer": "浅蓝色条纹衬衫，袖子卷起",
+      "inner_top": "白色背心",
+      "bottom": "宽松灰色长裤",
+      "footwear": "干净的白色运动鞋"
     },
     "pose_and_motion": {
-      "body_angle": "3/4 side profile",
-      "action": "walking mid-motion",
-      "hand_position": "left hand swinging naturally outside the pocket",
-      "watch_visibility": "prominently visible and in sharp focus"
+      "body_angle": "3/4 侧面轮廓",
+      "action": "行走中",
+      "hand_position": "左手在口袋外自然摆动",
+      "watch_visibility": "显眼可见且对焦清晰"
     }
   },
   "environment": {
-    "location": "urban city street at night",
-    "ground": "wet pavement with realistic reflections",
+    "location": "夜间都市街道",
+    "ground": "湿润路面，带有逼真倒影",
     "background_effects": [
-      "dynamic motion blur trails",
-      "neon light streaks in orange, amber, and teal tones"
+      "动态运动模糊轨迹",
+      "橙色、琥珀色和青色调的霓虹灯光条纹"
     ],
-    "atmosphere": "energetic, cinematic, modern nightlife"
+    "atmosphere": "充满活力、电影感、现代夜生活"
   },
   "lighting": {
-    "type": "dramatic and directional",
-    "source_direction": "top front-left",
+    "type": "戏剧化且有方向性",
+    "source_direction": "左前方上方",
     "effects": [
-      "realistic shadows on the subject",
-      "subtle reflections on clothing and pavement",
-      "neon highlights reflecting off the watch"
+      "主体上逼真的阴影",
+      "衣物和路面上细微的反射",
+      "霓虹灯光在腕表上反射出高光"
     ]
   },
   "camera": {
-    "focus": "sharp focus on face and wristwatch",
-    "depth_of_field": "shallow depth of field with softly blurred background",
-    "motion_effect": "background motion blur to convey speed and movement"
+    "focus": "面部和腕表对焦清晰",
+    "depth_of_field": "浅景深，背景柔和模糊",
+    "motion_effect": "背景运动模糊以传达速度和动感"
   },
   "quality": {
-    "realism": "ultra-high",
-    "detail_level": "high detail on skin, fabric, and accessories",
-    "look": "cinematic, premium, photorealistic"
+    "realism": "超高",
+    "detail_level": "皮肤、织物和配饰细节丰富",
+    "look": "电影感、高端、照片级真实感"
   },
   "constraints": [
-    "No cartoon or illustration style",
-    "No CGI look",
-    "No distorted anatomy",
-    "No excessive blur on the subject",
-    "Background blur only"
+    "无卡通或插画风格",
+    "无 CGI 效果",
+    "无扭曲的人体结构",
+    "主体无过度模糊",
+    "仅背景模糊"
   ],
-  "output_goal": "Create a hyper-realistic cinematic night portrait of a stylish woman walking through an urban street, with sharp focus on her face and wristwatch, dramatic neon lighting, and motion-blurred city background for dynamic energy."
+  "output_goal": "创作一幅超写实的电影感夜间肖像，描绘一位时尚女性走在都市街道上，面部和腕表对焦清晰，霓虹灯光戏剧化，城市背景运动模糊，以营造动感活力。"
 }
 ```
 
@@ -6372,7 +6373,7 @@ A prompt for generating a hyper-realistic, cinematic urban night portrait of a s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544850593_1wjtxc_G-t2jnibQAIaDbh.jpg" width="600" alt="产品营销 - Cinematic Urban Night Portrait with Neon Reflections on Watch - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544850593_1wjtxc_G-t2jnibQAIaDbh.jpg" width="600" alt="产品营销 - 腕表霓虹倒影下的电影感都市夜景人像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6386,19 +6387,19 @@ A prompt for generating a hyper-realistic, cinematic urban night portrait of a s
 
 ---
 
-### No. 87: 产品营销 - Macro Food Photography Prompt with Dripping Liquid
+### No. 87: 产品营销 - 微距美食摄影提示，带有滴落的液体
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A concise prompt for generating a macro food photograph suitable for a magazine cover. It specifies a stack of three food items with liquid dripping down, set against a white background with studio lighting and volumetric effects, using a Nikon Z6 II camera style.
+一个简洁的提示，用于生成一张适合杂志封面的微距食物照片。它指定了三层食物堆叠在一起，液体向下滴落，背景为白色，采用影棚布光和体积光效果，并使用 Nikon Z6 II 相机风格。
 
 #### 📝 提示词
 
 ```
-a stack of three {argument name="food item" default="[FOOD ITEM]"} with {argument name="liquid" default="[LIQUID]"} dripping down, on a white background, in the style of food photography, magazine cover "{argument name="magazine title" default="[FOOD] pixel"}", macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.
+一叠三份 {argument name="food item" default="[FOOD ITEM]"}，上面淋着 {argument name="liquid" default="[LIQUID]"}，白色背景，美食摄影风格，杂志封面“{argument name="magazine title" default="[FOOD] pixel"}”，微距拍摄，影室布光，尼康 Z6 II，体积光，中性色调。
 ```
 
 #### 🖼️ 生成图片
@@ -6406,13 +6407,13 @@ a stack of three {argument name="food item" default="[FOOD ITEM]"} with {argumen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544785651_gfb5cl_G-t0mfzbQAMbE4W.jpg" width="600" alt="产品营销 - Macro Food Photography Prompt with Dripping Liquid - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544785651_gfb5cl_G-t0mfzbQAMbE4W.jpg" width="600" alt="产品营销 - 微距美食摄影提示，带有滴落的液体 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544785651_ljagez_G-t0meKa0AEm7vc.jpg" width="600" alt="产品营销 - Macro Food Photography Prompt with Dripping Liquid - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544785651_ljagez_G-t0meKa0AEm7vc.jpg" width="600" alt="产品营销 - 微距美食摄影提示，带有滴落的液体 - Image 2">
 </div>
 
 #### 📌 详情
@@ -6426,67 +6427,67 @@ a stack of three {argument name="food item" default="[FOOD ITEM]"} with {argumen
 
 ---
 
-### No. 88: 产品营销 - Ultra-Realistic Studio Portrait with Playful Expression
+### No. 88: 产品营销 - 超逼真的工作室肖像，表情俏皮
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A prompt for generating an ultra-realistic studio portrait of a young woman with a playful, flirty expression (wink and tongue out). It specifies high-fashion styling (blonde hair, black dress, layered gold jewelry) and technical details like a 50mm lens, shallow depth of field, and soft diffused studio lighting.
+生成一位年轻女性超写实影棚肖像的提示词，她表情俏皮、略带挑逗（眨眼并吐舌）。提示词还指定了时尚造型（金发、黑色连衣裙、叠戴金色首饰）以及技术细节，例如 50mm 镜头、浅景深和柔和散射的影棚灯光。
 
 #### 📝 提示词
 
 ```
 {
-  "style": "ultra-realistic studio portrait",
+  "style": "超写实影棚肖像",
   "subject": {
-    "gender": "female",
-    "age": "young adult",
-    "pose": "leaning slightly forward toward the camera",
-    "expression": "playful, flirty",
+    "gender": "女性",
+    "age": "青年",
+    "pose": "身体略微前倾，面向镜头",
+    "expression": "俏皮，略带挑逗",
     "facial_details": {
       "wink": true,
       "tongue_out": true,
-      "freckles": "natural across fair skin",
+      "freckles": "白皙皮肤上自然的雀斑",
       "makeup": {
-        "blush": "soft pink",
-        "lips": "glossy"
+        "blush": "柔和的粉色腮红",
+        "lips": "有光泽的唇部"
       }
     },
     "hair": {
-      "color": "blonde",
-      "length": "long",
-      "part": "side-parted",
-      "style": "falling naturally over shoulders"
+      "color": "金色",
+      "length": "长发",
+      "part": "偏分",
+      "style": "自然垂落在双肩"
     },
     "outfit": {
-      "dress": "{argument name="dress color" default="black"} off-shoulder fitted dress",
+      "dress": "{argument name=\"dress color\" default=\"black\"} 露肩修身连衣裙",
       "jewelry": {
-        "earrings": "long dangling gold earrings",
-        "necklaces": "layered gold necklaces with small heart pendant"
+        "earrings": "长款金色耳坠",
+        "necklaces": "叠戴金色项链，带小爱心吊坠"
       }
     }
   },
   "environment": {
-    "setting": "studio",
-    "background": "clean minimal light neutral tones"
+    "setting": "影棚",
+    "background": "简洁、极简、浅色中性色调背景"
   },
   "lighting": {
-    "type": "soft diffused studio lighting",
-    "shadows": "smooth natural shadows"
+    "type": "柔和漫射影棚灯光",
+    "shadows": "平滑自然的阴影"
   },
   "camera": {
-    "lens": "50mm",
-    "aperture": "f/1.8",
-    "depth_of_field": "shallow"
+    "lens": "50mm 镜头",
+    "aperture": "f/1.8 光圈",
+    "depth_of_field": "浅景深"
   },
   "quality": {
-    "resolution": "high resolution",
-    "detail": "ultra-detailed",
-    "skin_texture": "photorealistic",
-    "focus": "sharp focus",
-    "photography_style": "high fashion lifestyle photography"
+    "resolution": "高分辨率",
+    "detail": "超高细节",
+    "skin_texture": "照片级真实皮肤纹理",
+    "focus": "锐利对焦",
+    "photography_style": "高端时尚生活摄影"
   }
 }
 ```
@@ -6496,13 +6497,13 @@ A prompt for generating an ultra-realistic studio portrait of a young woman with
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544846042_ayi8u3_G-tm5S0bQAIyWK0.jpg" width="600" alt="产品营销 - Ultra-Realistic Studio Portrait with Playful Expression - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544846042_ayi8u3_G-tm5S0bQAIyWK0.jpg" width="600" alt="产品营销 - 超逼真的工作室肖像，表情俏皮 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544845988_wlg9yi_G-tm5NHaoAAlTjB.jpg" width="600" alt="产品营销 - Ultra-Realistic Studio Portrait with Playful Expression - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544845988_wlg9yi_G-tm5NHaoAAlTjB.jpg" width="600" alt="产品营销 - 超逼真的工作室肖像，表情俏皮 - Image 2">
 </div>
 
 #### 📌 详情
@@ -6516,13 +6517,13 @@ A prompt for generating an ultra-realistic studio portrait of a young woman with
 
 ---
 
-### No. 89: 产品营销 - Hyper-realistic Cinematic Fitness Model Portrait
+### No. 89: 产品营销 - 超逼真电影级健身模特肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-An image generation prompt designed to create a hyper-realistic, cinematic portrait of a fictional female fitness model in a gym setting. It specifies detailed subject attributes, wardrobe (sports bra, tight shorts, thigh-high socks), camera settings (85mm lens, shallow depth of field), and lighting (cinematic, soft directional). The prompt includes constraints against generating real person identities.
+一个图像生成提示，旨在创作一张在健身房环境中虚构女性健身模特的高度逼真、电影感的肖像。它详细说明了模特的属性、服装（运动内衣、紧身短裤、过膝袜）、相机设置（85mm 镜头、浅景深）和灯光（电影感、柔和定向）。该提示包含禁止生成真实人物身份的限制。
 
 #### 📝 提示词
 
@@ -6531,73 +6532,73 @@ An image generation prompt designed to create a hyper-realistic, cinematic portr
   "task": "image_generation",
   "style": {
     "resolution": "8K",
-    "look": "hyper-realistic, cinematic",
+    "look": "超现实、电影感",
     "photorealism": true
   },
   "subject": {
-    "identity": "fictional fitness model",
-    "inspiration": "celebrity-inspired (non-identical, no face matching)",
-    "gender": "female",
-    "skin_tone": "fair",
+    "identity": "虚构的健身模特",
+    "inspiration": "受名人启发（非同一人，不进行面部匹配）",
+    "gender": "女性",
+    "skin_tone": "白皙",
     "pose": {
-      "view": "3/4 rear",
-      "posture": "arched back",
-      "head_direction": "looking over shoulder"
+      "view": "3/4 后侧",
+      "posture": "弓背",
+      "head_direction": "回眸"
     },
-    "expression": "serious",
+    "expression": "严肃",
     "makeup": {
-      "eyeliner": "winged",
-      "finish": "natural cinematic"
+      "eyeliner": "上扬眼线",
+      "finish": "自然电影感"
     },
     "hair": {
-      "color": "honey-brown",
-      "style": "bun",
-      "accessory": "hair clip"
+      "color": "蜂蜜棕",
+      "style": "发髻",
+      "accessory": "发夹"
     }
   },
   "wardrobe": {
     "top": {
-      "type": "sports bra",
-      "color": "grey",
-      "design": "multi-strap"
+      "type": "运动内衣",
+      "color": "灰色",
+      "design": "多肩带"
     },
     "bottom": {
-      "type": "shorts",
-      "fit": "tight, high-waist",
-      "texture": "ribbed",
-      "color": "brown"
+      "type": "短裤",
+      "fit": "紧身、高腰",
+      "texture": "罗纹",
+      "color": "棕色"
     },
     "socks": {
-      "type": "thigh-high",
-      "color": "black",
-      "details": "red stripes"
+      "type": "过膝袜",
+      "color": "黑色",
+      "details": "红色条纹"
     }
   },
   "environment": {
-    "location": "gym",
+    "location": "健身房",
     "background_elements": [
-      "red metal rack"
+      "红色金属架"
     ],
-    "atmosphere": "cinematic, moody"
+    "atmosphere": "电影感、情绪化"
   },
   "camera": {
     "lens": "85mm",
-    "depth_of_field": "shallow",
-    "focus": "sharp on subject"
+    "depth_of_field": "浅景深",
+    "focus": "主体清晰"
   },
   "lighting": {
-    "type": "cinematic",
-    "key": "soft directional",
-    "contrast": "high",
-    "highlights": "controlled"
+    "type": "电影感",
+    "key": "柔和定向光",
+    "contrast": "高对比度",
+    "highlights": "受控高光"
   },
   "detail": {
-    "skin": "ultra-detailed, realistic texture",
-    "fabric": "high micro-detail"
+    "skin": "超精细、逼真的皮肤纹理",
+    "fabric": "高微观细节"
   },
   "composition": {
     "aspect_ratio": "3:4",
-    "framing": "portrait"
+    "framing": "肖像构图"
   },
   "constraints": {
     "no_real_person_identity": true,
@@ -6611,13 +6612,13 @@ An image generation prompt designed to create a hyper-realistic, cinematic portr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544853148_lde9ac_G-tisEPbQAg1vMQ.jpg" width="600" alt="产品营销 - Hyper-realistic Cinematic Fitness Model Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544853148_lde9ac_G-tisEPbQAg1vMQ.jpg" width="600" alt="产品营销 - 超逼真电影级健身模特肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544853190_lo2rri_G-tisETbQAUAql4.jpg" width="600" alt="产品营销 - Hyper-realistic Cinematic Fitness Model Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544853190_lo2rri_G-tisETbQAUAql4.jpg" width="600" alt="产品营销 - 超逼真电影级健身模特肖像 - Image 2">
 </div>
 
 #### 📌 详情
@@ -6631,87 +6632,87 @@ An image generation prompt designed to create a hyper-realistic, cinematic portr
 
 ---
 
-### No. 90: 产品营销 - Modern Winter Aesthetic Collage
+### No. 90: 产品营销 - 现代冬季美学拼贴画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A prompt for generating a four-frame collage with a modern, clean, soft winter aesthetic. It features a generic Turkish female subject in neutral winter tones, posing playfully in a snowy outdoor environment with soft natural lighting and high photorealistic quality.
+一个用于生成四格拼贴画的提示，该拼贴画具有现代、干净、柔和的冬季美学。画面中有一位普通的土耳其女性，身着中性色调的冬装，在白雪皑皑的户外环境中俏皮地摆姿势，光线柔和自然，具有高度的真实感。
 
 #### 📝 提示词
 
 ```
 {
-  "image_type": "collage",
+  "image_type": "拼贴画",
   "collage_layout": {
     "number_of_frames": 4,
-    "style": "modern_clean_collage",
-    "frame_spacing": "thin_white_borders",
-    "overall_tone": "soft_winter_aesthetic"
+    "style": "现代_简洁_拼贴",
+    "frame_spacing": "细_白_边框",
+    "overall_tone": "柔和_冬季_美学"
   },
   "subject": {
-    "identity": "generic_turkish_female_not_a_real_person",
-    "age_range": "early_20s",
+    "identity": "普通的_土耳其_女性_非真实人物",
+    "age_range": "20岁出头",
     "appearance": {
-      "attractiveness": "natural_and_elegant",
-      "facial_expression": "joyful_relaxed_smile",
-      "hair": "dark_brown_or_black_loose_or_lightly_wavy",
-      "makeup": "minimal_natural_winter_makeup"
+      "attractiveness": "自然_优雅",
+      "facial_expression": "快乐_放松_微笑",
+      "hair": "深棕色_或_黑色_散发_或_微卷",
+      "makeup": "极简_自然_冬季_妆容"
     }
   },
   "outfit": {
-    "winter_style": "light_but_warm",
+    "winter_style": "轻盈_但_保暖",
     "clothing_items": [
-      "stylish_wool_coat_or_puffer_jacket_not_bulky",
-      "knitted_sweater_or_turtleneck",
-      "fitted_jeans_or_winter_trousers",
-      "ankle_or_knee_high_winter_boots"
+      "时尚_羊毛_大衣_或_羽绒服_不臃肿",
+      "针织_毛衣_或_高领衫",
+      "修身_牛仔裤_或_冬季_长裤",
+      "踝靴_或_及膝_冬季_靴子"
     ],
-    "color_palette": "neutral_winter_tones_beige_white_soft_brown"
+    "color_palette": "中性_冬季_色调_米色_白色_柔和_棕色"
   },
   "scene": {
-    "environment": "snowy_outdoor_location",
+    "environment": "雪地_户外_场景",
     "setting_details": [
-      "fresh_snow_on_ground",
-      "soft_falling_snowflakes",
-      "winter_trees_or_mountain_background"
+      "地面_新雪",
+      "轻柔_飘落_雪花",
+      "冬季_树木_或_山脉_背景"
     ],
-    "time_of_day": "daytime",
-    "weather": "light_snowfall"
+    "time_of_day": "白天",
+    "weather": "小雪"
   },
   "poses_and_actions": [
-    "walking_playfully_in_snow",
-    "throwing_snow_in_the_air",
-    "standing_and_smiling_at_camera",
-    "looking_away_laughing_naturally"
+    "在雪中_俏皮地_行走",
+    "向空中_抛雪",
+    "站立_并_对着镜头_微笑",
+    "自然地_看向别处_大笑"
   ],
   "lighting": {
-    "type": "soft_natural_winter_light",
-    "contrast": "low_to_medium",
-    "mood": "bright_cozy_and_happy"
+    "type": "柔和_自然_冬季_光线",
+    "contrast": "低_到_中等",
+    "mood": "明亮_舒适_快乐"
   },
   "camera_style": {
     "shot_types": [
-      "medium_shot",
-      "full_body_shot",
-      "candid_close-up"
+      "中景",
+      "全身_镜头",
+      "抓拍_特写"
     ],
-    "lens_feel": "dslr_photography",
-    "depth_of_field": "soft_background_blur"
+    "lens_feel": "单反_摄影",
+    "depth_of_field": "柔和_背景_虚化"
   },
   "quality": {
-    "resolution": "high_resolution",
-    "realism": "photorealistic",
-    "details": "sharp_subject_soft_background"
+    "resolution": "高分辨率",
+    "realism": "照片级真实感",
+    "details": "主体_清晰_背景_柔和"
   },
   "negative_prompt": [
-    "heavy_winter_clothing",
-    "overdone_makeup",
-    "cartoon_style",
-    "blurry_face",
-    "unrealistic_body_proportions",
-    "harsh_lighting"
+    "厚重_冬季_服装",
+    "过度_化妆",
+    "卡通_风格",
+    "模糊_面部",
+    "不真实_身体_比例",
+    "刺眼_光线"
   ]
 }
 ```
@@ -6721,7 +6722,7 @@ A prompt for generating a four-frame collage with a modern, clean, soft winter a
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544856804_cnym8s_G-tiL-Wa0AEG1Jr.jpg" width="600" alt="产品营销 - Modern Winter Aesthetic Collage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544856804_cnym8s_G-tiL-Wa0AEG1Jr.jpg" width="600" alt="产品营销 - 现代冬季美学拼贴画 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6735,14 +6736,14 @@ A prompt for generating a four-frame collage with a modern, clean, soft winter a
 
 ---
 
-### No. 91: 电商主图 - Hyper-Realistic Commercial Product Photography (Splash Effect)
+### No. 91: 电商主图 - 超逼真商业产品摄影（飞溅效果）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A complex, multi-module prompt for generating ultra-high-definition commercial product photography featuring beverages with frozen splash effects. Module 1 details a matte black can with a pink, creamy splash and floating berries/nuts. Module 2 details a blue protein bottle with a swirling milk splash. Both emphasize extreme clarity, cinematic studio lighting, and micro-detail visibility.
+一个复杂的多模块提示，用于生成具有冰冻飞溅效果的超高清商业产品摄影，主要拍摄饮品。模块 1 详细描述了一个哑光黑色罐子，上面有粉红色奶油飞溅和漂浮的浆果/坚果。模块 2 详细描述了一个蓝色蛋白质瓶子，带有旋转的牛奶飞溅。两者都强调极致的清晰度、电影级的影棚照明和微细节可见性。
 
 #### 📝 提示词
 
@@ -6750,65 +6751,63 @@ A complex, multi-module prompt for generating ultra-high-definition commercial p
 {
   "master_prompt": {
     "global_settings": {
-      "resolution": "8K ultra-high-definition",
-      "aspect_ratio": "3:4 vertical",
-      "style": "hyper-realistic AI-edited commercial product photography",
-      "sharpness": "extreme clarity, micro-detail visibility",
-      "lighting_quality": "cinematic studio lighting with controlled highlights and shadows",
-      "motion_freeze": "high-speed capture, frozen splashes and particles",
-      "noise": "none",
-      "artifacts": "none"
+      "resolution": "8K 超高清",
+      "aspect_ratio": "3:4 垂直",
+      "style": "超现实 AI 编辑的商业产品摄影",
+      "sharpness": "极致清晰，微细节可见",
+      "lighting_quality": "电影级影棚布光，高光和阴影控制得当",
+      "motion_freeze": "高速捕捉，飞溅物和颗粒凝固",
+      "noise": "无",
+      "artifacts": "无"
     },
-
     "module_1_image_1_style": {
       "subject": {
-        "type": "beverage can",
-        "material": "matte black metal",
-        "surface_details": "fine condensation droplets evenly distributed",
+        "type": "饮料罐",
+        "material": "哑光黑色金属",
+        "surface_details": "均匀分布的细小冷凝水珠",
         "branding_text_visible": [
-          "{argument name="can brand 1" default="SNICKERS"}",
+          "{argument name=\"can brand 1\" default=\"SNICKERS\"}",
           "STOUTT",
           "BERRY WHIPT",
           "BREW IN WITT ISLAUTT"
         ]
       },
       "pose_and_orientation": {
-        "position": "upright, centered",
-        "angle": "slight forward-facing perspective",
-        "scale": "dominant foreground subject"
+        "position": "直立，居中",
+        "angle": "略微朝前的视角",
+        "scale": "前景主体突出"
       },
       "liquid_and_motion": {
-        "liquid_color": "glossy pink",
-        "liquid_texture": "thick, creamy, whipped consistency",
-        "motion": "explosive upward splash wrapping around the can",
-        "splash_shape": "curved arcs with sharp liquid peaks and droplets"
+        "liquid_color": "亮粉色",
+        "liquid_texture": "浓稠、奶油状、搅打过的质地",
+        "motion": "爆炸式向上飞溅，环绕罐身",
+        "splash_shape": "带有尖锐液体峰和水滴的弧形飞溅"
       },
       "floating_elements": {
         "berries": [
-          "raspberries",
-          "blackberries",
-          "blueberries"
+          "覆盆子",
+          "黑莓",
+          "蓝莓"
         ],
-        "chocolate_pieces": "rectangular chocolate chunks with sharp edges",
-        "nuts": "round and halved nuts scattered near base and mid-air",
-        "distribution": "suspended at various depths around the can"
+        "chocolate_pieces": "边缘锋利的矩形巧克力块",
+        "nuts": "圆形和半切的坚果散落在底部附近和空中",
+        "distribution": "悬浮在罐身周围不同深度"
       },
       "background": {
-        "color_gradient": "purple to blue",
-        "light_effects": "soft radial glow behind can",
-        "particles": "small pink droplets and specks floating"
+        "color_gradient": "紫色到蓝色",
+        "light_effects": "罐身后面柔和的径向光晕",
+        "particles": "漂浮着的小粉色水滴和斑点"
       },
       "surface_and_reflection": {
-        "base": "glossy reflective surface",
-        "reflection_quality": "clear mirrored reflection with slight ripple distortion"
+        "base": "光泽反射表面",
+        "reflection_quality": "清晰的镜面反射，带有轻微的涟漪扭曲"
       }
     },
-
     "module_2_image_2_style": {
       "subject": {
-        "type": "plastic protein drink bottle",
-        "color": "deep matte blue",
-        "surface_details": "condensation droplets across entire bottle",
+        "type": "塑料蛋白饮料瓶",
+        "color": "深哑光蓝色",
+        "surface_details": "整个瓶身布满冷凝水珠",
         "label_text_visible": [
           "milk & yogurt",
           "mock up",
@@ -6817,17 +6816,17 @@ A complex, multi-module prompt for generating ultra-high-definition commercial p
         ]
       },
       "pose_and_orientation": {
-        "position": "slightly tilted to the right",
-        "angle": "three-quarter view",
-        "motion_feel": "dynamic, leaning into splash"
+        "position": "略微向右倾斜",
+        "angle": "四分之三视图",
+        "motion_feel": "动态感，倾斜入飞溅物中"
       },
       "liquid_and_motion": {
-        "liquid_color": "white and light beige milk mixture",
-        "texture": "smooth, creamy, fluid",
-        "motion": "swirling splash rising around bottle base and sides"
+        "liquid_color": "白色和浅米色牛奶混合物",
+        "texture": "光滑、奶油状、流动性强",
+        "motion": "围绕瓶底和瓶身两侧上升的漩涡状飞溅"
       },
       "floating_elements": {
-        "blueberries": "whole and halved blueberries at different dept"
+        "blueberries": "不同深度的完整和半切蓝莓"
       }
     }
   }
@@ -6839,25 +6838,25 @@ A complex, multi-module prompt for generating ultra-high-definition commercial p
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544829594_cavtmw_G-sGizqa4AEXd1k.jpg" width="600" alt="电商主图 - Hyper-Realistic Commercial Product Photography (Splash Effect) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544829594_cavtmw_G-sGizqa4AEXd1k.jpg" width="600" alt="电商主图 - 超逼真商业产品摄影（飞溅效果） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544829631_2h15u5_G-sGi0eaIAAtgNE.jpg" width="600" alt="电商主图 - Hyper-Realistic Commercial Product Photography (Splash Effect) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544829631_2h15u5_G-sGi0eaIAAtgNE.jpg" width="600" alt="电商主图 - 超逼真商业产品摄影（飞溅效果） - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544829576_44f4wf_G-sGi5EbQAIUgft.jpg" width="600" alt="电商主图 - Hyper-Realistic Commercial Product Photography (Splash Effect) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768544829576_44f4wf_G-sGi5EbQAIUgft.jpg" width="600" alt="电商主图 - 超逼真商业产品摄影（飞溅效果） - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544830859_kur446_G-sGi-7bQAMTRn6.jpg" width="600" alt="电商主图 - Hyper-Realistic Commercial Product Photography (Splash Effect) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1768544830859_kur446_G-sGi-7bQAMTRn6.jpg" width="600" alt="电商主图 - 超逼真商业产品摄影（飞溅效果） - Image 4">
 </div>
 
 #### 📌 详情
@@ -6871,19 +6870,19 @@ A complex, multi-module prompt for generating ultra-high-definition commercial p
 
 ---
 
-### No. 92: 电商主图 - Exploded View Product Photography Prompt
+### No. 92: 电商主图 - 爆炸图产品摄影提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A prompt for generating high-end product advertising imagery featuring an exploded view of a product. It emphasizes revealing inner mechanics, micro-details, perfect alignment, and uses macro photography technical specifications (100mm lens, f/8, 8k) against a clean white background.
+一个用于生成高端产品广告图像的提示，该图像采用产品的爆炸视图。它强调展示内部机械结构、微观细节、完美对齐，并使用微距摄影技术规格（100mm 镜头、f/8、8k），背景为纯白色。
 
 #### 📝 提示词
 
 ```
-[{argument name="product name" default="product"}], high-end product advertising, white seamless background, exploded view with inner mechanics revealed, outer shell hovering above core, micro screws and components suspended, perfect alignment guides implied, crisp soft shadow, ultra realistic, macro product photography, 100mm lens look, f/8, 8k, 1:1
+[{argument name="product name" default="product"}]，高端产品广告，白色无缝背景，爆炸图，内部机械结构外露，外壳悬浮在核心上方，微型螺丝和组件悬浮，暗示完美对齐的引导线，清晰柔和的阴影，超现实主义，微距产品摄影，100mm 镜头效果，f/8，8k，1:1
 ```
 
 #### 🖼️ 生成图片
@@ -6891,7 +6890,7 @@ A prompt for generating high-end product advertising imagery featuring an explod
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544817315_yuhyk2_G-q_S27bQAQbs_A.jpg" width="600" alt="电商主图 - Exploded View Product Photography Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544817315_yuhyk2_G-q_S27bQAQbs_A.jpg" width="600" alt="电商主图 - 爆炸图产品摄影提示 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6905,87 +6904,87 @@ A prompt for generating high-end product advertising imagery featuring an explod
 
 ---
 
-### No. 93: 电商主图 - Artisan Chocolate Product Visuals (Multi-Image Prompt)
+### No. 93: 电商主图 - 手工巧克力产品视觉图（多图提示）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A detailed, multi-image prompt for generating ultra-realistic food photography of artisan chocolate products in a luxury editorial style. It specifies composition, lighting (dramatic side lighting, rim light), ingredients (hazelnut, raspberry, passionfruit), and background details for four different chocolate items.
+一个详细的多图提示，用于生成奢华编辑风格的工匠巧克力产品的超现实食物摄影。它指定了四种不同巧克力产品的构图、光线（戏剧性的侧光、轮廓光）、配料（榛子、覆盆子、百香果）和背景细节。
 
 #### 📝 提示词
 
 ```
-"style": "ultra-realistic food photography, luxury editorial, macro-detail, natural textures",
+"style": "超写实食物摄影，奢华编辑风格，微距细节，自然纹理",
   "images": [
     {
       "id": "image_1",
-      "subject": "assorted praline tower",
-      "composition": "staggered vertical tower, center frame, loose organic stacking",
+      "subject": "什锦果仁糖塔",
+      "composition": "错落有致的垂直塔状，居中构图，松散有机堆叠",
       "details": {
         "fillings": [
-          "hazelnut chunks irregularly clumped at base",
-          "raspberry gel naturally puddled",
-          "salted caramel with realistic flow lines",
-          "coffee ganache with smooth wave texture",
-          "passionfruit filling with visible pulp specks"
+          "榛子块不规则地堆积在底部",
+          "覆盆子凝胶自然地聚成一滩",
+          "咸焦糖带有逼真的流动纹理",
+          "咖啡甘纳许带有光滑的波浪纹理",
+          "百香果馅料带有可见的果肉斑点"
         ],
-        "accent": "one unique metallic gold nut per filling type placed at layer transitions",
-        "stand": "brushed gold stand with subtle reflections"
+        "accent": "每种馅料类型在层间过渡处放置一颗独特的金属金色坚果",
+        "stand": "拉丝金色支架，带有微妙的反光"
       },
       "lighting": {
-        "type": "dramatic side lighting",
-        "angle": "35 degrees left",
-        "effects": "authentic filling refractions, layered shadow play"
+        "type": "戏剧性侧光",
+        "angle": "左侧 35 度",
+        "effects": "真实的馅料折射，分层阴影效果"
       },
-      "background": "{argument name="background color" default="teal-to-navy"} gradient with suspended gold motes",
-      "mood": "luxurious, indulgent, artisanal depth"
+      "background": "{argument name="background color" default="teal-to-navy"} 渐变色，带有悬浮的金色微粒",
+      "mood": "奢华、放纵、匠心独运"
     },
     {
       "id": "image_2",
-      "subject": "ruby chocolate tablet",
-      "composition": "floating hexagonal segments above black textured paper liner",
+      "subject": "红宝石巧克力片",
+      "composition": "漂浮在黑色纹理衬纸上方的六边形巧克力块",
       "details": {
-        "surface": "hand-tempered imperfections, translucent ruby pink",
-        "inclusions": "embedded fruit flecks visible through chocolate",
-        "motion": "ruby cacao nibs falling in gravity-realistic arc from one segment"
+        "surface": "手工调温的瑕疵，半透明的红宝石粉色",
+        "inclusions": "嵌入的果肉斑点透过巧克力可见",
+        "motion": "红宝石可可碎粒从其中一块巧克力上以逼真的重力弧线落下"
       },
       "lighting": {
-        "key": "top-down at 12 o'clock",
-        "rim": "soft pink rim light at 3 o'clock",
-        "effects": "authentic shadows, enhanced translucency"
+        "key": "顶部 12 点钟方向主光",
+        "rim": "3 点钟方向柔和的粉色轮廓光",
+        "effects": "真实的阴影，增强的半透明度"
       },
-      "background": "black-to-warm pink radial gradient with subtle sparkle specks",
-      "mood": "modern, vibrant, floating tension"
+      "background": "黑色到暖粉色的径向渐变，带有微妙的闪光斑点",
+      "mood": "现代、活力、漂浮的张力"
     },
     {
       "id": "image_3",
-      "subject": "white chocolate bonbons",
-      "composition": "organic cluster on clear glass stand",
+      "subject": "白巧克力夹心糖",
+      "composition": "透明玻璃支架上的有机簇状排列",
       "details": {
         "marbling": [
-          "central bonbon with irregular orange passionfruit veins",
-          "surrounding bonbons with pink raspberry swirls",
-          "green matcha flecks with varied density"
+          "中央夹心糖带有不规则的橙色百香果纹路",
+          "周围夹心糖带有粉色覆盆子漩涡",
+          "绿色抹茶斑点，密度各异"
         ],
-        "cutaway": "one bonbon sliced vertically showing gel core with real fruit speckles",
-        "props": "dried fruit flecks scattered below (orange zest curls, raspberry seeds)"
+        "cutaway": "一个夹心糖垂直切开，显示带有真实果肉斑点的凝胶内芯",
+        "props": "下方散落的干果碎屑（橙皮卷、覆盆子籽）"
       },
       "lighting": {
-        "key": "soft high-key front light at 10 degrees",
-        "rim": "rear rim light at 35 degrees",
-        "effects": "enhanced marbling contrast and glass refractions"
+        "key": "10 度柔和高调前光",
+        "rim": "35 度后轮廓光",
+        "effects": "增强的大理石纹对比度和玻璃折射"
       },
-      "background": "soft taupe with fruit-toned bokeh",
-      "mood": "elegant, fresh, handcrafted"
+      "background": "柔和的灰褐色，带有果色散景",
+      "mood": "优雅、清新、手工制作"
     },
     {
       "id": "image_5",
-      "subject": "dark chocolate pistachio bar",
-      "composition": "vertical bar centered on polished black granite slab",
+      "subject": "黑巧克力开心果棒",
+      "composition": "垂直的巧克力棒居中放置在抛光黑色花岗岩板上",
       "details": {
-        "cross_section": "precision side cut revealing layered pista
+        "cross_section": "精确的侧切面，展现分层的开心果"
 ```
 
 #### 🖼️ 生成图片
@@ -6993,25 +6992,25 @@ A detailed, multi-image prompt for generating ultra-realistic food photography o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544840269_wly7kw_G-qc9U-X0AAyc0u.jpg" width="600" alt="电商主图 - Artisan Chocolate Product Visuals (Multi-Image Prompt) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544840269_wly7kw_G-qc9U-X0AAyc0u.jpg" width="600" alt="电商主图 - 手工巧克力产品视觉图（多图提示） - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544840265_gsomar_G-qc9VlW8AAL_h6.jpg" width="600" alt="电商主图 - Artisan Chocolate Product Visuals (Multi-Image Prompt) - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544840265_gsomar_G-qc9VlW8AAL_h6.jpg" width="600" alt="电商主图 - 手工巧克力产品视觉图（多图提示） - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544840362_2iwyi8_G-qc9ZwboAAzuIC.jpg" width="600" alt="电商主图 - Artisan Chocolate Product Visuals (Multi-Image Prompt) - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768544840362_2iwyi8_G-qc9ZwboAAzuIC.jpg" width="600" alt="电商主图 - 手工巧克力产品视觉图（多图提示） - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544841987_8s3l51_G-qc9XBWUAAQC1n.jpg" width="600" alt="电商主图 - Artisan Chocolate Product Visuals (Multi-Image Prompt) - Image 4">
+<img src="https://cms-assets.youmind.com/media/1768544841987_8s3l51_G-qc9XBWUAAQC1n.jpg" width="600" alt="电商主图 - 手工巧克力产品视觉图（多图提示） - Image 4">
 </div>
 
 #### 📌 详情
@@ -8074,19 +8073,19 @@ Signature 品牌产品：镀金代尔夫特陶器
 
 ---
 
-### No. 109: 游戏素材 - Nano Banana Icon Batch Generation
+### No. 109: 游戏素材 - 纳米香蕉图标批量生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A prompt demonstrating Nano Banana's ability to quickly generate a large batch of icons (40 icons in 15 minutes) in a single request, highlighting its efficiency for asset creation.
+一个提示，展示了 Nano Banana 在一次请求中快速生成大量图标（15 分钟内生成 40 个图标）的能力，突出了其在资产创建方面的效率。
 
 #### 📝 提示词
 
 ```
-Generate {argument name="number of icons" default="40"} {argument name="type" default="icons"}
+生成 {argument name="number of icons" default="40"} {argument name="type" default="图标"}
 ```
 
 #### 🖼️ 生成图片
@@ -8094,7 +8093,7 @@ Generate {argument name="number of icons" default="40"} {argument name="type" de
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544874866_srsr2e_G-vh3S3bQAI60GP.jpg" width="600" alt="游戏素材 - Nano Banana Icon Batch Generation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544874866_srsr2e_G-vh3S3bQAI60GP.jpg" width="600" alt="游戏素材 - 纳米香蕉图标批量生成 - Image 1">
 </div>
 
 #### 📌 详情
@@ -8108,38 +8107,38 @@ Generate {argument name="number of icons" default="40"} {argument name="type" de
 
 ---
 
-### No. 110: 游戏素材 - Panoramic Character Concept Sheet for 17-Year-Old Japanese JK
+### No. 110: 游戏素材 - 17 岁日本女高中生全景角色概念图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A complex prompt designed to generate a panoramic character concept decomposition sheet for a Japanese high school student (JK). It requires strict face preservation from a reference image and includes detailed sections for clothing layers, expressions, and related school items, suitable for character design workflows.
+一个复杂的提示，旨在为日本女高中生（JK）生成一个全景角色概念分解表。它要求严格保留参考图像中的面部特征，并包含详细的服装层、表情和相关学校物品部分，适用于角色设计工作流程。
 
 #### 📝 提示词
 
 ```
 {
-  "Objective": "Create a panoramic character concept decomposition sheet for a Japanese high school student. Center: Full-body illustration of female student in JK uniform. Surrounding: Layered clothing showing school uniform layers and casual wear, Expression sheet with cheerful smile, studious concentration, surprised excitement, and shy embarrassment, Texture zoom on uniform fabric and school accessories",
+  "Objective": "为一名日本高中生创建全景角色概念分解图。中心：身穿 JK 制服的女学生的全身插画。周围：分层服装展示校服内搭和休闲装，表情表包含开朗的笑容、专注学习、惊喜兴奋和害羞尴尬，校服面料和学校配饰的纹理特写",
   "FaceReference": {
-    "Mode": "Strict face preservation",
-    "Instruction": "Use uploaded reference image for exact facial features, bone structure, and proportions",
-    "Consistency": "Face must remain identical across all frames"
+    "Mode": "严格保留面部特征",
+    "Instruction": "使用上传的参考图片来精确呈现面部特征、骨骼结构和比例",
+    "Consistency": "面部在所有画面中必须保持一致"
   },
   "CharacterDetails": {
-    "Subject": { "Type": "Japanese high school student", "Age": "17" },
+    "Subject": { "Type": "日本高中生", "Age": "17" },
     "ClothingLayers": [
-      "School blazer with emblem",
-      "White button-down shirt",
-      "Pleated skirt",
-      "Casual underwear set",
-      "Loafers and socks"
+      "带校徽的学校西装外套",
+      "白色纽扣衬衫",
+      "百褶裙",
+      "休闲内衣套装",
+      "乐福鞋和袜子"
     ]
   },
   "RelatedItems": {
-    "Bag": "School satchel with textbooks, notebooks, pencil case, lunch box",
-    "SchoolTools": "Student ID card, club activity items, study materials",
-    "Personal": "Smartphone, headphones, cute accessories, manga, snacks"
+    "Bag": "装有课本、笔记本、铅笔盒、午餐盒的书包",
+    "SchoolTools": "学生证、社团活动用品、学习资料",
+    "Personal": "智能手机、耳机、可爱配饰、漫画、零食"
   }
 }
 ```
@@ -8149,7 +8148,7 @@ A complex prompt designed to generate a panoramic character concept decompositio
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544838284_31zqo0_G-tdk1nbQAMUhaD.jpg" width="600" alt="游戏素材 - Panoramic Character Concept Sheet for 17-Year-Old Japanese JK - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544838284_31zqo0_G-tdk1nbQAMUhaD.jpg" width="600" alt="游戏素材 - 17 岁日本女高中生全景角色概念图 - Image 1">
 </div>
 
 #### 📌 详情
@@ -8163,19 +8162,19 @@ A complex prompt designed to generate a panoramic character concept decompositio
 
 ---
 
-### No. 111: 游戏素材 - Nano Banana Detail Addition Test
+### No. 111: 游戏素材 - 纳米香蕉细节添加测试
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A test prompt used with Nano Banana to add specific details to an existing concept or image (a 'world' the user is creating), checking the AI's ability to enhance and refine existing visual ideas.
+一个与 Nano Banana 配合使用的测试提示，用于向现有概念或图像（用户正在创建的“世界”）添加特定细节，以检查 AI 增强和完善现有视觉创意的能力。
 
 #### 📝 提示词
 
 ```
-As a hint for the world currently being created, ask nano banana to add {argument name="element to add" default="details"}
+作为对当前正在创建的世界的提示，请让 nano banana 添加 {argument name="element to add" default="details"}
 ```
 
 #### 🖼️ 生成图片
@@ -8183,13 +8182,13 @@ As a hint for the world currently being created, ask nano banana to add {argumen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544874904_t3mw8m_G-s4DwybQBE8PIQ.jpg" width="600" alt="游戏素材 - Nano Banana Detail Addition Test - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544874904_t3mw8m_G-s4DwybQBE8PIQ.jpg" width="600" alt="游戏素材 - 纳米香蕉细节添加测试 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544875028_zyspmj_G-s4AynbQAMCIdH.jpg" width="600" alt="游戏素材 - Nano Banana Detail Addition Test - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544875028_zyspmj_G-s4AynbQAMCIdH.jpg" width="600" alt="游戏素材 - 纳米香蕉细节添加测试 - Image 2">
 </div>
 
 #### 📌 详情
@@ -8203,19 +8202,19 @@ As a hint for the world currently being created, ask nano banana to add {argumen
 
 ---
 
-### No. 112: 游戏素材 - 3D Isometric Urban Transit Stop Diorama Prompt
+### No. 112: 游戏素材 - 3D 等距城市交通站点透视模型提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-A template prompt for generating a clean, minimal 3D isometric diorama of an urban transit stop, allowing customization of the transport type, vehicle, platform, and shelter, emphasizing realistic materials and a miniature architectural model style.
+一个用于生成干净、简约的 3D 等距城市交通站点立体模型模板提示，允许自定义交通类型、车辆、站台和候车亭，强调真实的材质和微缩建筑模型风格。
 
 #### 📝 提示词
 
 ```
-A clean, minimal 3D isometric diorama of a {argument name="city transport type" default="[CITY TRANSPORT TYPE]"} stop, featuring a {argument name="vehicle type" default="[VEHICLE]"} paused at a [PLATFORM TYPE], simple [SHELTER / CANOPY], subtle wayfinding signs, smooth concrete surfaces, soft studio lighting, realistic materials, rounded edges, miniature architectural model style, high detail, neutral background.
+一个干净、简约的 3D 等距透视立体模型，展示了一个 {argument name="city transport type" default="[CITY TRANSPORT TYPE]"} 车站，一辆 {argument name="vehicle type" default="[VEHICLE]"} 停靠在 [PLATFORM TYPE] 旁，配有简单的 [SHELTER / CANOPY]、微妙的导向标志、光滑的混凝土表面、柔和的摄影棚灯光、逼真的材质、圆润的边缘、微缩建筑模型风格、高细节、中性背景。
 ```
 
 #### 🖼️ 生成图片
@@ -8223,25 +8222,25 @@ A clean, minimal 3D isometric diorama of a {argument name="city transport type" 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544814248_umamd4_G-rcPi3bQAMNVo8.jpg" width="600" alt="游戏素材 - 3D Isometric Urban Transit Stop Diorama Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544814248_umamd4_G-rcPi3bQAMNVo8.jpg" width="600" alt="游戏素材 - 3D 等距城市交通站点透视模型提示 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544814389_puxhb4_G-rcPvOaUAAQeRy.jpg" width="600" alt="游戏素材 - 3D Isometric Urban Transit Stop Diorama Prompt - Image 2">
+<img src="https://cms-assets.youmind.com/media/1768544814389_puxhb4_G-rcPvOaUAAQeRy.jpg" width="600" alt="游戏素材 - 3D 等距城市交通站点透视模型提示 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544814342_uxmr82_G-rcPtwbQAI9Mxu.jpg" width="600" alt="游戏素材 - 3D Isometric Urban Transit Stop Diorama Prompt - Image 3">
+<img src="https://cms-assets.youmind.com/media/1768544814342_uxmr82_G-rcPtwbQAI9Mxu.jpg" width="600" alt="游戏素材 - 3D 等距城市交通站点透视模型提示 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544816194_85j2bs_G-rcPxNbQAMmzDI.jpg" width="600" alt="游戏素材 - 3D Isometric Urban Transit Stop Diorama Prompt - Image 4">
+<img src="https://cms-assets.youmind.com/media/1768544816194_85j2bs_G-rcPxNbQAMmzDI.jpg" width="600" alt="游戏素材 - 3D 等距城市交通站点透视模型提示 - Image 4">
 </div>
 
 #### 📌 详情
@@ -8255,50 +8254,50 @@ A clean, minimal 3D isometric diorama of a {argument name="city transport type" 
 
 ---
 
-### No. 113: 游戏素材 - Cyberpunk POV Motorcycle Ride at Hyper-Velocity
+### No. 113: 游戏素材 - 赛博朋克视角超高速摩托车骑行
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 描述
 
-A cinematic, hyper-realistic prompt for generating a First-Person View (POV) image of riding a red futuristic sport motorcycle. It details the cyberpunk setting (hyperloop tunnel above a metropolis), the color palette (teal and orange), and camera effects (wide-angle lens, heavy motion blur, low shutter speed) to simulate high-velocity movement.
+一个电影般的、超现实的提示，用于生成一张骑着红色未来主义运动摩托车的**第一人称视角 (POV)** 图像。它详细描述了赛博朋克背景（大都市上方的超级环路隧道）、调色板（青色和橙色）以及相机效果（广角镜头、强烈运动模糊、低快门速度），以模拟高速运动。
 
 #### 📝 提示词
 
 ```
-"Red futuristic sport motorcycle (POV perspective)",
-      "visible_elements": "Glossy red fuel tank with fuel cap, clip-on handlebars, black gloved hands gripping the grips, illuminated digital dashboard (slightly blurred)",
-      "action": "Speeding at hyper-velocity through a suspended structure",
-      "pose": "First-Person View (POV) / Rider's eye perspective looking slightly downward at the bike and forward into the horizon"
+"红色未来主义运动摩托车（第一人称视角）",
+      "可见元素": "带油箱盖的亮红色油箱，分离式车把，戴黑色手套的双手紧握把手，发光的数字仪表盘（略微模糊）",
+      "动作": "以超高速穿梭于悬空结构中",
+      "姿态": "第一人称视角（POV）/ 骑手视角，略微向下看向摩托车，并向前看向地平线"
     },
-    "environment": {
-      "setting": "Transparent glass hyperloop tunnel / skyway",
-      "location": "High altitude above a futuristic cyberpunk metropolis",
-      "background_details": "Sprawling city grid with infinite street lights below, skyscrapers, motion-blurred light trails",
-      "horizon": "Dusk/Twilight sky with a gradient of deep teal fading into a warm sunset orange strip"
+    "环境": {
+      "场景": "透明玻璃超级高铁隧道 / 高架路",
+      "位置": "未来赛博朋克大都市上空的高海拔处",
+      "背景细节": "下方是无限街灯、摩天大楼组成的 sprawling 城市网格，动态模糊的光轨",
+      "地平线": "黄昏/薄暮天空，深青色渐变为温暖的日落橙色条带"
     },
-    "lighting_and_color": {
-      "color_palette": "Cinematic Teal and Orange (Complementary colors)",
-      "primary_tones": "Cyan/Turquoise glass reflections, Deep Red motorcycle paint, Golden/Orange horizon glow",
-      "lighting_style": "High contrast, neon ambient lighting, specular highlights on the metal and glass surfaces"
+    "光照与色彩": {
+      "调色板": "电影级青色与橙色（互补色）",
+      "主色调": "青色/绿松石色玻璃反光，深红色摩托车漆，金色/橙色地平线光芒",
+      "光照风格": "高对比度，霓虹环境光，金属和玻璃表面的镜面高光"
     },
-    "camera_technical": {
-      "camera_angle": "Wide-angle POV (14mm to 16mm equivalent)",
-      "focus": "Sharp focus on the motorcycle tank and handlebars, radial motion blur on the tunnel walls and city",
-      "aperture": "f/2.8 (to capture low light details)",
-      "shutter_speed": "1/30s (simulated drag shutter to create heavy motion blur effects on the surroundings)",
-      "iso": "ISO 800",
-      "composition": "Central symmetry, leading lines created by the tunnel structure converging at the center vanishing point"
+    "相机技术参数": {
+      "拍摄角度": "广角第一人称视角（等效 14mm 至 16mm）",
+      "焦点": "摩托车油箱和车把清晰对焦，隧道壁和城市呈径向运动模糊",
+      "光圈": "f/2.8（捕捉低光细节）",
+      "快门速度": "1/30s（模拟拖影快门，以在周围环境中产生强烈的运动模糊效果）",
+      "ISO": "ISO 800",
+      "构图": "中心对称，隧道结构形成的引导线汇聚于中心消失点"
     },
-    "style_descriptors": [
-      "Cyberpunk",
-      "Synthwave aesthetic",
-      "Hyper-realistic",
-      "High velocity",
-      "Futuristic",
-      "Cinematic",
-      "8k resolution",
-      "Unreal Engine 5 render style"
+    "风格描述": [
+      "赛博朋克",
+      "合成器波美学",
+      "超现实主义",
+      "高速",
+      "未来主义",
+      "电影感",
+      "8k 分辨率",
+      "虚幻引擎 5 渲染风格"
     }
 ```
 
@@ -8307,7 +8306,7 @@ A cinematic, hyper-realistic prompt for generating a First-Person View (POV) ima
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1768544848775_w24khl_G-pdG6Za4AAIHCF.jpg" width="600" alt="游戏素材 - Cyberpunk POV Motorcycle Ride at Hyper-Velocity - Image 1">
+<img src="https://cms-assets.youmind.com/media/1768544848775_w24khl_G-pdG6Za4AAIHCF.jpg" width="600" alt="游戏素材 - 赛博朋克视角超高速摩托车骑行 - Image 1">
 </div>
 
 #### 📌 详情
@@ -8811,6 +8810,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-01-16T08:16:52.237Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-01-16T12:22:31.974Z</sub>
 
 </div>
