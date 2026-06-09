@@ -145,7 +145,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **14254** |
 | ⭐ In evidenza | **9** |
-| 🔄 Ultimo aggiornamento | **martedì 9 giugno 2026 alle ore 09:03:06 UTC** |
+| 🔄 Ultimo aggiornamento | **martedì 9 giugno 2026 alle ore 12:53:44 UTC** |
 
 </div>
 
@@ -654,19 +654,19 @@ Il rapporto d'aspetto è 3:4, poster verticale. Includere calligrafia giapponese
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### No. 1: Profilo / Avatar - Cinematic Forest Portrait
+### No. 1: Profilo / Avatar - Ritratto cinematografico nella foresta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A photorealistic prompt for an Indian woman in a lush forest setting with cinematic lighting and wildlife in the background.
+Un prompt fotorealistico per una donna indiana in una lussureggiante ambientazione boschiva con illuminazione cinematografica e fauna selvatica sullo sfondo.
 
 #### 📝 Prompt
 
 ```
-Photorealistic portrait of {argument name="subject" default="beautiful Indian woman like Alia Bhatt"}, wet dark hair, sitting on wooden bench in {argument name="setting" default="lush green forest"}. Wearing {argument name="outfit" default="tight white one-piece swimsuit"}, gold hoop earrings, gold necklace and stacked bangles. Arms resting on bench back, looking at viewer. Deer and fox in background, sunlight through trees, god rays. Ultra realistic, 8k, cinematic lighting, sharp details.
+Ritratto fotorealistico di {argument name="subject" default="una bellissima donna indiana simile ad Alia Bhatt"}, capelli scuri bagnati, seduta su una panchina di legno in {argument name="setting" default="una foresta verdeggiante"}. Indossa {argument name="outfit" default="un costume intero bianco attillato"}, orecchini a cerchio d'oro, collana d'oro e braccialetti sovrapposti. Braccia appoggiate sullo schienale della panchina, sguardo rivolto verso l'osservatore. Cervi e volpi sullo sfondo, luce solare che filtra tra gli alberi, raggi crepuscolari. Ultra realistico, 8k, illuminazione cinematografica, dettagli nitidi.
 ```
 
 #### 🖼️ Immagini generate
@@ -674,13 +674,13 @@ Photorealistic portrait of {argument name="subject" default="beautiful Indian wo
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990819351_4pagjm_HKT3N6AWsAE1JNY.jpg" width="600" alt="Profilo / Avatar - Cinematic Forest Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990819351_4pagjm_HKT3N6AWsAE1JNY.jpg" width="600" alt="Profilo / Avatar - Ritratto cinematografico nella foresta - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990819735_tfu2by_HKT3N6CX0AAn70w.jpg" width="600" alt="Profilo / Avatar - Cinematic Forest Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990819735_tfu2by_HKT3N6CX0AAn70w.jpg" width="600" alt="Profilo / Avatar - Ritratto cinematografico nella foresta - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -694,19 +694,19 @@ Photorealistic portrait of {argument name="subject" default="beautiful Indian wo
 
 ---
 
-### No. 2: Profilo / Avatar - 90s Film Aesthetic Portrait Transformation
+### No. 2: Profilo / Avatar - Trasformazione ritratto con estetica film anni '90
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A nostalgic prompt that stylizes a reference image into a 90s film aesthetic with warm amber tones and Kodak grain.
+Un prompt nostalgico che stilizza un'immagine di riferimento con un'estetica cinematografica anni '90, caratterizzata da calde tonalità ambrate e grana Kodak.
 
 #### 📝 Prompt
 
 ```
-Young woman in uploaded image close-up, wearing {argument name="outfit" default="white oversized shirt layered with orange-red plaid sleeve"} underneath, hand resting on cheek, soft smile. Wavy black hair, orange-red glossy lips, warm nostalgic glow, blurred evening city lights behind her, {argument name="aesthetic" default="90s film aesthetic"}, Kodak grain, warm amber-red color cast, shallow depth of field.
+Primo piano della giovane donna nell'immagine caricata, che indossa {argument name="outfit" default="una camicia bianca oversize a strati con maniche a quadri rosso-arancio"}, mano appoggiata sulla guancia, sorriso accennato. Capelli neri mossi, labbra lucide color rosso-arancio, calda luce nostalgica, luci sfocate della città di sera sullo sfondo, {argument name="aesthetic" default="estetica film anni '90"}, grana Kodak, dominante cromatica ambra-rossa calda, profondità di campo ridotta.
 ```
 
 #### 🖼️ Immagini generate
@@ -714,7 +714,7 @@ Young woman in uploaded image close-up, wearing {argument name="outfit" default=
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990823207_qfc85d_HKS4TPEawAA9Ryq.jpg" width="600" alt="Profilo / Avatar - 90s Film Aesthetic Portrait Transformation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990823207_qfc85d_HKS4TPEawAA9Ryq.jpg" width="600" alt="Profilo / Avatar - Trasformazione ritratto con estetica film anni '90 - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -728,19 +728,19 @@ Young woman in uploaded image close-up, wearing {argument name="outfit" default=
 
 ---
 
-### No. 3: Profilo / Avatar - Elegant Redhead Portrait in Classical Interior
+### No. 3: Profilo / Avatar - Elegante ritratto di donna dai capelli rossi in un interno classico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A photorealistic prompt for a detailed portrait of a woman with red hair in a luxurious indoor setting with classical architectural details.
+Un prompt fotorealistico per un ritratto dettagliato di una donna dai capelli rossi in un lussuoso ambiente interno con dettagli architettonici classici.
 
 #### 📝 Prompt
 
 ```
-A highly detailed portrait of a beautiful young woman with fair skin, {argument name="hair" default="long voluminous wavy fiery red hair"} cascading over her shoulders, and striking blue eyes, sitting elegantly on a smooth gray stone floor. She has a neutral, poised facial expression with soft natural makeup and is looking directly at the viewer. Her pose is relaxed yet graceful, with one arm raised and hand resting behind her head, the other hand placed on the floor for support, legs bent and positioned comfortably in front. She is wearing a {argument name="outfit" default="form-fitting white ribbed sleeveless top with a deep neckline and matching white full-length leggings"}. Adorned with delicate silver-colored anklets on both ankles featuring small charms, multiple thin silver bracelets on her right wrist, and light white manicure and pedicure. The background features an {argument name="background" default="ornate classical wall with intricate floral and leaf patterns in soft beige and gray tones on marble-like panels"}, creating a luxurious and artistic indoor setting with soft even lighting that highlights textures and details. Photorealistic, high resolution, cinematic composition.
+Un ritratto altamente dettagliato di una bellissima giovane donna dalla pelle chiara, {argument name="hair" default="lunghi e voluminosi capelli rosso fuoco ondulati"} che le ricadono sulle spalle, e intensi occhi azzurri, seduta elegantemente su un liscio pavimento in pietra grigia. Ha un'espressione neutra e composta, con un trucco naturale e leggero, e guarda direttamente verso l'osservatore. La sua posa è rilassata ma aggraziata, con un braccio sollevato e la mano appoggiata dietro la nuca, l'altra mano poggiata sul pavimento per sostegno, le gambe piegate e posizionate comodamente davanti a sé. Indossa un {argument name="outfit" default="top smanicato bianco a coste aderente con scollo profondo e leggings bianchi lunghi coordinati"}. È adornata con delicate cavigliere color argento su entrambe le caviglie, caratterizzate da piccoli ciondoli, molteplici braccialetti sottili in argento sul polso destro e una manicure e pedicure bianca delicata. Lo sfondo presenta una {argument name="background" default="parete classica ed elaborata con intricati motivi floreali e di foglie in tenui tonalità beige e grigie su pannelli effetto marmo"}, creando un ambiente interno lussuoso e artistico con un'illuminazione morbida e uniforme che mette in risalto texture e dettagli. Fotorealistico, alta risoluzione, composizione cinematografica.
 ```
 
 #### 🖼️ Immagini generate
@@ -748,25 +748,25 @@ A highly detailed portrait of a beautiful young woman with fair skin, {argument 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990826175_o7veo6_HKSzxWPbYAA97IW.jpg" width="600" alt="Profilo / Avatar - Elegant Redhead Portrait in Classical Interior - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990826175_o7veo6_HKSzxWPbYAA97IW.jpg" width="600" alt="Profilo / Avatar - Elegante ritratto di donna dai capelli rossi in un interno classico - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990826196_zcpyyz_HKSzxYfbkAAgt58.jpg" width="600" alt="Profilo / Avatar - Elegant Redhead Portrait in Classical Interior - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990826196_zcpyyz_HKSzxYfbkAAgt58.jpg" width="600" alt="Profilo / Avatar - Elegante ritratto di donna dai capelli rossi in un interno classico - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990826268_o012r2_HKSzxfVaUAAvWSx.jpg" width="600" alt="Profilo / Avatar - Elegant Redhead Portrait in Classical Interior - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780990826268_o012r2_HKSzxfVaUAAvWSx.jpg" width="600" alt="Profilo / Avatar - Elegante ritratto di donna dai capelli rossi in un interno classico - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990827046_3gqjhp_HKSzx5tagAA8Zkv.jpg" width="600" alt="Profilo / Avatar - Elegant Redhead Portrait in Classical Interior - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780990827046_3gqjhp_HKSzx5tagAA8Zkv.jpg" width="600" alt="Profilo / Avatar - Elegante ritratto di donna dai capelli rossi in un interno classico - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -780,19 +780,19 @@ A highly detailed portrait of a beautiful young woman with fair skin, {argument 
 
 ---
 
-### No. 4: Profilo / Avatar - Cinematic Portrait in Pink Grass Field
+### No. 4: Profilo / Avatar - Ritratto cinematografico in un campo di erba rosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A cinematic portrait prompt designed to maintain exact facial identity from a reference image, set in a dreamy golden hour field of pink fountain grass.
+Un prompt per ritratti cinematografici progettato per mantenere l'identità facciale esatta da un'immagine di riferimento, ambientato in un campo da sogno di erba fontana rosa durante l'ora d'oro.
 
 #### 📝 Prompt
 
 ```
-Cinematic portrait of the female subject from the uploaded reference image, maintaining 100% exact facial identity, features, and expression. She is standing in a {argument name="setting" default="dreamy pink fountain grass field"} during golden hour. Body slightly turned sideways, looking back over her shoulder with a soft natural smile and calm, elegant expression. Wearing a {argument name="outfit" default="black embroidered boho top"}, light blue jeans, silver earrings, and a bracelet. Long wavy hair softly flowing in the wind. Fluffy pink fountain grass in the foreground and background with a heavy, creamy bokeh blur. DSLR photography, 85mm lens, f/1.8, shallow depth of field, soft natural lighting, cinematic color grading, ultra-detailed skin texture, realistic hair strands. Candid photography style. Composition, head angle, hand placement, and body posture are strictly identical to the reference sample image. Hyper-realistic, 8K UHD, ultra-sharp subject focus, {argument name="aspect ratio" default="image ratio 4:5"}.
+Ritratto cinematografico del soggetto femminile dell'immagine di riferimento caricata, mantenendo il 100% dell'identità facciale, dei tratti e dell'espressione. È in piedi in un {argument name="setting" default="campo da sogno di erba fontana rosa"} durante l'ora d'oro. Corpo leggermente girato di lato, sguardo rivolto all'indietro sopra la spalla con un sorriso naturale e delicato e un'espressione calma ed elegante. Indossa un {argument name="outfit" default="top boho nero ricamato"}, jeans azzurri, orecchini d'argento e un braccialetto. Lunghi capelli mossi che fluiscono dolcemente nel vento. Soffice erba fontana rosa in primo piano e sullo sfondo con un intenso e cremoso effetto bokeh. Fotografia DSLR, obiettivo 85mm, f/1.8, profondità di campo ridotta, illuminazione naturale soffusa, color grading cinematografico, texture della pelle ultra-dettagliata, ciocche di capelli realistiche. Stile fotografico spontaneo. La composizione, l'inclinazione della testa, il posizionamento delle mani e la postura del corpo sono rigorosamente identici all'immagine di riferimento. Iper-realistico, 8K UHD, messa a fuoco ultra-nitida sul soggetto, {argument name="aspect ratio" default="rapporto immagine 4:5"}.
 ```
 
 #### 🖼️ Immagini generate
@@ -800,7 +800,7 @@ Cinematic portrait of the female subject from the uploaded reference image, main
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990817236_cqpr9g_HKSV7mhbgAAdY5z.jpg" width="600" alt="Profilo / Avatar - Cinematic Portrait in Pink Grass Field - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990817236_cqpr9g_HKSV7mhbgAAdY5z.jpg" width="600" alt="Profilo / Avatar - Ritratto cinematografico in un campo di erba rosa - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -814,19 +814,19 @@ Cinematic portrait of the female subject from the uploaded reference image, main
 
 ---
 
-### No. 5: Profilo / Avatar - Serene Bathroom Shower Portrait
+### No. 5: Profilo / Avatar - Ritratto sereno in doccia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A photorealistic prompt for generating a serene image of a woman with freckles in a modern bathroom, featuring detailed water droplets and a clean, bright atmosphere.
+Un prompt fotorealistico per generare l'immagine serena di una donna con lentiggini in un bagno moderno, caratterizzato da gocce d'acqua dettagliate e un'atmosfera pulita e luminosa.
 
 #### 📝 Prompt
 
 ```
-A young woman with {argument name="skin details" default="fair skin covered in light freckles"} stands barefoot in a modern bathroom shower area, her long wavy reddish-brown hair wet and cascading over her shoulders and back as if just after a shower. She has striking light-colored eyes and a gentle expression while looking directly at the viewer. She is wrapped modestly in a {argument name="towel style" default="yellow and white horizontally striped towel"} with fringed edges that covers her from her chest down to mid-thigh, holding the top of the towel securely with both hands near her collarbone. Her skin has visible water droplets, and she stands on a {argument name="bath mat" default="beige bath mat"} with white borders placed on light-colored tiled flooring in front of a glass-enclosed shower stall featuring metal fixtures, a handheld showerhead, and neutral beige tiled walls in the background. The lighting is bright and even, creating a clean, serene atmosphere.
+Una giovane donna con {argument name="skin details" default="carnagione chiara coperta da leggere lentiggini"} sta in piedi a piedi nudi nella zona doccia di un bagno moderno, i suoi lunghi capelli mossi color castano rossiccio sono bagnati e le ricadono sulle spalle e sulla schiena come appena dopo la doccia. Ha occhi chiari sorprendenti e un'espressione dolce mentre guarda direttamente verso l'osservatore. È avvolta pudicamente in un {argument name="towel style" default="asciugamano a righe orizzontali gialle e bianche"} con bordi sfrangiati che la copre dal petto fino a metà coscia, tenendo la parte superiore dell'asciugamano saldamente con entrambe le mani vicino alla clavicola. La sua pelle presenta gocce d'acqua visibili e lei si trova su un {argument name="bath mat" default="tappetino da bagno beige"} con bordi bianchi posizionato su un pavimento piastrellato di colore chiaro davanti a un box doccia in vetro con finiture in metallo, un soffione doccia a mano e pareti piastrellate in beige neutro sullo sfondo. L'illuminazione è brillante e uniforme, creando un'atmosfera pulita e serena.
 ```
 
 #### 🖼️ Immagini generate
@@ -834,7 +834,7 @@ A young woman with {argument name="skin details" default="fair skin covered in l
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990817215_k7qbtd_HKSVlnQasAA904n.jpg" width="600" alt="Profilo / Avatar - Serene Bathroom Shower Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990817215_k7qbtd_HKSVlnQasAA904n.jpg" width="600" alt="Profilo / Avatar - Ritratto sereno in doccia - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -848,19 +848,19 @@ A young woman with {argument name="skin details" default="fair skin covered in l
 
 ---
 
-### No. 6: Profilo / Avatar - Analog Film Filipina Portrait
+### No. 6: Profilo / Avatar - Ritratto in stile pellicola analogica di una donna filippina
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A detailed prompt recreating the aesthetic of analog film photography, featuring a young Filipina woman on a sunlit city street with natural textures and film grain.
+Un prompt dettagliato che ricrea l'estetica della fotografia su pellicola analogica, ritraendo una giovane donna filippina in una strada cittadina soleggiata, con texture naturali e grana della pellicola.
 
 #### 📝 Prompt
 
 ```
-A candid, realistic close-up portrait of a {argument name="subject" default="young Filipina woman"}, capturing the raw, natural aesthetic of analog film photography. The image features authentic film grain, slight softness, natural textures, and realistic light quality typical of an analog point-and-shoot camera. The subject stands on a sunlit city street, looking directly into the camera with a casual, natural expression and a slight head tilt. She has natural glass skin with a subtle glow from direct sunlight. Her makeup is fresh and natural, featuring {argument name="makeup style" default="pink blush applied high on her cheeks and across the bridge of her nose (Igari blush style)"}, long neatly curled eyelashes, pink matte lips. Her long dark chestnut-brown hair falls in large natural waves. She wears a {argument name="accessory" default="navy-blue baseball cap"} with a small white logo on the front. She is dressed in a slim-fit white tank top paired with an oversized light-grey jacket worn open and naturally slipping off one shoulder. The background shows a detailed urban sidewalk scene with lush green trees casting dappled shade and strong sunlight highlights. The background remains naturally detailed without heavy bokeh. Direct daylight from above and slightly in front creates strong contrast.
+Un ritratto in primo piano realistico e spontaneo di una {argument name="subject" default="giovane donna filippina"}, che cattura l'estetica cruda e naturale della fotografia su pellicola analogica. L'immagine presenta un'autentica grana della pellicola, una leggera morbidezza, texture naturali e la qualità della luce realistica tipica di una fotocamera analogica punta e scatta. Il soggetto si trova su una strada cittadina soleggiata e guarda direttamente verso l'obiettivo con un'espressione naturale e disinvolta, con una leggera inclinazione della testa. Ha una pelle naturale e luminosa con un sottile bagliore dovuto alla luce solare diretta. Il trucco è fresco e naturale, caratterizzato da {argument name="makeup style" default="fard rosa applicato in alto sulle guance e sul ponte del naso (stile Igari)"}, ciglia lunghe e ben incurvate, labbra rosa opaco. I suoi lunghi capelli castano castagno cadono in ampie onde naturali. Indossa un {argument name="accessory" default="berretto da baseball blu navy"} con un piccolo logo bianco sul davanti. È vestita con una canotta bianca aderente abbinata a una giacca oversize grigio chiaro indossata aperta e che scivola naturalmente su una spalla. Lo sfondo mostra una scena urbana dettagliata con alberi verdeggianti che proiettano ombre screziate e forti riflessi di luce solare. Lo sfondo rimane naturalmente dettagliato senza un forte effetto bokeh. La luce diurna diretta dall'alto e leggermente frontale crea un forte contrasto.
 ```
 
 #### 🖼️ Immagini generate
@@ -868,7 +868,7 @@ A candid, realistic close-up portrait of a {argument name="subject" default="you
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990818364_c2sei6_HKSIGi1WYAANwSv.jpg" width="600" alt="Profilo / Avatar - Analog Film Filipina Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990818364_c2sei6_HKSIGi1WYAANwSv.jpg" width="600" alt="Profilo / Avatar - Ritratto in stile pellicola analogica di una donna filippina - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -882,19 +882,19 @@ A candid, realistic close-up portrait of a {argument name="subject" default="you
 
 ---
 
-### No. 7: Profilo / Avatar - Candid Smartphone Portrait of Woman
+### No. 7: Profilo / Avatar - Ritratto spontaneo di donna scattato con smartphone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A detailed prompt for creating a realistic, vertical smartphone-style photograph of a woman against a vibrant red background, emphasizing natural skin textures and a candid iPhone 16 Pro look.
+Un prompt dettagliato per creare una fotografia realistica in verticale, in stile smartphone, di una donna su uno sfondo rosso vibrante, che enfatizza le texture naturali della pelle e un look spontaneo da iPhone 16 Pro.
 
 #### 📝 Prompt
 
 ```
-Raw UGC smartphone photo, 9:16 vertical, 4K look. Full-body shot of a curvy woman in her mid-30s with warm neutral skin tone, standing against a {argument name="background color" default="vivid red"} background. Wet, messy dark brown hair, natural skin texture with visible pores and realistic details. Wearing a {argument name="outfit" default="tight black short-sleeve romper"}, gold necklace, hoop earrings, and bangles. {argument name="pose" default="Arms crossed"}, slight forward lean, direct confident gaze. Bright natural lighting with realistic shadows and highlights. Shot on iPhone 16 Pro, 24mm f/1.8, candid style with natural grain. No cartoon, anime, CGI, beauty filters, airbrushing, text, watermark, extra limbs, blur, or oversaturation. 1080×1920.
+Foto UGC grezza da smartphone, verticale 9:16, look 4K. Ripresa a figura intera di una donna formosa sulla trentina con un tono di pelle caldo e neutro, in piedi davanti a uno sfondo {argument name="background color" default="rosso vivido"}. Capelli castano scuro bagnati e spettinati, texture della pelle naturale con pori visibili e dettagli realistici. Indossa una {argument name="outfit" default="tuta corta nera attillata a maniche corte"}, collana d'oro, orecchini a cerchio e braccialetti. {argument name="pose" default="Braccia incrociate"}, leggero piegamento in avanti, sguardo diretto e sicuro. Illuminazione naturale brillante con ombre e luci realistiche. Scattata con iPhone 16 Pro, 24mm f/1.8, stile spontaneo con grana naturale. No cartone animato, anime, CGI, filtri bellezza, ritocchi, testo, filigrana, arti extra, sfocatura o sovrasaturazione. 1080×1920.
 ```
 
 #### 🖼️ Immagini generate
@@ -902,13 +902,13 @@ Raw UGC smartphone photo, 9:16 vertical, 4K look. Full-body shot of a curvy woma
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990816567_l6psax_HKRhUxJXsAADy_c.jpg" width="600" alt="Profilo / Avatar - Candid Smartphone Portrait of Woman - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990816567_l6psax_HKRhUxJXsAADy_c.jpg" width="600" alt="Profilo / Avatar - Ritratto spontaneo di donna scattato con smartphone - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990817248_vt5iuj_HKRhUxGXkAAdkpU.jpg" width="600" alt="Profilo / Avatar - Candid Smartphone Portrait of Woman - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990817248_vt5iuj_HKRhUxGXkAAdkpU.jpg" width="600" alt="Profilo / Avatar - Ritratto spontaneo di donna scattato con smartphone - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -922,19 +922,19 @@ Raw UGC smartphone photo, 9:16 vertical, 4K look. Full-body shot of a curvy woma
 
 ---
 
-### No. 8: Profilo / Avatar - Powerful Studio Portrait with Low-Key Lighting
+### No. 8: Profilo / Avatar - Potente ritratto in studio con illuminazione low-key
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A dramatic, high-contrast studio portrait of a man in a commanding pose, emphasizing realistic skin textures and a minimalist black background.
+Un drammatico ritratto in studio ad alto contrasto di un uomo in una posa autorevole, che enfatizza le texture realistiche della pelle e uno sfondo nero minimalista.
 
 #### 📝 Prompt
 
 ```
-A hyper-realistic cinematic full upper-body portrait of a man seated and leaning forward with both hands clasped together resting in front of him, elbows on knees in a powerful, composed, and commanding pose. Wearing an all-black long-sleeve henley shirt and dark trousers, a luxury black chronograph watch on the left wrist. Studio dark background — pure deep black with near-invisible shadow detail, low-key dramatic lighting with a single soft key light source hitting the face and forearms from slightly above and to the side, creating sharp contrast between illuminated skin and dark clothing that almost disappears into the background. Ultra-detailed skin texture on hands and forearms with visible veins. The gaze is direct, intense, and unwavering — looking straight into the camera with calm dominance. Photorealistic 8K studio portrait photography, shot on Canon EF 85mm f/1.2L lens, shallow depth of field with background falling into pure black. Color palette is near-monochromatic — deep blacks, cool shadows, and warm neutral skin tones only. Mood is powerful, mysterious, and quietly dominant — like a CEO, a villain, or an elite operator.
-Use the exact facial structure, features, and likeness from the provided reference image — including face shape, eyes, nose, jawline, and stubble. Apply only the above lighting, pose, wardrobe, and studio style to the reference face without altering any facial characteristics.
+Un ritratto cinematografico iperrealistico a mezzo busto di un uomo seduto e proteso in avanti con le mani giunte davanti a sé, i gomiti sulle ginocchia in una posa potente, composta e autorevole. Indossa una maglia a maniche lunghe henley completamente nera e pantaloni scuri, con un lussuoso orologio cronografo nero al polso sinistro. Sfondo scuro da studio: nero profondo puro con dettagli in ombra quasi invisibili, illuminazione drammatica low-key con una singola sorgente di luce morbida che colpisce il viso e gli avambracci leggermente dall'alto e di lato, creando un netto contrasto tra la pelle illuminata e l'abbigliamento scuro che quasi scompare nello sfondo. Texture della pelle ultra dettagliata su mani e avambracci con vene visibili. Lo sguardo è diretto, intenso e incrollabile: guarda dritto verso la fotocamera con calma dominanza. Fotografia di ritratto in studio fotorealistica 8K, scattata con obiettivo Canon EF 85mm f/1.2L, profondità di campo ridotta con sfondo che sfuma nel nero puro. La tavolozza dei colori è quasi monocromatica: solo neri profondi, ombre fredde e calde tonalità neutre della pelle. L'atmosfera è potente, misteriosa e silenziosamente dominante: come un CEO, un villain o un operatore d'élite.
+Utilizza l'esatta struttura facciale, i lineamenti e la somiglianza dell'immagine di riferimento fornita, inclusi forma del viso, occhi, naso, mascella e barba incolta. Applica al volto di riferimento solo l'illuminazione, la posa, l'abbigliamento e lo stile da studio sopra descritti, senza alterare alcuna caratteristica facciale.
 ```
 
 #### 🖼️ Immagini generate
@@ -942,7 +942,7 @@ Use the exact facial structure, features, and likeness from the provided referen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990822047_79hby3_HKQn6xnXkAAlayh.jpg" width="600" alt="Profilo / Avatar - Powerful Studio Portrait with Low-Key Lighting - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990822047_79hby3_HKQn6xnXkAAlayh.jpg" width="600" alt="Profilo / Avatar - Potente ritratto in studio con illuminazione low-key - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1508,19 +1508,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Post sui social media - Realistic Looney Tunes Selfie
+### No. 21: Post sui social media - Selfie realistico in stile Looney Tunes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A fun and creative prompt for generating a high-angle selfie featuring live-action versions of Looney Tunes characters in a studio setting.
+Un prompt divertente e creativo per generare un selfie dall'alto con versioni live-action dei personaggi dei Looney Tunes in uno studio.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic 4:5 vertical format ultra wide angle 13mm selfie of me with {argument name="characters" default="Bugs Bunny, Daffy Duck, Porky Pig, Elmer Fudd, Yosemite Sam, Tweety, Sylvester"} in my studio. I am wearing {argument name="clothing" default="pale pink t-shirt"}. We're all making silly, exaggerated faces. High camera angle. Extreme wide lense no fish-eye distortion. Realistic, live action characters no cartoon, cinematic lighting, all realistic characters integrated with stylized realism.
+Selfie ultra-realistico in formato verticale 4:5 con obiettivo ultra-grandangolare da 13mm di me insieme a {argument name="characters" default="Bugs Bunny, Daffy Duck, Porky Pig, Elmer Fudd, Yosemite Sam, Titti, Silvestro"} nel mio studio. Indosso {argument name="clothing" default="una t-shirt rosa pallido"}. Stiamo tutti facendo facce buffe ed esagerate. Inquadratura dall'alto. Obiettivo grandangolare estremo senza distorsione fish-eye. Personaggi realistici in live-action, non cartoni animati, illuminazione cinematografica, tutti i personaggi realistici integrati con un realismo stilizzato.
 ```
 
 #### 🖼️ Immagini generate
@@ -1528,7 +1528,7 @@ Ultra-realistic 4:5 vertical format ultra wide angle 13mm selfie of me with {arg
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990820809_oqpam0_HKVEVPhXMAEyEeQ.jpg" width="600" alt="Post sui social media - Realistic Looney Tunes Selfie - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990820809_oqpam0_HKVEVPhXMAEyEeQ.jpg" width="600" alt="Post sui social media - Selfie realistico in stile Looney Tunes - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1542,19 +1542,19 @@ Ultra-realistic 4:5 vertical format ultra wide angle 13mm selfie of me with {arg
 
 ---
 
-### No. 22: Post sui social media - Surreal Miniature Universe Bubble Portrait
+### No. 22: Post sui social media - Ritratto surreale in una bolla-universo in miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A unique prompt that transforms a portrait into a surreal diorama, where the subject's head is encased in a transparent bubble containing a miniature world.
+Un prompt unico che trasforma un ritratto in un diorama surreale, in cui la testa del soggetto è racchiusa in una bolla trasparente contenente un mondo in miniatura.
 
 #### 📝 Prompt
 
 ```
-A surreal, photorealistic portrait of {argument name="character" default="[User Face/Character]"} standing naturally in a textured knit sweater. The head is seamlessly attached to the body. Surrounding the head is a large, transparent spherical bubble acting as a diorama. Inside this circular space is a highly detailed, miniature {argument name="theme" default="[Subject/Theme]"} environment, complete with tiny intricate props, rich lighting, and a tiny miniature version of the character. The main character's head sits naturally in the center of this spherical room. Cinematic volumetric lighting, sharp focus on the miniature details, minimal soft-gradient background. 8k, masterpiece
+Un ritratto surreale e fotorealistico di {argument name="character" default="[Volto/Personaggio dell'utente]"} che indossa con naturalezza un maglione a trama lavorata. La testa è perfettamente integrata al corpo. Attorno alla testa si trova una grande bolla sferica trasparente che funge da diorama. All'interno di questo spazio circolare si trova un ambiente {argument name="theme" default="[Soggetto/Tema]"} in miniatura altamente dettagliato, completo di minuscoli oggetti di scena intricati, un'illuminazione ricca e una versione minuscola del personaggio. La testa del personaggio principale si trova naturalmente al centro di questa stanza sferica. Illuminazione volumetrica cinematografica, messa a fuoco nitida sui dettagli in miniatura, sfondo minimalista con sfumature tenui. 8k, capolavoro
 ```
 
 #### 🖼️ Immagini generate
@@ -1562,7 +1562,7 @@ A surreal, photorealistic portrait of {argument name="character" default="[User 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990822267_5yq8zj_HKUJLZgWwAA7_0m.jpg" width="600" alt="Post sui social media - Surreal Miniature Universe Bubble Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990822267_5yq8zj_HKUJLZgWwAA7_0m.jpg" width="600" alt="Post sui social media - Ritratto surreale in una bolla-universo in miniatura - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1576,26 +1576,26 @@ A surreal, photorealistic portrait of {argument name="character" default="[User 
 
 ---
 
-### No. 23: Post sui social media - Candid Café Lifestyle Scene
+### No. 23: Post sui social media - Scena di vita quotidiana in un caffè
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A hyper-realistic prompt for a cozy café scene featuring a woman with a laptop, focusing on natural textures and soft ambient lighting.
+Un prompt iperrealistico per una scena accogliente in un caffè con una donna al computer, focalizzato su texture naturali e una soffusa illuminazione d'ambiente.
 
 #### 📝 Prompt
 
 ```
-A candid, hyper-realistic indoor café scene featuring a young woman sitting at a dark wooden table, facing forward behind an open silver laptop (Apple MacBook with glowing logo). She has fair skin, soft facial features, and light brown hair tied loosely in a messy bun with a few strands falling naturally around her face. She is wearing a simple oversized dark gray sweatshirt, giving a relaxed and casual look.￼
+Una scena spontanea e iperrealistica all'interno di un caffè, con una giovane donna seduta a un tavolo di legno scuro, rivolta verso l'obiettivo dietro un laptop argentato aperto (Apple MacBook con logo luminoso). Ha la pelle chiara, lineamenti delicati e capelli castano chiaro raccolti in uno chignon spettinato, con alcune ciocche che cadono naturalmente attorno al viso. Indossa una semplice felpa oversize grigio scuro, per un look rilassato e informale.
 
-Her expression is playful and slightly mischievous, sticking her tongue out subtly while looking directly toward the camera. Her posture is slightly leaned forward, elbows resting near the table, suggesting a relaxed working or studying moment. The setting is a cozy, dimly lit café corner with warm ambient lighting and smooth brown walls in the background, creating a minimalist and intimate atmosphere. The lighting is soft and diffused, casting gentle shadows and enhancing skin tones naturally.￼
+La sua espressione è giocosa e leggermente maliziosa, con la lingua leggermente fuori mentre guarda direttamente verso la fotocamera. La postura è leggermente protesa in avanti, con i gomiti appoggiati vicino al tavolo, suggerendo un momento di lavoro o studio rilassato. L'ambientazione è l'angolo accogliente di un caffè, con una calda illuminazione d'ambiente e pareti marroni lisce sullo sfondo, che creano un'atmosfera minimalista e intima. La luce è soffusa e diffusa, proiettando ombre delicate ed esaltando i toni della pelle in modo naturale.
 
-On the table: * In the foreground, a white ceramic cup filled with coffee sits on a matching saucer, slightly off-center, closest to the camera, with smooth reflections on the surface. * To the left, a second laptop (partially visible) is open, showing a colorful interface on the screen. * Near the center-left, a small rectangular purple card lies flat on the table. * A white cup and saucer are also visible behind the main laptop, suggesting another drink.￼
+Sul tavolo: * In primo piano, una tazza di ceramica bianca riempita di caffè poggia su un piattino abbinato, leggermente decentrata e più vicina alla fotocamera, con riflessi nitidi sulla superficie. * A sinistra, un secondo laptop (parzialmente visibile) è aperto e mostra un'interfaccia colorata sullo schermo. * Vicino al centro-sinistra, un piccolo biglietto rettangolare viola è appoggiato sul tavolo. * Una tazza bianca con piattino è visibile anche dietro il laptop principale, suggerendo la presenza di un'altra bevanda.
 
-* On the right side, there is a folded dark textured fabric or bag resting near the edge of the table. * Additional subtle objects like napkins and small items are scattered naturally, enhancing realism. Composition: * Shot from a slightly low, eye-level perspective across the table, creating depth. * Foreground (coffee cup) slightly blurred with shallow depth of field. * Midground (laptop and subject) in sharp focus. * Background softly blurred. Style & quality:￼
+* Sul lato destro, c'è un tessuto scuro piegato o una borsa appoggiata vicino al bordo del tavolo. * Ulteriori oggetti discreti come tovaglioli e piccoli accessori sono sparsi naturalmente, aumentando il realismo. Composizione: * Scatto da una prospettiva leggermente dal basso, ad altezza occhi, che crea profondità. * Primo piano (tazza di caffè) leggermente sfocato con una profondità di campo ridotta. * Piano intermedio (laptop e soggetto) a fuoco nitido. * Sfondo sfocato delicatamente. Stile e qualità:
 
-* ultra photorealistic, candid photography style * natural lighting, warm tones * shallow depth of field, soft bokeh * realistic textures (skin, fabric, wood, ceramic) * high dynamic range, 8K detail * no over-editing, authentic lifestyle aesthetic￼
+* ultra fotorealistico, stile fotografia spontanea * illuminazione naturale, toni caldi * profondità di campo ridotta, bokeh soffuso * texture realistiche (pelle, tessuto, legno, ceramica) * alta gamma dinamica, dettagli in 8K * nessuna modifica eccessiva, estetica lifestyle autentica
 ```
 
 #### 🖼️ Immagini generate
@@ -1603,7 +1603,7 @@ On the table: * In the foreground, a white ceramic cup filled with coffee sits o
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990821141_no2dqb_HKT42nWaMAEhYLC.jpg" width="600" alt="Post sui social media - Candid Café Lifestyle Scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990821141_no2dqb_HKT42nWaMAEhYLC.jpg" width="600" alt="Post sui social media - Scena di vita quotidiana in un caffè - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1617,19 +1617,19 @@ On the table: * In the foreground, a white ceramic cup filled with coffee sits o
 
 ---
 
-### No. 24: Post sui social media - Man on Red Convertible Sports Car
+### No. 24: Post sui social media - Uomo su auto sportiva decappottabile rossa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A cinematic golden hour prompt featuring a stylish man posed on the back of a luxury sports car on an open mountain road.
+Un prompt cinematografico durante l'ora d'oro che ritrae un uomo elegante in posa sul retro di un'auto sportiva di lusso su una strada di montagna aperta.
 
 #### 📝 Prompt
 
 ```
-A stylish man sitting casually on the back of a {argument name="car" default="sleek red convertible sports car"} parked on an open road during {argument name="time" default="golden hour"}. He’s dressed in a {argument name="clothing" default="fitted black t-shirt, black shorts, and white sneakers"}, showing off a modern casual look. He wears a simple chain necklace and wristwatch. The warm sunset light casts a golden glow across the scene, highlighting the car’s glossy finish and the man’s thoughtful, confident expression as he looks into the distance. The background features a vast open road stretching toward soft mountain silhouettes, creating a cinematic sense of freedom and adventure.
+Un uomo elegante seduto con disinvoltura sul retro di una {argument name="car" default="elegante auto sportiva decappottabile rossa"} parcheggiata su una strada aperta durante {argument name="time" default="l'ora d'oro"}. Indossa una {argument name="clothing" default="t-shirt nera attillata, pantaloncini neri e scarpe da ginnastica bianche"}, sfoggiando un look moderno e casual. Indossa una semplice collana a catena e un orologio da polso. La calda luce del tramonto proietta un bagliore dorato sulla scena, mettendo in risalto la finitura lucida dell'auto e l'espressione pensierosa e sicura dell'uomo mentre guarda in lontananza. Lo sfondo presenta un'ampia strada aperta che si estende verso le morbide sagome delle montagne, creando un senso cinematografico di libertà e avventura.
 ```
 
 #### 🖼️ Immagini generate
@@ -1637,7 +1637,7 @@ A stylish man sitting casually on the back of a {argument name="car" default="sl
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990822063_lbznei_HKTl65mWAAAk4TC.jpg" width="600" alt="Post sui social media - Man on Red Convertible Sports Car - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990822063_lbznei_HKTl65mWAAAk4TC.jpg" width="600" alt="Post sui social media - Uomo su auto sportiva decappottabile rossa - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1651,42 +1651,42 @@ A stylish man sitting casually on the back of a {argument name="car" default="sl
 
 ---
 
-### No. 25: Post sui social media - Realistic Blonde Woman Bedroom Portrait
+### No. 25: Post sui social media - Ritratto realistico di donna bionda in camera da letto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A highly detailed prompt for generating a photorealistic close-up portrait of a woman relaxing in a modern bedroom with warm daylight and cozy aesthetics.
+Un prompt altamente dettagliato per generare un ritratto in primo piano fotorealistico di una donna che si rilassa in una moderna camera da letto con luce diurna calda ed estetica accogliente.
 
 #### 📝 Prompt
 
 ```
 {
-  "prompt": "Ultra-realistic close-up lifestyle portrait of a young {argument name="hair color" default="blonde"} woman relaxing on a neatly made bed in a bright modern bedroom. Her hair is styled in a casual messy bun with soft face-framing bangs. She wears a simple {argument name="outfit" default="white t-shirt"} and lies comfortably on white bedding while holding a smartphone. Natural makeup, soft skin texture, expressive eyes, and a calm thoughtful expression. Warm daylight streams through large windows, illuminating the room with soft natural light. Minimalist interior design with light wood ceiling panels, indoor greenery, and clean contemporary decor. {argument name="aesthetic" default="Cozy morning aesthetic"}, candid social media photography, shallow depth of field, highly detailed, photorealistic, authentic everyday lifestyle moment.",
-  "negative_prompt": "blurry, low resolution, distorted anatomy, extra limbs, extra fingers, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered room, harsh shadows, overexposed highlights",
-  "style": "photorealistic",
+  "prompt": "Ritratto lifestyle in primo piano ultra-realistico di una giovane donna {argument name="hair color" default="bionda"} che si rilassa su un letto ben rifatto in una luminosa camera da letto moderna. I suoi capelli sono acconciati in uno chignon spettinato con morbide frange che incorniciano il viso. Indossa una semplice {argument name="outfit" default="t-shirt bianca"} e giace comodamente su biancheria da letto bianca mentre tiene in mano uno smartphone. Trucco naturale, texture della pelle morbida, occhi espressivi e un'espressione calma e pensierosa. La calda luce del giorno filtra attraverso ampie finestre, illuminando la stanza con una soffusa luce naturale. Design d'interni minimalista con pannelli del soffitto in legno chiaro, piante da interno e un arredamento contemporaneo pulito. {argument name="aesthetic" default="Estetica mattutina accogliente"}, fotografia candid per social media, profondità di campo ridotta, altamente dettagliato, fotorealistico, autentico momento di vita quotidiana.",
+  "negative_prompt": "sfocato, bassa risoluzione, anatomia distorta, arti extra, dita extra, proporzioni irrealistiche, pelle di plastica, ritocco eccessivo, cartone animato, anime, CGI, dipinto, filigrana, testo, logo, motion blur, immagine rumorosa, stanza disordinata, ombre dure, luci sovraesposte",
+  "style": "fotorealistico",
   "camera": {
     "lens": "50mm",
     "aperture": "f/1.8",
-    "angle": "close-up selfie perspective",
-    "depth_of_field": "shallow"
+    "angle": "prospettiva selfie in primo piano",
+    "depth_of_field": "ridotta"
   },
   "lighting": {
-    "type": "soft natural window light",
-    "direction": "diffused daylight",
-    "mood": "cozy, relaxed, intimate"
+    "type": "luce naturale soffusa dalla finestra",
+    "direction": "luce diurna diffusa",
+    "mood": "accogliente, rilassato, intimo"
   },
   "composition": {
-    "framing": "vertical portrait",
-    "subject_position": "foreground on bed",
-    "background": "minimalist bedroom with natural wood accents and indoor plants"
+    "framing": "ritratto verticale",
+    "subject_position": "primo piano sul letto",
+    "background": "camera da letto minimalista con accenti in legno naturale e piante da interno"
   },
   "quality": {
     "resolution": "8k",
-    "detail": "ultra high",
-    "realism": "maximum"
+    "detail": "altissima",
+    "realism": "massimo"
   }
 }
 ```
@@ -1696,13 +1696,13 @@ A highly detailed prompt for generating a photorealistic close-up portrait of a 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990823129_3adek5_HKTYRyTbIAAHHBk.jpg" width="600" alt="Post sui social media - Realistic Blonde Woman Bedroom Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990823129_3adek5_HKTYRyTbIAAHHBk.jpg" width="600" alt="Post sui social media - Ritratto realistico di donna bionda in camera da letto - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990823129_6jxmdw_HKTYRybawAAbV55.jpg" width="600" alt="Post sui social media - Realistic Blonde Woman Bedroom Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990823129_6jxmdw_HKTYRybawAAbV55.jpg" width="600" alt="Post sui social media - Ritratto realistico di donna bionda in camera da letto - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -1716,18 +1716,18 @@ A highly detailed prompt for generating a photorealistic close-up portrait of a 
 
 ---
 
-### No. 26: Post sui social media - Hyper-Realistic Editorial Fashion Portrait
+### No. 26: Post sui social media - Ritratto editoriale di moda iper-realistico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A highly technical and structured prompt for creating an editorial-style portrait of a woman with copper-red hair in a modern architectural setting.
+Un prompt altamente tecnico e strutturato per creare un ritratto in stile editoriale di una donna con capelli rosso rame in un contesto architettonico moderno.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic outdoor portrait of a young woman with vibrant copper-red hair styled in high twin ponytails, sitting on a grassy field in front of a modern contemporary building. She wears a fitted light-gray sleeveless top, a gray plaid skirt, black opaque tights, and a minimalist white choker necklace. Natural makeup, soft freckles, clear skin texture, and a calm direct gaze toward the camera. Overcast daylight creates soft even lighting and natural colors. Shallow depth of field with a gently blurred background, professional portrait photography, clean composition, highly detailed hair strands, realistic skin, photorealistic, editorial lifestyle aesthetic, premium fashion campaign quality. Negative prompt: blurry, low resolution, distorted anatomy, extra limbs, extra fingers, duplicate person, unrealistic proportions, plastic skin, excessive retouching, cartoon, anime, CGI, painting, watermark, text, logo, motion blur, noisy image, cluttered background, overexposed highlights, some harsh shadows. Style: photorealistic. Camera: lens: 85mm, aperture: f/1.8, angle: eye-level portrait, depth_of_field: shallow. Lighting: type: soft natural daylight, direction: diffused overcast lighting, mood: clean, modern, serene. Composition: framing: vertical portrait, subject_position: centered seated on grass, background: modern architecture softly blurred in the distance. Quality: resolution: 8k, detail: ultra high, realism: maximum.
+Ritratto in esterni ultra-realistico di una giovane donna con vivaci capelli rosso rame acconciati in due code alte, seduta su un prato davanti a un edificio moderno e contemporaneo. Indossa un top smanicato aderente grigio chiaro, una gonna a quadri grigia, collant neri coprenti e una collana choker bianca minimalista. Trucco naturale, lentiggini leggere, texture della pelle nitida e uno sguardo calmo e diretto verso la fotocamera. La luce diurna nuvolosa crea un'illuminazione morbida e uniforme con colori naturali. Profondità di campo ridotta con sfondo leggermente sfocato, fotografia di ritratto professionale, composizione pulita, ciocche di capelli altamente dettagliate, pelle realistica, fotorealistico, estetica lifestyle editoriale, qualità da campagna di moda premium. Prompt negativo: sfocato, bassa risoluzione, anatomia distorta, arti extra, dita extra, persona duplicata, proporzioni irrealistiche, pelle di plastica, ritocco eccessivo, cartone animato, anime, CGI, dipinto, filigrana, testo, logo, motion blur, immagine rumorosa, sfondo disordinato, luci sovraesposte, ombre troppo dure. Stile: fotorealistico. Fotocamera: obiettivo: 85mm, apertura: f/1.8, angolazione: ritratto ad altezza occhi, profondità_di_campo: ridotta. Illuminazione: tipo: luce naturale morbida, direzione: luce diffusa nuvolosa, atmosfera: pulita, moderna, serena. Composizione: inquadratura: ritratto verticale, posizione_soggetto: centrata seduta sull'erba, sfondo: architettura moderna leggermente sfocata in lontananza. Qualità: risoluzione: 8k, dettaglio: altissimo, realismo: massimo.
 ```
 
 #### 🖼️ Immagini generate
@@ -1735,7 +1735,7 @@ Ultra-realistic outdoor portrait of a young woman with vibrant copper-red hair s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990818275_p3aguo_HKTWUIIbMAAgKyF.jpg" width="600" alt="Post sui social media - Hyper-Realistic Editorial Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990818275_p3aguo_HKTWUIIbMAAgKyF.jpg" width="600" alt="Post sui social media - Ritratto editoriale di moda iper-realistico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1749,19 +1749,19 @@ Ultra-realistic outdoor portrait of a young woman with vibrant copper-red hair s
 
 ---
 
-### No. 27: Post sui social media - Photo to Crayon Drawing
+### No. 27: Post sui social media - Da foto a disegno a pastello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Transforms a standard photograph into a cute, childlike crayon drawing while preserving composition.
+Trasforma una fotografia standard in un grazioso disegno a pastello in stile infantile, preservandone la composizione.
 
 #### 📝 Prompt
 
 ```
-Transform the {argument name="subject" default="uploaded photo"} into a {argument name="style" default="cute childlike crayon drawing"} while keeping the original pose, composition, clothing, expressions, and background. Use {argument name="texture" default="colorful wax-crayon and colored-pencil textures"}, messy scribbles, shaky outlines, and uneven coloring on textured paper. Simplify the faces into adorable cartoon-style characters with big eyes and rosy cheeks. Keep the mountains, lake, trees, clouds, and sky in a playful hand-drawn style. Add a small rounded-corner reference photo inset in the bottom-right corner showing the original image, with a white border and subtle shadow. Vibrant colors, charming, funny, handmade, high-detail crayon artwork.
+Trasforma la {argument name="subject" default="foto caricata"} in un {argument name="style" default="grazioso disegno a pastello in stile infantile"} mantenendo la posa, la composizione, l'abbigliamento, le espressioni e lo sfondo originali. Utilizza {argument name="texture" default="texture colorate di pastelli a cera e matite colorate"}, scarabocchi disordinati, contorni tremolanti e colorazione irregolare su carta ruvida. Semplifica i volti trasformandoli in adorabili personaggi in stile cartoon con occhi grandi e guance rosate. Mantieni le montagne, il lago, gli alberi, le nuvole e il cielo in un giocoso stile disegnato a mano. Aggiungi nell'angolo in basso a destra un piccolo riquadro con angoli arrotondati che mostri l'immagine originale, con un bordo bianco e un'ombra sottile. Colori vivaci, affascinante, divertente, fatto a mano, opera d'arte a pastello ricca di dettagli.
 ```
 
 #### 🖼️ Immagini generate
@@ -1769,7 +1769,7 @@ Transform the {argument name="subject" default="uploaded photo"} into a {argumen
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990828835_yi3dyy_HKTM4pEa8AArTKB.jpg" width="600" alt="Post sui social media - Photo to Crayon Drawing - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990828835_yi3dyy_HKTM4pEa8AArTKB.jpg" width="600" alt="Post sui social media - Da foto a disegno a pastello - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -1783,14 +1783,14 @@ Transform the {argument name="subject" default="uploaded photo"} into a {argumen
 
 ---
 
-### No. 28: Post sui social media - Intimate Nighttime Portrait in Purple Dress
+### No. 28: Post sui social media - Ritratto notturno intimo con abito viola
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A complex structured prompt for a cinematic nighttime portrait of a woman in a purple dress, featuring detailed lighting and setting descriptions.
+Un prompt strutturato e complesso per un ritratto notturno cinematografico di una donna in abito viola, caratterizzato da descrizioni dettagliate dell'illuminazione e dell'ambientazione.
 
 #### 📝 Prompt
 
@@ -1799,61 +1799,61 @@ A complex structured prompt for a cinematic nighttime portrait of a woman in a p
   "type": "image_prompt",
   "description": {
     "subject": {
-      "name": "{argument name="subject" default="[NAME]"}",
-      "expression": "Soft and subtle smile",
+      "name": "{argument name="subject" default="[NOME]"}",
+      "expression": "Sorriso dolce e accennato",
       "hair": {
-        "style": "{argument name="hair style" default="Side ponytail"}",
-        "accessory": "Black and purple butterfly hair clip positioned on the right side",
-        "details": "Fine, textured strands framing the face"
+        "style": "{argument name="hair style" default="Coda di cavallo laterale"}",
+        "accessory": "Fermaglio per capelli a forma di farfalla nero e viola posizionato sul lato destro",
+        "details": "Ciocche fini e texturizzate che incorniciano il viso"
       },
-      "makeup": "Soft, natural makeup"
+      "makeup": "Trucco leggero e naturale"
     },
     "clothing": {
-      "outfit": "{argument name="outfit" default="Fitted shiny purple mini dress"}",
-      "sleeves": "Long sleeves",
-      "neckline": "Deep V-neck",
-      "fabric": "Smooth, elegant fabric",
-      "fit": "Figure-enhancing silhouette"
+      "outfit": "{argument name="outfit" default="Mini abito viola lucido attillato"}",
+      "sleeves": "Maniche lunghe",
+      "neckline": "Scollo a V profondo",
+      "fabric": "Tessuto liscio ed elegante",
+      "fit": "Silhouette che esalta la figura"
     },
     "pose": {
-      "position": "Seated elegantly in a large armchair",
-      "posture": "Slightly reclined with a relaxed posture",
-      "left_arm": "Resting on the armrest",
-      "right_arm": "Raised, forming a small finger-heart gesture",
-      "legs": "Crossed at the knees, extending toward the lower-right corner of the frame"
+      "position": "Seduta elegantemente su una grande poltrona",
+      "posture": "Leggermente reclinata con una postura rilassata",
+      "left_arm": "Appoggiato sul bracciolo",
+      "right_arm": "Sollevato, che forma un piccolo gesto a cuore con le dita",
+      "legs": "Accavallate, protese verso l'angolo in basso a destra dell'inquadratura"
     },
     "setting": {
-      "location": "Indoor nighttime environment",
+      "location": "Ambiente interno notturno",
       "furniture": {
-        "chair": "Large ornate white velvet armchair with a dark wooden frame"
+        "chair": "Grande poltrona in velluto bianco decorata con una struttura in legno scuro"
       },
       "background": {
-        "right_side": "Dark wooden bookshelves filled with books",
-        "left_side": "Window revealing a dark night sky with tree silhouettes"
+        "right_side": "Librerie in legno scuro piene di libri",
+        "left_side": "Finestra che rivela un cielo notturno scuro con sagome di alberi"
       }
     },
     "props": [
-      "Ornate white velvet armchair",
-      "Black and purple butterfly hair clip",
-      "Two lit candles in brass candlesticks on a side table to the left",
-      "Dark wooden bookshelf filled with books"
+      "Grande poltrona in velluto bianco decorata",
+      "Fermaglio per capelli a forma di farfalla nero e viola",
+      "Due candele accese in candelabri di ottone su un tavolino a sinistra",
+      "Libreria in legno scuro piena di libri"
     ],
     "lighting": {
-      "key_light": "Warm candlelight acting as the primary soft light source",
-      "rim_light": "Subtle rim light separating the subject from the background",
-      "effect": "Defined highlights on the skin, legs, and contours of the armchair"
+      "key_light": "Luce calda delle candele come fonte luminosa primaria e soffusa",
+      "rim_light": "Sottile luce di contorno che separa il soggetto dallo sfondo",
+      "effect": "Punti luce definiti sulla pelle, sulle gambe e sui contorni della poltrona"
     },
     "mood": {
-      "atmosphere": "Calm, intimate, and cozy nighttime ambiance"
+      "atmosphere": "Atmosfera notturna calma, intima e accogliente"
     },
     "technical": {
-      "shot_type": "Full medium shot",
-      "camera_angle": "Eye-level",
+      "shot_type": "Piano medio intero",
+      "camera_angle": "Ad altezza occhi",
       "lens": "50mm",
       "aperture": "f/1.8",
-      "depth_of_field": "Soft background bokeh",
-      "style": "Cinematic nighttime portrait photography",
-      "quality": "RAW 8K photography, rich natural textures, perfectly balanced exposure",
+      "depth_of_field": "Sfondo con bokeh morbido",
+      "style": "Fotografia di ritratto notturno cinematografico",
+      "quality": "Fotografia RAW 8K, texture naturali ricche, esposizione perfettamente bilanciata",
       "aspect_ratio": "9:16"
     }
   }
@@ -1865,19 +1865,19 @@ A complex structured prompt for a cinematic nighttime portrait of a woman in a p
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990826855_d7z438_HKTMzEsa0AAolXO.jpg" width="600" alt="Post sui social media - Intimate Nighttime Portrait in Purple Dress - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990826855_d7z438_HKTMzEsa0AAolXO.jpg" width="600" alt="Post sui social media - Ritratto notturno intimo con abito viola - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990826843_ar67fe_HKTMzNaaoAAKoIU.jpg" width="600" alt="Post sui social media - Intimate Nighttime Portrait in Purple Dress - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990826843_ar67fe_HKTMzNaaoAAKoIU.jpg" width="600" alt="Post sui social media - Ritratto notturno intimo con abito viola - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990826840_gvivs9_HKTM0NOaAAAq1YS.jpg" width="600" alt="Post sui social media - Intimate Nighttime Portrait in Purple Dress - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780990826840_gvivs9_HKTM0NOaAAAq1YS.jpg" width="600" alt="Post sui social media - Ritratto notturno intimo con abito viola - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -1891,19 +1891,19 @@ A complex structured prompt for a cinematic nighttime portrait of a woman in a p
 
 ---
 
-### No. 29: Post sui social media - Minimalist Cafe Street Fashion
+### No. 29: Post sui social media - Moda street minimalista da bar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A photorealistic street photography prompt for a candid fashion shot at a modern cafe, featuring gothic-leaning urban style and 35mm lens characteristics.
+Un prompt di fotografia di strada fotorealistica per uno scatto di moda spontaneo in un bar moderno, caratterizzato da uno stile urbano tendente al gotico e dalle caratteristiche di un obiettivo 35mm.
 
 #### 📝 Prompt
 
 ```
-Full body photo of a {argument name="subject" default="young woman with long straight black hair"}, sitting on white folding chair at {argument name="location" default="outdoor minimalist cafe"}, wearing {argument name="outfit" default="black strapless mini dress"}, studded wide belt, black fingerless lace-up arm warmers, thigh garter straps, sheer black knee-high socks, black chunky platform boots, holding iced coffee in plastic cup with straw. Black studded shoulder bag on black metal table, modern gray concrete building, large glass window, vintage payphone on wall, gray stone stairs in background, natural daylight, soft shadows, candid street fashion photography, 35mm lens, shallow depth of field, photorealistic, 8k
+Foto a figura intera di {argument name="subject" default="una giovane donna con lunghi capelli neri lisci"}, seduta su una sedia pieghevole bianca presso {argument name="location" default="un bar minimalista all'aperto"}, che indossa {argument name="outfit" default="un mini abito nero senza spalline"}, cintura larga borchiata, scaldabraccia neri senza dita con lacci, giarrettiere per coscia, calze velate nere al ginocchio, stivali neri con plateau massiccio, mentre tiene un caffè freddo in un bicchiere di plastica con cannuccia. Borsa a spalla nera borchiata su tavolo di metallo nero, edificio moderno in cemento grigio, ampia vetrata, telefono pubblico vintage sulla parete, scale in pietra grigia sullo sfondo, luce naturale, ombre morbide, fotografia di moda street spontanea, obiettivo 35mm, profondità di campo ridotta, fotorealistico, 8k
 ```
 
 #### 🖼️ Immagini generate
@@ -1911,13 +1911,13 @@ Full body photo of a {argument name="subject" default="young woman with long str
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990825031_18uhpq_HKTKQGmWUAA5nFZ.jpg" width="600" alt="Post sui social media - Minimalist Cafe Street Fashion - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990825031_18uhpq_HKTKQGmWUAA5nFZ.jpg" width="600" alt="Post sui social media - Moda street minimalista da bar - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990825080_trbhu0_HKTKQHvWwAAjTLC.jpg" width="600" alt="Post sui social media - Minimalist Cafe Street Fashion - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990825080_trbhu0_HKTKQHvWwAAjTLC.jpg" width="600" alt="Post sui social media - Moda street minimalista da bar - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -1931,19 +1931,19 @@ Full body photo of a {argument name="subject" default="young woman with long str
 
 ---
 
-### No. 30: Post sui social media - Minimalist Linen Style Portrait
+### No. 30: Post sui social media - Ritratto in stile lino minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A series of photographs featuring a subject in a minimalist apartment setting with warm neutral tones.
+Una serie di fotografie che ritraggono un soggetto in un appartamento minimalista dai toni neutri e caldi.
 
 #### 📝 Prompt
 
 ```
-A series of photographs featuring {argument name="subject" default="actress Sydney Sweeney"} in a {argument name="setting" default="bright, minimalist apartment setting with warm, neutral tones"}. She has wavy blonde hair styled down and is wearing a {argument name="outfit" default="sleeveless, structured beige linen shift dress featuring delicate geometric embroidery down the front bodice"}. She is adorned with dainty gold jewelry, including an oval-link chain bracelet, stackable textured and chain-link rings, and a thick gold bangle. In some images, she is smiling warmly while seated on a cozy, textured knit blanket near a bed. In others, she leans gracefully against a window sill next to a stack of books and a small vase with yellow billy balls, looking down thoughtfully at her gold iPhone or capturing a smiling mirror selfie. The entire gallery exudes a soft, serene, and elegant aesthetic.
+Una serie di fotografie che ritraggono {argument name="subject" default="l'attrice Sydney Sweeney"} in un {argument name="setting" default="appartamento luminoso e minimalista dai toni caldi e neutri"}. Ha capelli biondi mossi sciolti e indossa un {argument name="outfit" default="abito a trapezio in lino beige strutturato e senza maniche, caratterizzato da delicati ricami geometrici sul corpetto anteriore"}. È adornata con raffinati gioielli in oro, tra cui un bracciale a catena con maglie ovali, anelli impilabili testurizzati e a catena, e un bracciale rigido in oro. In alcune immagini, sorride calorosamente mentre è seduta su una comoda coperta in maglia lavorata vicino a un letto. In altre, si appoggia con grazia al davanzale di una finestra accanto a una pila di libri e a un piccolo vaso con fiori di Craspedia gialli, guardando pensierosa il suo iPhone dorato o scattandosi un selfie sorridente allo specchio. L'intera galleria emana un'estetica morbida, serena ed elegante.
 ```
 
 #### 🖼️ Immagini generate
@@ -1951,25 +1951,25 @@ A series of photographs featuring {argument name="subject" default="actress Sydn
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990829220_btabfp_HKTJ2EIWkAAFcas.jpg" width="600" alt="Post sui social media - Minimalist Linen Style Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990829220_btabfp_HKTJ2EIWkAAFcas.jpg" width="600" alt="Post sui social media - Ritratto in stile lino minimalista - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990829187_nri7sr_HKTJ2GIXEAAISoH.jpg" width="600" alt="Post sui social media - Minimalist Linen Style Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990829187_nri7sr_HKTJ2GIXEAAISoH.jpg" width="600" alt="Post sui social media - Ritratto in stile lino minimalista - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990829179_a75um8_HKTJ2GoXgAAgZiy.jpg" width="600" alt="Post sui social media - Minimalist Linen Style Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780990829179_a75um8_HKTJ2GoXgAAgZiy.jpg" width="600" alt="Post sui social media - Ritratto in stile lino minimalista - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990829783_6v68yp_HKTJ2IUXYAEt6Nb.jpg" width="600" alt="Post sui social media - Minimalist Linen Style Portrait - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780990829783_6v68yp_HKTJ2IUXYAEt6Nb.jpg" width="600" alt="Post sui social media - Ritratto in stile lino minimalista - Image 4">
 </div>
 
 #### 📌 Dettagli
@@ -1983,21 +1983,21 @@ A series of photographs featuring {argument name="subject" default="actress Sydn
 
 ---
 
-### No. 31: Post sui social media - Expressive Painterly Oil Portrait Illustration
+### No. 31: Post sui social media - Illustrazione di ritratto a olio in stile pittorico espressivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A artistic prompt for an expressive oil painting style portrait with loose brushstrokes and a cinematic, slightly melancholy atmosphere.
+Un prompt artistico per un ritratto in stile pittura a olio espressiva con pennellate libere e un'atmosfera cinematografica, leggermente malinconica.
 
 #### 📝 Prompt
 
 ```
-The accompanying portrait illustration, rendered in an expressive painterly style, incorporates loose, expressive oil brushstrokes. The color palette is warm, using {argument name="colors" default="creamy ivories and reds"}, and soft golden afternoon light. The detailed narrative of the scene is depicted in an elegant line illustration style with clean ink contours and layered depth. The atmospheric composition, inspired by {argument name="artist" default="Alex Ros's"} illustrations, is combined with the raw, semi-abstract textures of the portrait.
-The painterly surface treatment features visible feather strokes, dry brushstrokes, the rough grain of the canvas, spontaneously applied pigment, and energetic abstract background marks. Soft, diffuse lighting is contrasted with sharp, warm highlights and subtle reflective light. The expressive strokes are organic around the focal area, with controlled realism in the depiction of the face but surrounded by chaotic gestural marks and dynamic paint strokes. The clean precision and emotional loose expressionism of the portrait.
-The overall atmosphere is cinematic, serene, artistic, and slightly melancholy—a blend of contemporary gallery oil portraiture. The stylized realism, rich atmospheric depth, and subtle shadow transitions  smooth, textured impasto accents, subtle European animation influences, and a sophisticated blend of illustrations.
+L'illustrazione del ritratto, resa in uno stile pittorico espressivo, incorpora pennellate a olio libere ed espressive. La palette cromatica è calda, utilizzando {argument name="colors" default="avori cremosi e rossi"}, e una morbida luce dorata pomeridiana. La narrazione dettagliata della scena è raffigurata in un elegante stile di illustrazione a linee, con contorni a inchiostro puliti e profondità stratificata. La composizione atmosferica, ispirata alle illustrazioni di {argument name="artist" default="Alex Ros"}, è combinata con le texture grezze e semi-astratte del ritratto.
+Il trattamento superficiale pittorico presenta pennellate a piuma visibili, pennellate a secco, la grana ruvida della tela, pigmento applicato spontaneamente e segni di sfondo astratti ed energici. L'illuminazione morbida e diffusa è contrastata da riflessi caldi e netti e da una sottile luce riflessa. Le pennellate espressive sono organiche attorno all'area focale, con un realismo controllato nella raffigurazione del volto, circondato però da segni gestuali caotici e pennellate dinamiche. La precisione pulita e l'espressionismo emotivo e libero del ritratto.
+L'atmosfera generale è cinematografica, serena, artistica e leggermente malinconica: una fusione di ritrattistica a olio da galleria contemporanea. Il realismo stilizzato, la ricca profondità atmosferica e le sottili transizioni d'ombra si uniscono ad accenti impasto morbidi e materici, sottili influenze dell'animazione europea e una sofisticata miscela di illustrazioni.
 ```
 
 #### 🖼️ Immagini generate
@@ -2005,19 +2005,19 @@ The overall atmosphere is cinematic, serene, artistic, and slightly melancholy�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990825599_9bf7hz_HKTBMnhaEAAoQXA.jpg" width="600" alt="Post sui social media - Expressive Painterly Oil Portrait Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990825599_9bf7hz_HKTBMnhaEAAoQXA.jpg" width="600" alt="Post sui social media - Illustrazione di ritratto a olio in stile pittorico espressivo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990825616_vgugha_HKTBMnhbEAABToR.jpg" width="600" alt="Post sui social media - Expressive Painterly Oil Portrait Illustration - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990825616_vgugha_HKTBMnhbEAABToR.jpg" width="600" alt="Post sui social media - Illustrazione di ritratto a olio in stile pittorico espressivo - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990825628_ezaf80_HKTBMtAbQAA6CMS.jpg" width="600" alt="Post sui social media - Expressive Painterly Oil Portrait Illustration - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780990825628_ezaf80_HKTBMtAbQAA6CMS.jpg" width="600" alt="Post sui social media - Illustrazione di ritratto a olio in stile pittorico espressivo - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -2031,19 +2031,19 @@ The overall atmosphere is cinematic, serene, artistic, and slightly melancholy�
 
 ---
 
-### No. 32: Post sui social media - Supernatural Streetwear Portrait with Smoke Demon
+### No. 32: Post sui social media - Ritratto streetwear soprannaturale con demone di fumo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A cinematic portrait prompt combining urban streetwear with a supernatural black smoke demon entity in a minimalist environment.
+Un prompt per ritratti cinematografici che combina streetwear urbano con un'entità demoniaca di fumo nero soprannaturale in un ambiente minimalista.
 
 #### 📝 Prompt
 
 ```
-Photorealistic portrait of a {argument name="subject" default="young man"}(keep the facial features unchanged as uploaded image), exact facial identity preserved, beard, sharp jawline. (Outfit) Wearing {argument name="outfit" default="all-black streetwear, black oversized hoodie with minimal text, loose black wide-leg pants, dark sneakers, luxury black sunglasses"}.Pose) Head raised straight, dominant stance, shoulders squared, one hand relaxed near pocket, other hand slightly clenched, facing forward. (Supernatural Element) A massive {argument name="creature" default="black smoke demon"} standing directly behind him, glowing white eyes aligned above man's head, thick realistic smoke wrapping around shoulders and arms, smoke texture ultra-realistic, no cartoon style. (Environment) Minimal indoor background, dark wall, empty space, grey concrete floor. (Lighting) Dramatic low-key lightingsoft front light on face, deep shadows, cinematic high contrast. (Tech Specs) 8k resolution, aspect ratio 3:4, shot on 35mm lens, hyper-realistic, highly detailed texture. Negative Prompt: cartoon, anime, illustration, painting, 3d render, distorted face, changing face, reshaping face, beauty filter, smile, bright background, sunlight, car, city, messy, blur, noise, watermark, text, bad hands, extra fingers. Adjusting goggles with soft smile. Background is busy street.
+Ritratto fotorealistico di un {argument name="subject" default="giovane uomo"}(mantieni i tratti del viso invariati come nell'immagine caricata), identità facciale preservata, barba, mascella definita. (Outfit) Indossa {argument name="outfit" default="streetwear total black, felpa oversize nera con testo minimale, pantaloni neri larghi, sneakers scure, occhiali da sole neri di lusso"}. (Posa) Testa alta, postura dominante, spalle squadrate, una mano rilassata vicino alla tasca, l'altra leggermente chiusa a pugno, sguardo frontale. (Elemento soprannaturale) Un massiccio {argument name="creature" default="demone di fumo nero"} in piedi direttamente dietro di lui, occhi bianchi luminosi allineati sopra la testa dell'uomo, fumo denso e realistico che avvolge spalle e braccia, texture del fumo ultra-realistica, stile non cartoonesco. (Ambiente) Sfondo interno minimalista, parete scura, spazio vuoto, pavimento in cemento grigio. (Illuminazione) Illuminazione drammatica low-key, luce frontale soffusa sul viso, ombre profonde, alto contrasto cinematografico. (Specifiche tecniche) Risoluzione 8k, proporzioni 3:4, scattato con obiettivo 35mm, iper-realistico, texture altamente dettagliata. Negative Prompt: cartone animato, anime, illustrazione, dipinto, rendering 3d, viso distorto, viso che cambia, rimodellamento del viso, filtro bellezza, sorriso, sfondo luminoso, luce solare, auto, città, disordinato, sfocatura, rumore, filigrana, testo, mani fatte male, dita extra. Regolazione degli occhiali con un sorriso accennato. Lo sfondo è una strada trafficata.
 ```
 
 #### 🖼️ Immagini generate
@@ -2051,7 +2051,7 @@ Photorealistic portrait of a {argument name="subject" default="young man"}(keep 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990820966_7643r2_HKSTfOQbUAAYoRB.jpg" width="600" alt="Post sui social media - Supernatural Streetwear Portrait with Smoke Demon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990820966_7643r2_HKSTfOQbUAAYoRB.jpg" width="600" alt="Post sui social media - Ritratto streetwear soprannaturale con demone di fumo - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -3414,19 +3414,19 @@ Esplorando la profondità atmosferica in Nano Banana Pro. Il contrasto tra i viv
 
 ---
 
-### No. 67: Fumetto / Storyboard - Lined Paper Illustration of Woman with Daisies
+### No. 67: Fumetto / Storyboard - Illustrazione su carta a righe di una donna con margherite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A charming digital illustration of a young woman holding a bouquet of daisies, presented on a notebook paper background with playful hand-drawn elements.
+Un'affascinante illustrazione digitale di una giovane donna che tiene in mano un bouquet di margherite, presentata su uno sfondo di carta da quaderno con giocosi elementi disegnati a mano.
 
 #### 📝 Prompt
 
 ```
-An illustration of a {argument name="subject" default="beautiful young woman with long, wavy dark brown hair"}, looking directly at the viewer with a {argument name="expression" default="gentle, sweet smile"}. She is holding a large, abundant bouquet of {argument name="flowers" default="white daisies with red centers"}. She is wearing a light-colored, possibly light yellow, airy dress with long, slightly puffy sleeves. The artwork is presented on a lined notebook paper background, adorned with hand-drawn style elements like a sun, question marks, hearts, leaves, flowers, and text bubbles like 'SUNNY!', 'PRETTY!', and 'FLOWERS!'. The overall style is a charming, detailed digital illustration with a fresh and lovely touch. The photo should have vvp written in cursive on the upper corner. High definition, bright, cheerful colors, and a playful, artistic aesthetic.
+Un'illustrazione di una {argument name="subject" default="bellissima giovane donna con lunghi capelli castano scuro ondulati"}, che guarda direttamente l'osservatore con un {argument name="expression" default="sorriso dolce e delicato"}. Tiene in mano un grande e abbondante bouquet di {argument name="flowers" default="margherite bianche con il centro rosso"}. Indossa un abito leggero, possibilmente giallo tenue, arioso e con maniche lunghe leggermente a sbuffo. L'opera è presentata su uno sfondo di carta da quaderno a righe, decorato con elementi in stile disegnato a mano come un sole, punti interrogativi, cuori, foglie, fiori e fumetti con scritte come 'SUNNY!', 'PRETTY!' e 'FLOWERS!'. Lo stile complessivo è quello di un'affascinante e dettagliata illustrazione digitale dal tocco fresco e grazioso. La foto dovrebbe avere la scritta vvp in corsivo nell'angolo superiore. Alta definizione, colori vivaci e allegri, ed un'estetica artistica e giocosa.
 ```
 
 #### 🖼️ Immagini generate
@@ -3434,13 +3434,13 @@ An illustration of a {argument name="subject" default="beautiful young woman wit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990819621_9movjb_HKQ1SxlasAAm1nK.jpg" width="600" alt="Fumetto / Storyboard - Lined Paper Illustration of Woman with Daisies - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990819621_9movjb_HKQ1SxlasAAm1nK.jpg" width="600" alt="Fumetto / Storyboard - Illustrazione su carta a righe di una donna con margherite - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990819428_wxtyjk_HKQ1S12a4AAV5zJ.jpg" width="600" alt="Fumetto / Storyboard - Lined Paper Illustration of Woman with Daisies - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990819428_wxtyjk_HKQ1S12a4AAV5zJ.jpg" width="600" alt="Fumetto / Storyboard - Illustrazione su carta a righe di una donna con margherite - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -3454,19 +3454,19 @@ An illustration of a {argument name="subject" default="beautiful young woman wit
 
 ---
 
-### No. 68: Fumetto / Storyboard - Cinematic Noir Luxury Car Portrait
+### No. 68: Fumetto / Storyboard - Ritratto cinematografico noir di auto di lusso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A high-contrast black-and-white cinematic prompt designed to preserve facial identity from a reference image while placing the subject in a luxury crime-drama setting.
+Un prompt cinematografico in bianco e nero ad alto contrasto progettato per preservare l'identità del volto da un'immagine di riferimento, inserendo il soggetto in un contesto da dramma poliziesco di lusso.
 
 #### 📝 Prompt
 
 ```
-Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic black-and-white cinematic portrait of {argument name="subject" default="the same man"} sitting in the {argument name="setting" default="back seat of a luxury car at night"}. He wears a {argument name="clothing" default="dark tailored suit"}, white shirt, loosened tie, and sunglasses. He leans slightly forward with one elbow on his knee, holding a cigarette near the open car window, smoke drifting outside. His expression is silent, tired, powerful, and cinematic. Background: blurred city lights through rain-covered car windows, leather seats, reflections on glass, night traffic bokeh. Lighting: noir black-and-white contrast, soft side light across face, deep shadows, film grain, luxury crime-drama mood. Composition: vertical 4:5, intimate close-up from the front passenger angle. No text, no logo, no watermark.
+Utilizza l'immagine di riferimento caricata come riferimento identitario esatto. Preserva la stessa forma del viso, occhi, naso, labbra, barba, taglio di capelli, età, texture della pelle, proporzioni facciali e l'identità maschile complessiva. Non ridisegnare il volto. Crea un ritratto cinematografico in bianco e nero ultra-realistico di {argument name="subject" default="lo stesso uomo"} seduto nel {argument name="setting" default="sedile posteriore di un'auto di lusso di notte"}. Indossa un {argument name="clothing" default="abito sartoriale scuro"}, camicia bianca, cravatta allentata e occhiali da sole. Si sporge leggermente in avanti con un gomito sul ginocchio, tenendo una sigaretta vicino al finestrino aperto dell'auto, con il fumo che si disperde all'esterno. La sua espressione è silenziosa, stanca, potente e cinematografica. Sfondo: luci della città sfocate attraverso i finestrini dell'auto coperti di pioggia, sedili in pelle, riflessi sul vetro, bokeh del traffico notturno. Illuminazione: contrasto noir in bianco e nero, luce laterale soffusa sul viso, ombre profonde, grana della pellicola, atmosfera da dramma poliziesco di lusso. Composizione: verticale 4:5, primo piano intimo dall'angolazione del passeggero anteriore. Niente testo, niente logo, niente filigrana.
 ```
 
 #### 🖼️ Immagini generate
@@ -3474,7 +3474,7 @@ Use the uploaded reference image as the exact identity reference. Preserve the s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990825404_unypxi_HKL5aoUXsAAxhdC.jpg" width="600" alt="Fumetto / Storyboard - Cinematic Noir Luxury Car Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990825404_unypxi_HKL5aoUXsAAxhdC.jpg" width="600" alt="Fumetto / Storyboard - Ritratto cinematografico noir di auto di lusso - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -4115,19 +4115,19 @@ Tipo di scatto: layout a striscia per fototessera a 4 riquadri, un'unica immagin
 
 ---
 
-### No. 85: Marketing di Prodotto - FIFA World Cup 2026 Identity System
+### No. 85: Marketing di Prodotto - Sistema di identità visiva della FIFA World Cup 2026
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A prompt designed to generate a comprehensive visual identity system for the FIFA World Cup 2026 branding.
+Un prompt progettato per generare un sistema di identità visiva completo per il branding della FIFA World Cup 2026.
 
 #### 📝 Prompt
 
 ```
-FIFA World Cup {argument name="year" default="2026"} {argument name="country" default="country"} identity system.
+Sistema di identità visiva della FIFA World Cup {argument name="year" default="2026"} {argument name="country" default="paese"}.
 ```
 
 #### 🖼️ Immagini generate
@@ -4135,13 +4135,13 @@ FIFA World Cup {argument name="year" default="2026"} {argument name="country" de
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990832704_ezr2lm_HKTQWUWaMAET_-N.jpg" width="600" alt="Marketing di Prodotto - FIFA World Cup 2026 Identity System - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990832704_ezr2lm_HKTQWUWaMAET_-N.jpg" width="600" alt="Marketing di Prodotto - Sistema di identità visiva della FIFA World Cup 2026 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990832827_aac9a1_HKTzkxsawAA3t9E.jpg" width="600" alt="Marketing di Prodotto - FIFA World Cup 2026 Identity System - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990832827_aac9a1_HKTzkxsawAA3t9E.jpg" width="600" alt="Marketing di Prodotto - Sistema di identità visiva della FIFA World Cup 2026 - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -4155,19 +4155,19 @@ FIFA World Cup {argument name="year" default="2026"} {argument name="country" de
 
 ---
 
-### No. 86: Marketing di Prodotto - Luxury Golf Course Fairway Portrait
+### No. 86: Marketing di Prodotto - Ritratto su un fairway di un campo da golf di lusso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A high-contrast, crisp digital photograph of a man on a luxury golf course fairway.
+Una fotografia digitale nitida e ad alto contrasto di un uomo su un fairway di un campo da golf di lusso.
 
 #### 📝 Prompt
 
 ```
-A {argument name="subject" default="man in his late twenties to early thirties"} stands centered as the primary subject, wearing a {argument name="outfit" default="white short-sleeve polo shirt paired with light grey trousers"}. His short, textured brown hair is styled back, complemented by slight stubble and a confident, subtle closed smile. His eyes are obscured by dark wayfarer sunglasses, yet his head is turned forty-five degrees to the right. He stands facing the camera with his weight shifted slightly onto his right hip, his shoulders level but gently rotated toward the right. His relaxed left hand rests casually on his lower abdomen and waistband with fingers gently curled against the fabric, revealing a silver metal watch and a dark wristband, while his right hand remains tucked softly out of frame. He is positioned in the foreground of a {argument name="location" default="pristine, deep-space luxury golf course"}, standing on a manicured fairway of vibrant green grass characterized by subtle directional mowing stripes, with white ropes and stakes visible in the bottom right quadrant. In the midground, a narrow strip of bright blue water hazard stretches across the frame alongside dense, thriving broadleaf trees with deep green foliage. Farther back, a pristine multi-level luxury clubhouse anchors the center-right, featuring perfectly smooth, matte bright white painted plaster walls and a terracotta tile roof, while tall, slender palm trees with small green fronds silhouette against the sweeping sky blue background from the top left to the top right horizon. The scene radiates an energetic, bright, and crisp atmosphere bathed in hard, single-source natural light striking from a highly directional front-left overhead angle. This bright illumination creates a high-contrast environment, casting harsh, deep black, sharply defined short shadows under his chin, nose, right arm, and across the right side of his torso, while preserving brilliant specular highlights on the left side of his face, his left shoulder, and the very top of his textured hair. The warm color palette is highly saturated and split-complementary, dominated by the vibrant greens of the course and the clear sky blue background that contrasts beautifully with the white of his polo. Captured straight on as tack-sharp, grain-free digital photography, the image emulates luxury lifestyle and golf resort advertising shot on a full-frame camera with a 50mm to 85mm lens stopped down to f/8 or f/11 for a deep depth of field, utilizing a fast shutter speed to freeze the bright midday sun at ISO 100. The crisp post-processing enhances the rich greens and sky blues, boosts the dramatic high-contrast lighting, and increases overall clarity for immaculate texture, all elegantly framed in a 4:5 aspect ratio.
+Un {argument name="subject" default="uomo tra i venti e i trent'anni"} si trova al centro come soggetto principale, indossando una {argument name="outfit" default="polo bianca a maniche corte abbinata a pantaloni grigio chiaro"}. I suoi capelli castani corti e texturizzati sono pettinati all'indietro, completati da una leggera barba incolta e da un sorriso accennato, sicuro di sé. Gli occhi sono nascosti da occhiali da sole scuri modello wayfarer, ma la testa è ruotata di quarantacinque gradi verso destra. È rivolto verso la fotocamera con il peso leggermente spostato sul fianco destro, le spalle allineate ma ruotate delicatamente verso destra. La mano sinistra, rilassata, poggia con naturalezza sul basso addome e sulla cintura, con le dita leggermente piegate contro il tessuto, rivelando un orologio in metallo argentato e un cinturino scuro, mentre la mano destra rimane nascosta fuori dall'inquadratura. Si trova in primo piano in un {argument name="location" default="incontaminato campo da golf di lusso"}, in piedi su un fairway curato con erba verde vibrante, caratterizzato da sottili strisce di taglio direzionale, con corde bianche e picchetti visibili nel quadrante in basso a destra. Nel piano intermedio, una stretta striscia di ostacolo d'acqua blu brillante si estende lungo l'inquadratura, affiancata da fitti alberi a foglia larga dal fogliame verde intenso. Più indietro, una prestigiosa clubhouse di lusso a più livelli domina il centro-destra, caratterizzata da pareti intonacate di un bianco opaco perfettamente liscio e un tetto in tegole di terracotta, mentre alte e sottili palme dalle piccole fronde verdi si stagliano contro lo sfondo azzurro del cielo, dall'orizzonte in alto a sinistra fino a quello in alto a destra. La scena emana un'atmosfera energica, luminosa e nitida, bagnata da una luce naturale intensa proveniente da un'unica fonte, con un'angolazione frontale sinistra dall'alto. Questa illuminazione brillante crea un ambiente ad alto contrasto, proiettando ombre nette, profonde e nere sotto il mento, il naso, il braccio destro e lungo il lato destro del busto, preservando al contempo brillanti riflessi speculari sul lato sinistro del viso, sulla spalla sinistra e sulla parte superiore dei capelli texturizzati. La tavolozza dei colori caldi è altamente satura e a contrasto complementare, dominata dai verdi vibranti del campo e dallo sfondo azzurro del cielo che contrasta magnificamente con il bianco della polo. Scattata frontalmente come una fotografia digitale nitidissima e priva di grana, l'immagine emula la pubblicità di uno stile di vita di lusso e di un golf resort, realizzata con una fotocamera full-frame con obiettivo da 50mm a 85mm, diaframma chiuso a f/8 o f/11 per una profonda profondità di campo, utilizzando un tempo di scatto rapido per bloccare il sole luminoso di mezzogiorno a ISO 100. La nitida post-produzione esalta i ricchi verdi e gli azzurri del cielo, accentua l'illuminazione drammatica ad alto contrasto e aumenta la chiarezza generale per una texture impeccabile, il tutto elegantemente incorniciato in un rapporto d'aspetto 4:5.
 ```
 
 #### 🖼️ Immagini generate
@@ -4175,7 +4175,7 @@ A {argument name="subject" default="man in his late twenties to early thirties"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990827738_p9zcwt_HKRrZsWXcAAYKIT.jpg" width="600" alt="Marketing di Prodotto - Luxury Golf Course Fairway Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990827738_p9zcwt_HKRrZsWXcAAYKIT.jpg" width="600" alt="Marketing di Prodotto - Ritratto su un fairway di un campo da golf di lusso - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -4189,19 +4189,19 @@ A {argument name="subject" default="man in his late twenties to early thirties"}
 
 ---
 
-### No. 87: Marketing di Prodotto - Blue Studio Character Transformation
+### No. 87: Marketing di Prodotto - Trasformazione Personaggio Blue Studio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A character transformation prompt that preserves studio lighting, pose, and background from a blue-toned reference.
+Un prompt per la trasformazione di un personaggio che preserva l'illuminazione da studio, la posa e lo sfondo di un riferimento dai toni blu.
 
 #### 📝 Prompt
 
 ```
-Create a realistic cinematic portrait based on the uploaded blue studio reference image. Keep the exact same camera angle, close-up medium framing, lens perspective, character distance, pose, lighting direction, {argument name="background color" default="blue background color"}, shadows, contrast, depth and overall fashion editorial mood. Replace the original person in the image with the target character from the provided character reference. The target character must keep their original facial identity, face shape, skin tone, hairstyle, facial proportions and natural expression. The character should be positioned exactly like the original model: upper body visible, head tilted slightly upward, gaze directed upward, calm and confident expression, neck extended naturally, shoulders relaxed. Keep the same blue studio background with a rich deep blue tone. Maintain the same soft but dramatic studio lighting, with highlights on the face, glasses and clothing, and natural shadows under the chin and around the neck. The image should feel like a modern music/fashion campaign. The {argument name="clothing style" default="clothing can be adapted to the target character, but it should preserve the same oversized streetwear feeling"}: large soft sweater, relaxed fit, clean fashion styling, {argument name="accessory" default="chain necklace"} and transparent or light-colored sunglasses. The sweater may change according to the target character's style, but the overall silhouette, volume and fabric softness must remain very close to the reference. Preserve the same crop ratio and composition. The character should occupy the same area in the frame. Do not change the background, camera distance, lighting, pose or lens. The final image must look like the target character was originally photographed in this exact setup. Ultra realistic portrait photography, blue monochrome studio background, modern streetwear fashion, cinematic lighting, natural skin texture, realistic fabric texture, professional campaign photo. Negative Prompt: Do not change the blue background. Do not change the pose, head angle, camera angle, crop, lighting or lens. Do not distort the face or change the identity of the target character. Do not add text, logo, watermark, extra objects or extra people. Do not make the sweater flat or unrealistic. Do not over-edit the skin.
+Crea un ritratto cinematografico realistico basato sull'immagine di riferimento da studio blu caricata. Mantieni esattamente la stessa angolazione della fotocamera, l'inquadratura in primo piano, la prospettiva dell'obiettivo, la distanza del personaggio, la posa, la direzione dell'illuminazione, {argument name="background color" default="colore di sfondo blu"}, le ombre, il contrasto, la profondità e l'atmosfera editoriale di moda generale. Sostituisci la persona originale nell'immagine con il personaggio target fornito come riferimento. Il personaggio target deve mantenere la propria identità facciale originale, la forma del viso, il tono della pelle, l'acconciatura, le proporzioni del volto e l'espressione naturale. Il personaggio deve essere posizionato esattamente come il modello originale: parte superiore del corpo visibile, testa leggermente inclinata verso l'alto, sguardo rivolto verso l'alto, espressione calma e sicura, collo esteso naturalmente, spalle rilassate. Mantieni lo stesso sfondo da studio blu con una ricca tonalità blu intenso. Mantieni la stessa illuminazione da studio, morbida ma drammatica, con riflessi sul viso, sugli occhiali e sull'abbigliamento, e ombre naturali sotto il mento e intorno al collo. L'immagine dovrebbe trasmettere l'idea di una moderna campagna musicale/di moda. Il {argument name="clothing style" default="l'abbigliamento può essere adattato al personaggio target, ma dovrebbe preservare la stessa sensazione di streetwear oversize"}: maglione ampio e morbido, vestibilità rilassata, stile alla moda pulito, {argument name="accessory" default="collana a catena"} e occhiali da sole trasparenti o chiari. Il maglione può cambiare in base allo stile del personaggio target, ma la silhouette generale, il volume e la morbidezza del tessuto devono rimanere molto vicini al riferimento. Preserva lo stesso rapporto di ritaglio e la composizione. Il personaggio deve occupare la stessa area nell'inquadratura. Non modificare lo sfondo, la distanza della fotocamera, l'illuminazione, la posa o l'obiettivo. L'immagine finale deve sembrare come se il personaggio target fosse stato originariamente fotografato in questo esatto set. Fotografia di ritratto ultra realistica, sfondo da studio monocromatico blu, moda streetwear moderna, illuminazione cinematografica, texture della pelle naturale, texture del tessuto realistica, foto di campagna professionale. Prompt negativo: Non cambiare lo sfondo blu. Non cambiare la posa, l'angolazione della testa, l'angolazione della fotocamera, il ritaglio, l'illuminazione o l'obiettivo. Non distorcere il viso né cambiare l'identità del personaggio target. Non aggiungere testo, logo, filigrana, oggetti extra o persone extra. Non rendere il maglione piatto o irrealistico. Non modificare eccessivamente la pelle.
 ```
 
 #### 🖼️ Immagini generate
@@ -4209,7 +4209,7 @@ Create a realistic cinematic portrait based on the uploaded blue studio referenc
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990828100_43avtx_HKRKCYhagAAUsxa.jpg" width="600" alt="Marketing di Prodotto - Blue Studio Character Transformation - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990828100_43avtx_HKRKCYhagAAUsxa.jpg" width="600" alt="Marketing di Prodotto - Trasformazione Personaggio Blue Studio - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -4223,18 +4223,18 @@ Create a realistic cinematic portrait based on the uploaded blue studio referenc
 
 ---
 
-### No. 88: Marketing di Prodotto - Cinematic Coastal Leopard Fashion
+### No. 88: Marketing di Prodotto - Moda leopardata in uno scenario costiero cinematografico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrizione
 
-A moody fashion editorial portrait of a woman in a leopard print dress on a rocky shoreline during the blue hour.
+Un ritratto editoriale di moda dall'atmosfera suggestiva che ritrae una donna con un abito leopardato su una costa rocciosa durante l'ora blu.
 
 #### 📝 Prompt
 
 ```
-{"image_type":"cinematic_portrait","style":"editorial fashion photography","composition":{"orientation":"vertical","aspect_ratio":"4:5","framing":"three-quarter seated portrait","camera_angle":"slightly elevated","subject_position":"lower center","focus":"subject face and upper body","background":"ocean waves filling entire backdrop","depth":"shallow depth of field with soft water texture"},"subject":{"type":"woman","pose":"seated on coastal rocks, body turned away from camera, looking back over shoulder","expression":"calm, intimate, contemplative","hair":{"color":"deep black","style":"long, loose, naturally wavy"},"features":{"skin_tone":"light warm complexion","eyes":"large expressive eyes","makeup":"natural editorial makeup"},"accessories":["small gold earrings"],"wardrobe":{"garment":"leopard print slip dress","details":["thin spaghetti straps","flowing fabric","animal print pattern"]}},"environment":{"location":"rocky ocean shoreline","elements":["foamy waves","dark coastal rocks","water reflections"],"atmosphere":"moody coastal evening"},"lighting":{"type":"natural ambient light","time":"blue hour or overcast sunset","quality":"soft diffused light","direction":"frontal-side illumination","contrast":"low to moderate","mood":"cinematic and dreamy"},"color_palette":{"primary":["ocean blue-gray","# 6f8791","charcoal","# 2f3438","warm beige","# d8b39a"],"secondary":["leopard brown","# 8a5f43","black","#141414"],"mood":"muted, filmic, nostalgic"},"camera":{"genre":"fashion editorial","lens":"85mm full-frame equivalent","aperture":"f/2.0","focus":"sharp on eyes","depth_of_field":"shallow with creamy background blur"},"image_characteristics":{"contrast":"soft","saturation":"slightly desaturated","grain":"subtle film grain","dynamic_range":"medium","post_processing":["film-inspired color grading","muted highlights","soft skin retouching","cinematic tones"]},"keywords":["coastal portrait","editorial fashion","ocean backdrop","leopard print dress","moody photography","cinematic portrait","film photography aesthetic","natural beauty","soft focus","luxury editorial"],"generation_prompt":"Ultra-realistic cinematic fashion portrait of a woman seated on dark coastal rocks beside the ocean, wearing a flowing leopard print slip dress with thin straps, long wavy black hair, soft natural makeup, looking back over her shoulder directly at the camera, foamy blue-gray waves in the background, dreamy coastal atmosphere, soft diffused evening light, shallow depth of field, 85mm lens, f/2.0, film photography aesthetic, subtle grain, muted color palette, editorial magazine quality, natural skin texture, high detail, photorealistic, moody luxury fashion campaign, creamy bokeh, cinematic color grading"}
+{"image_type":"ritratto cinematografico","style":"fotografia di moda editoriale","composition":{"orientation":"verticale","aspect_ratio":"4:5","framing":"ritratto a tre quarti da seduta","camera_angle":"leggermente dall'alto","subject_position":"centro inferiore","focus":"viso e parte superiore del corpo del soggetto","background":"onde dell'oceano che riempiono l'intero sfondo","depth":"profondità di campo ridotta con texture dell'acqua morbida"},"subject":{"type":"donna","pose":"seduta su rocce costiere, corpo rivolto lontano dalla fotocamera, sguardo rivolto indietro sopra la spalla","expression":"calma, intima, contemplativa","hair":{"color":"nero intenso","style":"lungo, sciolto, naturalmente ondulato"},"features":{"skin_tone":"incarnato caldo chiaro","eyes":"occhi grandi ed espressivi","makeup":"trucco editoriale naturale"},"accessories":["piccoli orecchini d'oro"],"wardrobe":{"garment":"abito sottoveste leopardato","details":["spalline sottili","tessuto fluido","motivo animalier"]}},"environment":{"location":"costa oceanica rocciosa","elements":["onde spumose","rocce costiere scure","riflessi sull'acqua"],"atmosphere":"serata costiera suggestiva"},"lighting":{"type":"luce ambientale naturale","time":"ora blu o tramonto coperto","quality":"luce morbida e diffusa","direction":"illuminazione frontale-laterale","contrast":"da basso a moderato","mood":"cinematografico e onirico"},"color_palette":{"primary":["blu-grigio oceano","# 6f8791","carbone","# 2f3438","beige caldo","# d8b39a"],"secondary":["marrone leopardato","# 8a5f43","nero","#141414"],"mood":"tenue, filmico, nostalgico"},"camera":{"genre":"editoriale di moda","lens":"equivalente full-frame 85mm","aperture":"f/2.0","focus":"nitido sugli occhi","depth_of_field":"ridotta con sfocatura dello sfondo cremosa"},"image_characteristics":{"contrast":"morbido","saturation":"leggermente desaturata","grain":"grana cinematografica sottile","dynamic_range":"medio","post_processing":["color grading ispirato alla pellicola","luci tenui","ritocco pelle morbido","toni cinematografici"]},"keywords":["ritratto costiero","moda editoriale","sfondo oceano","abito leopardato","fotografia suggestiva","ritratto cinematografico","estetica fotografia su pellicola","bellezza naturale","messa a fuoco morbida","editoriale di lusso"],"generation_prompt":"Ritratto di moda cinematografico ultra-realistico di una donna seduta su rocce costiere scure accanto all'oceano, che indossa un abito sottoveste leopardato fluido con spalline sottili, lunghi capelli neri ondulati, trucco naturale morbido, sguardo rivolto indietro sopra la spalla direttamente verso la fotocamera, onde blu-grigie spumose sullo sfondo, atmosfera costiera onirica, luce serale morbida e diffusa, profondità di campo ridotta, obiettivo 85mm, f/2.0, estetica fotografia su pellicola, grana sottile, palette colori tenue, qualità rivista editoriale, texture pelle naturale, alta definizione, fotorealistico, campagna moda di lusso suggestiva, bokeh cremoso, color grading cinematografico"}
 ```
 
 #### 🖼️ Immagini generate
@@ -4242,7 +4242,7 @@ A moody fashion editorial portrait of a woman in a leopard print dress on a rock
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990831846_z1mhqa_HKQ_kpSakAALZzO.jpg" width="600" alt="Marketing di Prodotto - Cinematic Coastal Leopard Fashion - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990831846_z1mhqa_HKQ_kpSakAALZzO.jpg" width="600" alt="Marketing di Prodotto - Moda leopardata in uno scenario costiero cinematografico - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -4256,19 +4256,19 @@ A moody fashion editorial portrait of a woman in a leopard print dress on a rock
 
 ---
 
-### No. 89: Marketing di Prodotto - Tropical Beach Sunset Fashion Portrait
+### No. 89: Marketing di Prodotto - Ritratto di moda al tramonto su una spiaggia tropicale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A detailed prompt for a cinematic summer fashion shoot on a rocky beach during the golden hour, focusing on lighting effects and specific fabric textures.
+Un prompt dettagliato per un servizio fotografico di moda estiva dal look cinematografico su una spiaggia rocciosa durante l'ora d'oro, con particolare attenzione agli effetti di luce e alle texture dei tessuti.
 
 #### 📝 Prompt
 
 ```
-A {argument name="subject" default="young woman with a slim figure"}, with a noticeably fuller bust and hips, poses on a {argument name="location" default="beach at sunset"}. Her body and clothing are slightly wet from the seawater.\n\nPose: She is sitting on the beach sand facing the camera, with her body slightly turned to the side while ocean waves wash against her.\n\nMakeup & Hairstyle\n\nHer hair is styled in a slightly messy bun, with a white frangipani flower tucked behind her right ear. Her makeup appears natural with a glowing, glass-skin effect that highlights her facial features under the natural lighting.\n\nClothing & Accessories\n\nTop: She is wearing a fitted {argument name="clothing" default="brown long-sleeve cropped T-shirt"}.\n\nBottom: She is wearing a thin wrap skirt (sarong) in yellowish olive green and brown tones, tied around her hips. The knot is decorated with a large yellow-orange orchid flower replica.\n\nBackground & Atmosphere\n\nLighting: The photo is taken during the golden hour, with the setting sun positioned behind the model on the left side. The sunlight creates a strong shimmering effect on the ocean surface and casts a warm backlight along one side of her body.\n\nEnvironment: The model is in a shallow, rocky beach area. Small white-foamed waves can be seen breaking around the black rocks surrounding her.\n\nSky: The evening sky is lightly clouded, displaying gradients of silvery gray, white, and golden-yellow hues around the setting sun.\n\nOverall, the image presents an exotic tropical aesthetic, combining the natural beauty of the beach with detailed and artistic summer fashion.
+Una {argument name="subject" default="giovane donna dalla figura snella"}, con seno e fianchi visibilmente più prosperosi, posa su una {argument name="location" default="spiaggia al tramonto"}. Il suo corpo e i suoi vestiti sono leggermente bagnati dall'acqua di mare.\n\nPosa: È seduta sulla sabbia della spiaggia rivolta verso la fotocamera, con il corpo leggermente girato di lato mentre le onde dell'oceano si infrangono contro di lei.\n\nTrucco e Acconciatura\n\nI suoi capelli sono raccolti in uno chignon leggermente spettinato, con un fiore di frangipane bianco infilato dietro l'orecchio destro. Il trucco appare naturale con un effetto pelle luminosa (glass-skin) che mette in risalto i lineamenti del viso sotto la luce naturale.\n\nAbbigliamento e Accessori\n\nParte superiore: Indossa una {argument name="clothing" default="maglietta corta a maniche lunghe marrone"} aderente.\n\nParte inferiore: Indossa una gonna a portafoglio sottile (pareo) nei toni del verde oliva giallastro e marrone, annodata sui fianchi. Il nodo è decorato con una replica di un grande fiore di orchidea giallo-arancio.\n\nSfondo e Atmosfera\n\nIlluminazione: La foto è scattata durante l'ora d'oro, con il sole al tramonto posizionato dietro la modella sul lato sinistro. La luce solare crea un forte effetto scintillante sulla superficie dell'oceano e proietta una calda retroilluminazione lungo un lato del suo corpo.\n\nAmbiente: La modella si trova in una zona di spiaggia bassa e rocciosa. Piccole onde dalla schiuma bianca si infrangono attorno alle rocce nere che la circondano.\n\nCielo: Il cielo serale è leggermente nuvoloso, mostrando sfumature di grigio argento, bianco e tonalità giallo oro attorno al sole al tramonto.\n\nNel complesso, l'immagine presenta un'estetica tropicale esotica, combinando la bellezza naturale della spiaggia con una moda estiva dettagliata e artistica.
 ```
 
 #### 🖼️ Immagini generate
@@ -4276,7 +4276,7 @@ A {argument name="subject" default="young woman with a slim figure"}, with a not
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990824492_5afidx_HKQ7B6SWwAAAqJX.jpg" width="600" alt="Marketing di Prodotto - Tropical Beach Sunset Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990824492_5afidx_HKQ7B6SWwAAAqJX.jpg" width="600" alt="Marketing di Prodotto - Ritratto di moda al tramonto su una spiaggia tropicale - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -4290,19 +4290,19 @@ A {argument name="subject" default="young woman with a slim figure"}, with a not
 
 ---
 
-### No. 90: Marketing di Prodotto - Realistic Asian Woman Loungewear Portrait
+### No. 90: Marketing di Prodotto - Ritratto realistico di una donna asiatica in abbigliamento da casa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A detailed prompt for generating a close-up portrait of an Asian woman in specific loungewear against a rural morning landscape.
+Un prompt dettagliato per generare un ritratto in primo piano di una donna asiatica con uno specifico abbigliamento da casa, ambientato in un paesaggio rurale mattutino.
 
 #### 📝 Prompt
 
 ```
-Create a highly realistic close-up portrait of a beautiful young Asian woman with bright porcelain-white skin and perfectly symmetrical facial features. She is standing outdoors in a home setting, such as a front porch, house yard, or garden area. Her body is posed slightly sideways while her head turns toward the camera. She has a calm, soft, and gentle expression. Outfit: Wearing a matching {argument name="clothing style" default="sleepwear/loungewear set"}. Cream-colored crop top with {argument name="pattern" default="cherry fruit patterns"}. Short sleeves featuring delicate white lace wave trim on the sleeve edges. V-neck collar with a small elegant red ribbon detail on the chest. Dark red high-waisted shorts with an elastic waistband. Small red ribbon at the center of the waistband. White lace wave trim detail along the hem of the shorts. Accessories: Elegant gold necklace with a small pendant displaying the name "{argument name="name" default="Fitri"}". Small stud earrings. Makeup: Natural makeup look. Naturally glowing skin with visible skin texture and subtle pores. Thick, neatly groomed natural eyebrows. Thick, dramatic curled eyelashes. Rosy pink lips that appear juicy, plump, and hydrated. Hair: Long, deep black hair. Extremely smooth, silky, and healthy shine. Styled in a single ponytail. Curly waves at the lower section of the ponytail. Slightly messy volume at the top. Loose strands of hair falling naturally across the forehead and sides of the face. Background: Black iron fence visible behind her. Outside the fence, a road and green rice fields can be seen. Mountains visible in the distance. Bright clear blue sky. A tree positioned beside her, only partially visible within the frame. Lighting: Natural morning sunlight. Soft bright illumination on the face. Fresh, vibrant color palette with bright tones, rich greens, and vivid blues. Photography Style: Half-body portrait. Close-up composition. Ultra-realistic photography. High detail and lifelike skin texture. Natural depth of field. Lively, realistic background. Professional portrait photography. Sharp focus on the face. 9:16 vertical aspect ratio. Photorealistic, ultra-detailed, high-resolution, realistic lighting, realistic shadows, realistic colors. Important: Do not alter the woman's facial identity or facial structure. Preserve her original face exactly while applying the described hairstyle, outfit, makeup, pose, lighting, and environment.
+Crea un ritratto in primo piano altamente realistico di una bellissima giovane donna asiatica con una pelle color porcellana luminosa e lineamenti perfettamente simmetrici. È in piedi all'aperto in un contesto domestico, come un portico, un cortile o un giardino. Il corpo è posizionato leggermente di lato mentre la testa è rivolta verso la fotocamera. Ha un'espressione calma, dolce e gentile. Outfit: Indossa un set coordinato di {argument name="clothing style" default="pigiama/abbigliamento da casa"}. Top corto color crema con {argument name="pattern" default="motivi a ciliegia"}. Maniche corte con delicati bordi in pizzo bianco a onde. Scollo a V con un piccolo ed elegante dettaglio a nastro rosso sul petto. Pantaloncini a vita alta rosso scuro con elastico in vita. Piccolo nastro rosso al centro della vita. Dettaglio in pizzo bianco a onde lungo l'orlo dei pantaloncini. Accessori: Elegante collana d'oro con un piccolo ciondolo che mostra il nome "{argument name="name" default="Fitri"}". Piccoli orecchini a lobo. Trucco: Trucco naturale. Pelle naturalmente luminosa con texture visibile e pori sottili. Sopracciglia folte e curate naturalmente. Ciglia folte, drammatiche e incurvate. Labbra rosa acceso che appaiono succose, carnose e idratate. Capelli: Lunghi capelli nero corvino. Estremamente lisci, setosi e con una lucentezza sana. Acconciati in una coda di cavallo singola. Onde ricce nella parte inferiore della coda. Volume leggermente spettinato sulla parte superiore. Ciocche di capelli che cadono naturalmente sulla fronte e ai lati del viso. Sfondo: Recinzione in ferro nero visibile dietro di lei. Oltre la recinzione, si possono vedere una strada e campi di riso verdi. Montagne visibili in lontananza. Cielo azzurro limpido e luminoso. Un albero posizionato accanto a lei, solo parzialmente visibile nell'inquadratura. Illuminazione: Luce solare naturale del mattino. Illuminazione morbida e brillante sul viso. Palette di colori fresca e vibrante con toni luminosi, verdi ricchi e blu vividi. Stile fotografico: Ritratto a mezzo busto. Composizione in primo piano. Fotografia ultra-realistica. Dettagli elevati e texture della pelle realistica. Profondità di campo naturale. Sfondo vivace e realistico. Fotografia di ritratto professionale. Messa a fuoco nitida sul viso. Rapporto d'aspetto verticale 9:16. Fotorealistico, ultra-dettagliato, alta risoluzione, illuminazione realistica, ombre realistiche, colori realistici. Importante: Non alterare l'identità o la struttura facciale della donna. Preserva esattamente il suo viso originale applicando l'acconciatura, l'outfit, il trucco, la posa, l'illuminazione e l'ambiente descritti.
 ```
 
 #### 🖼️ Immagini generate
@@ -4310,19 +4310,19 @@ Create a highly realistic close-up portrait of a beautiful young Asian woman wit
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990823300_5pbthd_HKQyhUGa0AAq5ag.jpg" width="600" alt="Marketing di Prodotto - Realistic Asian Woman Loungewear Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990823300_5pbthd_HKQyhUGa0AAq5ag.jpg" width="600" alt="Marketing di Prodotto - Ritratto realistico di una donna asiatica in abbigliamento da casa - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990823394_ou7xyv_HKQyhVwbYAAe84x.jpg" width="600" alt="Marketing di Prodotto - Realistic Asian Woman Loungewear Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990823394_ou7xyv_HKQyhVwbYAAe84x.jpg" width="600" alt="Marketing di Prodotto - Ritratto realistico di una donna asiatica in abbigliamento da casa - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990823409_oxz1lz_HKQyhYEawAAh1vD.jpg" width="600" alt="Marketing di Prodotto - Realistic Asian Woman Loungewear Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780990823409_oxz1lz_HKQyhYEawAAh1vD.jpg" width="600" alt="Marketing di Prodotto - Ritratto realistico di una donna asiatica in abbigliamento da casa - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -4336,19 +4336,19 @@ Create a highly realistic close-up portrait of a beautiful young Asian woman wit
 
 ---
 
-### No. 91: Marketing di Prodotto - South Asian Garden Fashion Portrait
+### No. 91: Marketing di Prodotto - Ritratto di moda in giardino dell'Asia meridionale
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A luxurious fashion portrait of a South Asian woman in a lilac silk shalwar kameez sitting in a garden.
+Un lussuoso ritratto di moda di una donna dell'Asia meridionale in uno shalwar kameez di seta color lilla, seduta in un giardino.
 
 #### 📝 Prompt
 
 ```
-A professional, hyper-realistic fashion portrait of a {argument name="ethnicity" default="beautiful South Asian woman"} sitting gracefully on a woven wicker chair in an {argument name="setting" default="elegant outdoor garden setting"}. She is wearing a {argument name="outfit" default="luxurious, pastel lavender-lilac raw silk shalwar kameez"}. The outfit features delicate, intricate metallic gold floral embroidery along the V-neckline, the cuffs of the three-quarter sleeves, and the hems of her straight-cut trousers. She is draped in a matching sheer organza dupatta with a beautifully embroidered border that flows softly over her lap and down to the floor. Her long, dark wavy hair is styled in a sophisticated half-up, half-down look, framing her face perfectly. She has a soft, serene smile, looking directly at the camera with her chin resting gently on her hand. Her makeup is flawless and fresh, with soft rosy cheeks and a muted berry-red lip color that highlights natural skin texture and hyper-detailed pores (Douyin realism). She is accessorized with elegant silver dangling earrings, a delicate thin silver necklace, a classic silver chain watch on her left wrist, and strappy, glittering silver low-heel sandals. The background is a beautifully blurred, lush green rooftop terrace or balcony garden with vibrant pink rose bushes in soft focus (bokeh effect). The lighting is soft, natural daylight, creating a bright, clean, and premium lifestyle aesthetic. Captured on a professional DSLR camera, 85mm lens, f/1.4 aperture, cinematic lighting, 8K resolution, clean composition, no watermarks.
+Un ritratto di moda professionale e iper-realistico di una {argument name="ethnicity" default="bellissima donna dell'Asia meridionale"} seduta con grazia su una sedia in vimini intrecciato in un {argument name="setting" default="elegante giardino all'aperto"}. Indossa un {argument name="outfit" default="lussuoso shalwar kameez in seta grezza color lavanda-lilla pastello"}. L'abito presenta delicati e intricati ricami floreali in oro metallizzato lungo lo scollo a V, i polsini delle maniche a tre quarti e gli orli dei pantaloni dal taglio dritto. È drappeggiata in un dupatta coordinato in organza trasparente con un bordo ricamato magnificamente che scende morbidamente sulle sue ginocchia fino a terra. I suoi lunghi capelli scuri e mossi sono acconciati in un sofisticato semiraccolto che incornicia perfettamente il viso. Ha un sorriso dolce e sereno, guarda direttamente verso la fotocamera con il mento appoggiato delicatamente sulla mano. Il trucco è impeccabile e fresco, con guance leggermente rosate e un colore labbra rosso bacca tenue che mette in risalto la texture naturale della pelle e i pori iper-dettagliati (realismo Douyin). È accessoriata con eleganti orecchini pendenti in argento, una delicata collana sottile in argento, un classico orologio con catena in argento al polso sinistro e sandali con cinturini e tacco basso color argento scintillante. Lo sfondo è una terrazza sul tetto o un giardino pensile rigoglioso e magnificamente sfocato, con vivaci cespugli di rose rosa a fuoco morbido (effetto bokeh). L'illuminazione è luce diurna naturale e soffusa, che crea un'estetica lifestyle luminosa, pulita e premium. Scattato con fotocamera DSLR professionale, obiettivo 85mm, apertura f/1.4, illuminazione cinematografica, risoluzione 8K, composizione pulita, senza filigrane.
 ```
 
 #### 🖼️ Immagini generate
@@ -4356,7 +4356,7 @@ A professional, hyper-realistic fashion portrait of a {argument name="ethnicity"
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990827875_8p4wmy_HKQcOeobAAAoH2A.jpg" width="600" alt="Marketing di Prodotto - South Asian Garden Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990827875_8p4wmy_HKQcOeobAAAoH2A.jpg" width="600" alt="Marketing di Prodotto - Ritratto di moda in giardino dell'Asia meridionale - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -4370,19 +4370,19 @@ A professional, hyper-realistic fashion portrait of a {argument name="ethnicity"
 
 ---
 
-### No. 92: Marketing di Prodotto - Retro 1970s Luxury Road Trip
+### No. 92: Marketing di Prodotto - Viaggio su strada di lusso in stile rétro anni '70
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A cinematic fashion portrait inspired by 1970s Vogue, featuring a woman with a vintage convertible in a mountain landscape.
+Un ritratto di moda cinematografico ispirato a Vogue anni '70, con una donna e una decappottabile vintage in un paesaggio montano.
 
 #### 📝 Prompt
 
 ```
-Confident {argument name="subject" default="woman in her twenties to thirties"} with an oval face, defined cheekbones, a strong elegant jawline, and a commanding fashion-editorial presence. Dark brown medium-length hair styled in voluminous retro glamour curls, dramatically wind-blown with rich movement and high volume. Expression conveys confident detachment, lips slightly parted, eyes concealed behind round vintage sunglasses with thin metal frames and dark tinted lenses. Small metallic hoop earrings add subtle sophistication. Wearing an {argument name="outfit" default="oversized deep burgundy faux fur coat with a dramatic silhouette over a sleek black turtleneck"}, combining retro glamour with modern luxury. Carrying a structured cognac brown leather tote crafted from richly textured premium leather with a naturally aged finish. Styling reflects classic old-money elegance, luxury travel fashion, and 1970s-inspired sophistication. Set on an {argument name="environment" default="open mountain highway surrounded by rolling terrain, distant mountains, and dramatic cloud formations"}. A classic cream-white vintage convertible with mid-century styling is parked nearby, reinforcing the feeling of a luxurious road adventure. The environment conveys freedom, wealth, confidence, and cinematic exploration across an expansive landscape. Relaxed yet commanding pose against the vehicle, projecting independence and effortless authority. Hero-shot composition with the subject centered in frame, mid-torso fashion portrait, slight low-angle perspective to enhance power and presence. Moderate negative space filled with sky and landscape, creating a sense of scale and cinematic storytelling. Strong visual emphasis on the face, sunglasses, fur coat, and dynamic hair movement. Natural directional daylight illuminates the scene from the front-side angle, creating warm glowing highlights and deep cinematic shadows. Medium-to-high contrast lighting with an epic outdoor fashion-campaign atmosphere. Shot with the look of an 85mm fashion lens, moderately shallow depth of field, sharp focus on the subject, softly compressed background, high clarity, and premium editorial sharpness. Cinematic vintage fashion color grading with warm tones, controlled saturation, and rich contrast. Dominant palette of deep burgundy, cognac brown, forest green, cream white, and charcoal black. Golden beige highlights, olive-brown shadows, and a subtle teal-green atmospheric cast create a luxurious retro mood. Enhanced fabric texture, detailed hair rendering, subtle film grain, rich dynamic range, and strong cinematic depth. High-end editorial retouching, moderate skin refinement, premium commercial fashion finish, luxury campaign aesthetics, 1970s Vogue-inspired glamour, luxury road-trip storytelling, old-money fashion, retro elegance, cinematic freedom, wealth aesthetic, magazine-cover photography, Gucci-inspired atmosphere, Tom Ford-style sophistication, dramatic outdoor fashion campaign, powerful feminine presence, premium fashion advertising quality.
+Una {argument name="subject" default="donna tra i venti e i trent'anni"} sicura di sé, con viso ovale, zigomi definiti, una linea della mascella forte ed elegante e una presenza da editoriale di moda. Capelli castano scuro di media lunghezza acconciati in voluminosi ricci glamour rétro, mossi dal vento con un movimento ricco e un grande volume. L'espressione trasmette un distacco sicuro, labbra leggermente socchiuse, occhi celati dietro occhiali da sole vintage rotondi con sottili montature in metallo e lenti scure. Piccoli orecchini a cerchio in metallo aggiungono una sottile raffinatezza. Indossa un {argument name="outfit" default="cappotto oversize in ecicopelliccia color bordeaux intenso dalla silhouette drammatica sopra un elegante dolcevita nero"}, che combina il glamour rétro con il lusso moderno. Porta una borsa tote strutturata in pelle color cognac, realizzata in pelle pregiata dalla texture ricca e con una finitura naturalmente invecchiata. Lo stile riflette l'eleganza classica dell'old-money, la moda da viaggio di lusso e la raffinatezza ispirata agli anni '70. Ambientato su una {argument name="environment" default="strada di montagna aperta circondata da colline, montagne in lontananza e spettacolari formazioni nuvolose"}. Una classica decappottabile vintage color bianco crema dallo stile mid-century è parcheggiata nelle vicinanze, rafforzando la sensazione di una lussuosa avventura su strada. L'ambiente trasmette libertà, ricchezza, sicurezza ed esplorazione cinematografica attraverso un paesaggio vasto. Posa rilassata ma autorevole contro il veicolo, che proietta indipendenza e naturale autorità. Composizione hero-shot con il soggetto centrato nell'inquadratura, ritratto di moda a mezzo busto, prospettiva leggermente dal basso per esaltare potenza e presenza. Spazio negativo moderato riempito dal cielo e dal paesaggio, creando un senso di scala e narrazione cinematografica. Forte enfasi visiva sul viso, sugli occhiali da sole, sulla pelliccia e sul movimento dinamico dei capelli. La luce diurna naturale illumina la scena da un'angolazione frontale-laterale, creando caldi riflessi luminosi e profonde ombre cinematografiche. Illuminazione a contrasto da medio ad alto con un'atmosfera da epica campagna di moda all'aperto. Scattato con l'aspetto di un obiettivo fashion da 85mm, profondità di campo moderatamente ridotta, messa a fuoco nitida sul soggetto, sfondo leggermente compresso, alta chiarezza e nitidezza editoriale premium. Color grading cinematografico vintage con toni caldi, saturazione controllata e contrasto ricco. Palette dominante di bordeaux intenso, marrone cognac, verde foresta, bianco crema e nero carbone. Riflessi beige dorati, ombre color oliva-marrone e una sottile tonalità atmosferica verde acqua creano un lussuoso umore rétro. Texture del tessuto esaltata, rendering dettagliato dei capelli, sottile grana della pellicola, ampia gamma dinamica e forte profondità cinematografica. Ritocco editoriale di alta gamma, raffinamento moderato della pelle, finitura commerciale premium, estetica da campagna di lusso, glamour ispirato a Vogue anni '70, narrazione di un viaggio su strada di lusso, moda old-money, eleganza rétro, libertà cinematografica, estetica della ricchezza, fotografia da copertina di rivista, atmosfera ispirata a Gucci, raffinatezza in stile Tom Ford, drammatica campagna di moda all'aperto, potente presenza femminile, qualità pubblicitaria di moda premium.
 ```
 
 #### 🖼️ Immagini generate
@@ -4390,13 +4390,13 @@ Confident {argument name="subject" default="woman in her twenties to thirties"} 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990831487_8zforg_HKQPQjJaYAAe4HO.jpg" width="600" alt="Marketing di Prodotto - Retro 1970s Luxury Road Trip - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990831487_8zforg_HKQPQjJaYAAe4HO.jpg" width="600" alt="Marketing di Prodotto - Viaggio su strada di lusso in stile rétro anni '70 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990831544_85yp4p_HKQPQl5aAAAThso.jpg" width="600" alt="Marketing di Prodotto - Retro 1970s Luxury Road Trip - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990831544_85yp4p_HKQPQl5aAAAThso.jpg" width="600" alt="Marketing di Prodotto - Viaggio su strada di lusso in stile rétro anni '70 - Image 2">
 </div>
 
 #### 📌 Dettagli
@@ -5205,19 +5205,19 @@ Una pubblicità professionale per "{argument name="brand" default="AM Cosmetics"
 
 ---
 
-### No. 114: Asset di gioco - Mother-of-Pearl Iridescent Wings
+### No. 114: Asset di gioco - Ali iridescenti in madreperla
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-A highly detailed prompt for generating complex, iridescent wings with mother-of-pearl plates and decorative textures.
+Un prompt altamente dettagliato per generare ali complesse e iridescenti con placche in madreperla e texture decorative.
 
 #### 📝 Prompt
 
 ```
-The wings are composed of {argument name="material" default="mother-of-pearl"} wings, iridescent shell surface wings, pearlescent reflections on the wings, overlapping mother-of-pearl plates on the wings, layered decorative plates on the wings, wing-inspired plate work, decorative feather structure, stacked decorative plates on the wings, layered plate structure of the wings, luxurious decorative craftsmanship on the wings, three-dimensional layered details on the wings, and elegant decorative composition of the wings.
+Le ali sono composte da ali in {argument name="material" default="madreperla"}, ali con superficie in conchiglia iridescente, riflessi perlacei sulle ali, placche in madreperla sovrapposte sulle ali, placche decorative stratificate sulle ali, lavorazione a placche ispirata alle ali, struttura a piume decorativa, placche decorative impilate sulle ali, struttura a placche stratificata delle ali, lussuosa maestria decorativa sulle ali, dettagli stratificati tridimensionali sulle ali ed elegante composizione decorativa delle ali.
 ```
 
 #### 🖼️ Immagini generate
@@ -5225,19 +5225,19 @@ The wings are composed of {argument name="material" default="mother-of-pearl"} w
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990832715_l5cu95_HKS0YsTakAA7Y78.jpg" width="600" alt="Asset di gioco - Mother-of-Pearl Iridescent Wings - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780990832715_l5cu95_HKS0YsTakAA7Y78.jpg" width="600" alt="Asset di gioco - Ali iridescenti in madreperla - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990832686_9fgoas_HKS0arzaIAADmti.jpg" width="600" alt="Asset di gioco - Mother-of-Pearl Iridescent Wings - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780990832686_9fgoas_HKS0arzaIAADmti.jpg" width="600" alt="Asset di gioco - Ali iridescenti in madreperla - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780990832676_956dbo_HKS0arwb0AAiWcR.jpg" width="600" alt="Asset di gioco - Mother-of-Pearl Iridescent Wings - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780990832676_956dbo_HKS0arwb0AAiWcR.jpg" width="600" alt="Asset di gioco - Ali iridescenti in madreperla - Image 3">
 </div>
 
 #### 📌 Dettagli
@@ -5528,6 +5528,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-09T09:03:06.621Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-09T12:53:44.806Z</sub>
 
 </div>
