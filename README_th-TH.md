@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **14632** |
+| 📝 คำสั่งทั้งหมด | **14631** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 29 มิถุนายน พ.ศ. 2569 เวลา 9 นาฬิกา 30 นาที 20 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 29 มิถุนายน พ.ศ. 2569 เวลา 13 นาฬิกา 20 นาที 59 วินาที UTC** |
 
 </div>
 
@@ -654,19 +654,19 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - High-Contrast Monochrome Editorial Portrait
+### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวบรรณาธิการแบบขาวดำที่มีคอนทราสต์สูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A professional black-and-white portrait prompt featuring a male subject with high-contrast lighting, low-angle composition, and sharp skin textures for an editorial feel.
+พรอมต์สำหรับสร้างภาพพอร์ตเทรตขาวดำระดับมืออาชีพ โดยเน้นตัวแบบที่เป็นผู้ชายด้วยการจัดแสงที่มีคอนทราสต์สูง การจัดองค์ประกอบภาพมุมต่ำ และรายละเอียดผิวที่คมชัดเพื่อให้ได้ลุคแบบภาพถ่ายในนิตยสาร
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect ratio. The {argument name="subject" default="man"} fills about 85-90% of the frame in a medium close-up, showing the head, neck, shoulders, upper chest, upper arms, and part of the forearms, with only a small amount of empty space above his head. A {argument name="physical description" default="handsome athletic man"} wearing a {argument name="clothing" default="plain black fitted ribbed crew-neck short-sleeve sweater"}. His arms are loosely crossed. His body is turned slightly (20°) while his head is turned slightly to the left and tilted upward, with his eyes looking off-camera toward the upper left, giving a calm, confident, thoughtful expression. Strong hard natural sunlight from the upper left illuminates the left side of his hair, forehead, eye, cheek, nose, beard, neck, shoulder, and front arm, while the right side of his face and ear fall into deep shadow, creating crisp, high-contrast facial definition. Clean plain gray sky background, no distractions. High-contrast monochrome with deep blacks, bright highlights, sharp skin texture, fine-art fashion photography, ultra-realistic, premium editorial quality.
+ภาพพอร์ตเทรตขาวดำแนวบรรณาธิการที่สมจริงเป็นพิเศษ ถ่ายด้วยมุมต่ำ อัตราส่วนภาพ 4:5 ตัวแบบ {argument name="subject" default="ผู้ชาย"} อยู่ในเฟรมประมาณ 85-90% ในระยะภาพแบบ Medium Close-up เห็นส่วนหัว คอ ไหล่ หน้าอกส่วนบน ต้นแขน และท่อนแขนบางส่วน โดยมีพื้นที่ว่างเหนือศีรษะเพียงเล็กน้อย ตัวแบบคือ {argument name="physical description" default="ชายหนุ่มรูปร่างดีหน้าตาหล่อเหลา"} สวมใส่ {argument name="clothing" default="เสื้อสเวตเตอร์แขนสั้นคอกลมเข้ารูปสีดำเรียบ"} แขนทั้งสองข้างกอดอกไว้อย่างผ่อนคลาย ร่างกายหันไปด้านข้างเล็กน้อย (20 องศา) ในขณะที่ศีรษะหันไปทางซ้ายเล็กน้อยและเงยขึ้นเล็กน้อย ดวงตามองออกไปนอกกล้องทางด้านซ้ายบน ให้ความรู้สึกสงบ มั่นใจ และครุ่นคิด แสงแดดธรรมชาติที่แรงและแข็งจากด้านซ้ายบนส่องกระทบผม หน้าผาก ดวงตา แก้ม จมูก เครา คอ ไหล่ และแขนด้านหน้าทางซ้าย ในขณะที่ใบหน้าและหูทางด้านขวาตกอยู่ในเงามืดสนิท สร้างความคมชัดของใบหน้าที่โดดเด่นและมีคอนทราสต์สูง พื้นหลังเป็นท้องฟ้าสีเทาเรียบสะอาดตา ไม่มีสิ่งรบกวน ภาพขาวดำที่มีคอนทราสต์สูงพร้อมสีดำสนิทและไฮไลท์ที่สว่างชัดเจน รายละเอียดผิวคมชัด สไตล์ภาพถ่ายแฟชั่นชั้นสูง สมจริงเป็นพิเศษ คุณภาพระดับบรรณาธิการพรีเมียม
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -674,7 +674,7 @@ Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect r
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721357804_r5qg7a_HL6K9NmbgAEBQlM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - High-Contrast Monochrome Editorial Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721357804_r5qg7a_HL6K9NmbgAEBQlM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวบรรณาธิการแบบขาวดำที่มีคอนทราสต์สูง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -688,19 +688,19 @@ Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect r
 
 ---
 
-### No. 2: โปรไฟล์ / รูปประจำตัว - Photorealistic Luxury Editorial Male Portrait
+### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้ชายสไตล์ลักชูรีเอดิทอเรียลที่สมจริงดุจภาพถ่าย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A prompt for generating an ultra-photorealistic editorial portrait of a man in a black suit on a modern luxury street, using a reference image for appearance.
+พรอมต์สำหรับสร้างภาพพอร์ตเทรตเอดิทอเรียลที่สมจริงเป็นพิเศษของชายในชุดสูทสีดำบนถนนที่หรูหราทันสมัย โดยใช้ภาพอ้างอิงสำหรับรูปลักษณ์
 
 #### 📝 คำสั่ง
 
 ```
-Use the uploaded reference image as the appearance reference for the subject. Create an ultra-photorealistic, high-end editorial portrait with natural facial proportions and realistic human features. Preserve the overall appearance from the reference while maintaining a natural photographic look. The subject is standing confidently in a {argument name="setting" default="modern luxury city street"} during golden hour, wearing a {argument name="outfit" default="perfectly tailored black suit, white dress shirt, and an elegant wristwatch"}. Captured on a professional full-frame camera with an {argument name="lens" default="85mm portrait lens"} at f/1.4, producing beautiful background bokeh and razor-sharp focus on the eyes. Realistic skin texture with visible pores, natural hair strands, lifelike eyes with authentic reflections, physically accurate lighting, cinematic HDR color grading, subtle volumetric sunlight, realistic shadows, premium fashion photography, magazine-cover composition, highly detailed fabric textures, natural expression, balanced exposure, incredibly realistic colors, RAW photography style, ultra-high detail, professional commercial photography, 8K quality, visually indistinguishable from a real photograph.
+ใช้ภาพอ้างอิงที่อัปโหลดเป็นต้นแบบรูปลักษณ์ของบุคคลในภาพ สร้างภาพพอร์ตเทรตเอดิทอเรียลระดับไฮเอนด์ที่สมจริงเป็นพิเศษ โดยมีสัดส่วนใบหน้าที่เป็นธรรมชาติและลักษณะของมนุษย์ที่สมจริง รักษาเค้าโครงโดยรวมจากภาพอ้างอิงในขณะที่ยังคงความเป็นภาพถ่ายที่เป็นธรรมชาติ ตัวแบบยืนอยู่อย่างมั่นใจใน {argument name="setting" default="ถนนในเมืองที่หรูหราทันสมัย"} ในช่วงเวลาโกลเด้นอาวร์ สวมใส่ {argument name="outfit" default="ชุดสูทสีดำที่ตัดเย็บอย่างประณีต เสื้อเชิ้ตสีขาว และนาฬิกาข้อมือที่หรูหรา"} ถ่ายด้วยกล้องฟูลเฟรมระดับมืออาชีพพร้อม {argument name="lens" default="เลนส์พอร์ตเทรต 85 มม."} ที่ f/1.4 ให้ฉากหลังเบลอที่สวยงามและโฟกัสที่คมชัดบริเวณดวงตา พื้นผิวผิวหนังที่สมจริงพร้อมรูขุมขนที่มองเห็นได้ เส้นผมที่เป็นธรรมชาติ ดวงตาที่ดูมีชีวิตชีวาพร้อมการสะท้อนแสงที่สมจริง แสงที่ถูกต้องตามหลักฟิสิกส์ การเกรดสีแบบ Cinematic HDR แสงแดดแบบวอลูเมตริกที่นุ่มนวล เงาที่สมจริง การถ่ายภาพแฟชั่นระดับพรีเมียม องค์ประกอบภาพแบบปกนิตยสาร พื้นผิวผ้าที่มีรายละเอียดสูง การแสดงออกที่เป็นธรรมชาติ การเปิดรับแสงที่สมดุล สีสันที่สมจริงอย่างเหลือเชื่อ สไตล์ภาพถ่ายแบบ RAW รายละเอียดสูงพิเศษ การถ่ายภาพเชิงพาณิชย์ระดับมืออาชีพ คุณภาพระดับ 8K ซึ่งแยกไม่ออกจากภาพถ่ายจริง
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -708,7 +708,7 @@ Use the uploaded reference image as the appearance reference for the subject. Cr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721361091_4nqqoz_HL5ndJ2bAAASgbp.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Photorealistic Luxury Editorial Male Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721361091_4nqqoz_HL5ndJ2bAAASgbp.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้ชายสไตล์ลักชูรีเอดิทอเรียลที่สมจริงดุจภาพถ่าย - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -722,19 +722,19 @@ Use the uploaded reference image as the appearance reference for the subject. Cr
 
 ---
 
-### No. 3: โปรไฟล์ / รูปประจำตัว - Cinematic Man Portrait with Face Reference
+### No. 3: โปรไฟล์ / รูปประจำตัว - คอลลาจภาพถ่ายหญิงสาวผมแดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A professional cinematic portrait prompt designed to maintain exact facial features from a reference image while placing the subject in a modern urban setting.
+คอลลาจภาพถ่ายที่เต็มไปด้วยสีสันและอารมณ์ความรู้สึกของหญิงสาวผมยาวสีแดงในหลากหลายบรรยากาศและสถานที่
 
 #### 📝 คำสั่ง
 
 ```
-Ultra realistic cinematic portrait, use uploaded face exactly, no face change. Subject standing beside a modern building entrance, {argument name="clothing" default="oversized maroon shirt, white trousers, white sneakers"}, silver watch, sunglasses, one hand adjusting sleeve, relaxed confident pose. {argument name="background" default="Blurred luxury SUV, tropical greenery, modern architecture"}, cinematic daylight, 85mm lens, f/1.8, shallow depth of field, HDR, ultra detailed 8K.young {argument name="character notes" default="same face and but shirt no tuchine"}.
+คอลลาจภาพถ่ายที่เต็มไปด้วยสีสันนี้ประกอบด้วยหญิงสาวผมยาวตรงสี {argument name="hair color" default="แดง"} ที่โดดเด่นพร้อมหน้าม้าซอฟต์ๆ โดยนำเสนอผ่านภาพพอร์ตเทรตที่เปี่ยมด้วยอารมณ์ทั้งหมด {argument name="number of portraits" default="แปด"} ภาพ แต่ละช่องในไฟล์ที่อ้างอิงจะเน้นบรรยากาศและอารมณ์ที่แตกต่างกัน ตั้งแต่พื้นที่ในร่มที่ให้ความรู้สึกอบอุ่นอย่างห้องนอนและห้องครัว ไปจนถึงสภาพแวดล้อมที่สว่างไสวด้วยแสงธรรมชาติ ตัวแบบแสดงสีหน้าท่าทางที่มีเสน่ห์หลากหลายรูปแบบ ไม่ว่าจะเป็นการหัวเราะอย่างมีความสุข การขยิบตาอย่างขี้เล่น การทำท่าครุ่นคิดโดยใช้นิ้วแตะคาง การทำปากจู๋ด้วยความประหลาดใจ และการแลบลิ้นเล่นอย่างสนุกสนาน พร้อมสวมใส่เสื้อสเวตเตอร์และเสื้อลำลองหลากสีสัน โดยรวมแล้วภาพนี้ให้ความรู้สึกที่อบอุ่น เป็นกันเอง และดูอ่อนเยาว์ เน้นย้ำถึงการถ่ายทอดบุคลิกที่สนุกสนานและเข้าถึงง่ายผ่านการโต้ตอบในชีวิตประจำวันและการถ่ายภาพสไตล์แคนดิด
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -742,41 +742,7 @@ Ultra realistic cinematic portrait, use uploaded face exactly, no face change. S
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362436_z2uoky_HL5ITQbacAAzteM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Cinematic Man Portrait with Face Reference - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Dilshad Hussain](https://x.com/DilshadAI1)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/DilshadAI1/status/2071172519764312261)
-- **เผยแพร่เมื่อ:** 28 มิถุนายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=27033)**
-
----
-
-### No. 4: โปรไฟล์ / รูปประจำตัว - Red Hair Woman Portrait Collage
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A vibrant and emotive photo collage featuring a young woman with long red hair across various moods and settings.
-
-#### 📝 คำสั่ง
-
-```
-A vibrant photo collage features a young woman with striking, long, straight {argument name="hair color" default="red"} hair and soft bangs, showcased in {argument name="number of portraits" default="eight"} distinct, emotive portraits. Each panel in the referenced file highlights a different setting and mood, ranging from cozy indoor spaces like bedrooms and kitchens to bright, naturally lit environments. The subject displays an array of charming expressions—including joyful laughter, playful winking, thoughtful pondering with a finger to her chin, a surprised "o" mouth, and a silly tongue-out pose—while wearing a colorful variety of sweaters and casual tops. The overall aesthetic is warm, inviting, and youthful, emphasizing a playful and relatable character study through diverse daily interactions and candid-style photography.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721354396_fjkka5_HL5FNc6WYAA0Gbf.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Red Hair Woman Portrait Collage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721354396_fjkka5_HL5FNc6WYAA0Gbf.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - คอลลาจภาพถ่ายหญิงสาวผมแดง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -790,19 +756,19 @@ A vibrant photo collage features a young woman with striking, long, straight {ar
 
 ---
 
-### No. 5: โปรไฟล์ / รูปประจำตัว - Cinematic Golden Hour Portrait of a Woman
+### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตหญิงสาวในแสงสีทองสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A high-fashion cinematic portrait of a young woman with a high ponytail, captured on a rocky cliff against a crashing ocean backdrop during the golden hour.
+ภาพพอร์ตเทรตแฟชั่นชั้นสูงสไตล์ภาพยนตร์ของหญิงสาวผมหางม้าสูง ถ่ายบนหน้าผาหินที่มีฉากหลังเป็นคลื่นกระทบฝั่งในช่วงเวลาแสงสีทอง
 
 #### 📝 คำสั่ง
 
 ```
-A stunning, high-fashioned cinematic portrait of a {argument name="subject" default="beautiful young woman"} with a flawless complexion and expressive brown eyes. Her long, rich brown hair is styled in a {argument name="hairstyle" default="voluminous, perfectly detailed high ponytail"} with soft, elegant face-framing strands catching the golden sunlight. She has soft, natural makeup with long lashes and a subtle, thoughtful expression, looking off into the distant horizon away from the camera. Her hands are delicately held together in front of her, showcasing intricately detailed shimmering silver glitter nail art and wearing thin, minimal silver rings on her fingers. She is wearing a modern, chic {argument name="clothing" default="off-white asymmetric one-shoulder top"} and a thin silver chain necklace with a small heart pendant. The background features a breathtaking, highly detailed coastal landscape, standing on a rocky cliff overlooking a vast deep-blue ocean with realistic crashing white waves. The scene is illuminated by soft, warm golden hour sunlight, creating beautiful highlights on her hair and a cinematic depth of field with a softly blurred background.
+ภาพพอร์ตเทรตสไตล์ภาพยนตร์แฟชั่นชั้นสูงที่น่าทึ่งของ {argument name="subject" default="หญิงสาวสวย"} ที่มีผิวพรรณไร้ที่ติและดวงตาสีน้ำตาลที่เปี่ยมไปด้วยความรู้สึก ผมสีน้ำตาลเข้มยาวของเธอถูกจัดทรงเป็น {argument name="hairstyle" default="ผมหางม้าสูงที่ดูมีวอลลุ่มและรายละเอียดสมบูรณ์แบบ"} พร้อมปอยผมที่ล้อมกรอบหน้าอย่างนุ่มนวลและสง่างามซึ่งรับกับแสงแดดสีทอง เธอแต่งหน้าโทนธรรมชาติด้วยขนตายาวและมีสีหน้าที่ดูครุ่นคิดอย่างนุ่มนวล ทอดสายตามองไปยังเส้นขอบฟ้าไกลๆ มือของเธอประสานกันอย่างประณีต เผยให้เห็นศิลปะบนเล็บสีเงินกลิตเตอร์ที่ละเอียดอ่อนและสวมแหวนเงินดีไซน์มินิมอลที่นิ้ว เธอสวม {argument name="clothing" default="เสื้อเปิดไหล่ข้างเดียวสีออฟไวท์"} ที่ดูทันสมัยและเก๋ไก๋ พร้อมสร้อยคอโซ่เงินเส้นบางที่มีจี้รูปหัวใจขนาดเล็ก ฉากหลังเป็นทิวทัศน์ชายฝั่งที่สวยงามน่าทึ่งและเต็มไปด้วยรายละเอียด โดยเธอยืนอยู่บนหน้าผาหินที่มองเห็นมหาสมุทรสีน้ำเงินเข้มกว้างใหญ่พร้อมคลื่นสีขาวที่ซัดสาดอย่างสมจริง ฉากนี้ได้รับแสงสว่างจากแสงแดดอุ่นๆ ในช่วงเวลาแสงสีทอง สร้างไฮไลท์ที่สวยงามบนเส้นผมของเธอและให้ระยะชัดลึกแบบภาพยนตร์พร้อมฉากหลังที่เบลออย่างนุ่มนวล
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -810,7 +776,7 @@ A stunning, high-fashioned cinematic portrait of a {argument name="subject" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721359921_3tg2sr_HL4s2h2bMAAGqib.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Cinematic Golden Hour Portrait of a Woman - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721359921_3tg2sr_HL4s2h2bMAAGqib.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตหญิงสาวในแสงสีทองสไตล์ภาพยนตร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -824,19 +790,19 @@ A stunning, high-fashioned cinematic portrait of a {argument name="subject" defa
 
 ---
 
-### No. 6: โปรไฟล์ / รูปประจำตัว - Female Android Studio Portrait with Laser Eyes
+### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแอนดรอยด์หญิงในสตูดิโอพร้อมดวงตาเลเซอร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A sci-fi studio portrait of a female android featuring cybernetic paneling and a horizontal red laser beam effect across her eyes.
+ภาพพอร์ตเทรตแนวไซไฟของแอนดรอยด์หญิงในสตูดิโอ โดดเด่นด้วยแผงไซเบอร์เนติกส์และเอฟเฟกต์ลำแสงเลเซอร์สีแดงแนวนอนพาดผ่านดวงตา
 
 #### 📝 คำสั่ง
 
 ```
-A close-up, front-facing studio portrait of a {argument name="subject" default="female android with long, straight blonde hair"}, looking directly into the camera. Subtle cybernetic panel lines and metallic seams are intricately embedded into the skin of her face. A vibrant, continuous {argument name="visual effect" default="horizontal red laser beam"} slices across her eyes, creating a powerful, glowing lens flare effect. She is wearing a simple {argument name="clothing" default="black turtleneck sweater"}. The lighting is cinematic, featuring sharp red rim-lighting that catches the edges of her hair, set against a solid, contrasting muted blue studio background. High-detail skin texture, photorealistic, 8k resolution.
+ภาพพอร์ตเทรตระยะใกล้แบบหน้าตรงในสตูดิโอของ {argument name="subject" default="แอนดรอยด์หญิงผมบลอนด์ยาวตรง"} ที่กำลังมองตรงมาที่กล้อง มีเส้นแผงไซเบอร์เนติกส์และรอยต่อโลหะที่ละเอียดอ่อนฝังอยู่อย่างประณีตบนผิวหน้าของเธอ มี {argument name="visual effect" default="ลำแสงเลเซอร์สีแดงแนวนอน"} ที่สดใสและต่อเนื่องพาดผ่านดวงตาของเธอ สร้างเอฟเฟกต์แสงแฟลร์ที่ทรงพลังและเปล่งประกาย เธอสวม {argument name="clothing" default="เสื้อคอเต่าสีดำ"} เรียบๆ การจัดแสงเป็นแบบภาพยนตร์ โดยมีแสงขอบสีแดงคมชัดที่สะท้อนตามขอบผม ตัดกับฉากหลังสตูดิโอสีฟ้าหม่นที่เรียบง่ายและตัดกัน พื้นผิวผิวหนังที่มีรายละเอียดสูง สมจริงเหมือนภาพถ่าย ความละเอียด 8k
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -844,7 +810,7 @@ A close-up, front-facing studio portrait of a {argument name="subject" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721363705_1n9a8q_HL3-W55a8AAIhsg.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Female Android Studio Portrait with Laser Eyes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721363705_1n9a8q_HL3-W55a8AAIhsg.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแอนดรอยด์หญิงในสตูดิโอพร้อมดวงตาเลเซอร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -858,19 +824,19 @@ A close-up, front-facing studio portrait of a {argument name="subject" default="
 
 ---
 
-### No. 7: โปรไฟล์ / รูปประจำตัว - Hyper-Realistic Urban Fashion Portrait
+### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นแนวสตรีทที่สมจริงดั่งมีชีวิต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A high-quality photography prompt for a woman in casual urban fashion, focusing on detailed fabric textures, natural lighting, and a cinematic atmosphere.
+พรอมต์สำหรับการถ่ายภาพคุณภาพสูงของหญิงสาวในชุดแฟชั่นแนวสตรีทลำลอง โดยเน้นที่รายละเอียดของพื้นผิวผ้า แสงธรรมชาติ และบรรยากาศแบบภาพยนตร์
 
 #### 📝 คำสั่ง
 
 ```
-Hyper-realistic photography of a {argument name="subject" default="young woman"} standing on a city street, flashing a peace sign and holding a plastic coffee cup. She wears a {argument name="outfit" default="maroon crop top, baggy loose pants, and sneakers"}. A knit cardigan slides off her shoulders. {argument name="accessories" default="Black sunglasses"} on her face. Urban atmosphere with cinematic natural lighting and detailed fabric textures., subtle enigmatic smile, soft cinematic lighting, full-body fashion shot, sharp focus, hyper-detailed textures, masterpiece quality. professional portraiture.
+ภาพถ่ายสมจริงดั่งมีชีวิตของ {argument name="subject" default="หญิงสาว"} ยืนอยู่บนถนนในเมือง กำลังทำท่าชูสองนิ้วและถือแก้วกาแฟพลาสติก เธอสวม {argument name="outfit" default="เสื้อครอปสีเลือดหมู กางเกงทรงหลวม และรองเท้าผ้าใบ"} มีเสื้อคาร์ดิแกนไหมพรม Slides ตกลงมาจากไหล่ของเธอ {argument name="accessories" default="แว่นตากันแดดสีดำ"} บนใบหน้า บรรยากาศแบบคนเมืองพร้อมแสงธรรมชาติสไตล์ภาพยนตร์และรายละเอียดพื้นผิวผ้าที่ชัดเจน รอยยิ้มที่ดูลึกลับเล็กน้อย แสงนุ่มนวลแบบภาพยนตร์ ภาพแฟชั่นเต็มตัว โฟกัสคมชัด พื้นผิวรายละเอียดสูง คุณภาพระดับผลงานชิ้นเอก ภาพถ่ายบุคคลระดับมืออาชีพ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -878,7 +844,7 @@ Hyper-realistic photography of a {argument name="subject" default="young woman"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721355640_9za4ti_HL3yla-aoAANARv.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Hyper-Realistic Urban Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721355640_9za4ti_HL3yla-aoAANARv.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นแนวสตรีทที่สมจริงดั่งมีชีวิต - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -892,19 +858,19 @@ Hyper-realistic photography of a {argument name="subject" default="young woman"}
 
 ---
 
-### No. 8: โปรไฟล์ / รูปประจำตัว - Hyper-Realistic Studio Portrait with Geometric Headband
+### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสตูดิโอที่สมจริงดุจมีชีวิตพร้อมที่คาดผมเรขาคณิต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A moody and sophisticated studio portrait of a woman with natural skin texture and a minimalist metallic headband against a deep crimson background.
+ภาพพอร์ตเทรตสตูดิโอที่ดูมีอารมณ์ร่วมและมีความซับซ้อนของหญิงสาวที่มีพื้นผิวผิวพรรณแบบธรรมชาติและที่คาดผมโลหะสไตล์มินิมอลบนพื้นหลังสีแดงเข้ม
 
 #### 📝 คำสั่ง
 
 ```
-A hyper-realistic, dramatic studio portrait of a {argument name="subject" default="woman"} with a clean, centered composition. She has a neutral, powerful expression, featuring natural skin texture, freckles, and light-colored eyes. Her hair is slicked back with a {argument name="accessory" default="minimalist, geometric wire-frame headband"} made of thin metallic rods. She is wearing a {argument name="clothing" default="high-necked, form-fitting black turtleneck garment"} that completely covers her neck and shoulders. The background is a {argument name="background color" default="soft, deep crimson"} with subtle, out-of-focus circular bokeh lights, creating a moody, sophisticated atmosphere. Soft, professional lighting highlights her facial features and the sleek texture of her clothing.
+ภาพพอร์ตเทรตสตูดิโอที่สมจริงดุจมีชีวิตและดูมีพลังของ {argument name="subject" default="หญิงสาว"} ที่มีการจัดองค์ประกอบภาพแบบสะอาดตาและอยู่ตรงกลาง เธอมีสีหน้าเรียบเฉยแต่ทรงพลัง เผยให้เห็นพื้นผิวผิวพรรณตามธรรมชาติ กระ และดวงตาสีอ่อน ผมของเธอถูกรวบตึงไปด้านหลังด้วย {argument name="accessory" default="ที่คาดผมโครงลวดเรขาคณิตสไตล์มินิมอล"} ที่ทำจากแท่งโลหะบางๆ เธอสวมใส่ {argument name="clothing" default="เสื้อคอเต่าสีดำเข้ารูปคอสูง"} ที่ปกปิดช่วงคอและไหล่ไว้อย่างมิดชิด พื้นหลังเป็น {argument name="background color" default="สีแดงเข้มที่นุ่มนวล"} พร้อมแสงโบเก้วงกลมที่เบลอเล็กน้อย สร้างบรรยากาศที่ดูมีอารมณ์ร่วมและมีความซับซ้อน แสงไฟระดับมืออาชีพที่นุ่มนวลช่วยขับเน้นโครงหน้าและพื้นผิวที่เรียบเนียนของเสื้อผ้าของเธอ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -912,7 +878,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362825_pnt83v_HL3gIzTakAEZanc.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Hyper-Realistic Studio Portrait with Geometric Headband - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721362825_pnt83v_HL3gIzTakAEZanc.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสตูดิโอที่สมจริงดุจมีชีวิตพร้อมที่คาดผมเรขาคณิต - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -926,7 +892,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ---
 
-### No. 9: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตดินสอกราไฟต์ขาวดำที่มีรายละเอียดสูง
+### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตดินสอกราไฟต์ขาวดำที่มีรายละเอียดสูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -972,7 +938,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ---
 
-### No. 10: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตโปรดิวเซอร์เพลงสไตล์ภาพยนตร์
+### No. 9: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตโปรดิวเซอร์เพลงสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1010,7 +976,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ---
 
-### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวภาพยนตร์ของผู้เรียกอีกา
+### No. 10: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวภาพยนตร์ของผู้เรียกอีกา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1044,7 +1010,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ---
 
-### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายโฮมออฟฟิศสไตล์มินิมอล
+### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายโฮมออฟฟิศสไตล์มินิมอล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1078,7 +1044,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ---
 
-### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตหญิงสาวและแมวในสไตล์ภาพยนตร์
+### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตหญิงสาวและแมวในสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1112,7 +1078,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ---
 
-### No. 14: โปรไฟล์ / รูปประจำตัว - การถ่ายภาพแคนดิดตอนกลางคืนด้วยสมาร์ทโฟน
+### No. 13: โปรไฟล์ / รูปประจำตัว - การถ่ายภาพแคนดิดตอนกลางคืนด้วยสมาร์ทโฟน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1176,7 +1142,7 @@ identity match, face copy, real person replication
 
 ---
 
-### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแสงสีแดงสุดดราม่า
+### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแสงสีแดงสุดดราม่า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1216,7 +1182,7 @@ identity match, face copy, real person replication
 
 ---
 
-### No. 16: โปรไฟล์ / รูปประจำตัว - คอลลาจไดอารี่สไตล์ดาร์กซีนีมาติก
+### No. 15: โปรไฟล์ / รูปประจำตัว - คอลลาจไดอารี่สไตล์ดาร์กซีนีมาติก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1273,7 +1239,7 @@ identity match, face copy, real person replication
 
 ---
 
-### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้ชายสไตล์ Cinematic Dark
+### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผู้ชายสไตล์ Cinematic Dark
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1307,7 +1273,7 @@ identity match, face copy, real person replication
 
 ---
 
-### No. 18: โปรไฟล์ / รูปประจำตัว - หญิงสาวสง่างามในชุดเดรสสีน้ำเงินเข้มระยิบระยับ
+### No. 17: โปรไฟล์ / รูปประจำตัว - หญิงสาวสง่างามในชุดเดรสสีน้ำเงินเข้มระยิบระยับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1341,7 +1307,7 @@ identity match, face copy, real person replication
 
 ---
 
-### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผู้ชายสุดเข้มในสไตล์ขาวดำคอนทราสต์สูง
+### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผู้ชายสุดเข้มในสไตล์ขาวดำคอนทราสต์สูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1372,6 +1338,40 @@ identity match, face copy, real person replication
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=26640)**
+
+---
+
+### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตระยะใกล้สุดเย้ายวนในมุมมอง POV
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+คำสั่ง (Prompt) สำหรับสร้างภาพพอร์ตเทรตระยะใกล้ที่มีคอนทราสต์สูง ให้บรรยากาศแบบภาพยนตร์ของหญิงสาวที่กำลังแต่งหน้า โดดเด่นด้วยการจัดแสงที่ดูมีมิติและสุนทรียภาพแบบกล้องสมาร์ทโฟนสมัยใหม่
+
+#### 📝 คำสั่ง
+
+```
+ใบหน้าตรงตามภาพต้นฉบับ 1:1 มุมกล้องระยะใกล้จากมุมต่ำแบบ POV หญิงสาวกำลังทา {argument name="makeup item" default="ลิปกลอส"} สายตาเย้ายวน สวมใส่ {argument name="outfit" default="คอร์เซ็ตสีดำ"} พร้อม {argument name="accessory" default="สร้อยคอทองคำ"} ผมยุ่งแบบมีวอลลุ่ม แสงจากหน้าจอ พื้นหลังมืด เงาลึก สไตล์ iPhone 16 พร้อมเกรนภาพที่ดูนุ่มนวล
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782200278004_thj6jq_HLbworvXEAE7zAJ.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตระยะใกล้สุดเย้ายวนในมุมมอง POV - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [MagicEdit](https://x.com/MagicEditArt)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/MagicEditArt/status/2069105663813255194)
+- **เผยแพร่เมื่อ:** 22 มิถุนายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=26479)**
 
 ---
 
@@ -1425,19 +1425,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: โพสต์บนโซเชียลมีเดีย - Ethereal Fantasy Princess Digital Portrait
+### No. 21: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตดิจิทัลเจ้าหญิงในจินตนาการสุดวิจิตร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed 3D digital art prompt for a princess character featuring a yellow ballgown, magical garden background, and soft cinematic lighting.
+คำสั่งสร้างงานศิลปะดิจิทัล 3D รายละเอียดสูงสำหรับตัวละครเจ้าหญิงในชุดราตรีสีเหลือง ท่ามกลางฉากหลังสวนเวทมนตร์และแสงแบบภาพยนตร์ที่นุ่มนวล
 
 #### 📝 คำสั่ง
 
 ```
-A highly detailed, cinematic 3D digital portrait of an {argument name="subject" default="ethereal blonde princess"}, featuring delicate doll-like features, large luminous blue eyes, and soft porcelain skin, in a medium close-up shot. She is adorned in an elaborate, textured {argument name="outfit" default="bright yellow ballgown embellished with intricate white lace trim"}, sheer tiered puffed sleeves, and detailed 3D floral appliqués on the bodice. Her voluminous wavy blonde hair is styled elegantly and intensely kissed by golden hour backlighting, creating a glowing rim light effect, accented by pastel roses and a faint blue butterfly ornament. The composition is vertical, set in a {argument name="background" default="lush, magical garden"} characterized by deep green foliage and abundant bright yellow background bokeh (shallow depth of field). Strong volumetric light bathes the scene, highlighting the detailed textures of the fabric and creating a warm, fantasy atmosphere. Masterpiece quality, ultra photorealistic rendering, 8K, inspired by high-end CGI animation and fairy tale aesthetics.
+ภาพพอร์ตเทรตดิจิทัล 3D สไตล์ภาพยนตร์ที่มีรายละเอียดสูงของ {argument name="subject" default="เจ้าหญิงผมบลอนด์ผู้สง่างาม"} โดดเด่นด้วยใบหน้าสวยหวานราวกับตุ๊กตา ดวงตาสีฟ้าสุกสกาว และผิวพรรณเนียนละเอียดดุจกระเบื้องเคลือบ ในมุมภาพระยะใกล้ระดับกลาง เธอสวมใส่ {argument name="outfit" default="ชุดราตรีสีเหลืองสดใสประดับด้วยลูกไม้สีขาวอย่างประณีต"} แขนพองแบบซีทรูหลายชั้น และงานปักดอกไม้ 3D บนตัวเสื้อ ผมสีบลอนด์เป็นลอนสลวยถูกจัดแต่งอย่างสง่างามและได้รับแสงจากด้านหลังในช่วงโกลเด้นอาวร์ ทำให้เกิดเอฟเฟกต์แสงขอบที่ดูเปล่งประกาย ประดับด้วยดอกกุหลาบสีพาสเทลและเครื่องประดับรูปผีเสื้อสีฟ้าจางๆ องค์ประกอบภาพเป็นแนวตั้ง ฉากหลังเป็น {argument name="background" default="สวนเวทมนตร์อันเขียวชอุ่ม"} ที่เต็มไปด้วยใบไม้สีเขียวเข้มและโบเก้สีเหลืองสดใส (ระยะชัดตื้น) แสงวอลูเมตริกที่เข้มข้นอาบไล้ไปทั่วฉาก เน้นให้เห็นรายละเอียดของเนื้อผ้าและสร้างบรรยากาศแฟนตาซีที่อบอุ่น คุณภาพระดับมาสเตอร์พีซ การเรนเดอร์ที่สมจริงเป็นพิเศษ 8K ได้รับแรงบันดาลใจจากงานแอนิเมชัน CGI ระดับไฮเอนด์และสุนทรียศาสตร์แบบเทพนิยาย
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1445,13 +1445,13 @@ A highly detailed, cinematic 3D digital portrait of an {argument name="subject" 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358154_flmidz_HL7dUzrXYAAPegk.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Ethereal Fantasy Princess Digital Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721358154_flmidz_HL7dUzrXYAAPegk.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตดิจิทัลเจ้าหญิงในจินตนาการสุดวิจิตร - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358055_zwpr9c_HL7dUzsWkAAD-S2.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Ethereal Fantasy Princess Digital Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721358055_zwpr9c_HL7dUzsWkAAD-S2.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตดิจิทัลเจ้าหญิงในจินตนาการสุดวิจิตร - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1465,19 +1465,19 @@ A highly detailed, cinematic 3D digital portrait of an {argument name="subject" 
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - Hand-Painted Digital Art Illustration
+### No. 22: โพสต์บนโซเชียลมีเดีย - ภาพประกอบศิลปะดิจิทัลสไตล์วาดมือ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A sophisticated digital illustration prompt featuring visible handcrafted brush strokes and organic paint layering in a warm amber and charcoal palette.
+พรอมต์ภาพประกอบดิจิทัลสุดประณีตที่เน้นให้เห็นรอยฝีแปรงแบบวาดมือและการเลเยอร์สีที่เป็นธรรมชาติ ในโทนสีเหลืองอำพันและสีเทาชาร์โคล
 
 #### 📝 คำสั่ง
 
 ```
-Hand-painted digital illustration with clearly visible handcrafted brush strokes, expressive painterly texture, confident manual brush application, {argument name="brush style" default="thick and thin brush variations"}, organic paint layering, textured edges, subtle dry-brush effect, premium concept art quality, semi-realistic rendering, crisp silhouette, simplified yet refined shapes, soft blended transitions without excessive smoothing, high-contrast values, {argument name="shadow colors" default="deep charcoal black and dark brown shadows"}, warm ivory skin tones, natural {argument name="accent colors" default="amber and burnt orange accents"} applied selectively on clothing, accessories, reflections, and scattered compositional elements, no glowing orange contour lighting, no neon rim light, no luminous edge effects, restrained color blocking, balanced warm palette dominated by burnt orange, amber, ochre, warm ivory, dark brown, charcoal black, and muted gray, elegant editorial illustration aesthetic, rich painterly depth, visible artistic brushwork, clean composition, sophisticated handcrafted digital painting.
+ภาพประกอบดิจิทัลสไตล์วาดมือที่เผยให้เห็นรอยฝีแปรงอย่างชัดเจน พื้นผิวแบบงานจิตรกรรมที่เปี่ยมด้วยอารมณ์ การตวัดแปรงด้วยความมั่นใจ {argument name="brush style" default="การไล่ระดับความหนาบางของแปรง"} การเลเยอร์สีที่เป็นธรรมชาติ ขอบที่มีพื้นผิว เอฟเฟกต์แปรงแห้งที่ดูนุ่มนวล คุณภาพงานคอนเซปต์อาร์ตระดับพรีเมียม การเรนเดอร์แบบกึ่งสมจริง โครงร่างที่คมชัด รูปทรงที่เรียบง่ายแต่ประณีต การไล่เฉดสีที่นุ่มนวลโดยไม่ดูเรียบเนียนจนเกินไป ค่าความต่างของแสงและเงาที่ชัดเจน {argument name="shadow colors" default="เงาสีดำชาร์โคลเข้มและสีน้ำตาลเข้ม"} โทนสีผิวสีงาช้างอบอุ่น {argument name="accent colors" default="แต้มสีเหลืองอำพันและสีส้มอิฐ"} ที่เน้นเฉพาะจุดบนเสื้อผ้า เครื่องประดับ แสงสะท้อน และองค์ประกอบต่างๆ ในภาพ ไม่มีการใช้แสงขอบสีส้มเรืองแสง ไม่มีแสงนีออนขอบภาพ ไม่มีเอฟเฟกต์ขอบเรืองแสง การใช้สีแบบบล็อกที่ดูยับยั้งชั่งใจ พาเลตต์สีโทนอุ่นที่สมดุลโดยเน้นสีส้มอิฐ สีเหลืองอำพัน สีเหลืองดิน สีงาช้างอบอุ่น สีน้ำตาลเข้ม สีดำชาร์โคล และสีเทาหม่น สุนทรียภาพแบบภาพประกอบเชิงบรรณาธิการที่หรูหรา ความลึกของงานจิตรกรรมที่สมบูรณ์ รอยฝีแปรงทางศิลปะที่มองเห็นได้ องค์ประกอบภาพที่สะอาดตา งานจิตรกรรมดิจิทัลสไตล์วาดมือที่ซับซ้อนและประณีต
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1485,19 +1485,19 @@ Hand-painted digital illustration with clearly visible handcrafted brush strokes
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721361236_2gkm6l_HL5-fQmasAEt3yL.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Hand-Painted Digital Art Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721361236_2gkm6l_HL5-fQmasAEt3yL.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพประกอบศิลปะดิจิทัลสไตล์วาดมือ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721361251_yi0ckx_HL5-feYbYAA52Ib.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Hand-Painted Digital Art Illustration - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721361251_yi0ckx_HL5-feYbYAA52Ib.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพประกอบศิลปะดิจิทัลสไตล์วาดมือ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721361271_51xgqn_HL5-fnwaEAAzchO.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Hand-Painted Digital Art Illustration - Image 3">
+<img src="https://cms-assets.youmind.com/media/1782721361271_51xgqn_HL5-fnwaEAAzchO.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพประกอบศิลปะดิจิทัลสไตล์วาดมือ - Image 3">
 </div>
 
 #### 📌 รายละเอียด
@@ -1511,20 +1511,21 @@ Hand-painted digital illustration with clearly visible handcrafted brush strokes
 
 ---
 
-### No. 23: โพสต์บนโซเชียลมีเดีย - Professional Studio Portrait with 3D Text
+### No. 23: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตสตูดิโอระดับมืออาชีพพร้อมข้อความ 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed prompt for creating professional studio portraits with high identity preservation, featuring custom 3D lettering and editorial lighting.
+คำสั่ง (Prompt) โดยละเอียดสำหรับการสร้างภาพถ่ายพอร์ตเทรตสตูดิโอระดับมืออาชีพที่คงเอกลักษณ์บุคคลไว้อย่างสูง พร้อมตัวอักษร 3D แบบกำหนดเองและแสงสไตล์นิตยสารแฟชั่น
 
 #### 📝 คำสั่ง
 
 ```
-Use the uploaded image as the ONLY face reference with maximum identity preservation. The woman’s face, facial structure, jawline, skin tone, hairstyle, hairline, eyes, nose, lips, ears, expression, and overall identity must match the reference photo EXACTLY. Do not beautify, redesign, reinterpret, replace, or alter any facial features. Keep the face 100% recognizable and identical to the reference.
-Professional photography, ultra-realistic 8K, full-body studio portrait of the same woman leaning confidently against giant white vertical 3D letters spelling "{argument name="text" default="JANAKI"}". Dark gray seamless studio background with soft professional studio lighting and realistic shadows. Confident expression, hands in pockets, right leg crossed naturally. Wearing a premium {argument name="color" default="dark red"} {argument name="apparel" default="oversized sweatshirt"} with matching dark red sweatpants and clean white sneakers. Fashion editorial streetwear style, luxury magazine photoshoot aesthetic, natural skin texture, realistic fabric folds, ultra-detailed clothing, sharp focus.
+ใช้รูปภาพที่อัปโหลดเป็นข้อมูลอ้างอิงใบหน้าเพียงอย่างเดียว โดยต้องรักษาเอกลักษณ์บุคคลไว้ให้ได้มากที่สุด ใบหน้า โครงหน้า แนวขากรรไกร สีผิว ทรงผม ไรผม ดวงตา จมูก ริมฝีปาก หู การแสดงออก และเอกลักษณ์โดยรวมของผู้หญิงในภาพจะต้องตรงกับรูปอ้างอิงอย่างแม่นยำ ห้ามปรับแต่ง ออกแบบใหม่ ตีความใหม่ เปลี่ยนแปลง หรือแก้ไขลักษณะใบหน้าใดๆ ทั้งสิ้น ต้องรักษาใบหน้าให้จดจำได้ 100% และเหมือนกับรูปอ้างอิงทุกประการ
+
+ภาพถ่ายระดับมืออาชีพ ความละเอียดสูงระดับ 8K สมจริงเป็นพิเศษ ภาพพอร์ตเทรตเต็มตัวในสตูดิโอของผู้หญิงคนเดิมที่กำลังพิงตัวอย่างมั่นใจกับตัวอักษร 3D แนวตั้งสีขาวขนาดใหญ่ที่สะกดว่า "{argument name="text" default="JANAKI"}" พื้นหลังสตูดิโอสีเทาเข้มแบบไร้รอยต่อ พร้อมแสงสตูดิโอนุ่มนวลระดับมืออาชีพและเงาที่สมจริง การแสดงออกที่มั่นใจ มือล้วงกระเป๋า ขาขวาสลับไขว้กันอย่างเป็นธรรมชาติ สวมใส่ {argument name="apparel" default="เสื้อสเวตเตอร์โอเวอร์ไซส์"} สี {argument name="color" default="แดงเข้ม"} เกรดพรีเมียม พร้อมกางเกงวอร์มสีแดงเข้มเข้าชุดและรองเท้าผ้าใบสีขาวสะอาดตา สไตล์สตรีทแวร์แฟชั่นระดับนิตยสาร ความสวยงามแบบภาพถ่ายนิตยสารหรูหรา ผิวสัมผัสที่เป็นธรรมชาติ รอยพับของผ้าที่สมจริง เสื้อผ้าที่มีรายละเอียดสูง โฟกัสคมชัด
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1532,7 +1533,7 @@ Professional photography, ultra-realistic 8K, full-body studio portrait of the s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721356491_njexm3_HL5QcchaYAAvNNF.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Professional Studio Portrait with 3D Text - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721356491_njexm3_HL5QcchaYAAvNNF.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตสตูดิโอระดับมืออาชีพพร้อมข้อความ 3D - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1546,19 +1547,19 @@ Professional photography, ultra-realistic 8K, full-body studio portrait of the s
 
 ---
 
-### No. 24: โพสต์บนโซเชียลมีเดีย - Man on Vintage Leather Sofa
+### No. 24: โพสต์บนโซเชียลมีเดีย - ชายหนุ่มบนโซฟาหนังวินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A high-quality lifestyle photograph of a man seated on a classic Chesterfield sofa in an industrial concrete setting.
+ภาพถ่ายไลฟ์สไตล์คุณภาพสูงของชายหนุ่มที่นั่งอยู่บนโซฟา Chesterfield คลาสสิกในบรรยากาศห้องคอนกรีตสไตล์อินดัสเทรียล
 
 #### 📝 คำสั่ง
 
 ```
-{argument name="subject" default="A young man with dark hair and a beard"} sits in the center of the frame, angled at a 45-degree turn and leaning slightly to his right with casually tilted shoulders. His expression is intentionally posed and serious, featuring relaxed eyebrows, a neutral mouth with no trace of a smile, and eyes thoughtfully looking away. He is dressed in a {argument name="clothing" default="black v-neck t-shirt and white trousers"}, accessorized with a gold digital watch, a silver pendant necklace, and a silver bracelet. His left hand rests softly on his thigh in a naturally relaxed state, while his right hand is organically draped over the back of the furniture with a comfortably loose wrist. He is seated on a dominant, {argument name="furniture" default="vintage brown button-tufted leather Chesterfield sofa"} that shows slight, authentic wear in the foreground. Situated in the midground to his right is a vintage floor lamp featuring a beige fringed shade and a distinctly carved spiral wood stand. The indoor setting utilizes a shallow spatial depth that meets a rough, matte raw concrete wall, highly detailed with patchy cool gray tones, horizontal lines, realistic pitting, and industrial cracks. The calm, relaxed indoor lifestyle atmosphere is illuminated by soft, moderately directional mixed front lighting with ambient fill from multiple sources, blending neutral light with a warm practical glow. A complementary color palette of cool grays, warm browns, deep blacks, and light beiges is balanced by medium-length, soft-edged gray shadows that pool naturally under the subject and across the textured leather, paired with subtle specular highlights gently catching on his face and the sofa's surface. Captured straight on as an organically styled, realistic digital photograph using a 50mm lens at f/2.8, the composition blends contemporary lifestyle aesthetics with industrial interior design, utilizing a medium depth of field and slightly soft overall sharpness with zero grain, finished with subtle contrast enhancements and meticulously preserved shadows, framed naturally in a 1:1 aspect ratio.
+{argument name="subject" default="ชายหนุ่มผมเข้มไว้เครา"} นั่งอยู่กลางเฟรม โดยหันตัวทำมุม 45 องศาและเอนตัวไปทางขวาเล็กน้อยพร้อมไหล่ที่เอียงอย่างเป็นธรรมชาติ สีหน้าของเขาดูจริงจังและตั้งใจ คิ้วผ่อนคลาย ปากเรียบเฉยไร้รอยยิ้ม และสายตาทอดมองไปทางอื่นอย่างครุ่นคิด เขาสวมใส่ {argument name="clothing" default="เสื้อยืดคอวีสีดำและกางเกงขายาวสีขาว"} ประดับด้วยนาฬิกาดิจิทัลสีทอง สร้อยคอจี้เงิน และกำไลข้อมือเงิน มือซ้ายวางอยู่บนต้นขาอย่างผ่อนคลาย ในขณะที่มือขวาวางพาดบนพนักพิงของโซฟาอย่างเป็นธรรมชาติและดูสบายๆ เขานั่งอยู่บน {argument name="furniture" default="โซฟาหนัง Chesterfield สีน้ำตาลวินเทจแบบดึงดุม"} ที่ดูโดดเด่นและมีร่องรอยการใช้งานจริงเล็กน้อยในส่วนหน้าของภาพ บริเวณฉากกลางทางด้านขวาของเขาคือโคมไฟตั้งพื้นวินเทจที่มีโป๊ะโคมสีเบจขอบพู่และขาตั้งไม้แกะสลักเป็นเกลียวอย่างชัดเจน บรรยากาศภายในห้องใช้ระยะชัดตื้นที่ตัดกับผนังคอนกรีตดิบผิวแมตต์ ซึ่งเต็มไปด้วยรายละเอียดของโทนสีเทาเย็นที่ไม่สม่ำเสมอ เส้นแนวนอน รอยหลุมที่สมจริง และรอยร้าวสไตล์อินดัสเทรียล บรรยากาศไลฟ์สไตล์ภายในห้องที่ดูสงบและผ่อนคลายถูกส่องสว่างด้วยแสงจากด้านหน้าแบบผสมผสานที่นุ่มนวลและมีทิศทางปานกลาง พร้อมแสงเติมจากหลายแหล่งที่มา ผสมผสานแสงโทนกลางเข้ากับแสงโทนอุ่นจากโคมไฟ จานสีที่ลงตัวของสีเทาเย็น สีน้ำตาลอบอุ่น สีดำเข้ม และสีเบจอ่อน ถูกสร้างสมดุลด้วยเงาสีเทาขอบนุ่มความยาวปานกลางที่ทอดตัวอย่างเป็นธรรมชาติใต้ตัวแบบและบนพื้นผิวหนัง พร้อมไฮไลท์สะท้อนแสงจางๆ ที่ตกกระทบบนใบหน้าและพื้นผิวของโซฟา ภาพนี้ถ่ายแบบตรงหน้าด้วยสไตล์ที่เป็นธรรมชาติและสมจริงโดยใช้เลนส์ 50mm ที่ f/2.8 องค์ประกอบภาพผสมผสานความสวยงามของไลฟ์สไตล์ร่วมสมัยเข้ากับการออกแบบตกแต่งภายในสไตล์อินดัสเทรียล โดยใช้ระยะชัดลึกปานกลางและความคมชัดโดยรวมที่นุ่มนวลเล็กน้อยโดยไม่มีสัญญาณรบกวน (grain) ปิดท้ายด้วยการปรับคอนทราสต์ที่ละเอียดอ่อนและการรักษาเงาไว้อย่างพิถีพิถัน จัดวางองค์ประกอบภาพในสัดส่วน 1:1 อย่างเป็นธรรมชาติ
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1566,7 +1567,7 @@ A high-quality lifestyle photograph of a man seated on a classic Chesterfield so
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721356475_l73m9o_HL4rcbsXkAA3wYA.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Man on Vintage Leather Sofa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721356475_l73m9o_HL4rcbsXkAA3wYA.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ชายหนุ่มบนโซฟาหนังวินเทจ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1580,19 +1581,19 @@ A high-quality lifestyle photograph of a man seated on a classic Chesterfield so
 
 ---
 
-### No. 25: โพสต์บนโซเชียลมีเดีย - Luxury Fashion Editorial Studio Shoot
+### No. 25: โพสต์บนโซเชียลมีเดีย - การถ่ายภาพแฟชั่นเอดิเตอร์เรียลสุดหรูในสตูดิโอ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A minimalist luxury fashion editorial prompt for a professional studio photoshoot, focusing on quiet luxury styling and clean composition.
+พรอมต์สำหรับการถ่ายภาพแฟชั่นเอดิเตอร์แนวลักชูรีมินิมอลในสตูดิโอระดับมืออาชีพ โดยเน้นสไตล์ Quiet Luxury และการจัดองค์ประกอบภาพที่สะอาดตา
 
 #### 📝 คำสั่ง
 
 ```
-A high-end luxury fashion editorial photoshoot of a {argument name="subject" default="stylish model"} standing in a relaxed, confident pose with hands casually in pockets or by their sides, looking directly at the camera with a calm, sophisticated expression. The outfit features {argument name="outfit" default="modern minimalist tailoring in neutral tones, including a structured jacket layered over a premium knit or polo top, paired with relaxed wide-leg tailored trousers"} and clean leather sneakers or elegant footwear. The styling embodies quiet luxury with impeccable fit, premium fabrics, and understated elegance. Photographed in a professional studio against a {argument name="backdrop" default="seamless solid-color backdrop"} with a matching floor. Soft diffused lighting creates natural skin tones, gentle shadows, and subtle depth. Full-body composition, centered framing with generous negative space, eye-level perspective, clean and balanced composition. Luxury campaign aesthetic inspired by premium fashion houses, contemporary editorial styling, ultra-realistic photography, medium-format camera, 85mm lens, f/4, shallow depth of field, matte color grading, realistic fabric textures, crisp details, cinematic lighting, premium commercial fashion campaign, magazine cover quality, 8K, highly detailed, natural proportions, no logos, no text, no watermark, timeless minimalist aesthetic.
+ภาพถ่ายแฟชั่นเอดิเตอร์สุดหรูระดับไฮเอนด์ของ {argument name="subject" default="นางแบบ/นายแบบที่มีสไตล์"} ยืนในท่าทางที่ผ่อนคลายและมั่นใจ โดยเอามือล้วงกระเป๋าหรือวางไว้ข้างลำตัวอย่างเป็นธรรมชาติ มองตรงมาที่กล้องด้วยสีหน้าเรียบเฉยและดูมีระดับ เครื่องแต่งกายประกอบด้วย {argument name="outfit" default="ชุดเทเลอร์มินิมอลสมัยใหม่ในโทนสีกลาง เช่น เสื้อแจ็คเก็ตที่มีโครงสร้างสวมทับเสื้อไหมพรมหรือเสื้อโปโลเกรดพรีเมียม จับคู่กับกางเกงขายาวทรงกว้างที่ตัดเย็บอย่างประณีต"} และรองเท้าหนังสะอาดตาหรือรองเท้าที่ดูสง่างาม สไตล์การแต่งตัวสะท้อนถึงความหรูหราแบบ Quiet Luxury ด้วยคัตติ้งที่พอดีตัว เนื้อผ้าเกรดพรีเมียม และความเรียบหรูที่ดูไม่ตะโกน ถ่ายทำในสตูดิโอระดับมืออาชีพโดยมี {argument name="backdrop" default="ฉากหลังสีพื้นแบบไร้รอยต่อ"} พร้อมพื้นสีเดียวกัน แสงนุ่มนวลที่กระจายตัวช่วยสร้างโทนสีผิวที่เป็นธรรมชาติ เงาที่นุ่มนวล และมิติที่ละเอียดอ่อน องค์ประกอบภาพแบบเต็มตัว จัดวางตำแหน่งให้อยู่กึ่งกลางโดยมีพื้นที่ว่างโดยรอบอย่างเหมาะสม มุมมองระดับสายตา องค์ประกอบภาพที่สะอาดและสมดุล สุนทรียภาพแบบแคมเปญหรูหราที่ได้รับแรงบันดาลใจจากแบรนด์แฟชั่นชั้นนำ สไตล์เอดิเตอร์เรียลร่วมสมัย ภาพถ่ายสมจริงระดับสูง กล้อง Medium Format เลนส์ 85 มม. f/4 ระยะชัดลึกตื้น การปรับสีแบบด้าน พื้นผิวผ้าที่สมจริง รายละเอียดที่คมชัด แสงแบบภาพยนตร์ แคมเปญแฟชั่นเชิงพาณิชย์ระดับพรีเมียม คุณภาพระดับปกนิตยสาร 8K รายละเอียดสูง สัดส่วนสมจริง ไม่มีโลโก้ ไม่มีข้อความ ไม่มีลายน้ำ สุนทรียภาพมินิมอลที่เหนือกาลเวลา
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1600,13 +1601,13 @@ A high-end luxury fashion editorial photoshoot of a {argument name="subject" def
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362882_n0u6x6_HL39Ul-bMAAh7rZ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Luxury Fashion Editorial Studio Shoot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721362882_n0u6x6_HL39Ul-bMAAh7rZ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายภาพแฟชั่นเอดิเตอร์เรียลสุดหรูในสตูดิโอ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362895_5wkau6_HL39Ul3bMAAcEqB.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Luxury Fashion Editorial Studio Shoot - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721362895_5wkau6_HL39Ul3bMAAcEqB.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายภาพแฟชั่นเอดิเตอร์เรียลสุดหรูในสตูดิโอ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1620,43 +1621,43 @@ A high-end luxury fashion editorial photoshoot of a {argument name="subject" def
 
 ---
 
-### No. 26: โพสต์บนโซเชียลมีเดีย - Cyberpunk Futuristic Visor Portrait
+### No. 26: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสไตล์ไซเบอร์พังก์ล้ำยุคพร้อมที่ครอบตา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-An immersive dark sci-fi 3D render prompt with dramatic two-tone neon lighting and high-contrast composition, inspired by Blade Runner 2049.
+พรอมต์สำหรับงานเรนเดอร์ 3D แนวไซไฟดาร์กที่สมจริง พร้อมแสงนีออนสองโทนสุดดราม่าและการจัดองค์ประกอบภาพที่มีคอนทราสต์สูง โดยได้รับแรงบันดาลใจจาก Blade Runner 2049
 
 #### 📝 คำสั่ง
 
 ```
-Hyper-realistic 3D rendered digital art portrait in a 9:16 vertical format. Subject is a {argument name="subject" default="platinum blonde/white hair pulled back"}, wearing a {argument name="accessory" default="sleek matte black wraparound futuristic visor with a glowing amber-orange LED neon strip"} running along its inner bottom edge. The visor sits flush against the face with no gap.
+ภาพพอร์ตเทรตศิลปะดิจิทัลเรนเดอร์ 3D ที่สมจริงเป็นพิเศษในรูปแบบแนวตั้ง 9:16 ตัวแบบคือ {argument name="subject" default="คนผมสีบลอนด์แพลทินัม/ผมสีขาวรวบตึง"} สวมใส่ {argument name="accessory" default="ที่ครอบตาดีไซน์ล้ำยุคแบบโอบรอบสีดำด้านเรียบหรู พร้อมแถบนีออน LED สีส้มอำพันเรืองแสง"} พาดผ่านขอบด้านล่าง ที่ครอบตาแนบสนิทไปกับใบหน้าโดยไม่มีช่องว่าง
 
-**Camera Angle & Composition**
+**มุมกล้องและการจัดองค์ประกอบภาพ**
 
-Camera angle is an extreme low-angle (worm's-eye view), with the viewer looking upward at the subject. The subject's face is tilted upward and slightly to the right in a 3/4 profile, gazing toward something above the frame. Lips are slightly parted, jaw relaxed, and the expression conveys deep immersion, awe, and transcendence. The neck is fully elongated and exposed. The subject wears a black turtleneck that disappears seamlessly into the background.
+มุมกล้องเป็นมุมต่ำสุด (มุมมองจากพื้นดิน) โดยให้ผู้ชมมองขึ้นไปยังตัวแบบ ใบหน้าของตัวแบบเอียงขึ้นและหันไปทางขวาเล็กน้อยในมุม 3/4 สายตามองไปยังสิ่งที่อยู่เหนือเฟรม ริมฝีปากเผยอเล็กน้อย ขากรรไกรผ่อนคลาย สีหน้าสื่อถึงความดื่มด่ำ ความประหลาดใจ และความเหนือจริง ลำคอยืดตรงและเปิดเผยให้เห็นชัดเจน ตัวแบบสวมเสื้อคอเต่าสีดำที่กลมกลืนไปกับพื้นหลังอย่างไร้รอยต่อ
 
-**Lighting**
+**การจัดแสง**
 
-Extreme low-key, high-contrast cinematic lighting with an absolute pure black background and zero ambient spill.
+การจัดแสงแบบภาพยนตร์ที่มีคอนทราสต์สูงและเน้นความมืด (Low-key) โดยมีพื้นหลังเป็นสีดำสนิทและไม่มีแสงฟุ้งกระจาย
 
-The {argument name="primary light" default="primary light source is the glowing visor itself"}, casting intense amber-orange underlighting across the chin, lips, cheeks, nose bridge, and neck from below.
+{argument name="primary light" default="แหล่งกำเนิดแสงหลักคือตัวที่ครอบตาที่เรืองแสง"} ซึ่งสาดแสงสีส้มอำพันเข้มจากด้านล่างขึ้นไปกระทบคาง ริมฝีปาก แก้ม สันจมูก และลำคอ
 
-A secondary cool cyan-teal ambient light wraps around the top of the head, forehead, and upper cheek from above-left.
+แสงรองเป็นแสงสีฟ้าอมเขียว (Cyan-Teal) ที่โอบล้อมรอบศีรษะ หน้าผาก และแก้มส่วนบนจากด้านซ้ายบน
 
-The lighting creates a dramatic two-tone color temperature clash between warm burnt orange/gold and cool electric cyan/teal. Subsurface scattering is visible on the nose tip and cheek edges where the orange light passes through the skin. Realistic light bloom and a soft orange corona radiate from the LED strip.
+การจัดแสงสร้างความขัดแย้งของอุณหภูมิสีสองโทนที่น่าทึ่งระหว่างสีส้มไหม้/ทองที่อบอุ่น และสีฟ้าอมเขียวไฟฟ้าที่เย็นตา มีการแสดงผล Subsurface scattering ที่ปลายจมูกและขอบแก้มในจุดที่แสงสีส้มส่องผ่านผิวหนัง มีเอฟเฟกต์แสงฟุ้ง (Light bloom) ที่สมจริงและรัศมีสีส้มอ่อนๆ แผ่ออกมาจากแถบ LED
 
-**Color Palette**
+**โทนสี**
 
-Absolute black, electric cyan, burnt amber-orange, and warm gold.
+สีดำสนิท, สีฟ้าไฟฟ้า (Electric cyan), สีส้มอำพันไหม้ และสีทองอบอุ่น
 
-No whites. No pastel colors. No environmental detail.
+ไม่มีสีขาว ไม่มีสีพาสเทล และไม่มีรายละเอียดสภาพแวดล้อม
 
-**Style**
+**สไตล์**
 
-Dark sci-fi cyberpunk concept art inspired by the Blade Runner 2049 cinematic aesthetic. High-end 3D render featuring displacement-mapped skin texture, subsurface scattering, hard shadow terminator lines, realistic light bloom, and an ascending aspirational composition. Film poster and AAA game cinematic quality with a brooding atmospheric mood and futuristic technology immersion theme. Ultra-high detail, dramatic, and minimal.
+งานคอนเซปต์อาร์ตแนวไซไฟไซเบอร์พังก์ดาร์กที่ได้รับแรงบันดาลใจจากสุนทรียศาสตร์ภาพยนตร์เรื่อง Blade Runner 2049 เป็นงานเรนเดอร์ 3D คุณภาพสูงที่มีพื้นผิวผิวหนังแบบ Displacement-mapped, Subsurface scattering, เส้นเงาที่คมชัด, แสงฟุ้งที่สมจริง และการจัดองค์ประกอบภาพที่ดูทะเยอทะยาน คุณภาพระดับโปสเตอร์ภาพยนตร์และเกม AAA พร้อมบรรยากาศที่ลึกลับและธีมเทคโนโลยีแห่งอนาคต รายละเอียดสูงเป็นพิเศษ มีความดราม่าและมินิมอล
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1664,7 +1665,7 @@ Dark sci-fi cyberpunk concept art inspired by the Blade Runner 2049 cinematic ae
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721359639_pbxt1j_HL3ii75bQAAABwv.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cyberpunk Futuristic Visor Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721359639_pbxt1j_HL3ii75bQAAABwv.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสไตล์ไซเบอร์พังก์ล้ำยุคพร้อมที่ครอบตา - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1678,19 +1679,19 @@ Dark sci-fi cyberpunk concept art inspired by the Blade Runner 2049 cinematic ae
 
 ---
 
-### No. 27: โพสต์บนโซเชียลมีเดีย - Chibi Anime Poster Illustration
+### No. 27: โพสต์บนโซเชียลมีเดีย - ภาพประกอบโปสเตอร์อนิเมะสไตล์จิบิ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A vibrant chibi-style anime poster featuring a young hero with a sword on a bold gradient background with lightning accents.
+โปสเตอร์อนิเมะสไตล์จิบิสีสันสดใส นำเสนอตัวละครฮีโร่หนุ่มถือดาบ บนพื้นหลังไล่เฉดสีที่โดดเด่นพร้อมลวดลายสายฟ้า
 
 #### 📝 คำสั่ง
 
 ```
-Wide {argument name="style" default="chibi anime poster"} composition, {argument name="character" default="young boy character with spiky yellow hair standing confidently with sword and backpack"}, {argument name="background" default="bold yellow gradient background"}, lightning bolt accent graphics scattered throughout, large brush-stroke name typography along top edge, clean negative space at bottom for additional text or logo, vibrant anime poster illustration style, vertical 4:5 --ar 4:5 --v 6
+องค์ประกอบภาพแบบกว้าง {argument name="style" default="chibi anime poster"}, {argument name="character" default="ตัวละครเด็กหนุ่มผมสีเหลืองชี้ตั้ง ยืนอย่างมั่นใจพร้อมดาบและกระเป๋าเป้"}, {argument name="background" default="พื้นหลังไล่เฉดสีเหลืองสดใส"}, ตกแต่งด้วยกราฟิกสายฟ้ากระจายอยู่ทั่วภาพ, ตัวอักษรชื่อเรื่องสไตล์พู่กันขนาดใหญ่อยู่ที่ขอบด้านบน, เว้นพื้นที่ว่างด้านล่างสำหรับใส่ข้อความหรือโลโก้เพิ่มเติม, สไตล์ภาพประกอบโปสเตอร์อนิเมะสีสันสดใส, แนวตั้ง 4:5 --ar 4:5 --v 6
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1698,25 +1699,25 @@ Wide {argument name="style" default="chibi anime poster"} composition, {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358000_32cnqs_HL3fkEOacAAK1Pp.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Chibi Anime Poster Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721358000_32cnqs_HL3fkEOacAAK1Pp.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพประกอบโปสเตอร์อนิเมะสไตล์จิบิ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358642_9lakgm_HL3fk8zbwAA4jAj.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Chibi Anime Poster Illustration - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721358642_9lakgm_HL3fk8zbwAA4jAj.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพประกอบโปสเตอร์อนิเมะสไตล์จิบิ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358166_1i5a9z_HL3fltTaYAEJSUk.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Chibi Anime Poster Illustration - Image 3">
+<img src="https://cms-assets.youmind.com/media/1782721358166_1i5a9z_HL3fltTaYAEJSUk.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพประกอบโปสเตอร์อนิเมะสไตล์จิบิ - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721359188_v7161r_HL3fme4bwAAiSTt.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Chibi Anime Poster Illustration - Image 4">
+<img src="https://cms-assets.youmind.com/media/1782721359188_v7161r_HL3fme4bwAAiSTt.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพประกอบโปสเตอร์อนิเมะสไตล์จิบิ - Image 4">
 </div>
 
 #### 📌 รายละเอียด
@@ -3135,21 +3136,21 @@ Wide {argument name="style" default="chibi anime poster"} composition, {argument
 
 ---
 
-### No. 62: คอมิก / สตอรี่บอร์ด - Fantasy Game Character Warrior Jo
+### No. 62: คอมิก / สตอรี่บอร์ด - ตัวละครนักรบในเกมแฟนตาซี Jo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A detailed set of prompts for creating a female warrior character named Jo, including a static portrait on a battlefield and an action-packed combat scene with character consistency.
+ชุดคำสั่ง (Prompts) แบบละเอียดสำหรับการสร้างตัวละครนักรบหญิงชื่อ Jo รวมถึงภาพพอร์ตเทรตบนสมรภูมิรบและฉากต่อสู้สุดมันที่ยังคงความสม่ำเสมอของตัวละคร
 
 #### 📝 คำสั่ง
 
 ```
-Create an ultra-realistic 8K cinematic fantasy game character named Jo, a fearless female warrior and legendary role model. She stands confidently on top of a rocky battlefield during a dramatic sunset, wearing black and crimson battle armor with glowing blue energy lines. Her long silver hair flows in the wind, and her determined expression radiates courage and leadership. She holds a {argument name="weapon one" default="massive enchanted sword"} in one hand and a {argument name="weapon two" default="futuristic energy spear"} in the other. Behind her stands a disciplined army of elite warriors carrying banners, shields, swords, and glowing weapons, stretching across the battlefield. The sky is filled with storm clouds, smoke, sparks, and rays of sunlight breaking through. Epic cinematic lighting, volumetric fog, flying embers, highly detailed armor, realistic textures, Unreal Engine 5 quality, AAA game concept art, dynamic composition, ultra-sharp focus, dramatic atmosphere, powerful female commander, no text, no watermark, 16:9.
+สร้างตัวละครนักรบหญิงในเกมแฟนตาซีระดับ 8K ที่สมจริงสุด ๆ ชื่อ Jo ผู้เป็นนักรบหญิงผู้กล้าหาญและเป็นแบบอย่างในตำนาน เธอยืนอย่างมั่นใจบนสมรภูมิรบที่เป็นโขดหินท่ามกลางแสงอาทิตย์ยามเย็นอันน่าทึ่ง สวมชุดเกราะสีดำและสีแดงเข้มที่มีเส้นพลังงานสีฟ้าเรืองแสง ผมสีเงินยาวของเธอปลิวไสวไปตามสายลม และสีหน้าอันมุ่งมั่นของเธอเปล่งประกายด้วยความกล้าหาญและความเป็นผู้นำ เธอถือ {argument name="weapon one" default="ดาบเวทมนตร์ขนาดใหญ่"} ไว้ในมือข้างหนึ่ง และ {argument name="weapon two" default="หอกพลังงานแห่งอนาคต"} ในอีกข้างหนึ่ง ด้านหลังของเธอคือกองทัพนักรบชั้นยอดที่เต็มไปด้วยวินัย ถือธง โล่ ดาบ และอาวุธเรืองแสงที่ทอดยาวไปทั่วสมรภูมิ ท้องฟ้าเต็มไปด้วยเมฆพายุ ควัน ประกายไฟ และแสงอาทิตย์ที่ส่องลอดผ่านลงมา แสงแบบภาพยนตร์ระดับมหากาพย์ หมอกวอลูเมตริก สะเก็ดไฟที่ลอยละล่อง ชุดเกราะที่มีรายละเอียดสูง พื้นผิวสมจริง คุณภาพระดับ Unreal Engine 5 คอนเซปต์อาร์ตเกมระดับ AAA องค์ประกอบภาพแบบไดนามิก โฟกัสที่คมชัดสุด ๆ บรรยากาศที่น่าตื่นตาตื่นใจ ผู้บัญชาการหญิงผู้ทรงพลัง ไม่มีข้อความ ไม่มีลายน้ำ อัตราส่วน 16:9
 
-Create an ultra-realistic 8K cinematic AAA game action scene featuring the exact same female warrior "Jo" from the previous image. Maintain 100% character consistency: same face, same silver-white long flowing hair, same facial features, same body proportions, same black and crimson armor with glowing blue energy accents, same enchanted crimson greatsword in her right hand, same futuristic blue energy spear in her left hand, identical design, colors, accessories, and overall appearance. Jo is in the middle of an intense battlefield, fearlessly charging toward thousands of enemy warriors. She is performing a powerful attack while swinging her glowing crimson sword and simultaneously thrusting her blue energy spear. Enemy soldiers are being pushed back by the force of her attack. Massive explosions, magical shockwaves, flying sparks, shattered weapons, smoke, dust, burning siege machines, collapsing structures, and glowing energy trails fill the battlefield. Behind Jo, her loyal army advances forward under her leadership while enemy forces surround them from every direction. The sky is dark with storm clouds, lightning, fire, and flying embers, creating an epic war atmosphere. Use a dramatic low-angle cinematic camera, dynamic action pose, intense determined facial expression, realistic motion blur, volumetric lighting, god rays, ultra-detailed armor textures, realistic physics for hair and cape, Unreal Engine 5 quality, hyper-realistic, AAA game cinematic, epic fantasy war, maximum detail, no blood, no gore, no text, no watermark, 16:9 aspect ratio. The character must look exactly like the first image with no changes to her appearance.
+สร้างฉากแอ็กชันในเกมระดับ AAA ที่สมจริงสุด ๆ ในระดับ 8K โดยมีตัวละครนักรบหญิง "Jo" คนเดิมจากภาพก่อนหน้า รักษาความสม่ำเสมอของตัวละครไว้ 100%: ใบหน้าเดิม ผมยาวสีเงินขาวที่พริ้วไหวแบบเดิม โครงหน้าเดิม สัดส่วนร่างกายเดิม ชุดเกราะสีดำและสีแดงเข้มที่มีเส้นพลังงานสีฟ้าเรืองแสงแบบเดิม ดาบใหญ่สีแดงเข้มเวทมนตร์ในมือขวาแบบเดิม หอกพลังงานสีฟ้าแห่งอนาคตในมือซ้ายแบบเดิม ดีไซน์ สี เครื่องประดับ และรูปลักษณ์โดยรวมเหมือนเดิมทุกประการ Jo อยู่ท่ามกลางสมรภูมิรบที่ดุเดือด เธอกำลังพุ่งเข้าหานักรบศัตรูนับพันอย่างไม่เกรงกลัว เธอโจมตีด้วยพลังอันมหาศาลขณะเหวี่ยงดาบสีแดงเรืองแสงและแทงหอกพลังงานสีฟ้าไปพร้อมกัน ทหารศัตรูกำลังถูกผลักถอยหลังด้วยแรงโจมตีของเธอ การระเบิดครั้งใหญ่ คลื่นกระแทกเวทมนตร์ ประกายไฟที่กระจัดกระจาย อาวุธที่แตกหัก ควัน ฝุ่น เครื่องจักรล้อมเมืองที่กำลังลุกไหม้ โครงสร้างที่พังทลาย และร่องรอยพลังงานเรืองแสงปกคลุมไปทั่วสมรภูมิ ด้านหลังของ Jo กองทัพผู้ภักดีของเธอกำลังรุกคืบหน้าภายใต้การนำของเธอ ในขณะที่กองกำลังศัตรูล้อมพวกเขาไว้จากทุกทิศทาง ท้องฟ้ามืดมิดด้วยเมฆพายุ สายฟ้า ไฟ และสะเก็ดไฟที่ลอยละล่อง สร้างบรรยากาศสงครามระดับมหากาพย์ ใช้มุมกล้องแบบภาพยนตร์ที่ถ่ายจากมุมต่ำอันน่าทึ่ง ท่าทางแอ็กชันแบบไดนามิก สีหน้ามุ่งมั่นที่เข้มข้น โมชันเบลอที่สมจริง แสงวอลูเมตริก แสงจากสวรรค์ (God rays) พื้นผิวชุดเกราะที่มีรายละเอียดสูง ฟิสิกส์ที่สมจริงสำหรับเส้นผมและผ้าคลุม คุณภาพระดับ Unreal Engine 5 สมจริงขั้นสุด ภาพยนตร์เกมระดับ AAA สงครามแฟนตาซีระดับมหากาพย์ รายละเอียดสูงสุด ไม่มีเลือด ไม่มีความรุนแรง ไม่มีข้อความ ไม่มีลายน้ำ อัตราส่วนภาพ 16:9 ตัวละครต้องดูเหมือนภาพแรกทุกประการโดยไม่มีการเปลี่ยนแปลงรูปลักษณ์
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3157,13 +3158,13 @@ Create an ultra-realistic 8K cinematic AAA game action scene featuring the exact
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721360652_bwz32z_HL4AUsyaYAAxQOr.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Fantasy Game Character Warrior Jo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721360652_bwz32z_HL4AUsyaYAAxQOr.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ตัวละครนักรบในเกมแฟนตาซี Jo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721360627_lvlw3y_HL4AUvCaMAAjQrF.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Fantasy Game Character Warrior Jo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721360627_lvlw3y_HL4AUvCaMAAjQrF.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ตัวละครนักรบในเกมแฟนตาซี Jo - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -5407,7 +5408,7 @@ NEGATIVE PROMPT: CGI, เรนเดอร์ 3D, ของปลอม, ปร
 
 <div align="center">
 
-### 🎯 14512 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 14511 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5470,6 +5471,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-29T09:30:20.571Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-29T13:20:59.842Z</sub>
 
 </div>

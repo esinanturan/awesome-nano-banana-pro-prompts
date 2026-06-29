@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **14632** |
+| 📝 Total de prompts | **14631** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **lunes, 29 de junio de 2026, 9:30:30 UTC** |
+| 🔄 Última actualización | **lunes, 29 de junio de 2026, 13:21:11 UTC** |
 
 </div>
 
@@ -654,19 +654,19 @@ La relación de aspecto es de póster vertical 3:4. Incluye caligrafía japonesa
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: Perfil / Avatar - High-Contrast Monochrome Editorial Portrait
+### No. 1: Perfil / Avatar - Retrato editorial monocromático de alto contraste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A professional black-and-white portrait prompt featuring a male subject with high-contrast lighting, low-angle composition, and sharp skin textures for an editorial feel.
+Un prompt profesional para retratos en blanco y negro que presenta a un sujeto masculino con iluminación de alto contraste, composición en ángulo contrapicado y texturas de piel nítidas para un estilo editorial.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect ratio. The {argument name="subject" default="man"} fills about 85-90% of the frame in a medium close-up, showing the head, neck, shoulders, upper chest, upper arms, and part of the forearms, with only a small amount of empty space above his head. A {argument name="physical description" default="handsome athletic man"} wearing a {argument name="clothing" default="plain black fitted ribbed crew-neck short-sleeve sweater"}. His arms are loosely crossed. His body is turned slightly (20°) while his head is turned slightly to the left and tilted upward, with his eyes looking off-camera toward the upper left, giving a calm, confident, thoughtful expression. Strong hard natural sunlight from the upper left illuminates the left side of his hair, forehead, eye, cheek, nose, beard, neck, shoulder, and front arm, while the right side of his face and ear fall into deep shadow, creating crisp, high-contrast facial definition. Clean plain gray sky background, no distractions. High-contrast monochrome with deep blacks, bright highlights, sharp skin texture, fine-art fashion photography, ultra-realistic, premium editorial quality.
+Retrato editorial en blanco y negro ultrarrealista, toma en ángulo contrapicado, relación de aspecto 4:5. El {argument name="subject" default="hombre"} ocupa aproximadamente el 85-90% del encuadre en un plano medio corto, mostrando la cabeza, el cuello, los hombros, la parte superior del pecho, la parte superior de los brazos y parte de los antebrazos, con solo una pequeña cantidad de espacio vacío sobre su cabeza. Un {argument name="physical description" default="hombre atlético y apuesto"} que viste un {argument name="clothing" default="suéter sencillo de color negro ajustado, de canalé y manga corta con cuello redondo"}. Sus brazos están ligeramente cruzados. Su cuerpo está girado levemente (20°), mientras que su cabeza está ligeramente girada hacia la izquierda e inclinada hacia arriba, con los ojos mirando fuera de cámara hacia la parte superior izquierda, transmitiendo una expresión tranquila, segura y reflexiva. Una luz solar natural fuerte y dura desde la parte superior izquierda ilumina el lado izquierdo de su cabello, frente, ojo, mejilla, nariz, barba, cuello, hombro y brazo frontal, mientras que el lado derecho de su rostro y oreja caen en una sombra profunda, creando una definición facial nítida y de alto contraste. Fondo de cielo gris limpio y sencillo, sin distracciones. Monocromo de alto contraste con negros profundos, brillos intensos, textura de piel nítida, fotografía de moda artística, ultrarrealista, calidad editorial premium.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -674,7 +674,7 @@ Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect r
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721357804_r5qg7a_HL6K9NmbgAEBQlM.jpg" width="600" alt="Perfil / Avatar - High-Contrast Monochrome Editorial Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721357804_r5qg7a_HL6K9NmbgAEBQlM.jpg" width="600" alt="Perfil / Avatar - Retrato editorial monocromático de alto contraste - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -688,19 +688,19 @@ Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect r
 
 ---
 
-### No. 2: Perfil / Avatar - Photorealistic Luxury Editorial Male Portrait
+### No. 2: Perfil / Avatar - Retrato editorial masculino de lujo fotorrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A prompt for generating an ultra-photorealistic editorial portrait of a man in a black suit on a modern luxury street, using a reference image for appearance.
+Un prompt para generar un retrato editorial ultra fotorrealista de un hombre con traje negro en una calle de lujo moderna, utilizando una imagen de referencia para la apariencia.
 
 #### 📝 Prompt
 
 ```
-Use the uploaded reference image as the appearance reference for the subject. Create an ultra-photorealistic, high-end editorial portrait with natural facial proportions and realistic human features. Preserve the overall appearance from the reference while maintaining a natural photographic look. The subject is standing confidently in a {argument name="setting" default="modern luxury city street"} during golden hour, wearing a {argument name="outfit" default="perfectly tailored black suit, white dress shirt, and an elegant wristwatch"}. Captured on a professional full-frame camera with an {argument name="lens" default="85mm portrait lens"} at f/1.4, producing beautiful background bokeh and razor-sharp focus on the eyes. Realistic skin texture with visible pores, natural hair strands, lifelike eyes with authentic reflections, physically accurate lighting, cinematic HDR color grading, subtle volumetric sunlight, realistic shadows, premium fashion photography, magazine-cover composition, highly detailed fabric textures, natural expression, balanced exposure, incredibly realistic colors, RAW photography style, ultra-high detail, professional commercial photography, 8K quality, visually indistinguishable from a real photograph.
+Utiliza la imagen de referencia cargada como base para la apariencia del sujeto. Crea un retrato editorial de alta gama, ultra fotorrealista, con proporciones faciales naturales y rasgos humanos realistas. Conserva la apariencia general de la referencia manteniendo un aspecto fotográfico natural. El sujeto aparece de pie con confianza en {argument name="setting" default="una calle de lujo moderna en la ciudad"} durante la hora dorada, vistiendo {argument name="outfit" default="un traje negro perfectamente entallado, camisa blanca y un elegante reloj de pulsera"}. Capturado con una cámara profesional de formato completo con un {argument name="lens" default="objetivo para retrato de 85mm"} a f/1.4, produciendo un hermoso bokeh de fondo y un enfoque nítido en los ojos. Textura de piel realista con poros visibles, hebras de cabello naturales, ojos realistas con reflejos auténticos, iluminación físicamente precisa, gradación de color HDR cinematográfica, luz solar volumétrica sutil, sombras realistas, fotografía de moda de alta calidad, composición de portada de revista, texturas de tela altamente detalladas, expresión natural, exposición equilibrada, colores increíblemente realistas, estilo de fotografía RAW, detalle ultra alto, fotografía comercial profesional, calidad 8K, visualmente indistinguible de una fotografía real.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -708,7 +708,7 @@ Use the uploaded reference image as the appearance reference for the subject. Cr
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721361091_4nqqoz_HL5ndJ2bAAASgbp.jpg" width="600" alt="Perfil / Avatar - Photorealistic Luxury Editorial Male Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721361091_4nqqoz_HL5ndJ2bAAASgbp.jpg" width="600" alt="Perfil / Avatar - Retrato editorial masculino de lujo fotorrealista - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -722,19 +722,19 @@ Use the uploaded reference image as the appearance reference for the subject. Cr
 
 ---
 
-### No. 3: Perfil / Avatar - Cinematic Man Portrait with Face Reference
+### No. 3: Perfil / Avatar - Collage de retratos de mujer pelirroja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A professional cinematic portrait prompt designed to maintain exact facial features from a reference image while placing the subject in a modern urban setting.
+Un collage de fotos vibrante y emotivo que presenta a una joven con cabello largo y rojo en diversos estados de ánimo y entornos.
 
 #### 📝 Prompt
 
 ```
-Ultra realistic cinematic portrait, use uploaded face exactly, no face change. Subject standing beside a modern building entrance, {argument name="clothing" default="oversized maroon shirt, white trousers, white sneakers"}, silver watch, sunglasses, one hand adjusting sleeve, relaxed confident pose. {argument name="background" default="Blurred luxury SUV, tropical greenery, modern architecture"}, cinematic daylight, 85mm lens, f/1.8, shallow depth of field, HDR, ultra detailed 8K.young {argument name="character notes" default="same face and but shirt no tuchine"}.
+Un vibrante collage de fotos presenta a una joven con un llamativo cabello {argument name="hair color" default="rojo"} largo y liso con flequillo suave, exhibido en {argument name="number of portraits" default="ocho"} retratos distintos y emotivos. Cada panel en el archivo de referencia destaca un entorno y estado de ánimo diferente, que van desde espacios interiores acogedores como dormitorios y cocinas hasta entornos con luz natural brillante. La modelo muestra una variedad de expresiones encantadoras, que incluyen risas alegres, guiños juguetones, una pose pensativa con el dedo en la barbilla, una boca en forma de "o" de sorpresa y una pose divertida sacando la lengua, mientras viste una colorida variedad de suéteres y tops casuales. La estética general es cálida, acogedora y juvenil, enfatizando un estudio de personaje divertido y cercano a través de diversas interacciones cotidianas y fotografía de estilo espontáneo.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -742,41 +742,7 @@ Ultra realistic cinematic portrait, use uploaded face exactly, no face change. S
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362436_z2uoky_HL5ITQbacAAzteM.jpg" width="600" alt="Perfil / Avatar - Cinematic Man Portrait with Face Reference - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Dilshad Hussain](https://x.com/DilshadAI1)
-- **Fuente:** [Twitter Post](https://x.com/DilshadAI1/status/2071172519764312261)
-- **Publicado:** 28 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=27033)**
-
----
-
-### No. 4: Perfil / Avatar - Red Hair Woman Portrait Collage
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-A vibrant and emotive photo collage featuring a young woman with long red hair across various moods and settings.
-
-#### 📝 Prompt
-
-```
-A vibrant photo collage features a young woman with striking, long, straight {argument name="hair color" default="red"} hair and soft bangs, showcased in {argument name="number of portraits" default="eight"} distinct, emotive portraits. Each panel in the referenced file highlights a different setting and mood, ranging from cozy indoor spaces like bedrooms and kitchens to bright, naturally lit environments. The subject displays an array of charming expressions—including joyful laughter, playful winking, thoughtful pondering with a finger to her chin, a surprised "o" mouth, and a silly tongue-out pose—while wearing a colorful variety of sweaters and casual tops. The overall aesthetic is warm, inviting, and youthful, emphasizing a playful and relatable character study through diverse daily interactions and candid-style photography.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721354396_fjkka5_HL5FNc6WYAA0Gbf.jpg" width="600" alt="Perfil / Avatar - Red Hair Woman Portrait Collage - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721354396_fjkka5_HL5FNc6WYAA0Gbf.jpg" width="600" alt="Perfil / Avatar - Collage de retratos de mujer pelirroja - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -790,19 +756,19 @@ A vibrant photo collage features a young woman with striking, long, straight {ar
 
 ---
 
-### No. 5: Perfil / Avatar - Cinematic Golden Hour Portrait of a Woman
+### No. 4: Perfil / Avatar - Retrato cinematográfico de una mujer durante la hora dorada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A high-fashion cinematic portrait of a young woman with a high ponytail, captured on a rocky cliff against a crashing ocean backdrop during the golden hour.
+Un retrato cinematográfico de alta costura de una mujer joven con una coleta alta, capturado en un acantilado rocoso con un océano embravecido de fondo durante la hora dorada.
 
 #### 📝 Prompt
 
 ```
-A stunning, high-fashioned cinematic portrait of a {argument name="subject" default="beautiful young woman"} with a flawless complexion and expressive brown eyes. Her long, rich brown hair is styled in a {argument name="hairstyle" default="voluminous, perfectly detailed high ponytail"} with soft, elegant face-framing strands catching the golden sunlight. She has soft, natural makeup with long lashes and a subtle, thoughtful expression, looking off into the distant horizon away from the camera. Her hands are delicately held together in front of her, showcasing intricately detailed shimmering silver glitter nail art and wearing thin, minimal silver rings on her fingers. She is wearing a modern, chic {argument name="clothing" default="off-white asymmetric one-shoulder top"} and a thin silver chain necklace with a small heart pendant. The background features a breathtaking, highly detailed coastal landscape, standing on a rocky cliff overlooking a vast deep-blue ocean with realistic crashing white waves. The scene is illuminated by soft, warm golden hour sunlight, creating beautiful highlights on her hair and a cinematic depth of field with a softly blurred background.
+Un impresionante retrato cinematográfico de alta costura de una {argument name="subject" default="hermosa mujer joven"} con una tez impecable y expresivos ojos marrones. Su largo y abundante cabello castaño está peinado en una {argument name="hairstyle" default="coleta alta voluminosa y perfectamente detallada"} con mechones suaves y elegantes que enmarcan su rostro, capturando la luz dorada del sol. Luce un maquillaje suave y natural con pestañas largas y una expresión sutil y reflexiva, mirando hacia el horizonte lejano, lejos de la cámara. Sus manos están delicadamente entrelazadas frente a ella, mostrando un intrincado y brillante arte de uñas con purpurina plateada y finos anillos minimalistas en sus dedos. Viste un moderno y elegante {argument name="clothing" default="top asimétrico de un solo hombro en color blanco roto"} y un fino collar de cadena de plata con un pequeño colgante de corazón. El fondo presenta un paisaje costero impresionante y altamente detallado, sobre un acantilado rocoso con vistas a un vasto océano azul profundo con olas blancas realistas rompiendo. La escena está iluminada por la suave y cálida luz de la hora dorada, creando hermosos reflejos en su cabello y una profundidad de campo cinematográfica con un fondo suavemente desenfocado.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -810,7 +776,7 @@ A stunning, high-fashioned cinematic portrait of a {argument name="subject" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721359921_3tg2sr_HL4s2h2bMAAGqib.jpg" width="600" alt="Perfil / Avatar - Cinematic Golden Hour Portrait of a Woman - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721359921_3tg2sr_HL4s2h2bMAAGqib.jpg" width="600" alt="Perfil / Avatar - Retrato cinematográfico de una mujer durante la hora dorada - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -824,19 +790,19 @@ A stunning, high-fashioned cinematic portrait of a {argument name="subject" defa
 
 ---
 
-### No. 6: Perfil / Avatar - Female Android Studio Portrait with Laser Eyes
+### No. 5: Perfil / Avatar - Retrato de estudio de androide femenina con ojos láser
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A sci-fi studio portrait of a female android featuring cybernetic paneling and a horizontal red laser beam effect across her eyes.
+Un retrato de estudio de ciencia ficción de una androide femenina con paneles cibernéticos y un efecto de rayo láser rojo horizontal a través de sus ojos.
 
 #### 📝 Prompt
 
 ```
-A close-up, front-facing studio portrait of a {argument name="subject" default="female android with long, straight blonde hair"}, looking directly into the camera. Subtle cybernetic panel lines and metallic seams are intricately embedded into the skin of her face. A vibrant, continuous {argument name="visual effect" default="horizontal red laser beam"} slices across her eyes, creating a powerful, glowing lens flare effect. She is wearing a simple {argument name="clothing" default="black turtleneck sweater"}. The lighting is cinematic, featuring sharp red rim-lighting that catches the edges of her hair, set against a solid, contrasting muted blue studio background. High-detail skin texture, photorealistic, 8k resolution.
+Un retrato de estudio en primer plano y de frente de una {argument name="subject" default="androide femenina con cabello rubio largo y liso"}, mirando directamente a la cámara. Líneas de paneles cibernéticos sutiles y costuras metálicas están incrustadas intrincadamente en la piel de su rostro. Un {argument name="visual effect" default="rayo láser rojo horizontal"} vibrante y continuo atraviesa sus ojos, creando un efecto de destello de lente potente y brillante. Viste un {argument name="clothing" default="suéter de cuello alto negro"} sencillo. La iluminación es cinematográfica, con una luz de contorno roja y nítida que resalta los bordes de su cabello, sobre un fondo de estudio azul apagado, sólido y contrastante. Textura de piel de alto detalle, fotorrealista, resolución 8k.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -844,7 +810,7 @@ A close-up, front-facing studio portrait of a {argument name="subject" default="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721363705_1n9a8q_HL3-W55a8AAIhsg.jpg" width="600" alt="Perfil / Avatar - Female Android Studio Portrait with Laser Eyes - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721363705_1n9a8q_HL3-W55a8AAIhsg.jpg" width="600" alt="Perfil / Avatar - Retrato de estudio de androide femenina con ojos láser - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -858,19 +824,19 @@ A close-up, front-facing studio portrait of a {argument name="subject" default="
 
 ---
 
-### No. 7: Perfil / Avatar - Hyper-Realistic Urban Fashion Portrait
+### No. 6: Perfil / Avatar - Retrato de moda urbana hiperrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A high-quality photography prompt for a woman in casual urban fashion, focusing on detailed fabric textures, natural lighting, and a cinematic atmosphere.
+Un prompt de fotografía de alta calidad para una mujer con moda urbana casual, centrado en texturas de tela detalladas, iluminación natural y una atmósfera cinematográfica.
 
 #### 📝 Prompt
 
 ```
-Hyper-realistic photography of a {argument name="subject" default="young woman"} standing on a city street, flashing a peace sign and holding a plastic coffee cup. She wears a {argument name="outfit" default="maroon crop top, baggy loose pants, and sneakers"}. A knit cardigan slides off her shoulders. {argument name="accessories" default="Black sunglasses"} on her face. Urban atmosphere with cinematic natural lighting and detailed fabric textures., subtle enigmatic smile, soft cinematic lighting, full-body fashion shot, sharp focus, hyper-detailed textures, masterpiece quality. professional portraiture.
+Fotografía hiperrealista de una {argument name="subject" default="mujer joven"} de pie en una calle de la ciudad, haciendo el signo de la paz y sosteniendo un vaso de café de plástico. Viste un {argument name="outfit" default="top corto granate, pantalones holgados y zapatillas deportivas"}. Un cárdigan de punto se desliza por sus hombros. {argument name="accessories" default="Gafas de sol negras"} en su rostro. Atmósfera urbana con iluminación natural cinematográfica y texturas de tela detalladas, sonrisa sutil y enigmática, iluminación cinematográfica suave, toma de moda de cuerpo completo, enfoque nítido, texturas hiperdetalladas, calidad de obra maestra, retrato profesional.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -878,7 +844,7 @@ Hyper-realistic photography of a {argument name="subject" default="young woman"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721355640_9za4ti_HL3yla-aoAANARv.jpg" width="600" alt="Perfil / Avatar - Hyper-Realistic Urban Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721355640_9za4ti_HL3yla-aoAANARv.jpg" width="600" alt="Perfil / Avatar - Retrato de moda urbana hiperrealista - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -892,19 +858,19 @@ Hyper-realistic photography of a {argument name="subject" default="young woman"}
 
 ---
 
-### No. 8: Perfil / Avatar - Hyper-Realistic Studio Portrait with Geometric Headband
+### No. 7: Perfil / Avatar - Retrato de estudio hiperrealista con diadema geométrica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A moody and sophisticated studio portrait of a woman with natural skin texture and a minimalist metallic headband against a deep crimson background.
+Un retrato de estudio sofisticado y con atmósfera de una mujer con textura de piel natural y una diadema metálica minimalista sobre un fondo carmesí intenso.
 
 #### 📝 Prompt
 
 ```
-A hyper-realistic, dramatic studio portrait of a {argument name="subject" default="woman"} with a clean, centered composition. She has a neutral, powerful expression, featuring natural skin texture, freckles, and light-colored eyes. Her hair is slicked back with a {argument name="accessory" default="minimalist, geometric wire-frame headband"} made of thin metallic rods. She is wearing a {argument name="clothing" default="high-necked, form-fitting black turtleneck garment"} that completely covers her neck and shoulders. The background is a {argument name="background color" default="soft, deep crimson"} with subtle, out-of-focus circular bokeh lights, creating a moody, sophisticated atmosphere. Soft, professional lighting highlights her facial features and the sleek texture of her clothing.
+Un retrato de estudio dramático e hiperrealista de una {argument name="subject" default="mujer"} con una composición limpia y centrada. Tiene una expresión neutral y poderosa, destacando la textura natural de su piel, pecas y ojos claros. Su cabello está peinado hacia atrás con una {argument name="accessory" default="diadema minimalista de estructura geométrica"} hecha de finas varillas metálicas. Viste una {argument name="clothing" default="prenda de cuello alto ajustada de color negro"} que cubre completamente su cuello y hombros. El fondo es de un {argument name="background color" default="carmesí intenso y suave"} con sutiles luces bokeh circulares desenfocadas, creando una atmósfera sofisticada y con carácter. Una iluminación profesional y suave resalta sus rasgos faciales y la textura elegante de su ropa.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -912,7 +878,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362825_pnt83v_HL3gIzTakAEZanc.jpg" width="600" alt="Perfil / Avatar - Hyper-Realistic Studio Portrait with Geometric Headband - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721362825_pnt83v_HL3gIzTakAEZanc.jpg" width="600" alt="Perfil / Avatar - Retrato de estudio hiperrealista con diadema geométrica - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -926,7 +892,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ---
 
-### No. 9: Perfil / Avatar - Retrato detallado en grafito monocromático
+### No. 8: Perfil / Avatar - Retrato detallado en grafito monocromático
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -972,7 +938,7 @@ Un prompt sofisticado para generar bocetos en grafito monocromático de alto con
 
 ---
 
-### No. 10: Perfil / Avatar - Retrato de productor de música cinematográfica
+### No. 9: Perfil / Avatar - Retrato de productor de música cinematográfica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1010,7 +976,7 @@ La gradación de color es cinematográfica con alto contraste, negros profundos 
 
 ---
 
-### No. 11: Perfil / Avatar - Retrato cinematográfico de un invocador de cuervos
+### No. 10: Perfil / Avatar - Retrato cinematográfico de un invocador de cuervos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1044,7 +1010,7 @@ Un retrato fotográfico hiperrealista de medio cuerpo (de la cintura a la cabeza
 
 ---
 
-### No. 12: Perfil / Avatar - Retrato de oficina en casa minimalista
+### No. 11: Perfil / Avatar - Retrato de oficina en casa minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1078,7 +1044,7 @@ Una hermosa mujer joven {argument name="ethnicity" default="de Asia Oriental"} c
 
 ---
 
-### No. 13: Perfil / Avatar - Retrato cinematográfico de mujer y gato
+### No. 12: Perfil / Avatar - Retrato cinematográfico de mujer y gato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1112,7 +1078,7 @@ Un retrato cinematográfico con calidad de portada de revista de una {argument n
 
 ---
 
-### No. 14: Perfil / Avatar - Fotografía nocturna espontánea con smartphone
+### No. 13: Perfil / Avatar - Fotografía nocturna espontánea con smartphone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1176,7 +1142,7 @@ coincidencia de identidad, copia de rostro, replicación de persona real
 
 ---
 
-### No. 15: Perfil / Avatar - Retrato dramático con luz roja
+### No. 14: Perfil / Avatar - Retrato dramático con luz roja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1216,7 +1182,7 @@ Retrato dramático ultrarrealista de un {argument name="subject" default="hombre
 
 ---
 
-### No. 16: Perfil / Avatar - Collage de diario cinematográfico oscuro
+### No. 15: Perfil / Avatar - Collage de diario cinematográfico oscuro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1273,7 +1239,7 @@ Haz que parezca un collage de revista real fotografiado, no generado por IA. Man
 
 ---
 
-### No. 17: Perfil / Avatar - Retrato masculino cinematográfico en clave baja
+### No. 16: Perfil / Avatar - Retrato masculino cinematográfico en clave baja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1307,7 +1273,7 @@ Crea un retrato cinematográfico oscuro ultrarrealista utilizando el rostro exac
 
 ---
 
-### No. 18: Perfil / Avatar - Mujer elegante con vestido azul marino brillante
+### No. 17: Perfil / Avatar - Mujer elegante con vestido azul marino brillante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1341,7 +1307,7 @@ Un retrato vertical, tomado por encima del hombro, de una {argument name="subjec
 
 ---
 
-### No. 19: Perfil / Avatar - Retrato masculino intenso en blanco y negro de alto contraste
+### No. 18: Perfil / Avatar - Retrato masculino intenso en blanco y negro de alto contraste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1372,6 +1338,40 @@ Un retrato en primer plano, en blanco y negro de alto contraste, de un {argument
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=26640)**
+
+---
+
+### No. 19: Perfil / Avatar - Retrato en primer plano sugerente con ángulo POV
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt de primer plano de alto contraste para crear un retrato cinematográfico y temperamental de una mujer aplicándose maquillaje, con iluminación dramática y una estética de cámara de smartphone moderna.
+
+#### 📝 Prompt
+
+```
+Rostro exacto 1:1 de la foto. Primer plano en ángulo contrapicado, POV. Chica aplicándose {argument name="makeup item" default="brillo labial"}, mirada sugerente. {argument name="outfit" default="Corsé negro"}, {argument name="accessory" default="cadena de oro"}, cabello voluminoso y despeinado. Luz de pantalla, fondo oscuro, sombras profundas, estilo iPhone 16, grano sutil.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782200278004_thj6jq_HLbworvXEAE7zAJ.jpg" width="600" alt="Perfil / Avatar - Retrato en primer plano sugerente con ángulo POV - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [MagicEdit](https://x.com/MagicEditArt)
+- **Fuente:** [Twitter Post](https://x.com/MagicEditArt/status/2069105663813255194)
+- **Publicado:** 22 de junio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=26479)**
 
 ---
 
@@ -1425,19 +1425,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publicación en redes sociales - Ethereal Fantasy Princess Digital Portrait
+### No. 21: Publicación en redes sociales - Retrato digital de una princesa de fantasía etérea
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A detailed 3D digital art prompt for a princess character featuring a yellow ballgown, magical garden background, and soft cinematic lighting.
+Un prompt de arte digital 3D detallado para un personaje de princesa que incluye un vestido de gala amarillo, un fondo de jardín mágico y una iluminación cinematográfica suave.
 
 #### 📝 Prompt
 
 ```
-A highly detailed, cinematic 3D digital portrait of an {argument name="subject" default="ethereal blonde princess"}, featuring delicate doll-like features, large luminous blue eyes, and soft porcelain skin, in a medium close-up shot. She is adorned in an elaborate, textured {argument name="outfit" default="bright yellow ballgown embellished with intricate white lace trim"}, sheer tiered puffed sleeves, and detailed 3D floral appliqués on the bodice. Her voluminous wavy blonde hair is styled elegantly and intensely kissed by golden hour backlighting, creating a glowing rim light effect, accented by pastel roses and a faint blue butterfly ornament. The composition is vertical, set in a {argument name="background" default="lush, magical garden"} characterized by deep green foliage and abundant bright yellow background bokeh (shallow depth of field). Strong volumetric light bathes the scene, highlighting the detailed textures of the fabric and creating a warm, fantasy atmosphere. Masterpiece quality, ultra photorealistic rendering, 8K, inspired by high-end CGI animation and fairy tale aesthetics.
+Un retrato digital 3D cinematográfico y altamente detallado de una {argument name="subject" default="princesa rubia etérea"}, con rasgos delicados como de muñeca, grandes ojos azules luminosos y una suave piel de porcelana, en un plano medio corto. Está adornada con un elaborado y texturizado {argument name="outfit" default="vestido de gala amarillo brillante adornado con intrincados encajes blancos"}, mangas abullonadas transparentes y aplicaciones florales 3D detalladas en el corpiño. Su voluminoso cabello rubio ondulado está peinado con elegancia y bañado intensamente por la luz de la hora dorada, creando un efecto de luz de contorno brillante, acentuado por rosas pastel y un sutil adorno de mariposa azul. La composición es vertical, ambientada en un {argument name="background" default="jardín mágico y exuberante"} caracterizado por un follaje verde intenso y un abundante bokeh de fondo en color amarillo brillante (poca profundidad de campo). Una fuerte luz volumétrica baña la escena, resaltando las texturas detalladas de la tela y creando una atmósfera cálida y fantástica. Calidad de obra maestra, renderizado ultra fotorrealista, 8K, inspirado en la animación CGI de alta gama y la estética de los cuentos de hadas.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1445,13 +1445,13 @@ A highly detailed, cinematic 3D digital portrait of an {argument name="subject" 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358154_flmidz_HL7dUzrXYAAPegk.jpg" width="600" alt="Publicación en redes sociales - Ethereal Fantasy Princess Digital Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721358154_flmidz_HL7dUzrXYAAPegk.jpg" width="600" alt="Publicación en redes sociales - Retrato digital de una princesa de fantasía etérea - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358055_zwpr9c_HL7dUzsWkAAD-S2.jpg" width="600" alt="Publicación en redes sociales - Ethereal Fantasy Princess Digital Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721358055_zwpr9c_HL7dUzsWkAAD-S2.jpg" width="600" alt="Publicación en redes sociales - Retrato digital de una princesa de fantasía etérea - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -1465,19 +1465,19 @@ A highly detailed, cinematic 3D digital portrait of an {argument name="subject" 
 
 ---
 
-### No. 22: Publicación en redes sociales - Hand-Painted Digital Art Illustration
+### No. 22: Publicación en redes sociales - Ilustración de arte digital pintada a mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A sophisticated digital illustration prompt featuring visible handcrafted brush strokes and organic paint layering in a warm amber and charcoal palette.
+Un sofisticado prompt de ilustración digital que presenta pinceladas artesanales visibles y capas de pintura orgánica en una paleta de tonos ámbar y carbón.
 
 #### 📝 Prompt
 
 ```
-Hand-painted digital illustration with clearly visible handcrafted brush strokes, expressive painterly texture, confident manual brush application, {argument name="brush style" default="thick and thin brush variations"}, organic paint layering, textured edges, subtle dry-brush effect, premium concept art quality, semi-realistic rendering, crisp silhouette, simplified yet refined shapes, soft blended transitions without excessive smoothing, high-contrast values, {argument name="shadow colors" default="deep charcoal black and dark brown shadows"}, warm ivory skin tones, natural {argument name="accent colors" default="amber and burnt orange accents"} applied selectively on clothing, accessories, reflections, and scattered compositional elements, no glowing orange contour lighting, no neon rim light, no luminous edge effects, restrained color blocking, balanced warm palette dominated by burnt orange, amber, ochre, warm ivory, dark brown, charcoal black, and muted gray, elegant editorial illustration aesthetic, rich painterly depth, visible artistic brushwork, clean composition, sophisticated handcrafted digital painting.
+Ilustración digital pintada a mano con pinceladas artesanales claramente visibles, textura pictórica expresiva, aplicación manual de pincel segura, {argument name="brush style" default="variaciones de pincel grueso y fino"}, capas de pintura orgánica, bordes texturizados, efecto sutil de pincel seco, calidad de arte conceptual premium, renderizado semirrealista, silueta nítida, formas simplificadas pero refinadas, transiciones suaves y difuminadas sin un alisado excesivo, valores de alto contraste, {argument name="shadow colors" default="sombras en negro carbón profundo y marrón oscuro"}, tonos de piel marfil cálidos, {argument name="accent colors" default="acentos en ámbar y naranja quemado"} naturales aplicados selectivamente en ropa, accesorios, reflejos y elementos compositivos dispersos, sin iluminación de contorno naranja brillante, sin luz de borde de neón, sin efectos de borde luminoso, bloqueo de color contenido, paleta cálida equilibrada dominada por naranja quemado, ámbar, ocre, marfil cálido, marrón oscuro, negro carbón y gris apagado, estética de ilustración editorial elegante, rica profundidad pictórica, pinceladas artísticas visibles, composición limpia, sofisticada pintura digital artesanal.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1485,19 +1485,19 @@ Hand-painted digital illustration with clearly visible handcrafted brush strokes
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721361236_2gkm6l_HL5-fQmasAEt3yL.jpg" width="600" alt="Publicación en redes sociales - Hand-Painted Digital Art Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721361236_2gkm6l_HL5-fQmasAEt3yL.jpg" width="600" alt="Publicación en redes sociales - Ilustración de arte digital pintada a mano - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721361251_yi0ckx_HL5-feYbYAA52Ib.jpg" width="600" alt="Publicación en redes sociales - Hand-Painted Digital Art Illustration - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721361251_yi0ckx_HL5-feYbYAA52Ib.jpg" width="600" alt="Publicación en redes sociales - Ilustración de arte digital pintada a mano - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721361271_51xgqn_HL5-fnwaEAAzchO.jpg" width="600" alt="Publicación en redes sociales - Hand-Painted Digital Art Illustration - Image 3">
+<img src="https://cms-assets.youmind.com/media/1782721361271_51xgqn_HL5-fnwaEAAzchO.jpg" width="600" alt="Publicación en redes sociales - Ilustración de arte digital pintada a mano - Image 3">
 </div>
 
 #### 📌 Detalles
@@ -1511,20 +1511,20 @@ Hand-painted digital illustration with clearly visible handcrafted brush strokes
 
 ---
 
-### No. 23: Publicación en redes sociales - Professional Studio Portrait with 3D Text
+### No. 23: Publicación en redes sociales - Retrato de estudio profesional con texto en 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A detailed prompt for creating professional studio portraits with high identity preservation, featuring custom 3D lettering and editorial lighting.
+Un prompt detallado para crear retratos de estudio profesionales con alta preservación de la identidad, que incluye letras 3D personalizadas e iluminación editorial.
 
 #### 📝 Prompt
 
 ```
-Use the uploaded image as the ONLY face reference with maximum identity preservation. The woman’s face, facial structure, jawline, skin tone, hairstyle, hairline, eyes, nose, lips, ears, expression, and overall identity must match the reference photo EXACTLY. Do not beautify, redesign, reinterpret, replace, or alter any facial features. Keep the face 100% recognizable and identical to the reference.
-Professional photography, ultra-realistic 8K, full-body studio portrait of the same woman leaning confidently against giant white vertical 3D letters spelling "{argument name="text" default="JANAKI"}". Dark gray seamless studio background with soft professional studio lighting and realistic shadows. Confident expression, hands in pockets, right leg crossed naturally. Wearing a premium {argument name="color" default="dark red"} {argument name="apparel" default="oversized sweatshirt"} with matching dark red sweatpants and clean white sneakers. Fashion editorial streetwear style, luxury magazine photoshoot aesthetic, natural skin texture, realistic fabric folds, ultra-detailed clothing, sharp focus.
+Utiliza la imagen subida como la ÚNICA referencia facial con la máxima preservación de la identidad. El rostro de la mujer, la estructura facial, la línea de la mandíbula, el tono de piel, el peinado, la línea del cabello, los ojos, la nariz, los labios, las orejas, la expresión y la identidad general deben coincidir EXACTAMENTE con la foto de referencia. No embellezcas, rediseñes, reinterpretes, reemplaces ni alteres ninguna característica facial. Mantén el rostro 100% reconocible e idéntico a la referencia.
+Fotografía profesional, ultra realista en 8K, retrato de estudio de cuerpo completo de la misma mujer apoyada con confianza contra letras 3D verticales gigantes de color blanco que deletrean "{argument name="text" default="JANAKI"}". Fondo de estudio gris oscuro sin costuras con iluminación de estudio profesional suave y sombras realistas. Expresión de confianza, manos en los bolsillos, pierna derecha cruzada de forma natural. Viste una {argument name="apparel" default="sudadera oversize"} {argument name="color" default="rojo oscuro"} de primera calidad con pantalones de chándal a juego en color rojo oscuro y zapatillas blancas impecables. Estilo streetwear editorial de moda, estética de sesión de fotos para revista de lujo, textura de piel natural, pliegues de tela realistas, ropa ultra detallada, enfoque nítido.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1532,7 +1532,7 @@ Professional photography, ultra-realistic 8K, full-body studio portrait of the s
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721356491_njexm3_HL5QcchaYAAvNNF.jpg" width="600" alt="Publicación en redes sociales - Professional Studio Portrait with 3D Text - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721356491_njexm3_HL5QcchaYAAvNNF.jpg" width="600" alt="Publicación en redes sociales - Retrato de estudio profesional con texto en 3D - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1546,19 +1546,19 @@ Professional photography, ultra-realistic 8K, full-body studio portrait of the s
 
 ---
 
-### No. 24: Publicación en redes sociales - Man on Vintage Leather Sofa
+### No. 24: Publicación en redes sociales - Hombre en sofá de cuero vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A high-quality lifestyle photograph of a man seated on a classic Chesterfield sofa in an industrial concrete setting.
+Una fotografía de estilo de vida de alta calidad de un hombre sentado en un clásico sofá Chesterfield en un entorno industrial de hormigón.
 
 #### 📝 Prompt
 
 ```
-{argument name="subject" default="A young man with dark hair and a beard"} sits in the center of the frame, angled at a 45-degree turn and leaning slightly to his right with casually tilted shoulders. His expression is intentionally posed and serious, featuring relaxed eyebrows, a neutral mouth with no trace of a smile, and eyes thoughtfully looking away. He is dressed in a {argument name="clothing" default="black v-neck t-shirt and white trousers"}, accessorized with a gold digital watch, a silver pendant necklace, and a silver bracelet. His left hand rests softly on his thigh in a naturally relaxed state, while his right hand is organically draped over the back of the furniture with a comfortably loose wrist. He is seated on a dominant, {argument name="furniture" default="vintage brown button-tufted leather Chesterfield sofa"} that shows slight, authentic wear in the foreground. Situated in the midground to his right is a vintage floor lamp featuring a beige fringed shade and a distinctly carved spiral wood stand. The indoor setting utilizes a shallow spatial depth that meets a rough, matte raw concrete wall, highly detailed with patchy cool gray tones, horizontal lines, realistic pitting, and industrial cracks. The calm, relaxed indoor lifestyle atmosphere is illuminated by soft, moderately directional mixed front lighting with ambient fill from multiple sources, blending neutral light with a warm practical glow. A complementary color palette of cool grays, warm browns, deep blacks, and light beiges is balanced by medium-length, soft-edged gray shadows that pool naturally under the subject and across the textured leather, paired with subtle specular highlights gently catching on his face and the sofa's surface. Captured straight on as an organically styled, realistic digital photograph using a 50mm lens at f/2.8, the composition blends contemporary lifestyle aesthetics with industrial interior design, utilizing a medium depth of field and slightly soft overall sharpness with zero grain, finished with subtle contrast enhancements and meticulously preserved shadows, framed naturally in a 1:1 aspect ratio.
+{argument name="subject" default="Un hombre joven de cabello oscuro y barba"} se sienta en el centro del encuadre, en un ángulo de 45 grados e inclinado ligeramente hacia su derecha con los hombros relajados. Su expresión es seria y posada intencionalmente, con las cejas relajadas, la boca en posición neutra sin rastro de sonrisa y la mirada perdida en un gesto pensativo. Viste una {argument name="clothing" default="camiseta negra con cuello en V y pantalones blancos"}, complementada con un reloj digital dorado, un collar con colgante de plata y una pulsera de plata. Su mano izquierda descansa suavemente sobre su muslo en un estado naturalmente relajado, mientras que su mano derecha está apoyada orgánicamente sobre el respaldo del mueble con la muñeca cómodamente suelta. Está sentado en un imponente {argument name="furniture" default="sofá Chesterfield de cuero marrón vintage con botones"} que muestra un ligero y auténtico desgaste en primer plano. Situada en el plano medio a su derecha, se encuentra una lámpara de pie vintage con una pantalla beige de flecos y un soporte de madera tallado en espiral. El entorno interior utiliza una profundidad espacial reducida que se encuentra con una pared de hormigón crudo, mate y rugoso, altamente detallada con tonos gris frío irregulares, líneas horizontales, picaduras realistas y grietas industriales. La atmósfera tranquila y relajada de estilo de vida interior está iluminada por una luz frontal mixta, suave y moderadamente direccional, con relleno ambiental de múltiples fuentes, que combina luz neutra con un cálido resplandor práctico. Una paleta de colores complementaria de grises fríos, marrones cálidos, negros profundos y beiges claros se equilibra con sombras grises de bordes suaves y longitud media que se acumulan naturalmente bajo el sujeto y a través del cuero texturizado, junto con sutiles reflejos especulares que captan suavemente su rostro y la superficie del sofá. Capturada de frente como una fotografía digital realista de estilo orgánico utilizando un lente de 50 mm a f/2.8, la composición combina la estética de estilo de vida contemporáneo con el diseño de interiores industrial, utilizando una profundidad de campo media y una nitidez general ligeramente suave sin grano, terminada con sutiles mejoras de contraste y sombras meticulosamente preservadas, enmarcada naturalmente en una relación de aspecto 1:1.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1566,7 +1566,7 @@ A high-quality lifestyle photograph of a man seated on a classic Chesterfield so
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721356475_l73m9o_HL4rcbsXkAA3wYA.jpg" width="600" alt="Publicación en redes sociales - Man on Vintage Leather Sofa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721356475_l73m9o_HL4rcbsXkAA3wYA.jpg" width="600" alt="Publicación en redes sociales - Hombre en sofá de cuero vintage - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1580,19 +1580,19 @@ A high-quality lifestyle photograph of a man seated on a classic Chesterfield so
 
 ---
 
-### No. 25: Publicación en redes sociales - Luxury Fashion Editorial Studio Shoot
+### No. 25: Publicación en redes sociales - Sesión de fotos editorial de moda de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A minimalist luxury fashion editorial prompt for a professional studio photoshoot, focusing on quiet luxury styling and clean composition.
+Un prompt editorial de moda de lujo minimalista para una sesión de fotos profesional en estudio, centrado en el estilo 'quiet luxury' y una composición limpia.
 
 #### 📝 Prompt
 
 ```
-A high-end luxury fashion editorial photoshoot of a {argument name="subject" default="stylish model"} standing in a relaxed, confident pose with hands casually in pockets or by their sides, looking directly at the camera with a calm, sophisticated expression. The outfit features {argument name="outfit" default="modern minimalist tailoring in neutral tones, including a structured jacket layered over a premium knit or polo top, paired with relaxed wide-leg tailored trousers"} and clean leather sneakers or elegant footwear. The styling embodies quiet luxury with impeccable fit, premium fabrics, and understated elegance. Photographed in a professional studio against a {argument name="backdrop" default="seamless solid-color backdrop"} with a matching floor. Soft diffused lighting creates natural skin tones, gentle shadows, and subtle depth. Full-body composition, centered framing with generous negative space, eye-level perspective, clean and balanced composition. Luxury campaign aesthetic inspired by premium fashion houses, contemporary editorial styling, ultra-realistic photography, medium-format camera, 85mm lens, f/4, shallow depth of field, matte color grading, realistic fabric textures, crisp details, cinematic lighting, premium commercial fashion campaign, magazine cover quality, 8K, highly detailed, natural proportions, no logos, no text, no watermark, timeless minimalist aesthetic.
+Una sesión de fotos editorial de moda de alta gama de {argument name="subject" default="un modelo con estilo"} de pie en una pose relajada y segura, con las manos casualmente en los bolsillos o a los lados, mirando directamente a la cámara con una expresión tranquila y sofisticada. El atuendo presenta {argument name="outfit" default="sastrería minimalista moderna en tonos neutros, incluyendo una chaqueta estructurada sobre un tejido premium o polo, combinado con pantalones de sastre anchos y relajados"} y zapatillas de cuero limpias o calzado elegante. El estilo encarna el 'quiet luxury' con un ajuste impecable, tejidos premium y una elegancia discreta. Fotografiado en un estudio profesional contra un {argument name="backdrop" default="fondo de color sólido sin costuras"} con suelo a juego. La iluminación suave y difusa crea tonos de piel naturales, sombras suaves y una profundidad sutil. Composición de cuerpo completo, encuadre centrado con espacio negativo generoso, perspectiva a la altura de los ojos, composición limpia y equilibrada. Estética de campaña de lujo inspirada en casas de moda premium, estilo editorial contemporáneo, fotografía ultrarrealista, cámara de formato medio, lente de 85 mm, f/4, profundidad de campo reducida, gradación de color mate, texturas de tela realistas, detalles nítidos, iluminación cinematográfica, campaña de moda comercial premium, calidad de portada de revista, 8K, altamente detallado, proporciones naturales, sin logotipos, sin texto, sin marcas de agua, estética minimalista atemporal.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1600,13 +1600,13 @@ A high-end luxury fashion editorial photoshoot of a {argument name="subject" def
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362882_n0u6x6_HL39Ul-bMAAh7rZ.jpg" width="600" alt="Publicación en redes sociales - Luxury Fashion Editorial Studio Shoot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721362882_n0u6x6_HL39Ul-bMAAh7rZ.jpg" width="600" alt="Publicación en redes sociales - Sesión de fotos editorial de moda de lujo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362895_5wkau6_HL39Ul3bMAAcEqB.jpg" width="600" alt="Publicación en redes sociales - Luxury Fashion Editorial Studio Shoot - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721362895_5wkau6_HL39Ul3bMAAcEqB.jpg" width="600" alt="Publicación en redes sociales - Sesión de fotos editorial de moda de lujo - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -1620,43 +1620,43 @@ A high-end luxury fashion editorial photoshoot of a {argument name="subject" def
 
 ---
 
-### No. 26: Publicación en redes sociales - Cyberpunk Futuristic Visor Portrait
+### No. 26: Publicación en redes sociales - Retrato con visor futurista ciberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-An immersive dark sci-fi 3D render prompt with dramatic two-tone neon lighting and high-contrast composition, inspired by Blade Runner 2049.
+Un prompt de renderizado 3D de ciencia ficción oscura e inmersiva con una iluminación de neón bicolor dramática y una composición de alto contraste, inspirado en Blade Runner 2049.
 
 #### 📝 Prompt
 
 ```
-Hyper-realistic 3D rendered digital art portrait in a 9:16 vertical format. Subject is a {argument name="subject" default="platinum blonde/white hair pulled back"}, wearing a {argument name="accessory" default="sleek matte black wraparound futuristic visor with a glowing amber-orange LED neon strip"} running along its inner bottom edge. The visor sits flush against the face with no gap.
+Retrato de arte digital renderizado en 3D hiperrealista en formato vertical 9:16. El sujeto es un {argument name="subject" default="cabello rubio platino/blanco recogido hacia atrás"}, que lleva un {argument name="accessory" default="visor futurista envolvente de color negro mate elegante con una tira de neón LED de color ámbar anaranjado brillante"} que recorre su borde inferior interno. El visor se ajusta perfectamente al rostro sin dejar espacio.
 
-**Camera Angle & Composition**
+**Ángulo de cámara y composición**
 
-Camera angle is an extreme low-angle (worm's-eye view), with the viewer looking upward at the subject. The subject's face is tilted upward and slightly to the right in a 3/4 profile, gazing toward something above the frame. Lips are slightly parted, jaw relaxed, and the expression conveys deep immersion, awe, and transcendence. The neck is fully elongated and exposed. The subject wears a black turtleneck that disappears seamlessly into the background.
+El ángulo de cámara es un contrapicado extremo (vista de gusano), con el espectador mirando hacia arriba al sujeto. El rostro del sujeto está inclinado hacia arriba y ligeramente hacia la derecha en un perfil de 3/4, mirando hacia algo por encima del encuadre. Los labios están ligeramente entreabiertos, la mandíbula relajada y la expresión transmite una profunda inmersión, asombro y trascendencia. El cuello está completamente alargado y expuesto. El sujeto viste un cuello de tortuga negro que se funde perfectamente con el fondo.
 
-**Lighting**
+**Iluminación**
 
-Extreme low-key, high-contrast cinematic lighting with an absolute pure black background and zero ambient spill.
+Iluminación cinematográfica de clave baja extrema y alto contraste con un fondo negro puro absoluto y cero dispersión ambiental.
 
-The {argument name="primary light" default="primary light source is the glowing visor itself"}, casting intense amber-orange underlighting across the chin, lips, cheeks, nose bridge, and neck from below.
+La {argument name="primary light" default="fuente de luz principal es el propio visor brillante"}, que proyecta una intensa iluminación inferior de color ámbar anaranjado sobre la barbilla, los labios, las mejillas, el puente de la nariz y el cuello desde abajo.
 
-A secondary cool cyan-teal ambient light wraps around the top of the head, forehead, and upper cheek from above-left.
+Una luz ambiental secundaria de color cian-turquesa frío envuelve la parte superior de la cabeza, la frente y la parte superior de la mejilla desde arriba a la izquierda.
 
-The lighting creates a dramatic two-tone color temperature clash between warm burnt orange/gold and cool electric cyan/teal. Subsurface scattering is visible on the nose tip and cheek edges where the orange light passes through the skin. Realistic light bloom and a soft orange corona radiate from the LED strip.
+La iluminación crea un dramático choque de temperatura de color bicolor entre el naranja quemado/dorado cálido y el cian/turquesa eléctrico frío. La dispersión subsuperficial es visible en la punta de la nariz y los bordes de las mejillas donde la luz naranja atraviesa la piel. Un resplandor de luz realista y una suave corona naranja irradian desde la tira LED.
 
-**Color Palette**
+**Paleta de colores**
 
-Absolute black, electric cyan, burnt amber-orange, and warm gold.
+Negro absoluto, cian eléctrico, ámbar anaranjado quemado y dorado cálido.
 
-No whites. No pastel colors. No environmental detail.
+Sin blancos. Sin colores pastel. Sin detalles ambientales.
 
-**Style**
+**Estilo**
 
-Dark sci-fi cyberpunk concept art inspired by the Blade Runner 2049 cinematic aesthetic. High-end 3D render featuring displacement-mapped skin texture, subsurface scattering, hard shadow terminator lines, realistic light bloom, and an ascending aspirational composition. Film poster and AAA game cinematic quality with a brooding atmospheric mood and futuristic technology immersion theme. Ultra-high detail, dramatic, and minimal.
+Arte conceptual de ciencia ficción ciberpunk oscura inspirado en la estética cinematográfica de Blade Runner 2049. Renderizado 3D de alta gama con textura de piel mapeada por desplazamiento, dispersión subsuperficial, líneas de terminador de sombra dura, resplandor de luz realista y una composición aspiracional ascendente. Calidad de póster de película y cinemática de juego AAA con un ambiente melancólico y un tema de inmersión en tecnología futurista. Ultra detallado, dramático y minimalista.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1664,7 +1664,7 @@ Dark sci-fi cyberpunk concept art inspired by the Blade Runner 2049 cinematic ae
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721359639_pbxt1j_HL3ii75bQAAABwv.jpg" width="600" alt="Publicación en redes sociales - Cyberpunk Futuristic Visor Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721359639_pbxt1j_HL3ii75bQAAABwv.jpg" width="600" alt="Publicación en redes sociales - Retrato con visor futurista ciberpunk - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1678,19 +1678,19 @@ Dark sci-fi cyberpunk concept art inspired by the Blade Runner 2049 cinematic ae
 
 ---
 
-### No. 27: Publicación en redes sociales - Chibi Anime Poster Illustration
+### No. 27: Publicación en redes sociales - Ilustración de póster de anime chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A vibrant chibi-style anime poster featuring a young hero with a sword on a bold gradient background with lightning accents.
+Un vibrante póster de anime estilo chibi que presenta a un joven héroe con una espada sobre un fondo de degradado llamativo con detalles de rayos.
 
 #### 📝 Prompt
 
 ```
-Wide {argument name="style" default="chibi anime poster"} composition, {argument name="character" default="young boy character with spiky yellow hair standing confidently with sword and backpack"}, {argument name="background" default="bold yellow gradient background"}, lightning bolt accent graphics scattered throughout, large brush-stroke name typography along top edge, clean negative space at bottom for additional text or logo, vibrant anime poster illustration style, vertical 4:5 --ar 4:5 --v 6
+Composición amplia {argument name="style" default="póster de anime chibi"}, {argument name="character" default="personaje de niño joven con cabello amarillo puntiagudo de pie con confianza con una espada y una mochila"}, {argument name="background" default="fondo de degradado amarillo llamativo"}, gráficos de rayos dispersos por todas partes, tipografía de nombre con trazos de pincel grandes a lo largo del borde superior, espacio negativo limpio en la parte inferior para texto adicional o logotipo, estilo de ilustración de póster de anime vibrante, vertical 4:5 --ar 4:5 --v 6
 ```
 
 #### 🖼️ Imágenes generadas
@@ -1698,25 +1698,25 @@ Wide {argument name="style" default="chibi anime poster"} composition, {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358000_32cnqs_HL3fkEOacAAK1Pp.jpg" width="600" alt="Publicación en redes sociales - Chibi Anime Poster Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721358000_32cnqs_HL3fkEOacAAK1Pp.jpg" width="600" alt="Publicación en redes sociales - Ilustración de póster de anime chibi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358642_9lakgm_HL3fk8zbwAA4jAj.jpg" width="600" alt="Publicación en redes sociales - Chibi Anime Poster Illustration - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721358642_9lakgm_HL3fk8zbwAA4jAj.jpg" width="600" alt="Publicación en redes sociales - Ilustración de póster de anime chibi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721358166_1i5a9z_HL3fltTaYAEJSUk.jpg" width="600" alt="Publicación en redes sociales - Chibi Anime Poster Illustration - Image 3">
+<img src="https://cms-assets.youmind.com/media/1782721358166_1i5a9z_HL3fltTaYAEJSUk.jpg" width="600" alt="Publicación en redes sociales - Ilustración de póster de anime chibi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721359188_v7161r_HL3fme4bwAAiSTt.jpg" width="600" alt="Publicación en redes sociales - Chibi Anime Poster Illustration - Image 4">
+<img src="https://cms-assets.youmind.com/media/1782721359188_v7161r_HL3fme4bwAAiSTt.jpg" width="600" alt="Publicación en redes sociales - Ilustración de póster de anime chibi - Image 4">
 </div>
 
 #### 📌 Detalles
@@ -3135,21 +3135,21 @@ Explorando la profundidad atmosférica en Nano Banana Pro. El contraste entre el
 
 ---
 
-### No. 62: Cómic / Guion gráfico - Fantasy Game Character Warrior Jo
+### No. 62: Cómic / Guion gráfico - Personaje de juego de fantasía: la guerrera Jo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-A detailed set of prompts for creating a female warrior character named Jo, including a static portrait on a battlefield and an action-packed combat scene with character consistency.
+Un conjunto detallado de prompts para crear una guerrera llamada Jo, que incluye un retrato estático en un campo de batalla y una escena de combate llena de acción manteniendo la consistencia del personaje.
 
 #### 📝 Prompt
 
 ```
-Create an ultra-realistic 8K cinematic fantasy game character named Jo, a fearless female warrior and legendary role model. She stands confidently on top of a rocky battlefield during a dramatic sunset, wearing black and crimson battle armor with glowing blue energy lines. Her long silver hair flows in the wind, and her determined expression radiates courage and leadership. She holds a {argument name="weapon one" default="massive enchanted sword"} in one hand and a {argument name="weapon two" default="futuristic energy spear"} in the other. Behind her stands a disciplined army of elite warriors carrying banners, shields, swords, and glowing weapons, stretching across the battlefield. The sky is filled with storm clouds, smoke, sparks, and rays of sunlight breaking through. Epic cinematic lighting, volumetric fog, flying embers, highly detailed armor, realistic textures, Unreal Engine 5 quality, AAA game concept art, dynamic composition, ultra-sharp focus, dramatic atmosphere, powerful female commander, no text, no watermark, 16:9.
+Crea un personaje de juego de fantasía cinematográfico 8K ultrarrealista llamado Jo, una guerrera intrépida y modelo legendario. Ella se encuentra con confianza sobre un campo de batalla rocoso durante un atardecer dramático, vistiendo una armadura de batalla negra y carmesí con líneas de energía azul brillante. Su largo cabello plateado ondea con el viento y su expresión decidida irradia coraje y liderazgo. Sostiene una {argument name="weapon one" default="espada encantada masiva"} en una mano y una {argument name="weapon two" default="lanza de energía futurista"} en la otra. Detrás de ella se encuentra un ejército disciplinado de guerreros de élite que portan estandartes, escudos, espadas y armas brillantes, extendiéndose por todo el campo de batalla. El cielo está lleno de nubes de tormenta, humo, chispas y rayos de sol que se filtran. Iluminación cinematográfica épica, niebla volumétrica, brasas voladoras, armadura altamente detallada, texturas realistas, calidad de Unreal Engine 5, arte conceptual de juego AAA, composición dinámica, enfoque ultra nítido, atmósfera dramática, comandante femenina poderosa, sin texto, sin marca de agua, 16:9.
 
-Create an ultra-realistic 8K cinematic AAA game action scene featuring the exact same female warrior "Jo" from the previous image. Maintain 100% character consistency: same face, same silver-white long flowing hair, same facial features, same body proportions, same black and crimson armor with glowing blue energy accents, same enchanted crimson greatsword in her right hand, same futuristic blue energy spear in her left hand, identical design, colors, accessories, and overall appearance. Jo is in the middle of an intense battlefield, fearlessly charging toward thousands of enemy warriors. She is performing a powerful attack while swinging her glowing crimson sword and simultaneously thrusting her blue energy spear. Enemy soldiers are being pushed back by the force of her attack. Massive explosions, magical shockwaves, flying sparks, shattered weapons, smoke, dust, burning siege machines, collapsing structures, and glowing energy trails fill the battlefield. Behind Jo, her loyal army advances forward under her leadership while enemy forces surround them from every direction. The sky is dark with storm clouds, lightning, fire, and flying embers, creating an epic war atmosphere. Use a dramatic low-angle cinematic camera, dynamic action pose, intense determined facial expression, realistic motion blur, volumetric lighting, god rays, ultra-detailed armor textures, realistic physics for hair and cape, Unreal Engine 5 quality, hyper-realistic, AAA game cinematic, epic fantasy war, maximum detail, no blood, no gore, no text, no watermark, 16:9 aspect ratio. The character must look exactly like the first image with no changes to her appearance.
+Crea una escena de acción de juego AAA cinematográfica 8K ultrarrealista con la misma guerrera "Jo" de la imagen anterior. Mantén una consistencia del 100% del personaje: mismo rostro, mismo cabello largo y fluido de color blanco plateado, mismos rasgos faciales, mismas proporciones corporales, misma armadura negra y carmesí con detalles de energía azul brillante, misma gran espada carmesí encantada en su mano derecha, misma lanza de energía azul futurista en su mano izquierda, diseño, colores, accesorios y apariencia general idénticos. Jo está en medio de un intenso campo de batalla, cargando sin miedo hacia miles de guerreros enemigos. Está realizando un ataque poderoso mientras balancea su espada carmesí brillante y simultáneamente empuja su lanza de energía azul. Los soldados enemigos son repelidos por la fuerza de su ataque. Explosiones masivas, ondas de choque mágicas, chispas voladoras, armas destrozadas, humo, polvo, máquinas de asedio en llamas, estructuras colapsando y estelas de energía brillante llenan el campo de batalla. Detrás de Jo, su leal ejército avanza bajo su liderazgo mientras las fuerzas enemigas los rodean desde todas las direcciones. El cielo está oscuro con nubes de tormenta, rayos, fuego y brasas voladoras, creando una atmósfera de guerra épica. Usa una cámara cinematográfica de ángulo bajo dramática, pose de acción dinámica, expresión facial intensa y decidida, desenfoque de movimiento realista, iluminación volumétrica, rayos divinos, texturas de armadura ultradetalladas, física realista para el cabello y la capa, calidad de Unreal Engine 5, hiperrealista, cinemática de juego AAA, guerra de fantasía épica, máximo detalle, sin sangre, sin violencia explícita, sin texto, sin marca de agua, relación de aspecto 16:9. El personaje debe verse exactamente igual a la primera imagen sin cambios en su apariencia.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3157,13 +3157,13 @@ Create an ultra-realistic 8K cinematic AAA game action scene featuring the exact
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721360652_bwz32z_HL4AUsyaYAAxQOr.jpg" width="600" alt="Cómic / Guion gráfico - Fantasy Game Character Warrior Jo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1782721360652_bwz32z_HL4AUsyaYAAxQOr.jpg" width="600" alt="Cómic / Guion gráfico - Personaje de juego de fantasía: la guerrera Jo - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721360627_lvlw3y_HL4AUvCaMAAjQrF.jpg" width="600" alt="Cómic / Guion gráfico - Fantasy Game Character Warrior Jo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1782721360627_lvlw3y_HL4AUvCaMAAjQrF.jpg" width="600" alt="Cómic / Guion gráfico - Personaje de juego de fantasía: la guerrera Jo - Image 2">
 </div>
 
 #### 📌 Detalles
@@ -5407,7 +5407,7 @@ Representación fantástica de un {argument name="subject" default="mundo en min
 
 <div align="center">
 
-### 🎯 14512 prompts más no mostrados aquí
+### 🎯 14511 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5470,6 +5470,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-29T09:30:30.913Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-29T13:21:11.146Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **14632** |
+| 📝 Total Prompts | **14631** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Monday, June 29, 2026 at 9:30:01 AM UTC** |
+| 🔄 Last Updated | **Monday, June 29, 2026 at 1:20:35 PM UTC** |
 
 </div>
 
@@ -722,41 +722,7 @@ Use the uploaded reference image as the appearance reference for the subject. Cr
 
 ---
 
-### No. 3: Profile / Avatar - Cinematic Man Portrait with Face Reference
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A professional cinematic portrait prompt designed to maintain exact facial features from a reference image while placing the subject in a modern urban setting.
-
-#### 📝 Prompt
-
-```
-Ultra realistic cinematic portrait, use uploaded face exactly, no face change. Subject standing beside a modern building entrance, {argument name="clothing" default="oversized maroon shirt, white trousers, white sneakers"}, silver watch, sunglasses, one hand adjusting sleeve, relaxed confident pose. {argument name="background" default="Blurred luxury SUV, tropical greenery, modern architecture"}, cinematic daylight, 85mm lens, f/1.8, shallow depth of field, HDR, ultra detailed 8K.young {argument name="character notes" default="same face and but shirt no tuchine"}.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782721362436_z2uoky_HL5ITQbacAAzteM.jpg" width="600" alt="Profile / Avatar - Cinematic Man Portrait with Face Reference - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Dilshad Hussain](https://x.com/DilshadAI1)
-- **Source:** [Twitter Post](https://x.com/DilshadAI1/status/2071172519764312261)
-- **Published:** June 28, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=27033)**
-
----
-
-### No. 4: Profile / Avatar - Red Hair Woman Portrait Collage
+### No. 3: Profile / Avatar - Red Hair Woman Portrait Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -790,7 +756,7 @@ A vibrant photo collage features a young woman with striking, long, straight {ar
 
 ---
 
-### No. 5: Profile / Avatar - Cinematic Golden Hour Portrait of a Woman
+### No. 4: Profile / Avatar - Cinematic Golden Hour Portrait of a Woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -824,7 +790,7 @@ A stunning, high-fashioned cinematic portrait of a {argument name="subject" defa
 
 ---
 
-### No. 6: Profile / Avatar - Female Android Studio Portrait with Laser Eyes
+### No. 5: Profile / Avatar - Female Android Studio Portrait with Laser Eyes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -858,7 +824,7 @@ A close-up, front-facing studio portrait of a {argument name="subject" default="
 
 ---
 
-### No. 7: Profile / Avatar - Hyper-Realistic Urban Fashion Portrait
+### No. 6: Profile / Avatar - Hyper-Realistic Urban Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -892,7 +858,7 @@ Hyper-realistic photography of a {argument name="subject" default="young woman"}
 
 ---
 
-### No. 8: Profile / Avatar - Hyper-Realistic Studio Portrait with Geometric Headband
+### No. 7: Profile / Avatar - Hyper-Realistic Studio Portrait with Geometric Headband
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -926,7 +892,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ---
 
-### No. 9: Profile / Avatar - Monochrome Graphite Fine-Art Sketch
+### No. 8: Profile / Avatar - Monochrome Graphite Fine-Art Sketch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -972,7 +938,7 @@ Ultra-detailed monochrome graphite portrait illustration, contemporary fine-art 
 
 ---
 
-### No. 10: Profile / Avatar - Cinematic Music Producer Portrait
+### No. 9: Profile / Avatar - Cinematic Music Producer Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1010,7 +976,7 @@ Color grading is cinematic with high contrast, deep blacks, and strong color den
 
 ---
 
-### No. 11: Profile / Avatar - Raven Summoner Cinematic Portrait
+### No. 10: Profile / Avatar - Raven Summoner Cinematic Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1044,7 +1010,7 @@ A hyper-realistic portrait photo from waist to head of me (use reference photo),
 
 ---
 
-### No. 12: Profile / Avatar - Minimalist Home Office Portrait
+### No. 11: Profile / Avatar - Minimalist Home Office Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1078,7 +1044,7 @@ A beautiful young {argument name="ethnicity" default="East Asian woman"} with a 
 
 ---
 
-### No. 13: Profile / Avatar - Cinematic Woman and Cat Portrait
+### No. 12: Profile / Avatar - Cinematic Woman and Cat Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1112,7 +1078,7 @@ A cinematic, magazine-cover quality portrait of a {argument name="ethnicity" def
 
 ---
 
-### No. 14: Profile / Avatar - Candid Night Smartphone Photography
+### No. 13: Profile / Avatar - Candid Night Smartphone Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1176,7 +1142,7 @@ identity match, face copy, real person replication
 
 ---
 
-### No. 15: Profile / Avatar - Dramatic Red Light Portrait
+### No. 14: Profile / Avatar - Dramatic Red Light Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1216,7 +1182,7 @@ Ultra-realistic dramatic portrait of a {argument name="subject" default="man or 
 
 ---
 
-### No. 16: Profile / Avatar - Dark Cinematic Diary Collage
+### No. 15: Profile / Avatar - Dark Cinematic Diary Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1273,7 +1239,7 @@ Make it look like a real photographed magazine collage, not AI-generated. Mainta
 
 ---
 
-### No. 17: Profile / Avatar - Cinematic Dark Profile Male Portrait
+### No. 16: Profile / Avatar - Cinematic Dark Profile Male Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1307,7 +1273,7 @@ Create an ultra-realistic cinematic dark portrait using the exact face from the 
 
 ---
 
-### No. 18: Profile / Avatar - Elegant woman in glittery navy dress
+### No. 17: Profile / Avatar - Elegant woman in glittery navy dress
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1341,7 +1307,7 @@ A vertical, over-the-shoulder portrait of a {argument name="subject" default="yo
 
 ---
 
-### No. 19: Profile / Avatar - High-contrast black and white intense male portrait
+### No. 18: Profile / Avatar - High-contrast black and white intense male portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1372,6 +1338,40 @@ A close-up, high-contrast black and white portrait of a {argument name="subject"
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=26640)**
+
+---
+
+### No. 19: Profile / Avatar - Sultry Close-Up Portrait with POV Angle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A high-contrast close-up prompt for creating a moody, filmic portrait of a woman applying makeup, featuring dramatic lighting and a modern smartphone camera aesthetic.
+
+#### 📝 Prompt
+
+```
+1:1 exact face from photo. Low-angle close-up, POV. Girl applying {argument name="makeup item" default="lip gloss"}, sultry gaze. {argument name="outfit" default="Black corset"}, {argument name="accessory" default="gold chain"}, voluminous messy hair. Screen light, dark background, deep shadows, iPhone 16 style, subtle grain.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782200278004_thj6jq_HLbworvXEAE7zAJ.jpg" width="600" alt="Profile / Avatar - Sultry Close-Up Portrait with POV Angle - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [MagicEdit](https://x.com/MagicEditArt)
+- **Source:** [Twitter Post](https://x.com/MagicEditArt/status/2069105663813255194)
+- **Published:** June 22, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=26479)**
 
 ---
 
@@ -5408,7 +5408,7 @@ Whimsical {argument name="subject" default="miniature world"} depiction of a {ar
 
 <div align="center">
 
-### 🎯 14512 more prompts not shown here
+### 🎯 14511 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5471,6 +5471,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T09:30:01.925Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T13:20:35.709Z</sub>
 
 </div>
