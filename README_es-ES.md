@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **14815** |
+| 📝 Total de prompts | **14814** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 17 de julio de 2026, 8:41:02 UTC** |
+| 🔄 Última actualización | **viernes, 17 de julio de 2026, 12:23:11 UTC** |
 
 </div>
 
@@ -654,41 +654,7 @@ La relación de aspecto es de póster vertical 3:4. Incluye caligrafía japonesa
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### No. 1: Perfil / Avatar - Retrato de estudio con pose relajada
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de retrato limpio y ultrarrealista que muestra a un hombre con vestimenta formal apoyado contra una pared de estudio, enfatizando el lenguaje corporal y la iluminación profesional.
-
-#### 📝 Prompt
-
-```
-Retrato de cuerpo completo en 8K ultrarrealista del mismo hombre de la foto de referencia, vistiendo una camisa de vestir {argument name="shirt color" default="naranja limpia y planchada"} con el cuello levantado y un pequeño micrófono de solapa, pantalones {argument name="trouser color" default="azul marino oscuro"} y zapatos de vestir {argument name="footwear" default="marrones pulidos"}. Está apoyado de manera casual y sencilla contra una pared de estudio {argument name="wall color" default="gris claro"} lisa; tiene las manos en los bolsillos y una pierna cruzada sobre la otra, con un lenguaje corporal relajado y seguro.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784272442362_7luxgg_HNWSPGaWkAAEFis.jpg" width="600" alt="Perfil / Avatar - Retrato de estudio con pose relajada - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Fuente:** [Twitter Post](https://x.com/JamilAI55/status/2077727736806912475)
-- **Publicado:** 16 de julio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=28858)**
-
----
-
-### No. 2: Perfil / Avatar - Mujer pelirroja en un campo de amapolas
+### No. 1: Perfil / Avatar - Mujer pelirroja en un campo de amapolas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -738,7 +704,7 @@ Detalles de estilo: La imagen presenta una estética cinematográfica y de ensue
 
 ---
 
-### No. 3: Perfil / Avatar - Selfie de estilo de vida con smartphone y kufiyya
+### No. 2: Perfil / Avatar - Selfie de estilo de vida con smartphone y kufiyya
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -779,7 +745,7 @@ Segunda variación: Selfie ultra realista en 8K, la misma mujer joven usando el 
 
 ---
 
-### No. 4: Perfil / Avatar - Retrato con flash de la vida nocturna de principios de los 2000
+### No. 3: Perfil / Avatar - Retrato con flash de la vida nocturna de principios de los 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -869,7 +835,7 @@ Un prompt estructurado y sofisticado que recrea la estética específica de una 
 
 ---
 
-### No. 5: Perfil / Avatar - Retrato profesional legal hiperrealista
+### No. 4: Perfil / Avatar - Retrato profesional legal hiperrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ tomando como referencia la imagen subida, crea una imagen hiperrealista mía vis
 
 ---
 
-### No. 6: Perfil / Avatar - Letrero de personaje con vibras veraniegas
+### No. 5: Perfil / Avatar - Letrero de personaje con vibras veraniegas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -955,7 +921,7 @@ Un prompt vibrante para un personaje que sostiene un letrero personalizado con e
 
 ---
 
-### No. 7: Perfil / Avatar - Retrato de estudio con gesto de corazón con los dedos
+### No. 6: Perfil / Avatar - Retrato de estudio con gesto de corazón con los dedos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -989,7 +955,7 @@ Retrato de estudio profesional, utilizando el rostro y la apariencia de la foto 
 
 ---
 
-### No. 8: Perfil / Avatar - Retrato masculino al estilo de estudio
+### No. 7: Perfil / Avatar - Retrato masculino al estilo de estudio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1041,7 +1007,7 @@ Un joven atractivo con {argument name="beard" default="una barba bien cuidada"} 
 
 ---
 
-### No. 9: Perfil / Avatar - Retrato cinematográfico melancólico junto a una ventana con lluvia
+### No. 8: Perfil / Avatar - Retrato cinematográfico melancólico junto a una ventana con lluvia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1076,7 +1042,7 @@ Utiliza la imagen de referencia facial proporcionada para todos los detalles del
 
 ---
 
-### No. 10: Perfil / Avatar - Retrato real del antiguo Egipto
+### No. 9: Perfil / Avatar - Retrato real del antiguo Egipto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1116,7 +1082,7 @@ Crea un retrato cinematográfico y ultrarrealista de una {argument name="subject
 
 ---
 
-### No. 11: Perfil / Avatar - Retrato facial bajo el agua
+### No. 10: Perfil / Avatar - Retrato facial bajo el agua
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1162,7 +1128,7 @@ Retrato en primer plano hiperrealista y ultra detallado que muestra solo la {arg
 
 ---
 
-### No. 12: Perfil / Avatar - Retrato de celebridad en un jardín bañado por el sol
+### No. 11: Perfil / Avatar - Retrato de celebridad en un jardín bañado por el sol
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1250,7 +1216,7 @@ Un prompt en formato JSON altamente estructurado para generar un elegante retrat
 
 ---
 
-### No. 13: Perfil / Avatar - Retrato de un hombre del sur de Asia pensativo
+### No. 12: Perfil / Avatar - Retrato de un hombre del sur de Asia pensativo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1284,7 +1250,7 @@ Usando la cara subida al 100% igual y realista. Un retrato fotorrealista de alta
 
 ---
 
-### No. 14: Perfil / Avatar - Retrato vanguardista con cigarrillo y blazer
+### No. 13: Perfil / Avatar - Retrato vanguardista con cigarrillo y blazer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1338,7 +1304,7 @@ La luz natural suave que cae desde arriba y desde un lado resalta sus contornos 
 
 ---
 
-### No. 15: Perfil / Avatar - Retrato cinematográfico íntimo de pareja
+### No. 14: Perfil / Avatar - Retrato cinematográfico íntimo de pareja
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1378,7 +1344,7 @@ Utiliza exactamente los mismos rostros de ambas imágenes de referencia y genera
 
 ---
 
-### No. 16: Perfil / Avatar - Mujer con mascota de peluche gigante
+### No. 15: Perfil / Avatar - Mujer con mascota de peluche gigante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1412,7 +1378,7 @@ retrato de estudio, joven sentada con las piernas cruzadas, abrazada por una mas
 
 ---
 
-### No. 17: Perfil / Avatar - Mujer elegante con vestido dorado
+### No. 16: Perfil / Avatar - Mujer elegante con vestido dorado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1464,7 +1430,7 @@ Un impresionante retrato de alta resolución de una {argument name="subject" def
 
 ---
 
-### No. 18: Perfil / Avatar - Retrato casual en interiores con gato
+### No. 17: Perfil / Avatar - Retrato casual en interiores con gato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1516,7 +1482,7 @@ No cambies sus rasgos faciales originales; ya son auténticos y perfectamente si
 
 ---
 
-### No. 19: Perfil / Avatar - Retrato realista de una mujer al aire libre
+### No. 18: Perfil / Avatar - Retrato realista de una mujer al aire libre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1559,6 +1525,58 @@ Crea un retrato realista de alta calidad de una {argument name="subject" default
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=28451)**
+
+---
+
+### No. 19: Perfil / Avatar - Selfie con smartphone de estilo de vida ultrarrealista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt detallado para generar una selfie con smartphone de alta calidad que muestra a una mujer en un interior de lujo, optimizado para iluminación natural y texturas de piel realistas.
+
+#### 📝 Prompt
+
+```
+Selfie ultrarrealista con smartphone de una hermosa mujer joven con cabello {argument name="hair color" default="largo castaño oscuro"} y flequillo cortina suave, piel clara y radiante, ojos {argument name="eye color" default="color avellana verdoso"} con pestañas largas, labios mate de color rosa natural, rubor sutil, vistiendo un {argument name="outfit" default="vestido tipo polo de punto acanalado negro ajustado de manga corta"} con tapeta de botones, pendientes de aro plateados y un reloj de pulsera de lujo en oro y plata de dos tonos. Se está tomando su propia selfie desde un ángulo alto con un brazo extendido hacia la cámara. La brillante luz del sol de la hora dorada entra a través de grandes ventanales, creando reflejos suaves en su rostro, sombras dramáticas y un brillo cálido. Interior de lujo moderno con baldosas de mármol geométricas en blanco y negro y un sillón blanco al fondo. Estética minimalista y limpia, poca profundidad de campo, textura de piel ultra detallada, mechones de cabello realistas, proporciones faciales naturales, fotografía de estilo de vida premium, expresión cándida, look de moda editorial, contraste suave, HDR, 8K, calidad DSLR, fotorrealista, sin marca de agua, sin texto.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1783927792789_20qtbe_HNAp30aboAA5mOd.jpg" width="600" alt="Perfil / Avatar - Selfie con smartphone de estilo de vida ultrarrealista - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1783927792820_ibm51i_HNAp4WDbUAEUlmi.jpg" width="600" alt="Perfil / Avatar - Selfie con smartphone de estilo de vida ultrarrealista - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1783927792834_dq8ed4_HNAp4x9acAA-e3O.jpg" width="600" alt="Perfil / Avatar - Selfie con smartphone de estilo de vida ultrarrealista - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1783927793517_bi8r7i_HNAp5QFbUAAN9Pe.jpg" width="600" alt="Perfil / Avatar - Selfie con smartphone de estilo de vida ultrarrealista - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Simply Ray](https://x.com/kingofdairyque)
+- **Fuente:** [Twitter Post](https://x.com/kingofdairyque/status/2076205498546950615)
+- **Publicado:** 12 de julio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=28454)**
 
 ---
 
@@ -2018,7 +2036,59 @@ Crea un retrato cinematográfico ultrarrealista de un motociclista con la compos
 
 ---
 
-### No. 30: Infografía / Visual Educativo - Ilustración de retrato en mosaico geométrico
+### No. 30: Publicación en redes sociales - Retrato editorial de moda en cuadrícula
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para generar un retrato en cuadrícula de cuatro paneles para uso editorial de moda, manteniendo la identidad de una foto de referencia.
+
+#### 📝 Prompt
+
+```
+Cuadrícula de retrato editorial de cuatro paneles, utilizando el rostro y la apariencia de la foto subida, modelo vistiendo una {argument name="clothing" default="camiseta de tirantes blanca de canalé"}, {argument name="hair style" default="peinado efecto mojado pulido"} recogido hacia atrás con una línea de nacimiento del cabello natural, iluminación de estudio suave y limpia sobre un {argument name="background" default="fondo neutro de color beige-blanco"}, cuatro ángulos diferentes: retrato en primer plano de frente, plano de tres cuartos, primer plano en ángulo lateral ligero y plano de perfil sobre el hombro, maquillaje minimalista efecto piel fresca, piel natural e hidratada, expresión neutra y relajada, estética de campaña de moda de alta gama, enfoque nítido, sombras suaves y uniformes, identidad y rasgos faciales consistentes preservados en los cuatro paneles, fotografía de alta resolución
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784012477846_w32m75_HNHiu74XsAAQT_6.jpg" width="600" alt="Publicación en redes sociales - Retrato editorial de moda en cuadrícula - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784012477839_n7gnkj_HNHiwc1WAAAOJwq.jpg" width="600" alt="Publicación en redes sociales - Retrato editorial de moda en cuadrícula - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784012477830_81jzni_HNHixY0XMAEWIf6.jpg" width="600" alt="Publicación en redes sociales - Retrato editorial de moda en cuadrícula - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784012478877_slkymv_HNHiyiZWYAAUyy6.jpg" width="600" alt="Publicación en redes sociales - Retrato editorial de moda en cuadrícula - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Maddox](https://x.com/Maddox_Digital)
+- **Fuente:** [Twitter Post](https://x.com/Maddox_Digital/status/2076690274705719520)
+- **Publicado:** 13 de julio de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=28568)**
+
+---
+
+### No. 31: Infografía / Visual Educativo - Ilustración de retrato en mosaico geométrico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2064,7 +2134,7 @@ Una {argument name="style" default="ilustración de retrato en mosaico geométri
 
 ---
 
-### No. 31: Infografía / Visual Educativo - Diagrama de corte técnico
+### No. 32: Infografía / Visual Educativo - Diagrama de corte técnico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2116,7 +2186,7 @@ Diagrama de corte de un {argument name="object" default="dispositivo mecánico"}
 
 ---
 
-### No. 32: Infografía / Visual Educativo - Infografía de guion gráfico de bombero
+### No. 33: Infografía / Visual Educativo - Infografía de guion gráfico de bombero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2150,7 +2220,7 @@ Crea un póster de guion gráfico infográfico nítido y limpio para {argument n
 
 ---
 
-### No. 33: Infografía / Visual Educativo - Renderizado de escaneo médico 3D con efecto brillante
+### No. 34: Infografía / Visual Educativo - Renderizado de escaneo médico 3D con efecto brillante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2190,7 +2260,7 @@ Un renderizado 3D hiperrealista y ultra detallado de {argument name="subject" de
 
 ---
 
-### No. 34: Infografía / Visual Educativo - Análisis de retrato en acantilado escénico con RA
+### No. 35: Infografía / Visual Educativo - Análisis de retrato en acantilado escénico con RA
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2295,7 +2365,7 @@ Un prompt altamente tecnológico para un análisis de realidad aumentada de un r
 
 ---
 
-### No. 35: Infografía / Visual Educativo - Generación de infografías de Gundam Origin
+### No. 36: Infografía / Visual Educativo - Generación de infografías de Gundam Origin
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2329,7 +2399,7 @@ Por favor, resume la {argument name="subject" default="familia Zabi de Gundam Or
 
 ---
 
-### No. 36: Infografía / Visual Educativo - Diseño de automóvil de historia alternativa de la RDA
+### No. 37: Infografía / Visual Educativo - Diseño de automóvil de historia alternativa de la RDA
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2363,7 +2433,7 @@ Un prompt de diseño conceptual para una mezcla automotriz de historia alternati
 
 ---
 
-### No. 37: Infografía / Visual Educativo - Foto de vida silvestre de un caimán en el pantano
+### No. 38: Infografía / Visual Educativo - Foto de vida silvestre de un caimán en el pantano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2403,7 +2473,7 @@ Un prompt de estilo vida silvestre para un caimán acechando en un pantano al at
 
 ---
 
-### No. 38: Infografía / Visual Educativo - Ilustración arquitectónica neoparamétrica
+### No. 39: Infografía / Visual Educativo - Ilustración arquitectónica neoparamétrica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2448,7 +2518,7 @@ Ilustración editorial neoparamétrica ultra detallada, que combina un elegante 
 
 ---
 
-### No. 39: Infografía / Visual Educativo - Composición de insectos con tiza pastel
+### No. 40: Infografía / Visual Educativo - Composición de insectos con tiza pastel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2482,7 +2552,7 @@ una disposición detallada de {argument name="subject" default="varios escarabaj
 
 ---
 
-### No. 40: Infografía / Visual Educativo - Moodboard de estilo de vida de viajes por Europa
+### No. 41: Infografía / Visual Educativo - Moodboard de estilo de vida de viajes por Europa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2516,7 +2586,7 @@ Un hermoso moodboard de estilo de vida y collage de ilustraciones al estilo acua
 
 ---
 
-### No. 41: Infografía / Visual Educativo - Diseño de infografía de ingeniería de producto
+### No. 42: Infografía / Visual Educativo - Diseño de infografía de ingeniería de producto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2550,7 +2620,7 @@ Infografía de ingeniería técnica ultra detallada, fondo limpio {argument name
 
 ---
 
-### No. 42: Infografía / Visual Educativo - Cuadrícula multiperspectiva de campos rurales
+### No. 43: Infografía / Visual Educativo - Cuadrícula multiperspectiva de campos rurales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2584,7 +2654,7 @@ Presenta a los personajes en la foto y genera una imagen artística con diferent
 
 ---
 
-### No. 43: Infografía / Visual Educativo - Guía de imagen a infografía
+### No. 44: Infografía / Visual Educativo - Guía de imagen a infografía
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2618,7 +2688,7 @@ Convierte esta imagen en una {argument name="format" default="guía de visualiza
 
 ---
 
-### No. 44: Infografía / Visual Educativo - Infografía y fotografía comercial de batido de mango
+### No. 45: Infografía / Visual Educativo - Infografía y fotografía comercial de batido de mango
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2670,7 +2740,7 @@ Relación de aspecto: 1:1
 
 ---
 
-### No. 45: Miniatura de YouTube - Batalla contra el jefe: Máquina de café de ciencia ficción
+### No. 46: Miniatura de YouTube - Batalla contra el jefe: Máquina de café de ciencia ficción
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2704,7 +2774,7 @@ Un prompt humorístico al estilo meme que reimagina la máquina de café de la o
 
 ---
 
-### No. 46: Miniatura de YouTube - Mujer gigante surrealista en Venecia
+### No. 47: Miniatura de YouTube - Mujer gigante surrealista en Venecia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2738,7 +2808,7 @@ Una {argument name="subject" default="mujer gigante"} surrealista sentada con el
 
 ---
 
-### No. 47: Miniatura de YouTube - Arte principal para documental deportivo cinematográfico
+### No. 48: Miniatura de YouTube - Arte principal para documental deportivo cinematográfico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2772,7 +2842,7 @@ do this for {argument name="event" default="Copa Mundial de Argentina 2026"}, vo
 
 ---
 
-### No. 48: Miniatura de YouTube - Fotografía majestuosa de nubes con forma de elefante
+### No. 49: Miniatura de YouTube - Fotografía majestuosa de nubes con forma de elefante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2816,7 +2886,7 @@ Ambiente: majestuoso, tranquilo, surrealista pero creíble, realismo de document
 
 ---
 
-### No. 49: Miniatura de YouTube - Transformación de estación de tren al estilo anime
+### No. 50: Miniatura de YouTube - Transformación de estación de tren al estilo anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2850,7 +2920,7 @@ Por favor, créalo en un estilo anime. {argument name="descripción de la escena
 
 ---
 
-### No. 50: Miniatura de YouTube - El caos de Mr. Bean en su Mini Cooper
+### No. 51: Miniatura de YouTube - El caos de Mr. Bean en su Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2904,7 +2974,7 @@ Vibrante, caótico, vertiginoso, cinematográfico, humorístico
 
 ---
 
-### No. 51: Miniatura de YouTube - Collage de retrato cinematográfico en azotea bajo la luz de la luna
+### No. 52: Miniatura de YouTube - Collage de retrato cinematográfico en azotea bajo la luz de la luna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2944,7 +3014,7 @@ Utiliza la imagen de referencia facial cargada como referencia de identidad exac
 
 ---
 
-### No. 52: Miniatura de YouTube - Retrato de glamour callejero con cuchillo de pastel
+### No. 53: Miniatura de YouTube - Retrato de glamour callejero con cuchillo de pastel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2978,7 +3048,7 @@ No cambies los rasgos faciales. Un retrato cinematográfico en primer plano de u
 
 ---
 
-### No. 53: Miniatura de YouTube - Póster gráfico cinematográfico de vigilante
+### No. 54: Miniatura de YouTube - Póster gráfico cinematográfico de vigilante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3029,7 +3099,7 @@ Un póster gráfico cinematográfico vertical de un vigilante enmascarado con un
 
 ---
 
-### No. 54: Miniatura de YouTube - Retrato de transmisión en estadio de baloncesto
+### No. 55: Miniatura de YouTube - Retrato de transmisión en estadio de baloncesto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3065,7 +3135,7 @@ usw image1 como ancla de identidad principal
 
 ---
 
-### No. 55: Miniatura de YouTube - Captura de pantalla de transmisión de la NBA en estadio
+### No. 56: Miniatura de YouTube - Captura de pantalla de transmisión de la NBA en estadio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3099,7 +3169,7 @@ Un prompt estructurado complejo diseñado para simular una captura de pantalla d
 
 ---
 
-### No. 56: Miniatura de YouTube - Cuadrícula de visualización de libros mágicos
+### No. 57: Miniatura de YouTube - Cuadrícula de visualización de libros mágicos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3133,7 +3203,7 @@ Cuadrícula de 2x2, haz esto para 4 libros famosos render_target = ( {argument n
 
 ---
 
-### No. 57: Miniatura de YouTube - Visualización de canción a imagen
+### No. 58: Miniatura de YouTube - Visualización de canción a imagen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3185,7 +3255,7 @@ Un prompt que utiliza el título de una canción y el artista específicos para 
 
 ---
 
-### No. 58: Miniatura de YouTube - Retrato cinematográfico de estudio de podcast
+### No. 59: Miniatura de YouTube - Retrato cinematográfico de estudio de podcast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3219,7 +3289,7 @@ Un profesional {argument name="host description" default="presentador de podcast
 
 ---
 
-### No. 59: Miniatura de YouTube - Generación de imágenes al estilo de programas de televisión japoneses
+### No. 60: Miniatura de YouTube - Generación de imágenes al estilo de programas de televisión japoneses
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3274,7 +3344,7 @@ Deja que la IA considere la atmósfera general de la imagen, incluyendo los subt
 
 ---
 
-### No. 60: Miniatura de YouTube - Foto cinematográfica de festival de Millie Bobby Brown
+### No. 61: Miniatura de YouTube - Foto cinematográfica de festival de Millie Bobby Brown
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3332,7 +3402,7 @@ La imagen debe capturarse en orientación vertical (9:16), utilizando un ángulo
 
 ---
 
-### No. 61: Miniatura de YouTube - Fotografía callejera cinematográfica de un hombre resbalando con una cáscara de plátano
+### No. 62: Miniatura de YouTube - Fotografía callejera cinematográfica de un hombre resbalando con una cáscara de plátano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3365,7 +3435,7 @@ Fotografía callejera cinematográfica ultrarrealista de un joven resbalando con
 
 ---
 
-### No. 62: Miniatura de YouTube - Prompt para generar imágenes de noticias falsas para el Día de los Inocentes
+### No. 63: Miniatura de YouTube - Prompt para generar imágenes de noticias falsas para el Día de los Inocentes
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3416,7 +3486,7 @@ Crea una idea única para una noticia falsa del Día de los Inocentes. Una captu
 
 ---
 
-### No. 63: Miniatura de YouTube - Indicación de escena dividida "Antes y después del día de pago" para Nano Banana Pro
+### No. 64: Miniatura de YouTube - Indicación de escena dividida "Antes y después del día de pago" para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3450,7 +3520,7 @@ Escena dividida ultrarrealista de un hombre joven. Lado izquierdo: sentado en un
 
 ---
 
-### No. 64: Cómic / Guion gráfico - Cabina biomecánica mesoamericana
+### No. 65: Cómic / Guion gráfico - Cabina biomecánica mesoamericana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3484,7 +3554,7 @@ El interior de una cabina mecánica oscura e inundada, llena de un fluido {argum
 
 ---
 
-### No. 65: Cómic / Guion gráfico - Escena cinematográfica de cine negro a la luz de las velas
+### No. 66: Cómic / Guion gráfico - Escena cinematográfica de cine negro a la luz de las velas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3519,7 +3589,7 @@ Utilice la imagen de referencia facial proporcionada para todos los detalles del
 
 ---
 
-### No. 66: Cómic / Guion gráfico - Escena de manga de 8 paneles
+### No. 67: Cómic / Guion gráfico - Escena de manga de 8 paneles
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3553,7 +3623,7 @@ Título de manga de 8 paneles {argument name="title" default="La agonía de la s
 
 ---
 
-### No. 67: Cómic / Guion gráfico - Retrato animado en 3D estilizado de una madre
+### No. 68: Cómic / Guion gráfico - Retrato animado en 3D estilizado de una madre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3587,7 +3657,7 @@ Encantador personaje animado en 3D estilizado de {argument name="character" defa
 
 ---
 
-### No. 68: Cómic / Guion gráfico - Retrato cinematográfico con silueta al amanecer
+### No. 69: Cómic / Guion gráfico - Retrato cinematográfico con silueta al amanecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3621,7 +3691,7 @@ Escena cinematográfica, silueta marcada, {argument name="lighting" default="luz
 
 ---
 
-### No. 69: Cómic / Guion gráfico - Retrato de cielo de ciencia ficción neo-noir
+### No. 70: Cómic / Guion gráfico - Retrato de cielo de ciencia ficción neo-noir
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3655,7 +3725,7 @@ Crea una imagen fija de ciencia ficción neo-noir en ángulo contrapicado, un re
 
 ---
 
-### No. 70: Cómic / Guion gráfico - Duelo de paladines de fantasía oscura
+### No. 71: Cómic / Guion gráfico - Duelo de paladines de fantasía oscura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3695,7 +3765,7 @@ Un {argument name="warrior" default="paladín celestial"} se encuentra en un {ar
 
 ---
 
-### No. 71: Cómic / Guion gráfico - Transformación en diorama de papel hecho a mano
+### No. 72: Cómic / Guion gráfico - Transformación en diorama de papel hecho a mano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3729,7 +3799,7 @@ Transforma el {argument name="input" default="retrato subido"} en una {argument 
 
 ---
 
-### No. 72: Cómic / Guion gráfico - Retrato cinematográfico noir en blanco y negro bajo la lluvia
+### No. 73: Cómic / Guion gráfico - Retrato cinematográfico noir en blanco y negro bajo la lluvia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3764,7 +3834,7 @@ Utiliza la imagen de referencia facial proporcionada para todos los detalles del
 
 ---
 
-### No. 73: Cómic / Guion gráfico - Ilustración de retrato cinematográfico en técnica mixta
+### No. 74: Cómic / Guion gráfico - Ilustración de retrato cinematográfico en técnica mixta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3810,7 +3880,7 @@ Ultra-detallado {argument name="style" default="ilustración de retrato cinemato
 
 ---
 
-### No. 74: Cómic / Guion gráfico - Tríptico de fotografía espontánea con móvil
+### No. 75: Cómic / Guion gráfico - Tríptico de fotografía espontánea con móvil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3869,7 +3939,7 @@ DETALLES:
 
 ---
 
-### No. 75: Cómic / Guion gráfico - Tríptico cinematográfico nocturno urbano
+### No. 76: Cómic / Guion gráfico - Tríptico cinematográfico nocturno urbano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3909,7 +3979,7 @@ Utiliza la foto subida como referencia exacta de identidad. Mantén a la misma p
 
 ---
 
-### No. 76: Cómic / Guion gráfico - Prueba de visión en manga de 4 paneles
+### No. 77: Cómic / Guion gráfico - Prueba de visión en manga de 4 paneles
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3946,7 +4016,7 @@ Un prompt para generar un manga surrealista de 4 paneles que muestra un examen d
 
 ---
 
-### No. 77: Cómic / Guion gráfico - Manga de 8 paneles sobre juegos retro
+### No. 78: Cómic / Guion gráfico - Manga de 8 paneles sobre juegos retro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3983,7 +4053,7 @@ Un juego retro llamado 'The World'
 
 ---
 
-### No. 78: Cómic / Guion gráfico - Guerra de descuentos en el supermercado
+### No. 79: Cómic / Guion gráfico - Guerra de descuentos en el supermercado
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4035,7 +4105,7 @@ Una escena caótica y humorística que muestra a mujeres mayores peleando por ar
 
 ---
 
-### No. 79: Cómic / Guion gráfico - Tríptico cinematográfico de noche lluviosa estilo noir
+### No. 80: Cómic / Guion gráfico - Tríptico cinematográfico de noche lluviosa estilo noir
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4080,7 +4150,7 @@ texto, marca de agua, logotipo, personas adicionales, filtro de belleza, aspecto
 
 ---
 
-### No. 80: Cómic / Guion gráfico - Escena de acción de un mecha dieselpunk
+### No. 81: Cómic / Guion gráfico - Escena de acción de un mecha dieselpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4132,7 +4202,7 @@ inkpunk {argument name="style" default="dieselpunk"} escena de acción en una ci
 
 ---
 
-### No. 81: Cómic / Guion gráfico - Retrato cinematográfico en callejón estilo noir
+### No. 82: Cómic / Guion gráfico - Retrato cinematográfico en callejón estilo noir
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4180,7 +4250,7 @@ Detalles de estilo: Fotografía en blanco y negro con estética noir, que incluy
 
 ---
 
-### No. 82: Cómic / Guion gráfico - Ilustración de retrato de técnica mixta de bellas artes
+### No. 83: Cómic / Guion gráfico - Ilustración de retrato de técnica mixta de bellas artes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4228,7 +4298,7 @@ Realismo de retrato editorial mezclado con ilustración de bellas artes contempo
 
 ---
 
-### No. 83: Marketing de producto - Conejitos detallando un coche
+### No. 84: Marketing de producto - Conejitos detallando un coche
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4280,7 +4350,7 @@ Un grupo de lindos conejitos bebés limpiando y puliendo un {argument name="car 
 
 ---
 
-### No. 84: Marketing de producto - Póster editorial deportivo premium
+### No. 85: Marketing de producto - Póster editorial deportivo premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4319,58 +4389,6 @@ Paleta de colores: rojo carmesí intenso, acentos blancos, tipografía crema, re
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=28784)**
-
----
-
-### No. 85: Marketing de producto - Retrato editorial de moda en cuadrícula
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt para generar un retrato en cuadrícula de cuatro paneles para uso editorial de moda, manteniendo la identidad de una foto de referencia.
-
-#### 📝 Prompt
-
-```
-Cuadrícula de retrato editorial de cuatro paneles, utilizando el rostro y la apariencia de la foto subida, modelo vistiendo una {argument name="clothing" default="camiseta de tirantes blanca de canalé"}, {argument name="hair style" default="peinado efecto mojado pulido"} recogido hacia atrás con una línea de nacimiento del cabello natural, iluminación de estudio suave y limpia sobre un {argument name="background" default="fondo neutro de color beige-blanco"}, cuatro ángulos diferentes: retrato en primer plano de frente, plano de tres cuartos, primer plano en ángulo lateral ligero y plano de perfil sobre el hombro, maquillaje minimalista efecto piel fresca, piel natural e hidratada, expresión neutra y relajada, estética de campaña de moda de alta gama, enfoque nítido, sombras suaves y uniformes, identidad y rasgos faciales consistentes preservados en los cuatro paneles, fotografía de alta resolución
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784012477846_w32m75_HNHiu74XsAAQT_6.jpg" width="600" alt="Marketing de producto - Retrato editorial de moda en cuadrícula - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784012477839_n7gnkj_HNHiwc1WAAAOJwq.jpg" width="600" alt="Marketing de producto - Retrato editorial de moda en cuadrícula - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784012477830_81jzni_HNHixY0XMAEWIf6.jpg" width="600" alt="Marketing de producto - Retrato editorial de moda en cuadrícula - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784012478877_slkymv_HNHiyiZWYAAUyy6.jpg" width="600" alt="Marketing de producto - Retrato editorial de moda en cuadrícula - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Maddox](https://x.com/Maddox_Digital)
-- **Fuente:** [Twitter Post](https://x.com/Maddox_Digital/status/2076690274705719520)
-- **Publicado:** 13 de julio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=28568)**
 
 ---
 
@@ -5723,7 +5741,7 @@ Un retrato digital 3D cinematográfico y altamente detallado de una {argument na
 
 <div align="center">
 
-### 🎯 14695 prompts más no mostrados aquí
+### 🎯 14694 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5786,6 +5804,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-17T08:41:02.607Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-17T12:23:11.151Z</sub>
 
 </div>
